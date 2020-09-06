@@ -1,0 +1,1 @@
+An executable [[JAR file]], clojure.jar, which takes code written in the [[Clojure Language]] and compiles it to Java Virtual Machine ([[JVM]]) [[bytecode]]
