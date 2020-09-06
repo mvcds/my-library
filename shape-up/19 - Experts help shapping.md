@@ -1,0 +1,5 @@
+- Be honest with them - it's just an [[6 - Raw Idea|ideas]] which is starting
+- Don't look for their opinions only, they might know some bombs that would blow the [[2 - Projects|project]] up
+- Avoid slide shows, rebuild the final thought from the concept so they can follow your rational
+- Invite them to give feedback and edit your work
+- Understand if you can [[bet]] on it or if it should be [[4 - Shaping|reshaped]]

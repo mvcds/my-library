@@ -1,0 +1,1 @@
+Allow us to judge solutions against each other
