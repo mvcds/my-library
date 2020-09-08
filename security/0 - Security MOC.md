@@ -1,3 +1,7 @@
 ![[Federated Security Architecture]]
 ![[IAM service]]
 ![[Security Token Service]]
+![[risk management cycle]]
+![[security/NDA]]
+![[Privacy]]
+![[Security Assertion Markup Language]]
