@@ -1,0 +1,1 @@
+A [[Node]] tool that create scaffolding for the [[web]]
