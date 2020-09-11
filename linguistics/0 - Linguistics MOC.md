@@ -1,1 +1,2 @@
 ![[Tamil]]
+![[syntax]]

@@ -1,0 +1,1 @@
+A kind of [[pipeline]] where the [[JOB]]s bypass the [[STAGE]]s limitation

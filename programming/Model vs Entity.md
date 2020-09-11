@@ -1,0 +1,3 @@
+A [[model]] is ????
+
+An [[entity]] is
