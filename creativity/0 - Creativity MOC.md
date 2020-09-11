@@ -1,1 +1,2 @@
 ![[SCAMPERS]]
+![[Inside Out]]

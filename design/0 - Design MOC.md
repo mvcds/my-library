@@ -3,3 +3,6 @@
 ![[design/UX]]
 ![[design/Usercentric Design]]
 ![[Data-Driven UI]]
+![[Reskinning]]
+![[Lipsticking]]
+![[Inside Out]]
