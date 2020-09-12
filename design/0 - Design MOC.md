@@ -6,3 +6,4 @@
 ![[Reskinning]]
 ![[Lipsticking]]
 ![[Inside Out]]
+![[Progressive Disclosure]]
