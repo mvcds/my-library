@@ -8,3 +8,6 @@
 ![[Type correctness does not guarantee program correctness]]
 ![[Model vs Entity]]
 ![[Read Drivern Development]]
+![[Big O Notation]]
+![[Isomorphic code]]
+![[Transfer Object]]

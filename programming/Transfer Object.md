@@ -1,0 +1,1 @@
+Also known as [[Data Transfer Object]] (DTO) is an simple object used to carry information between [[system]]s or [[layer]]s

@@ -7,4 +7,5 @@
 ![[RISCOSS]]
 ![[Nexus]]
 ![[repository manager]]
-![[ReactQuery]]
+![[React-Query]]
+![[Redux]]
