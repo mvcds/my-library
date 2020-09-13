@@ -1,2 +1,4 @@
+![[linguistics]]
 ![[Tamil]]
 ![[syntax]]
+![[semantics]]

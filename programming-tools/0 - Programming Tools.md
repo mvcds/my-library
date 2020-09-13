@@ -9,3 +9,5 @@
 ![[repository manager]]
 ![[React-Query]]
 ![[Redux]]
+![[React]]
+![[DTAP Pipeline]]

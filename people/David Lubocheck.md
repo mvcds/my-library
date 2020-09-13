@@ -1,0 +1,1 @@
+When [[Me|I]] was working for [[Sprinklr]] he was the CTO

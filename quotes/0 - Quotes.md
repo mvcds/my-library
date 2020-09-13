@@ -7,3 +7,5 @@
 ![[Understand the loose-end]]
 ![[Lecture Pourpose]]
 ![[Aim to reduce dependencies]]
+![[Perfect solutions]]
+![[Type correctness does not guarantee program correctness]]

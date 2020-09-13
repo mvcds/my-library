@@ -21,3 +21,7 @@ Communication is async by default - ideally everybody reads it before participat
 - Solution
 - [[17 - Risks and Rabbit holes|Rabbit holes]]
 - No-goes
+
+---
+
+[[Perfect solutions]]
