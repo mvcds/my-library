@@ -20,3 +20,6 @@
 ![[Scalar]]
 ![[KISS]]
 ![[Primitive]]
+![[YAGNI]]
+![[DRY]]
+![[Domain-Specific Language (DSL)]]
