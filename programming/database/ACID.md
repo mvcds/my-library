@@ -6,7 +6,7 @@ A transaction should be atomic, or all of its commands success or all of them fa
 
 # Consistency
 
-After every transaction the database should still be consistent
+After every transaction the [[Database]] should still be consistent
 
 # Isolation
 

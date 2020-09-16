@@ -1,0 +1,3 @@
+![[ACID]]
+![[ORM]]
+![[Database]]

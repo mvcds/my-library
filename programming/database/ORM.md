@@ -1,0 +1,1 @@
+Object-Relational Mapping is a technique to make incompatible type systems to work together. Normally through [[Code]] and [[Database]]s
