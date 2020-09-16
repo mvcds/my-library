@@ -1,3 +1,3 @@
 ![[Clojure Language]]
-![[clojure/Clojure Compiler]]
+![[Clojure Compiler]]
 ![[Leiningen]]

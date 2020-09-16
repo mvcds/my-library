@@ -5,7 +5,7 @@ File with [[Image]] instructions, so the [[environment]] can be reproduced every
 - FROM — specifies the base (parent) image.
 - LABEL —provides metadata. Good place to include maintainer info.
 - ENV — sets a persistent [[environment variable]].
-- RUN —runs a [[command]] and creates an image layer. Used to install packages into [[container]]s.
+- RUN —runs a [[command]] and creates an image layer. Used to install packages into [[Container]]s.
 - COPY — copies files and directories to the container.
 - ADD — copies files and directories to the container. Can unpack local .[[tar]] files.
 - CMD — provides a command and [[argument]]s for an executing container. Parameters can be overridden. There can be only one CMD.

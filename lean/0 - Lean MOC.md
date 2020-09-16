@@ -2,3 +2,4 @@
 ![[Lean Coffee's Principles to Talk]]
 ![[Agile]]
 ![[Definition of Done]]
+![[0 - Shape Up MOC]]]

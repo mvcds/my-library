@@ -2,6 +2,6 @@
 ![[IAM service]]
 ![[Security Token Service]]
 ![[risk management cycle]]
-![[security/NDA]]
+![[NDA]]
 ![[Privacy]]
 ![[Security Assertion Markup Language]]
