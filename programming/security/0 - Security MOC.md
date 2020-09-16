@@ -5,3 +5,6 @@
 ![[NDA]]
 ![[Privacy]]
 ![[Security Assertion Markup Language]]
+![[The core of cryptogragy]]
+![[App security]]
+![[ACL Model (Authentication)]]
