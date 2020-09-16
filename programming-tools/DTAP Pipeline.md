@@ -9,4 +9,4 @@ The environments between dev and prod might vary a bit but the logic is the same
 
 ---
 
-Part of the [[Agile]] community thinks that DTAP slows putting code into code, and thus should be avoided through techniques like [[feature toggle]]s and [[blue-green deployment]].
+Part of the [[Agile]] community thinks that DTAP slows putting code into code, and thus should be avoided through techniques like [[Feature Toggle]]s and [[blue-green deployment]].
