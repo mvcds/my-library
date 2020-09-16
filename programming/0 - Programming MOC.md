@@ -23,3 +23,4 @@
 ![[YAGNI]]
 ![[DRY]]
 ![[Domain-Specific Language (DSL)]]
+![[ACID]]

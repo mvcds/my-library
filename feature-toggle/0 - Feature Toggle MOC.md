@@ -6,3 +6,4 @@
 ![[Working with Feature Toggles]]
 ![[Toggling System]]
 ![[Feature Toggles are deliberated tech debt]]
+![[Cohort of users]]

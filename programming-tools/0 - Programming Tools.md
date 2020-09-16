@@ -11,3 +11,5 @@
 ![[Redux]]
 ![[React]]
 ![[DTAP Pipeline]]
+![[NPM]]
+![[Database]]

@@ -1,0 +1,1 @@
+A group which experiences the same [[Feature Toggle]]s
