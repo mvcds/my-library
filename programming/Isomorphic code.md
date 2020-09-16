@@ -1,1 +1,1 @@
-The same [[code]] that can run both in the [[client]] and in the [[server]]
+The same [[Code]] that can run both in the [[client]] and in the [[server]]

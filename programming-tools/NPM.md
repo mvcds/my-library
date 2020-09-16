@@ -1,6 +1,6 @@
 Stands for [[Node]]Package Manager, it means at the same time two things
 
-- a [[CLI]] which installs libraries into your code and;
+- a [[CLI]] which installs libraries into your [[Code]] and;
 - a [[repository manager]] where such libraries are deployed by default
 
 ---

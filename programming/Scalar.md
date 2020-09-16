@@ -1,1 +1,1 @@
-A single value or unit of data i.e. integer, [[boolean]] , string
+A single value or unit of data i.e. integer, [[Boolean]], string

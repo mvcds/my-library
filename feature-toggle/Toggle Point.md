@@ -1,1 +1,1 @@
-The branch of the [[code]] where a [[decision]] is made due to the [[Feature Toggle]]
+The branch of the [[Code]] where a [[decision]] is made due to the [[Feature Toggle]]

@@ -1,0 +1,1 @@
+Clients shouldn't be aware of methods they don't use
