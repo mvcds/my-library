@@ -1,3 +1,5 @@
+According to https://www.martinfowler.com/articles/feature-toggles.htm
+
 A.K.A. Feature Flag, Feature Bit and Feature Flipper
 
 A way to change how the [[software]] behaves without changing the [[Code]] - heavily linked with [[OCP]]
