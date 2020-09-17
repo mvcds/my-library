@@ -1,1 +1,1 @@
-A [[DevOps]] extension which also concerns with [[0 - Security MOC]]
+A [[DevOps]] extension which also concerns with [[Security]]

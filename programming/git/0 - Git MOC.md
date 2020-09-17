@@ -1,5 +1,0 @@
-![[git]]
-![[tag]]
-![[commit]]
-![[sliding tag]]
-![[reset to gitattributes]]

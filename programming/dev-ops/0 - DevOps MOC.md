@@ -1,6 +1,0 @@
-![[DevOps]]
-![[NoOps]]
-![[DevSecOps]]
-![[Separate Release From Code Deployment]]
-![[Continous Deployment]]
-![[Continous Integration]]

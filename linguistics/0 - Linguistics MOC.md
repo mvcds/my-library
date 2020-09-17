@@ -1,4 +1,0 @@
-![[linguistics]]
-![[Tamil]]
-![[syntax]]
-![[semantics]]
