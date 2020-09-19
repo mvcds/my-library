@@ -3,3 +3,5 @@
 [[Aline]] 
 
 "Se você contrata pelo técnico, você demite pelo comportamental"
+
+#quote 
