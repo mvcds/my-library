@@ -1,0 +1,1 @@
+A way to mark a [[commit]] as a special event
