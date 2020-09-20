@@ -1,1 +1,1 @@
-Forcefully questioning a design, implementation or use case to cut scope and finish within [[5 - Appetite|appetite]]
+Forcefully questioning a [[Design]], implementation or use case to cut scope and finish within [[5 - Appetite|appetite]]

@@ -1,4 +1,4 @@
-It's a primary design work but sprinkled with technical and strategical literacy.
+It's a primary [[Design]] work but sprinkled with technical and strategical literacy.
 
 Properties of shaped work:
 

@@ -1,5 +1,9 @@
-A way for humans to interact with [[computer]]s
+A way for humans to interact with [[Computer]]s
 
-It's heavily influenced by [[linguistics]], so we get terms like [[syntax]] and [[semantics]]
+It's heavily influenced by [[Linguistics]], so we get terms like [[Syntax]] and [[Semantics]]
 
 They can be classified in a lot of different ways
+
+---
+
+They are complicated (on the [[Cynefin Framework]]) (according to [[Peter Van Roy]])

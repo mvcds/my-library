@@ -1,4 +1,4 @@
-A [[Lisp]] dialect with a [[functional]] emphasis whose [[syntax]] and [[semantics]] are independent of any implementation
+A [[Lisp]] dialect with a [[functional]] emphasis whose [[Syntax]] and [[Semantics]] are independent of any implementation
 
 ---
 

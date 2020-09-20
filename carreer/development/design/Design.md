@@ -1,0 +1,1 @@
+The discipline of moving towards your [[goal]]s, while moving away from your [[antigoal]]s - you normally want to move other people in those directions
