@@ -2,6 +2,6 @@
 
 Me
 
-It can be applied to [[game]]s, [[business domain]]s and [[software]]s
+It can be applied to [[game]]s, [[business domain]]s and [[Software]]s
 
 #quote 

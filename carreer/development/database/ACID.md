@@ -14,4 +14,4 @@ When multiple transactions are running in parallel, one should not interfere wit
 
 # Durability
 
-Hard- or software failure should not make information disappear
+Hard- or [[Software]] failure should not make information disappear
