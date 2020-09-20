@@ -1,0 +1,1 @@
+It's possible to attach [[Version]]s and other [[Metadata]] in the [[Feature Toggle]] and/or [[Toggle Configuration]] in a way that we can retrieve information in a [[Deterministic]] way
