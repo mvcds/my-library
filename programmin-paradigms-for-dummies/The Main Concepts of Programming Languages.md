@@ -5,3 +5,5 @@ There are a few key concepts/properties in any [[Programming Language]] that can
 - Independence (concurrency)
 - [[Named State]]
 - [[Observable Nondeterminism]]
+
+![[The trick to picking up the right paradigm]]
