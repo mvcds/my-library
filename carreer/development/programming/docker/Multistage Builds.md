@@ -3,7 +3,7 @@ Multistage builds use multiple FROM instructions. You can selectively copy files
 Each FROM instruction
 
 * begins a new stage of the build.
-* leaves behind any state created in prior stages.
+* leaves behind any [[State]] created in prior stages.
 * can use a different base.
 
 ```

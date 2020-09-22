@@ -1,4 +1,4 @@
-A way to tell the [[Toggling System]] which [[Feature]] is in which state.
+A way to tell the [[Toggling System]] which [[Feature]] is in which [[State]].
 
 Different [[environment]]s might have different configurations
 
