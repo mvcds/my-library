@@ -7,6 +7,6 @@
 - Users want your [[Software]] to satisfy some of their needs
 - etc
 
-According to him, this is the difference between a [[Developr vs Architect|developer and an architect]]
+According to him, this is the difference between a [[Developer vs Architect|developer and an architect]]
 
 #quote

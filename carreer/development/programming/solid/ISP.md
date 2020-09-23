@@ -1,1 +1,1 @@
-Clients shouldn't be aware of methods they don't use
+Clients shouldn't be aware of [[Function|method]] they don't use

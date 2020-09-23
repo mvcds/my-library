@@ -4,4 +4,4 @@ Another important question is if you want the values to be equal across [[enviro
 
 ---
 
-Technical related toggles tend to live in the code, whereas other kinds might live in a very user-related layer - depending on your [[Security]], [[Business]]concerns and [[Design]] 
+Technical related toggles tend to live in the [[Code]], whereas other kinds might live in a very user-related layer - depending on your [[Security]], [[Business]]concerns and [[Design]] 

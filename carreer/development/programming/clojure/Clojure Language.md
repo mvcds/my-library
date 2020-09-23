@@ -2,4 +2,4 @@ A [[Lisp]] dialect with a [[functional]] emphasis whose [[Syntax]] and [[Semanti
 
 ---
 
-A hosted language executed within a [[JVM]] which has its core features, like [[threading]] and [[garbage collection]], depending upon its [[environment]]
+A hosted [[Programming Language]] executed within a [[JVM]] which has its core features, like [[threading]] and [[garbage collection]], depending upon its [[environment]]
