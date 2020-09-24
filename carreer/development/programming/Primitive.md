@@ -1,1 +1,0 @@
-A direct value, as opposed to a reference to something that contains the real value

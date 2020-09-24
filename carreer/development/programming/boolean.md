@@ -1,1 +1,0 @@
-Either on or off, the [[Software]] analog to a [[Bit]]

@@ -1,1 +1,1 @@
-Run within its own isolated memory space and can only talk to other processes through specific mechanisms
+Run within its own isolated [[Memory]] space and can only talk to other processes through specific mechanisms
