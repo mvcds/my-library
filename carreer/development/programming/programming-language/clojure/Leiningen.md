@@ -1,4 +1,4 @@
-A tool to manage and build projects made with [[Clojure Language]]
+A tool to manage and build projects made with [[Clojure]]
 
 # Commands
 
