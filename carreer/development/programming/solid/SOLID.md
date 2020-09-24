@@ -5,3 +5,5 @@
 - [[Likovski]] Substitution Principle: [[LSP]]
 - [[Interface]] Segregation Principle: [[ISP]]
 - Dependency Injection Principle: [[DIP]]
+
+#mnemonic

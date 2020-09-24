@@ -6,7 +6,7 @@
 
 1. Layout the site in gray scale
 2. Choose an initial color based on the [[brand]]/feeling
-3. Create a cohesive color pallete
+3. Create a cohesive color pc
 4. Apply color scheme
 
 # Basic Color Sheme

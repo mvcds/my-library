@@ -9,4 +9,4 @@ In this mindset, we can have $2^{n}$ combinations of concepts. Though the number
 - Prolog
 - Modeling Languages e.g. Comet
 -  Solving libraries e.g. Gecode
--  Language embedding e.g. SQL
+-  [[Programming Language|Language]] embedding e.g. SQL

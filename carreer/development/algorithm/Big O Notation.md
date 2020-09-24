@@ -1,4 +1,4 @@
-[[Measure]] how [[algorithm]]s [[scale]] in terms of [[speed]]
+[[Measure]] how [[Algorithm]]s [[scale]] in terms of [[speed]]
 
 # Steps
 

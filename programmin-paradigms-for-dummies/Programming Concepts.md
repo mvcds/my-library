@@ -4,4 +4,4 @@ There are $n$ concepts which a [[Programming Paradigm]] can be based on, for a [
 
 ---
 
-If we mix too much paradigms in a language, it becomes hard to use it in real life
+If we mix too much paradigms in a [[Language]], it becomes hard to use it in real life

@@ -1,1 +1,1 @@
-CTO at Rebels when I joined
+CTO at [[Rebels]] when I joined

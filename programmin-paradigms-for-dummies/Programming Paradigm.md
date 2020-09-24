@@ -2,7 +2,7 @@ A way to tackle a programming problem based on [[Math]] or a coherent set of pri
 
 Each paradigm is better suited for a kind of problem. They can be organized in a [[Paradigm Taxonomy]]
 
-They influence the [[Design]] of the [[Programming Language]] due to the [[Kernel Language]]
+They influence the [[Design]] of the [[Programming Language]] due to the [[Kernel Language]] - see [[Language Design]]
 
 ![[programming-paradigm.png]]
 
