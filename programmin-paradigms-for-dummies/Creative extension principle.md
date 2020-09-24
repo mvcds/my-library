@@ -2,7 +2,7 @@ When there are technical complications that have nothing to do with the problem 
 
 ![[creative-extension-principle.png]]
 
-This keeps the code as simple as it can be regarding solving the problem.
+This keeps the [[Code]] as simple as it can be regarding solving the problem.
 
 ---
 
