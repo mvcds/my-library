@@ -4,12 +4,12 @@ https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
 
 # Steps
 
- - Only One Level Of Indentation Per Method
+ - Only One Level Of Indentation Per [[Function|Metdhod]]
  - Don't use the ELSE keyword
- - Wrap All Primitives And Strings
- - First Class Collections
+ - Wrap All [[Primitive]]s And [[String]s]
+ - First [[Class]] Collections
  - One Dot Per Line
  - Don't Abbreviate
- - Keep All Entities Small
- - No Classes With More Than Two Instance Variables
+ - Keep All [[Entity|Entities]] Small
+ - No [[Class|Classes]] With More Than Two [[Instance]] [[Variable]]s
  - No Getters/Setters/Properties
