@@ -1,4 +1,4 @@
-Object Calisthenics are programming exercises which focus on [[maintainability]], [[readability]], [[testability]], and [[comprehensibility]]
+[[Object]] Calisthenics are programming exercises which focus on [[maintainability]], [[readability]], [[testability]], and [[comprehensibility]]
 
 https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
 
