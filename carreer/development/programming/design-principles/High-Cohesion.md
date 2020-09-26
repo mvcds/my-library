@@ -2,8 +2,8 @@ When looking to a piece of [[Code]], it should be clear what what its internal p
 
 ---
 
-Cohesion describes how related the functions within a single module are
+Cohesion describes how related the [[Function]]s within a single module are
 
 ---
 
-It often appears together with [[Low-Coupling]]n]]
+It often appears together with [[Low-Coupling]]

@@ -1,1 +1,1 @@
-Number of arguments a [[Function]] takes 
+Number of [[Argument]]s a [[Function]] takes 

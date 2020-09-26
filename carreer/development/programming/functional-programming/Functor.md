@@ -5,7 +5,7 @@ The term “functor” comes from [[category theory]]. In category theory, a fun
 # Properties
 
 - **[[Identity]]**: `array.map(x => x)` should produce a deep equal `array`
-- **[[Composition]]**: when you’re composing multiple functions ([[morphism]]s if you’re feeling fancy), you don’t need parenthesis `(a * b) * c === a * (b * c)`
+- **[[Composition]]**: when you’re composing multiple [[Function]]s ([[morphism]]s if you’re feeling fancy), you don’t need parenthesis `(a * b) * c === a * (b * c)`
 
 ---
 

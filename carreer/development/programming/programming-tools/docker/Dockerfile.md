@@ -11,7 +11,7 @@ File with [[Image]] instructions, so the [[environment]] can be reproduced every
 - CMD — provides a command and [[argument]]s for an executing container. Parameters can be overridden. There can be only one CMD.
 - WORKDIR — sets the working [[directory]] for the [[instruction]]s that follow.
 - ARG — defines a [[variable]] to pass to [[Docker]] at [[build-time]].
-- ENTRYPOINT — provides command and arguments for an executing container. Arguments persist.
+- ENTRYPOINT — provides command and [[Argument]]s for an executing container. [[Argument]]s persist.
 - EXPOSE — exposes a [[port]].
 - VOLUME — creates a directory mount point to access and store persistent data.
 
