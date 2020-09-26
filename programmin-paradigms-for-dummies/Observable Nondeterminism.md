@@ -1,6 +1,6 @@
 When the user can see the lack of [[Determinism]], for instance by experiencing [[Race Condition]]s 
 
-Observable Nondeterminism is  useful for model real-word situations where independent activities can happen i.e. [[Client Server]]
+Observable Nondeterminism is  useful for model real-world situations where independent activities can happen i.e. [[Client Server]]
 
 ---
 

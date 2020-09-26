@@ -30,7 +30,7 @@ A goal is a [[discrete event]] hat will happen in a specific moment at [[time]]
 
 An area has a [[standard]] to be maintained, without a deadline. The standard continues forever, so you have to "prune" it regurlarly.
 
-> Publishing a book is a project, whereas Writing is an area
+> Publishing a book is a project, whereas [[Writing]] is an area
 
 A project without a corresponding goal is known as a “hobby.” If you’re not committed to or haven’t fully articulated the outcome you want, you must be doing it just for fun.
 
