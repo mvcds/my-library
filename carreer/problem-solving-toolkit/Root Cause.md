@@ -1,0 +1,1 @@
+The [[Event]] that has triggered the effect that we want to observe

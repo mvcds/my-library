@@ -1,0 +1,7 @@
+#learn 
+
+# Deductive
+
+# Inductive
+
+# Abductive

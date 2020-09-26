@@ -1,0 +1,1 @@
+A [[Cognitive Bias]] where we generalize one [[Event]] to an entire population
