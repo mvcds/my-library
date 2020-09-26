@@ -1,9 +1,8 @@
 There are a few key concepts/properties in any [[Programming Language]] that can get used for create their taxonomy
 
-- Record
-- Closure
-- Independence (concurrency)
+- [[Record]]
+- [[Lexically scoped closure]]
+- [[Independence (concurrency)]]
 - [[Named State]]
-- [[Observable Nondeterminism]]
 
 ![[The trick to picking up the right paradigm]]

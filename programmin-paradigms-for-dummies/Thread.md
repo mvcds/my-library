@@ -1,0 +1,1 @@
+A [[Software]] [[Abstraction]] for a concurrent [[Process]]. They execute independently but share [[Memory]]
