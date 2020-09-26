@@ -1,1 +1,0 @@
-A [[declarative programming paradigm]]
