@@ -8,4 +8,7 @@ Some principle for you to have in your head when writing [[Code]] that you want 
 - ![[SOLID]]
 - ![[Shared resources should be immutable]]
 - ![[Single Level of Abstraction Principle(SLAP)]]
-- ![[law of demeter]]
+- ![[Law of Demeter]]
+- ![[Low-Coupling]]
+- ![[High-Cohesion]]
+- ![[GRASP]]
