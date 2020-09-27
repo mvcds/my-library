@@ -1,1 +1,1 @@
-A technique for making sense of a large number of [[Event]]s and pinpointing the few one that are really important in that mass of [[Information]].
+A technique for making sense of a large number of [[probability-theory/Event]]s and pinpointing the few one that are really important in that mass of [[Information]].

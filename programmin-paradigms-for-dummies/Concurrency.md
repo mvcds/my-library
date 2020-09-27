@@ -6,7 +6,7 @@ The real world is concurrent: it consists of activities that evolve independentl
 
 [[Thread]]s use [[Monitor]]s to manage concurrent state. Sometimes transactions are used to do [[ACID#Atomicity|atomic]] updates to the shared [[data]].
 
-# message-passing concurrency
+# [[Message]]-passing concurrency
 
 Concurrent agents each running in a single thread that send each other [[Message]]s.
 

@@ -7,3 +7,7 @@ const upper = (str) => {
     return str
 }
 ```
+
+---
+
+A [[Pure Function]] which can handle any type

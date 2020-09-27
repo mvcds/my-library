@@ -1,0 +1,1 @@
+By [[Meyer]] any [[Function]] that returns a value

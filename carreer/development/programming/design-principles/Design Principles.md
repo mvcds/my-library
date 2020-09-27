@@ -14,3 +14,4 @@ Some principle for you to have in your head when writing [[Code]] that you want 
 - ![[High-Cohesion]]
 - ![[GRASP Principles]]
 - ![[FIRST Principles]]
+- ![[Command Query Responsibility Segregation]]
