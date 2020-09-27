@@ -1,4 +1,4 @@
-The real-word can be expressed as [[Functions]]s that change over time - and thus [[State]] becomes a necessary evil.
+The real-word can be expressed as [[Function]]s that change over time - and thus [[State]] becomes a necessary evil.
 
 A necessary evil because at the same time that we allow [[Code]] to adapt to its new [[environment]], we lose control about its correctness: that is, as the internal state can eventually be missing or incorrect, also will its holder. Whereas a component without a named state, once proved correct will forever be like this[ˆ1].
 

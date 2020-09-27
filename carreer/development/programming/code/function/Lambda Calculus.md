@@ -1,4 +1,4 @@
-Just a way to express functions in a formal setting using [[Pure Function]]s
+Just a way to express [[Function]]s in a formal setting using [[Pure Function]]s
 
 ---
 

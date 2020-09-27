@@ -1,1 +1,0 @@
-A [[function]] that returns a [[Boolean]] value

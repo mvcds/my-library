@@ -1,3 +1,1 @@
-Something is fishy when you need to use an [[instance]] to fetch a value in other to change it instead of telling this instance to do so
-
-[[Design Principles]]
+Something is fishy when you need to use an [[instance]] to fetch a value in other [[Object]] to change it instead of telling this instance to do so

@@ -9,5 +9,5 @@ General Responsibility Assignment [[Software]] Patterns (or Principles), abbrevi
 - [[Low-Coupling]]
 - [[High-Cohesion]]
 - [[Polymorphism]]
-- Protected variations: wrap unstable [[Code]] with an interface, and have stable code around it
+- Protected variations: wrap unstable [[Code]] with an [[Interface]], and have stable code around it
 - Pure fabrication: a [[Class]] that does not represent a concept in the problem domain, specially made up to achieve one or more of the points about. This kind of class is called a "service" in [[Domain-Driven Design]]

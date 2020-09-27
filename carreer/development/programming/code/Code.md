@@ -1,0 +1,1 @@
+Statements [[Writing|written]] in a particular [[Programming Language]] and also the result which can be run by the computer - the object code.
