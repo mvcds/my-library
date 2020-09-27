@@ -1,1 +1,1 @@
-The computer running **[[Docker Engine|docker]]**
+The [[Computer]] running **[[Docker Engine|docker]]**

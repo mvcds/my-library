@@ -1,6 +1,6 @@
 https://www.w3.org/International/questions/qa-what-is-encoding
 
-Provides a "key" to understand some particular mapping between [[Byte]]s in a computer and a [[Character Set]]
+Provides a "key" to understand some particular mapping between [[Byte]]s in a [[Computer]] and a [[Character Set]]
 
 ---
 
