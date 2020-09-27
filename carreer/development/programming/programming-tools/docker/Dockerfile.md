@@ -13,7 +13,7 @@ File with [[Image]] instructions, so the [[environment]] can be reproduced every
 - ARG — defines a [[variable]] to pass to [[Docker]] at [[build-time]].
 - ENTRYPOINT — provides command and arguments for an executing container. Arguments persist.
 - EXPOSE — exposes a [[port]].
-- VOLUME — creates a directory mount point to access and store persistent data.
+- VOLUME — creates a directory mount point to access and store persistent [[data]].
 
 # Effective Caching
 

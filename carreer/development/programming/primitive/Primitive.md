@@ -2,7 +2,7 @@ Some [[Programming Language]] come with pre-defined [[data type]]s which other, 
 
 We call those types "primitives".
 
-Choosing the correct primitive is important not only to shape your data, but also to write efficient [[Software]], as some types might have variations - each taking different amount of [[Bit]]s from your [[Memory]]
+Choosing the correct primitive is important not only to shape your [[data]], but also to write efficient [[Software]], as some types might have variations - each taking different amount of [[Bit]]s from your [[Memory]]
 
 Some common ones
 

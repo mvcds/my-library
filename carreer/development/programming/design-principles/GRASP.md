@@ -2,7 +2,7 @@ General Responsibility Assignment [[Software]] Patterns (or Principles), abbrevi
 
 # Patterns
 
-- Information expert: used to decide which [[Class]] is the more relevant to hold some information
+- [[Information]] expert: used to decide which [[Class]] is the more relevant to hold some [[Information]]
 - Creator
 - Controller: using a non-[[UI]] [[Interface]] [[Object]] to receive or handle (external) events
 - Indirection: using an [[Object]]

@@ -1,4 +1,4 @@
-A [[Federation]] where information is safe
+A [[Federation]] where [[Information]] is safe
 
 # Elements
 - Domain/Real: a single unity of security administration/trust e.g. a single organization

@@ -4,7 +4,7 @@ The real world is concurrent: it consists of activities that evolve independentl
 
 # shared-state concurrency
 
-[[Thread]]s use [[Monitor]]s to manage concurrent state. Sometimes transactions are used to do [[ACID#Atomicity|atomic]] updates to the shared data.
+[[Thread]]s use [[Monitor]]s to manage concurrent state. Sometimes transactions are used to do [[ACID#Atomicity|atomic]] updates to the shared [[data]].
 
 # message-passing concurrency
 

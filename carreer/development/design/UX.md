@@ -4,8 +4,8 @@ https://medium.com/hh-design/crash-course-ui-design-25d13ff60962#.zageazfih
 
 - Strategy: user needs & product objectives
 - Scope: functional specification]]s & content requirements
-- Structure: information architecture & user flow
-- Skeleton: [[Interface]] [[Design]] & information [[Design]]
+- Structure: [[Information]] architecture & user flow
+- Skeleton: [[Interface]] [[Design]] & [[Information]] [[Design]]
 - Surface: sensory experience & visual [[Design]]
 
 # Principles

@@ -1,8 +1,8 @@
-A framework for making decisions in scenarios where there's a high degree of uncertainty, it can can also be used for forecast with incomplete information.
+A framework for making decisions in scenarios where there's a high degree of uncertainty, it can can also be used for forecast with incomplete [[Information]].
 
 You first create an hypothesis, and then challenges it by being opening to modify your hypothesis. This process should be iterative and happen many times.
 
-> Actively seek the contradictory information
+> Actively seek the contradictory [[Information]]
 
 #quote
 

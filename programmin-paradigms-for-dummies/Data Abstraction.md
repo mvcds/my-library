@@ -11,11 +11,11 @@ It has an inside, an outside and an [[Interface]] between both.
 
 # Organizing
 
-The first axis is the presence or not of [[Named State]], the second _bundling_ i.e. are data and operations together in a single entity or separate[^2]?
+The first axis is the presence or not of [[Named State]], the second _bundling_ i.e. are [[data]] and operations together in a single entity or separate[^2]?
 
 ---
 
-[[OOP]] as it is usually understood is nothing more than data abstraction with [[Polymorphism]] and [[Inheritance]]
+[[OOP]] as it is usually understood is nothing more than [[data]] abstraction with [[Polymorphism]] and [[Inheritance]]
 
 [^1]: check [[Composition Over Inheritance]]
 [^2]: check [[Procedural Data Abstraction]] and [[Abstract Data Type]]

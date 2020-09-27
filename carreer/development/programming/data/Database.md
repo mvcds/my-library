@@ -1,1 +1,1 @@
-A [[Software]] that keeps data
+A [[Software]] that keeps [[data]]
