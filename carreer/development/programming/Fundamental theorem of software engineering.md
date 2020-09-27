@@ -2,6 +2,6 @@ The fundamental theorem of [[Software]] engineering (FTSE) is a term originated 
 
 > We can solve any problem by introducing an extra level of indirection.
 
-The theorem does not describe an actual theorem that can be proven; rather, it is a general principle for managing complexity through abstraction.
+The theorem does not describe an actual theorem that can be proven; rather, it is a general principle for managing complexity through [[Abstraction]].
 
 #quote

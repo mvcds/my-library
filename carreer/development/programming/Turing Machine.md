@@ -1,4 +1,4 @@
-An abstract machine which manipulates symbols on a strip of tape according to a table of rules.
+An [[Abstractio|abstract]] machine which manipulates symbols on a strip of tape according to a table of rules.
 
 The machine operates on an infinite memory tape divided into discrete "cells". The machine positions its "head" over a cell and "reads" or "scans" the symbol there. Then, as per the symbol and the machine's own present [[State]] in a "finite table" of user-specified instructions, the machine
 
