@@ -4,7 +4,7 @@ http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-ag
 
 AKA CQRS
 
-At its heart is the notion that you can use a different [[Model]] to update [[Information]] than the model you use to read [[Information]].
+At its heart is the notion that you can use a different [[Model]] to update [[Information]] than the [[Model]] you use to read [[Information]].
 
 Normally those [[Model]]s are entangled into a single [[Model]] at the beginning and we split them apart.
 

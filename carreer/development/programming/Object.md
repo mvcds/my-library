@@ -1,0 +1,1 @@
+A [[Record]] that stores its [[State]] in fields (variables) and exposes its behaviors through [[Function]]s
