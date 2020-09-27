@@ -2,4 +2,4 @@
 
 ---
 
-Somewhat relates to [[SRP]]
+Somewhat relates to [[Single Responsability Principle]]

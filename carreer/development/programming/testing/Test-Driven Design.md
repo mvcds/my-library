@@ -1,6 +1,6 @@
 A.K.A. TDD
 
-A practice that advocates that if you write your [[Test]] before its [[Code]], it will lead to better [[Interface]]s - presumably because you force yourself to only extending it in a way that makes sense for the case in questions, making you comply to [[ISP]] while [[Eat your own Dog food|eating your own dog food]].
+A practice that advocates that if you write your [[Test]] before its [[Code]], it will lead to better [[Interface]]s - presumably because you force yourself to only extending it in a way that makes sense for the case in questions, making you comply to [[Interface Segregation Principle]] while [[Eat your own Dog food|eating your own dog food]].
 
 # Steps
 1. You write a [[Test]] that will fail (because there's no implementation)
