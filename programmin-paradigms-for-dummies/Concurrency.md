@@ -16,4 +16,10 @@ Concurrent programming is much easier with declarative concurrent paradigm.
 
 And much simpler if the nondeterminism were controlled in some way, so that it is not visible to the programmer[^1]
 
+---
+
+[[Nondeterminism]] is a natural part of concurrency since concurrent activities are independent, it is not possible to know which will be executed first (job for a [[scheduler]])
+
+As we cannot get rid of it, we can write our [[Code]] in a way that separates areas that have to deal with [[Observable Nondeterminism]] and areas that not[****]()
+
 [^1]: Check [[Observable Nondeterminism]]
