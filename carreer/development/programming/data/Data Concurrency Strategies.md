@@ -2,7 +2,7 @@ Overriding [[Data]] is a risk we have if we want to create applications that can
 
 # Optimistic
 
-A [[Software]] verifies, as part of its update process, if the data has changed since it has been read e.g. if two users of Wikipedia update simultaneously, the second cannot simply override the first - both need to understand and acknowledge the changes
+A [[Software]] verifies, as part of its update [[Process#Noun|process]], if the data has changed since it has been read e.g. if two users of Wikipedia update simultaneously, the second cannot simply override the first - both need to understand and acknowledge the changes
 
 # Pessimistic
 

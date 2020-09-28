@@ -1,4 +1,4 @@
-A mnemonic which can help you to create/improve a product (physical, [[service]], [[Process]], etc)
+A mnemonic which can help you to create/improve a product (physical, [[service]], [[Process#Noun|process]], etc)
 
 https://www.mindtools.com/pages/article/newCT_02.htm
 

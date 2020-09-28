@@ -1,4 +1,4 @@
-Except when the change is too small (like small ui fix), [[Feature Toggle]] should be embed since the beginning of any [[story]], as default so they become part of the [[Process]].
+Except when the change is too small (like small ui fix), [[Feature Toggle]] should be embed since the beginning of any [[story]], as default so they become part of the [[Process#Noun|process]].
 
 To prevent us to keep them forever in [[Code]] we can create a [[budget]] to [[manage]] how many of them can exist in a given [[environment]]. 
 

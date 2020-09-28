@@ -2,4 +2,4 @@ Currying is the art of breaking up a multi-[[Argument]] [[Function]]s into small
 
 ---
 
-Currying is the process of translating a many [[Argument]] [[Function]] into a single [[Argument]] [[Function]]. The single [[Argument]] [[Function]] returns another [[Function]] if any [[Argument]] is still needed.
+Currying is the [[Process#Noun|process]] of translating a many [[Argument]] [[Function]] into a single [[Argument]] [[Function]]. The single [[Argument]] [[Function]] returns another [[Function]] if any [[Argument]] is still needed.
