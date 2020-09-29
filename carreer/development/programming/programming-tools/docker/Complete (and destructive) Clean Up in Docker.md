@@ -1,3 +1,5 @@
+When using [[Docker]]
+
 ```shell
 #!/bin/bash
 # Delete all containers
