@@ -1,1 +1,1 @@
-A [[Cognitive Bias]] where we generalize one [[probability-theory/Event]] to an entire population
+A [[Cognitive Bias]] where we generalize one [[carreer/maths/probability-theory/Event]] to an entire population
