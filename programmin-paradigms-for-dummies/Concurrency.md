@@ -12,7 +12,7 @@ Concurrent agents each running in a single thread that send each other [[Message
 
 ---
 
-Concurrent programming is much easier with declarative concurrent paradigm.
+[[Concurrent Programming]] is much easier with declarative concurrent paradigm.
 
 And much simpler if the nondeterminism were controlled in some way, so that it is not visible to the programmer[^1]
 
