@@ -8,5 +8,5 @@ The main purpose of a type system is to reduce possibilities for bugs in [[Compu
 
 There are two spectrum to observe a type system
 
-- [[Dynamic]] vs [[Static]]
-- [[Strong]] vs [[Weak]]
+- [[Dynamic Type Systemn]] vs [[Static Type System]]
+- [[Strong Type System]] vs [[Weak Type System]]
