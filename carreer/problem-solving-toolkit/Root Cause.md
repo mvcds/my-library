@@ -1,1 +1,1 @@
-The [[probability-theory/Event]] that has triggered the effect that we want to observe
+The [[carreer/maths/probability-theory/Event]] that has triggered the effect that we want to observe
