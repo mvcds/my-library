@@ -1,7 +1,7 @@
 When [[deploy]]ing a [[Software]] goes to a bunch of different [[environment]]s before hitting production
 
 - Development
-- Testing
+- [[Testing]]
 - Acceptance
 - Production
 

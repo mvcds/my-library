@@ -1,4 +1,4 @@
-The [[pattern]] of storing the complete history of [[state]] changes as an append-only [[event]] store
+An [[Event-Driven Architecture]] which stores the application [[state]] as a sequence of [[event]]s
 
 # Benefits
 

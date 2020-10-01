@@ -8,12 +8,12 @@ Some variants velow
 
 https://hackernoon.com/the-two-hard-problems-in-computer-science-2a42ec008eee
 
-> 0) Cache invalidation
-> 1) Naming things
-> 5) Asynchronous callbacks
-> 2) Off-by-one errors
-> 3) Scope creep
-> 6) Bounds checking
+> `0`) Cache invalidation
+> `1`) Naming things
+> `5`) Asynchronous callbacks
+> `2`) Off-by-one errors
+> `3`) Scope creep
+> `6`) Bounds checking
 
 # [[Martin Fowler]]
 

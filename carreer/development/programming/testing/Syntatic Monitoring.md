@@ -1,0 +1,1 @@
+Active approaching to [[testing]] by simulating a user request for availability, performance & functionality
