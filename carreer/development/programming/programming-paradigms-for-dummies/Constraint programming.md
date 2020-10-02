@@ -21,7 +21,7 @@ The power and flexibility of a constraint programming system depend on the expre
 Very related to [[Declarative Concurrency]] because it applies [[Concurrency]] and [[Determinism]] but differs from it in two ways
 
 - It uses constraints not dataflow variables
--  it has a more flexible control flow: each constraint executes in its own thread, which makes it into a concurrent agent called a [[propagator]]. This allows the constraints to better prune the search space
+-  it has a more flexible control flow: each constraint executes in its own thread, which makes it into a concurrent agent called a [[Propagator]]. This allows the constraints to better prune the search space
 
 # Applications
 
