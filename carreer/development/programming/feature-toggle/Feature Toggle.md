@@ -1,6 +1,6 @@
 According to https://www.martinfowler.com/articles/feature-toggles.htm
 
-A.K.A. [[Feature]] Flag, [[Feature]] [[Bit]] and [[Feature]] Flipper
+A.K.A. [[carreer/development/Feature]] Flag, [[carreer/development/Feature]] [[Bit]] and [[carreer/development/Feature]] Flipper
 
 A way to change how the [[Software]] behaves without changing the [[Code]] - heavily linked with [[Open-Closed Principle]]
 
