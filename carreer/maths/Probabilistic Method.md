@@ -1,0 +1,1 @@
+A nonconstructive method, primarily used in [[combinatorics]] which works by showing that if one [[random]]ly chooses objects from a specified class, the [[probability]] that the result is of the prescribed kind is strictly greater than zero. Although the proof uses probability, the final conclusion is determined for certain, without any possible error.

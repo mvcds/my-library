@@ -1,0 +1,2 @@
+- [[Determinism|Deterministic]]
+- [[Nondeterminism|Nondeterministic]]

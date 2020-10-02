@@ -1,1 +1,1 @@
-A [[finite-state machine]] whose output values are determined only by its current [[state]]. This is in contrast to a [[Mealy machine]]
+A [[Finite State Machine]] whose output values are determined only by its current [[state]]. This is in contrast to a [[Mealy machine]]

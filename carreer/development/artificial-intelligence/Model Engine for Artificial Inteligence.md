@@ -1,3 +1,3 @@
-A way to[[Model]] [[Artificial Inteligence]]
+A way to[[Model]] [[Artificial Intelligence]]
 
 ![[Model Engine for Artificial Inteligence.png]]

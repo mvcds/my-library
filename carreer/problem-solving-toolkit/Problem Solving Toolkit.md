@@ -5,3 +5,4 @@ Here's an incomplete list of techniques for solving problems
 - ![[Issue Tree]]
 - ![[Root Cause Analysis]]
 - ![[Constraint programming]]
+- ![[Bayesian Network]]
