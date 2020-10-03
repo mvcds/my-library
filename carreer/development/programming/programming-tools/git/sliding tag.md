@@ -1,1 +1,1 @@
-A [[tag]] that keeps changing the [[commit]] it relates too
+A [[Git Tag|tag]] that keeps changing the [[Git Commit|commit]] it relates too

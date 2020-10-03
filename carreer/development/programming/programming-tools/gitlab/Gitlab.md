@@ -1,1 +1,1 @@
-A [[git]] [[platform]]
+A [[Git]] [[platform]]

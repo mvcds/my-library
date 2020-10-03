@@ -1,1 +1,0 @@
-A [[git]] set of changes in files together with some metadata about them, [[message]] and [[timestamp]]
