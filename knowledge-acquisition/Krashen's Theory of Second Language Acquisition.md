@@ -24,7 +24,7 @@ The **Input** hypothesis is only concerned with 'acquisition', not 'learning'. T
 
 The **Natural Order** hypothesis says that each [[Language]] has its own order necessary for `acquisition`. For a given [[Language]], some grammatical structures tend to be acquired early while others are late.
 
-This order seemed to be independent of the learners' age, L1 background, and conditions of exposure. Krashen, however, points out that the implication of the natural order hypothesis is not that a [[Language]] program syllabus should be based on the order found in the studies. In fact, he rejects grammatical sequencing when the goal is [[Language]] acquisition.
+This order seemed to be independent of the learners' age, L1 background, and conditions of exposure. Krashen, however, points out that the implication of the natural order hypothesis is not that a [[Language]] program syllabus should be based on the order found in the studies. In fact, he rejects grammatical sequencing when the [[Goal]] is [[Language]] acquisition.
 
 # Affective Filter
 

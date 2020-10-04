@@ -31,4 +31,4 @@ Very related to [[Declarative Concurrency]] because it applies [[Concurrency]] a
 - Optimization
 - [[Goal-oriented programming]][^1]
 
-[ˆ1]: Check [[goal]]
+[ˆ1]: Check [[Goal]]

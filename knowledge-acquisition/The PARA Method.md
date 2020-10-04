@@ -19,22 +19,22 @@ https://fortelabs.co/blog/para/
 
 **P.A.R.A. stands for Projects — Areas — Resources — Archives**, the four top-level categories that encompass every type of [[information]] you might encounter in your work and life
 
-- A **project** is “a series of tasks linked to a [[goal]], with a [[deadline]].”
+- A **project** is “a series of tasks linked to a [[Goal]], with a [[deadline]].”
 - An **area of responsibility** is “a sphere of activity with a standard to be maintained over time.”
 - A **resource** is “a topic or theme of ongoing interest.”
 - **Archives** include “inactive items from the other three categories, like projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in
 
 ## Project vs Area
 
-A goal is a [[discrete event]] hat will happen in a specific moment at [[time]]
+A [[Goal]] is a [[discrete event]] hat will happen in a specific moment at [[time]]
 
 An area has a [[standard]] to be maintained, without a deadline. The standard continues forever, so you have to "prune" it regurlarly.
 
 > Publishing a book is a project, whereas [[Writing]] is an area
 
-A project without a corresponding goal is known as a “hobby.” If you’re not committed to or haven’t fully articulated the outcome you want, you must be doing it just for fun.
+A project without a corresponding [[Goal]] is known as a “hobby.” If you’re not committed to or haven’t fully articulated the outcome you want, you must be doing it just for fun.
 
-And if you have a goal without a corresponding project, that’s called a “dream.” You may desire it with all your heart and soul, but without an active project, you are not in fact currently making any progress.
+And if you have a [[Goal]] without a corresponding project, that’s called a “dream.” You may desire it with all your heart and soul, but without an active project, you are not in fact currently making any progress.
 
 ![[There’s nothing wrong with hobbies and dreams]]
 

@@ -1,4 +1,4 @@
-Chasing is moving towards a [[goal]], while evading is the opposite (moving far)
+Chasing is moving towards a [[Goal]], while evading is the opposite (moving far)
 
 # Steps
 
