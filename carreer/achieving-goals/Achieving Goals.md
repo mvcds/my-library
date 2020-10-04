@@ -1,5 +1,7 @@
 This is the way [[Me|I]] achieve [[Goal]]s in the long term.
 
+It was based on [[Lean Startup]], [[Agile]] and [[Commander's Intent]], later I got to know about [[The GIST Framework]]
+
 ---
 
 There are many things that we want to do with our lives, we want to achieve stuff. But more often than not, we get trapped into investing our time on things that actually have no real, deep meaning for ourselves.
