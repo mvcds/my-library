@@ -1,4 +1,4 @@
-https://personalmba.com/goals/ #a
+https://personalmba.com/goals/
 
 A [[Goal]] is a statement that describes precisely what you want to achieve. Goals are more useful if they are Framed in a Positive, Immediate, Concrete and Specific (PICS) format;
 
