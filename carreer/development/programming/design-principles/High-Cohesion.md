@@ -1,9 +1,5 @@
-When looking to a piece of [[Code]], it should be clear what what its internal parts do to contribute to its [[Goal]] - if it's doing more than it should, then the module does not have cohesion.
+A desirable quality of our [[Code]] is that it presents high [[Code Cohesion|cohesion]] i.e. all parts collaborate to what needs to be done i.e. not too generic
 
 ---
 
-Cohesion describes how related the [[Function]]s within a single module are
-
----
-
-It often appears together with [[Low-Coupling]]
+It often appears together with [[Low-Coupling]

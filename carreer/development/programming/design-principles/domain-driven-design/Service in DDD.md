@@ -1,0 +1,1 @@
+In [[Domain-Driven Design]] a service is a piece of capability that does not fit the [[Domain]] completely, for instance, a software that takes care of social networks has nothing to do with payment - but nonetheless it profits by having a payment system (which in this case would talk to a software specialized in this domain)
