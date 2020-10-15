@@ -1,0 +1,1 @@
+A [[Test Double]] that wraps the original [[Object]]/[[Function]] so that it can observe how many times something was used and how.
