@@ -1,6 +1,6 @@
 http://agileinaflash.blogspot.com/2009/02/first.html
 
-An #achronym for how [[Testing]] should be performed
+An #acronym for how [[Testing]] should be performed
 
 - Fast: many hundreds of tests per second
 - Isolated: [[Root Cause|failure reasons]] become obvious

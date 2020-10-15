@@ -7,6 +7,6 @@
 
 To calculate the score use $\frac{R * I * C} E$, prioritize the ones with higher score
 
-#achronym 
+#acronym
 
 [^1]: Check [[Optimism Bias]]

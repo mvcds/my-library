@@ -1,4 +1,4 @@
-An #achronym for how [[Testing]] should be
+An #acronym  for how [[Testing]] should be
 
 - Readable
 - Isolated OR Integrated

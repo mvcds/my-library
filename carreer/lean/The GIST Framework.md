@@ -2,7 +2,7 @@ https://itamargilad.com/gist-framework/?ref=https://product-frameworks.com
 
 A planning system based on [[Lean Startup]] and [[Agile]]. 
 
-An #achronym for its main building blocks: Goals, Ideas, Step-projects, and Tasks. Each has a different planning horizon and frequency of change, and may use different tools to track, but together they constitute all the core planning any company and team needs to do.
+An #acronym for its main building blocks: Goals, Ideas, Step-projects, and Tasks. Each has a different planning horizon and frequency of change, and may use different tools to track, but together they constitute all the core planning any company and team needs to do.
 
 ![[gist.png]]
 

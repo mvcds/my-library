@@ -1,3 +1,3 @@
-#achronym for "Systems thinking approach to introduce [[kanban]]"
+#acronym for "Systems thinking approach to introduce [[kanban]]"
 
 #learn 

@@ -6,4 +6,4 @@
 - ![[Interface Segregation Principle]]
 - ![[Dependency Injection Principle]]
 
-#achronym 
+#acronym
