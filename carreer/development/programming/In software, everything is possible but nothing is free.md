@@ -1,3 +1,3 @@
-> In software, everything is possible but nothing is free
+> In [[software]], everything is possible but nothing is free
 
 #quote

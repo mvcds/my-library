@@ -1,4 +1,4 @@
-Personally, the most important part of [[Domain-Driven Design]] is the ubiquitous language: that is, using the same terms in all levels of the software, including [[Code]].
+Personally, the most important part of [[Domain-Driven Design]] is the ubiquitous language: that is, using the same terms in all levels of the [[software]], including [[Code]].
 
 ---
 
