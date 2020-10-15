@@ -3,3 +3,5 @@
  It aims to shorten the systems [[Development Life Cycle]] and provide [[Continous Delivery]] with high software quality.
  
  DevOps is complementary with [[Agile]] software development; several DevOps aspects came from Agile methodology.
+ 
+There's a heavy usage of [[Metric]]s in this practices because [[You can only improve what you can measure]].
