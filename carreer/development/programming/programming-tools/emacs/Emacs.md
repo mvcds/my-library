@@ -6,7 +6,7 @@ You can also run commands by name, without a specific key binding, using `M-x fu
 
 - `M-` is equivalent to press `esc`
 - `C-x b` opens a new buffer or changes to an old one
-- `C-x k` kills the buffer
+- `C-x k` kills the [[Buffer in Emacs|buffer]]
 - `C-g` quits the command
 - `C-x C-f` opens the file directory
 - `C-x C-s` saves the file, though it's possible to save them with "normal" commands
