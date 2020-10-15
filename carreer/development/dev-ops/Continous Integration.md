@@ -1,3 +1,3 @@
-The ability to keep inserting valid changes in the [[Code]] which do not break the [[Software]]
+AKA CI
 
-Also known as CI
+The ability to keep inserting valid changes (using a [[Version Control System]]) in the [[Code]] which do not break the [[Software]].
