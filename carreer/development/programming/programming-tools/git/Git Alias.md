@@ -6,4 +6,4 @@ An alternative name to a composed command in [[git]]
 
 # Shell command
 
-Prefixing an `!` will produce [[Shell]] commands `somealias = “!......some code”`
+Prefixing an `!` will produce [[Unix Shell]] commands `somealias = “!......some code”`
