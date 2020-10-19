@@ -1,1 +1,1 @@
-A [[Microsoft]]'s service which hosts, makes [[Load Balancing|load balance]] and orchestrate instances (similar to [[Kubernetes]])
+A [[Microsoft]]'s service which hosts, makes [[Load Balancing|load balance]] and orchestrate instances (similar to [[Kubernets]])
