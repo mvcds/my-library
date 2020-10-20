@@ -1,1 +1,1 @@
-A [[Node]] tool that create scaffolding for the [[web]]
+A [[NodeJs]] tool that create scaffolding for the [[web]]

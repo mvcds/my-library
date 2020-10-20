@@ -6,7 +6,7 @@ Talking about what we want to do might happen in an [[Abstraction|abstract]] spe
 
 # Example
 
-The use case they give is the grid view calendar
+The [[Use Case]] they give is the grid view calendar
 
 - less than 10% of users would use it
 - didn't make sense to write a fill calendar due to how much work it would required
