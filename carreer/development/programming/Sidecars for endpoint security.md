@@ -1,0 +1,1 @@
+Due to the increase of attack surface that [[Microservice]]s cause, it's necessary to implement a [[Zero Trust Security Architecture]], for helping that, security might be delegated to an out-of-process sidecar — a [[process]] or a [[Container]] that is deployed and scheduled with each service sharing the same execution context, host and identity.

@@ -1,0 +1,1 @@
+The way the teams handles [[Git Branch|branches]] in softwares like [[git]]
