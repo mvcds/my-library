@@ -1,3 +1,4 @@
-By [[David Lubocheck]]
+> Type correctness does not guarantee program correctness
+> 
 
-#quote 
+#quote By [[David Lubocheck]]
