@@ -12,3 +12,9 @@ TDD is an iterative process, based on [[Baby Step]]s
 	- Add a new scenario (go back to step 1)
 	- Refactor (having tests allow you to more freely changing implementation as you have a [[Feedback Loop]] to keep you in the correct track)
 	- Stop working (no more test can/should be added, for this session of work at least)
+
+---
+
+It's possible to create [[Container]]'s by using TDD too![^1]
+
+[ˆ1]: https://www.thoughtworks.com/radar/techniques/tdd-ing-containers
