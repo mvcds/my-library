@@ -1,0 +1,1 @@
+A device that distributes work across many resources (usually computers). They are generally used to increase capacity and reliability.

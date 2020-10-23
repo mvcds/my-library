@@ -26,6 +26,7 @@ COPY requirements.txt /tmp/
 RUN pip install -r /tmp/requirements.txt
 COPY . /tmp/
 ```
+
 ---
 
-Caching can be turned off by passing `--no-cache=True` with docker build.
+[[Cache|Caching]] can be turned off by passing `--no-cache=True` with docker build.
