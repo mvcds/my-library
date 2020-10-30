@@ -1,3 +1,7 @@
+A.K.A. Implicit Invocation
+
+A kind of [[Software Architecture]]
+
 #learn 
 
 # Advantages
@@ -30,7 +34,7 @@
 - [[Hard Problems#Hackernoon|Order is not guaranted]]
 - Side effects on consumers make messsages not replayable
 
-# REST's still good
+# [[Representational State Transfer Architecture| REST]]'s still good
 
 - To sync ps due to request/reply model
 - Public APIs (?)
