@@ -1,4 +1,4 @@
-It's about [[design|designing]] how multiple components in a  [[system]] get assembled (rather than how they are created).
+It's about [[design|designing]] how multiple (logical) components in a  [[system]] get assembled (rather than how they are created).
 
 The earlier an architectural decision is made, the more weight it has on impacting future design and architectural choices.
 
