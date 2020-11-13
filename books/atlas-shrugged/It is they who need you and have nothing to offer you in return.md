@@ -1,0 +1,3 @@
+> A viler evil than to murder a man, is to sell him suicide as an act of [[virtue]]. A viler evil than to throw a man into a sacrificial furnace, is to demand that he leap in, of his own will, and that he build the furnace, besides. By their own statement, it is they who need you and have nothing to offer you in return. By their own statement, you must support them because they cannot survive without you. Consider the obscenity of offering their impotence and their need—their need of you—as a justification for your torture. Are you willing to accept it?
+
+#quote  on [[Altas Shrugged]] #learn 
