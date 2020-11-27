@@ -20,7 +20,8 @@ Normally, it is used by using color-coded post-its to represent different things
 - External systems (pink): occurrences from the outside world
 - [[Entity in DDD|Entity]] (light yellow): the system entities together with the [[Bounded Context]] that they below[^3]
 
-![[event-storming.png]] [^2]
+![[event-storming.png]][^2]
+
 
 After this it's possible to derivate a [[Context Map]] from the event storming session
 
@@ -29,5 +30,5 @@ We can also deriovate a [[CRC]] from it
 #learn
 
 [^1]: It is not recommended to start [[Code|coding]] if there are still question post-its
-[ˆ2]: He uses an "X" to indicate the end of the flow, the doll (green) to indicate human and the hourglass (pink) to indicate time passing - if events are stacked up, they are happen in [[Parallelism|parallel]]
+[^2]: He uses an "X" to indicate the end of the flow, the doll (green) to indicate human and the hourglass (pink) to indicate time passing - if events are stacked up, they are happen in [[Parallelism|parallel]]
 [^3]: He uses a line to separate the entity (top) from the context (bottom)
