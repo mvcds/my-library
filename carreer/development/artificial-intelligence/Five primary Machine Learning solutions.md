@@ -2,4 +2,4 @@
 - [[Event]]/action prediction models predict the likelihood of an event or user action. At Google, [[machine learning]] is used to predict a click (e.g., showing you videos that you're likely to click).
 - Classification [[model]]s classify arbitrary [[object]]s into known classes, like categorizing emails as spam or not spam.
 - Generative models generate output in a form similar to the input they were trained with, like translation models that turn text in one [[language]] into text in another language.
-- Clustering is a form of unsupervised machine learning in which similar objects are “clustered” together, like segmenting users into groups.
+- [[Clustering]] is a form of unsupervised machine learning in which similar objects are “clustered” together, like segmenting users into groups.
