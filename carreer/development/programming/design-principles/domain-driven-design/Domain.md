@@ -2,4 +2,4 @@ A sphere of knowledge, influence, or activity. The subject area to which the use
 
 ---
 
-Can be used as a synonym for business, especially in a [[Domain-Driven Design]] context
+Can be used as a synonym for [[business]], especially in a [[Domain-Driven Design]] context

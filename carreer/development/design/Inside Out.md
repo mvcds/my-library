@@ -1,4 +1,4 @@
-When the [[Business Owner]]s (or similar) think they know better than their users
+When the [[business|Business Owner]]s (or similar) think they know better than their users
 
 ---
 

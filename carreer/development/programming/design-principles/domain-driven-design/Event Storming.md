@@ -1,9 +1,9 @@
-A process through which a team (developers, business experts, POs, etc), create a diagram that shows the flow of [[Event in DDD|events]]
+A process through which a team (developers, [[business]] experts, POs, etc), create a diagram that shows the flow of [[Event in DDD|events]]
 
 Characteristics:
 - Can be used to analyze and/or model the [[Domain]]
 - Collaborative technique
-- Stays within the business' existing flow
+- Stays within the [[business]]' existing flow
 - Tells who handles those events
 - Shows the contexts to which [[Actors and Roles|roles]] belong
 
@@ -12,7 +12,7 @@ You should:
 - Focus on a specific story
 
 Normally, it is used by using color-coded post-its to represent different things:
-- Event (yellow): something that interests the business
+- Event (yellow): something that interests the [[business]]
 - Action (blue): what do we want to do with the event
 - Questions (red): things we are not sure about yet[^1]
 - [[Policy and Details|Policy]] (purple): controls how the actions plays out
