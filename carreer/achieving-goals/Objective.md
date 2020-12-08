@@ -1,6 +1,6 @@
 Something that we have to do in order to achieve one or many [[Goal]]s.
 
-You can objectively answer if you have achieved it or not because they have a [[Metric]] associated with that.
+You can objectively answer if you have achieved it or not because they have a [[carreer/achieving-goals/Metric]] associated with that.
 
 A set of objectives can coexist in different way within the same [[Goal]]:
 

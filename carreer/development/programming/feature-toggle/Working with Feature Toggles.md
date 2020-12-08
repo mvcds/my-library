@@ -8,4 +8,4 @@ As toggles change how the [[Software]] behaves, it's a good idea to create one f
 
 ---
 
-It's a good idea to link [[metric]]s with them so we can understand which branch is more successful for us
+It's a good idea to link [[carreer/achieving-goals/Metric]]s with them so we can understand which branch is more successful for us

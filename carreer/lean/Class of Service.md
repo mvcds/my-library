@@ -1,4 +1,4 @@
-A group of similar [[task]]s, over a board, so it spans as a parallel flow with it's own [[metric]]s.
+A group of similar [[task]]s, over a board, so it spans as a parallel flow with it's own [[carreer/achieving-goals/Metric]]s.
 
 Every kind of work may be classified, and they have different priorities to each other.
 
