@@ -1,4 +1,4 @@
-[[Melvin Kranzberg]] has stated 6 laws has stated 6 laws
+[[Melvin Kranzberg]] has stated 6 laws
 
 1. [[Technology]] is neither good nor bad; nor it's neutral
 2. Technology comes in packages, big and small
