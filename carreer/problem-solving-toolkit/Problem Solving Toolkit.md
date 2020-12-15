@@ -9,3 +9,4 @@ Here's an incomplete list of techniques for solving problems
 - ![[Bayesian Network]]
 - ![[Seven So-Whats]]
 - ![[Lenses]]
+- ![[Pareto Rule]]
