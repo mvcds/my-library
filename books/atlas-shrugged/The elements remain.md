@@ -1,0 +1,3 @@
+> “There is only one fundamental alternative in the universe: existence or non-existence—and it pertains to a single class of entities: to living organisms. The existence of inanimate matter is unconditional, the existence of life is not; it depends on a specific course of action. Matter is indestructible, it changes its forms, but it cannot cease to exist. It is only a living organism that faces a constant alternative: the issue of life or death. Life is a process of self-sustaining and self-generated action. If an organism fails in that action, it dies; its chemical elements remain, but its life goes out of existence.
+
+#quote  on  [[Altas Shrugged]] #learn
