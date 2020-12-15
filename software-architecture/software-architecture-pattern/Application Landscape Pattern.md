@@ -1,0 +1,1 @@
+The "ecosystem" of the [[Software]] i.e. the end-user might be seeing a single application but behind the scenes multiple ones might be contributing for their experience
