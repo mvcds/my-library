@@ -4,6 +4,8 @@ http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-ag
 
 AKA CQRS
 
+![[cqrs.png]]
+
 At its heart is the notion that you can use a different [[Model]] to update [[Information]] than the [[Model]] you use to read [[Information]].
 
 Normally those [[Model]]s are entangled into a single [[Model]] at the beginning and we split them apart.
@@ -19,3 +21,11 @@ CQRS does not require a task based UI. We could apply CQRS to a CRUD based inter
 > CQRS is about breaking up [[Model]]s which share [[Data]]
 
 #quote
+
+---
+
+Having different models allow us to write scenario-specific queries to maximize efficiency but also might require us to sync them up manually, so it adds complexity and can lead to data inconsistencies
+
+---
+
+A good pair up with [[Event Sourcing]]

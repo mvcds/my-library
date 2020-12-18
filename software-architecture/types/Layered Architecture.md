@@ -16,3 +16,15 @@ Some people make a distinction between "layers" and "tiers", where the former is
 ---
 
 The boundaries of layers should be technical, not functional
+
+---
+
+Typical layers include:
+
+- Presentation: UI
+- Application: Transaction between UI and business
+- Business: business logic
+- Persistence: Code to interact with the database
+- Data: the database per si
+
+Other layer, like caching, can be added when necessary, as well as merging layers
