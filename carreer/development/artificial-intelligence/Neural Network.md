@@ -1,4 +1,4 @@
-Kind of a [[math|mathematical]] [[function]] approximator which returns a unique set if output for a given input.
+Kind of a [[Maths|mathematical]] [[function]] approximator which returns a unique set if output for a given input.
 
 Inputs to the network are independent variables, while the output represents the dependent variables.
 

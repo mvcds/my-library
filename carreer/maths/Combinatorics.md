@@ -1,1 +1,1 @@
-An area of [[math]] primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures
+An area of [[Maths]] primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures

@@ -1,1 +1,1 @@
-What a [[Software]] can do is often called a [[carreer/lean/agile/Feature]]
+What a [[Software]] can do is often called a "feature"
