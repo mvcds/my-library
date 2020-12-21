@@ -1,4 +1,4 @@
-**Not the same as [[algebraic structures]]!!!**
+**Not the same as [[Algebraic structure]]!!!**
 
 They’re composite  data types made out of other types. There are two main kinds of algebraic data types: Sum types and Product types. Together, they’re like a dynamic duo for encoding [[business]] logic. They help us make good things possible, and bad things impossible.
 

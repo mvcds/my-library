@@ -1,7 +1,7 @@
 The studies of 
 
 - Quantities ([[Number]] theory)
-- Structure ([[Algebraic structures|algebra]])
+- Structure ([[Algebraic structure|algebra]])
 - Space (geometry)
 - Change (analyses)
 
