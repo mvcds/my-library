@@ -12,7 +12,7 @@ Transducers don’t do anything until you tell them to start and feed them some 
 
 - Composable using simple function composition
 -  Efficient for large collections or infinite streams: Only enumerates over the elements once, regardless of the number of operations in the pipeline
--  Able to transduce over any enumerable source (e.g., arrays, trees, streams, graphs, etc…)
+-  Able to transduce over any enumerable source (e.g., [[Array]]s, [[Tree]]s, [[Stream]]s, [[Graph]]s, etc…)
 -  Usable for either lazy or eager evaluation with no changes to the transducer pipeline
 
 # Rules

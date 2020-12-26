@@ -17,7 +17,7 @@ A kind of [[Software Architecture]]
 - Easy to overengineer
 - Require upfront investiment (?)
 - Complex infra
-- Create dependency graphs
+- Create dependency [[Graph]]s
 - [[Data]] & transaction management needs to be done
 - Do not support ACID (? - consistency, maybe?)
 

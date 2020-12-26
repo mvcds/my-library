@@ -1,4 +1,4 @@
-[[Distributions]] that deal with finite [[carreer/maths/probability-theory/Event|outcomes]] i.e. each outcome has a probability attached to it[^1]
+[[Distributions]] that deal with finite [[carreer/maths/probability-theory/Event|outcomes]] i.e. each outcome has a [[probability]] attached to it[^1]
 
 **Types**
 
