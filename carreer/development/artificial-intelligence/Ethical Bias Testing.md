@@ -1,1 +1,1 @@
-A [[Machine Learning]] to reduce prejudicial bias against certain groups
+A [[Machine Learning]] to reduce prejudicial [[bias]] against certain groups
