@@ -1,4 +1,4 @@
-The likelihood of an [[carreer/maths/probability-theory/Event|event]] to happen.
+The likelihood of an [[maths/probability-theory/Event|event]] to happen.
 
 It is expressed from as a range from 0 to 1 
 

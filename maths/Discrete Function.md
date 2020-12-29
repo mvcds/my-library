@@ -4,4 +4,4 @@ A set of [[Data]] is said to be discrete if the values belonging to the set are 
 
 Discrete data is counted. The description of the task is usually preceded by the words "number of...".
 
-A discrete [[Statistical graphics|graph]] is a series of unconnected points (a [[scatter plot]]).
+A discrete [[Statistical graphics|graph]] is a series of unconnected points (a [[Scatter Plot]]).

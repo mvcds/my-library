@@ -6,6 +6,6 @@ Changing between states may involve certain criteria to be match
 
 # Variants
 
-- Fuzzy State Machine ([[probability]] interfere with state transaction)
+- Fuzzy State Machine ([[Probability]] interfere with state transaction)
 - FMS on a [[stack]]
 - FMS using [[state pattern]]

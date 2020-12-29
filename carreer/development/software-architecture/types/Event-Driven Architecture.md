@@ -26,7 +26,7 @@ A kind of [[Software Architecture]]
 - It allows [[polyglot system]]s
 - Data should be wrapped into carefully [[version|versioned]] packages
 - There might be data inconsistency between services
-- Duplicated [[event]]s might exist
+- Duplicated [[carreer/development/programming/Event]]s might exist
 - Event consumers should [[code]] with the assumption that data schema might change
 - Event producers should minimize breaking changes
 - Teams need to know why, the purpose and when a [[message]] exist/is used for

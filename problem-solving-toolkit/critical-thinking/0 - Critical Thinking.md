@@ -1,4 +1,4 @@
-The ability to think clearly and [[reasoning|rationally]], understanding the logical connection between ideas.
+The ability to think clearly and [[Reasoning|rationally]], understanding the logical connection between ideas.
 
 In essence, critical thinking requires you to use your ability to reason. It is about being an active learner rather than a passive recipient of information.
 
