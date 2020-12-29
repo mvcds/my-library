@@ -10,3 +10,4 @@ Here's an incomplete list of techniques for solving problems
 - ![[Seven So-Whats]]
 - ![[Lenses]]
 - ![[Pareto Rule]]
+- ![[Data-driven decision making]]
