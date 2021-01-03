@@ -1,3 +1,5 @@
-The [[Code]] analog to a [[Bit]].
+---
+aliases: [Bool]
+---
 
-A.K.A. "Bool"
+The [[Code]] analog to a [[Bit]].

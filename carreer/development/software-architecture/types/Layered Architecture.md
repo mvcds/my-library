@@ -1,4 +1,6 @@
-A.K.A. Multilayered, N-Tier or Multi-tier
+---
+aliases: [Multilayered, N-Tier, Multi-tier]
+---
 
 A kind of [[Software Architecture]] where you separate your app in layers with different responsibilities. Data flows from one layer to the other.
 

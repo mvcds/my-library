@@ -1,4 +1,6 @@
-A.K.A. Implicit Invocation
+---
+aliases: [Implicit Invocation]
+---
 
 A kind of [[Software Architecture]]
 

@@ -1,4 +1,6 @@
-A.K.A. RCA
+---
+aliases: [RCA]
+---
 
 1. Identify and describe the problem clearly.
 1. Establish a timeline from the normal situation up to the time the problem occurred.

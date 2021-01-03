@@ -1,4 +1,6 @@
-AKA ML
+---
+aliases: [ML]
+---
 
 Traditionally, humans "tell" the machine what to do through [[Algorithm]]s with ML we invert this by giving the machine only a goal and teaching it about the trial-and-error process in a [[Maths|mathematical]] sense
 

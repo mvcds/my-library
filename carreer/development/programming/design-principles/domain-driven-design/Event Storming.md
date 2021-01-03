@@ -25,7 +25,7 @@ Normally, it is used by using color-coded post-its to represent different things
 
 After this it's possible to derivate a [[Context Map]] from the event storming session
 
-We can also deriovate a [[CRC]] from it
+We can also derivate a [[Classes-Responsibilities-Collaborator|CRC]] from it
 
 #learn
 

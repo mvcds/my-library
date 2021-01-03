@@ -1,4 +1,6 @@
-A.K.A. TDD
+---
+aliases: [TDD]
+---
 
 A practice that advocates that if you write your [[Testing|test]] before its [[Code|implementation]], it will lead to better [[Interface]]s - presumably because you force yourself to only extending it in a way that makes sense for the case in questions, making you comply to [[Interface Segregation Principle]] while you also [[Eat your own Dog food|eating your own dog food]] which would make you your first API's client.
 

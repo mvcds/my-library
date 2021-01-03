@@ -1,4 +1,6 @@
-AKA Algebra
+---
+aliases: [Algebra]
+---
 
 Algebraic structures abstract common patterns shared between a bunch of [[class|classes]] i.e. an [[Either]] instance and a [[Maybe]] instance both implement the same [[abstraction]] (even if they do not implement the same "concrete" [[interface]]).
 

@@ -1,4 +1,6 @@
-A.K.A. MVVM
+---
+aliases: [MVVM]
+---
 
 ![[model-view-viewmodel.png]]
 

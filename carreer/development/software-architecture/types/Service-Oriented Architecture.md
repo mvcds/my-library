@@ -1,4 +1,6 @@
-AKA SOA
+---
+aliases: [SOA]
+---
 
 A kind of [[Software Architecture]]
 

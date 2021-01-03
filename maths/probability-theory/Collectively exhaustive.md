@@ -1,3 +1,5 @@
-A.K.A. Jointly
+---
+aliases: [Jointly exhaustive]
+---
 
-A set of [[maths/probability-theory/Event]]s is collectively exhaustive if at least one of the [[maths/probability-theory/Event]]s must occur
+A set of [[maths/probability-theory/Event]]s is collectively exhaustive if at least one of the them must occur

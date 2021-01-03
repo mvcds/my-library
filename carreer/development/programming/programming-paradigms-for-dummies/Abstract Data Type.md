@@ -1,4 +1,6 @@
-AKA ADT
+---
+aliases: [ADT]
+---
 
 Defines the logical form of the data type[^1]
 

@@ -1,4 +1,6 @@
-AKA DDD
+---
+aliases: [DDD]
+---
 
 A methodology to software development that preaches that the underlying [[Domain]] of a program is the most important part of the software and thus development should be driven by it[^3].
 

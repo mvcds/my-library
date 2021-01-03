@@ -1,3 +1,5 @@
-AKA PDA
+---
+aliases: [PDA]
+---
 
 #learn  

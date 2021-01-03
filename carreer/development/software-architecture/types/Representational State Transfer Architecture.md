@@ -1,4 +1,6 @@
-A.K.A. REST
+---
+aliases: [REST]
+---
 
 A kind of [[Software Architecture]]
 

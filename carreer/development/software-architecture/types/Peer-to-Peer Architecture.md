@@ -1,4 +1,6 @@
- A.K.A. P2P
+---
+aliases: [P2P]
+---
 
 A kind of [[Software Architecture]] where _there is no central server_ and doesn't require constant connection, due to it, they are cost-effective
 

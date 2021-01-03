@@ -1,4 +1,6 @@
-AKA Composite reuse principle
+---
+aliases: [Composite reuse principle, Composition]
+---
 
 In [[OOP]], [[Class|classes]] can achieve [[Polymorphism]] and reuse code through [[Inheritance]] or [[Composition]].
 

@@ -1,4 +1,6 @@
-A.K.A. Napier's constant
+---
+aliases: [Napier's constant]
+---
 
 Symbolized as an `e`  it's a number that is roughly thought as 2.72.
 

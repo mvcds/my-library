@@ -1,4 +1,6 @@
-AKA Clustering Analysis
+---
+aliases: [Clustering Analysis, Cluster]
+---
 
 Has as its goal to maximize the similarity of observation within a cluster at the same time that it maximizes the dissimilarity between clusters
 

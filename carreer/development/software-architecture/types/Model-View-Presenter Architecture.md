@@ -1,4 +1,6 @@
-AKA MVP
+---
+aliases: [MVP]
+---
 
 ![[model-view-presenter.png]]
 

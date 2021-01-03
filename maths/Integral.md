@@ -1,8 +1,10 @@
-A.K.A. Anti-[[Derivative]][^1]
+---
+aliases: [Anti-derivative]
+---
 
 ![[derivative.png]]
 
-Used to calculate the shape of things that do not fit the basic formulas (like circles or triangles). It's used on [[Statistical graphics|graphs]].
+Used to calculate the shape of things that do not fit the basic formulas (like circles or triangles)[^1]. It's used on [[Statistical graphics|graphs]].
 
 $$\int_{lower}^{upper} F(x) * dx$$
 
@@ -16,4 +18,4 @@ Regarding the logic behind the formula, if we remember that $f(x) = y$ then it's
 
 The integral formula provides a "correction" for each bar in form of having the $dx$ attached to it, so in a way the formula can be read like this (sic) $y * d * x$ with $x * y$ being the are of one square in the graph +/- a correction for it.
 
-[^1]: They can turn a derivative to its original form
+[^1]: They can turn a [[derivative]] to its original form

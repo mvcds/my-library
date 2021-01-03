@@ -1,4 +1,6 @@
-A.K.A. BFF
+---
+aliases: [BFF]
+---
 
 The practice of defining a different backend for each kind of frontend client where the aligment between both ends happens within the same team.
 

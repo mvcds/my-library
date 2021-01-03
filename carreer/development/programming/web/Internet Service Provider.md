@@ -1,4 +1,6 @@
-AKA ISP
+---
+aliases: [ISP]
+---
 
 An organization that provides services for accessing, using, or participating in the Internet. Internet service providers can be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned.
 

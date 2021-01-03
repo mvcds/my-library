@@ -1,4 +1,6 @@
-A.K.A. K8S
+---
+aliases: [K8S]
+---
 
 A tool to orchestrate containers
 

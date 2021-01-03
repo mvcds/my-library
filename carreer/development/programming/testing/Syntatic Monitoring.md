@@ -1,4 +1,6 @@
-A.K.A. semantic monitoring
+---
+aliases: [Semantic monitoring]
+---
 
 Active approaching to [[testing]] where we run a subset of the application's automated tests against live production on a regular base to simulate a user request for availability, performance & functionality. No [[Test Double]]s allowed.
 

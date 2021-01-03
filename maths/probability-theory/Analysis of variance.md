@@ -1,4 +1,6 @@
-A.K.A. ANOVA Framework
+---
+aliases: [ANOVA Framework]
+---
 
 1. Sum of squares total
 2. Sum of squares [[Linear Regression|regression]]

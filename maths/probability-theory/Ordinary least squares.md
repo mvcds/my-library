@@ -1,4 +1,6 @@
-AKA OLS
+---
+aliases: [OLS]
+---
 
 It is a way to measure the [[Linear Regression]] using the minimum sum of squared [[Standard error|error]]
 

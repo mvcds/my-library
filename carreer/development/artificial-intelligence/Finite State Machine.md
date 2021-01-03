@@ -1,4 +1,6 @@
-AKA FSM
+---
+aliases: [FSM]
+---
 
 Abstract machine that exist in of of several predefined [[state]]s.
 

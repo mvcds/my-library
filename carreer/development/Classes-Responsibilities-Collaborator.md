@@ -1,4 +1,6 @@
-AKA Classes-Responsibilities-Collaborators
+---
+aliases: [CRC]
+---
 
 An [[UML]] (like?) technique where you model
 

@@ -1,8 +1,10 @@
+---
+aliases: [CQRS]
+---
+
 https://martinfowler.com/bliki/CQRS.html
 https://jaysoo.ca/2015/02/06/what-the-flux/
 http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
-
-AKA CQRS
 
 ![[cqrs.png]]
 

@@ -1,4 +1,6 @@
-AKA Microkernel Architecture
+---
+aliases: [Microkernel Architecture]
+---
 
 A kind of [[Software Architecture]] where there's a core application which can be extended through plugins
 

@@ -1,4 +1,6 @@
-A.K.A. MVC
+---
+aliases: [MVC]
+---
 
 ![[model-view-controller.png]]
 
