@@ -1,6 +1,8 @@
+![[artificial-intelligence.png]]
+
 The study of devices (intelligent agents) that perceives its [[environment ]]and takes actions that maximize its chance of successfully achieving its [[goal]]s
 
-![[artificial-intelligence.png]]
+![[carreer/development/artificial-intelligence/artificial-intelligence.png]]
 
 #learn 
 
