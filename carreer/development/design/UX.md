@@ -26,5 +26,5 @@ https://medium.com/hh-design/crash-course-ui-design-25d13ff60962#.zageazfih
 
 - [[Usercentric Design]]
 - Desirability
-- Feasibility (when using our product that requires internet connection, will our users have access to the internet?)
+- Feasibility (when using our product that requires [[internet]] connection, will our users have access to the internet?)
 - Viability (can we afford to do what we need to do, is this the [[Design]] correct for what we're trying to achieve?)
