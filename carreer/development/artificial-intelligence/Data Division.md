@@ -4,7 +4,7 @@ aliases: [Data Training, Data Validation]
 
 ![[data-division.png]]
 
-We divide our dataset into 70-80% training (where we apply the [[Backpropagation (of errors)|Backpropagation]]), 20-10% validation (where we check for [[Overfitting and underfitting|overfitting]]) and 10-10% test (measures the final predictive power) - the percentages are normal practices
+We divide our [[dataset]] into 70-80% training (where we apply the [[Backpropagation (of errors)|Backpropagation]]), 20-10% validation (where we check for [[Overfitting and underfitting|overfitting]]) and 10-10% test (measures the final predictive power) - the percentages are normal practices
 
 ---
 
