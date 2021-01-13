@@ -1,6 +1,6 @@
 ![[deep-neural-network.png]]
 
-Having more than one [[Layer]], creates a [[Neural Network]]
+Having more than one [[Layer]], creates a Deep [[Neural Network]]
 
 Properties
 
