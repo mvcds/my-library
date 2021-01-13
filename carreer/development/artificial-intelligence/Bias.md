@@ -4,7 +4,7 @@ alias: [Biases]
 
 A type of [[Standard error|error]] in which certain elements of a [[dataset]] are more heavily weighted and/or represented than others.
 
-A **biased** dataset does not accurately represent a model's use case, resulting in [[Skewness|skewed]] [[maths/probability-theory/Event|outcomes]], low accuracy levels, and analytical errors
+A **[[Bias|biased]]** dataset does not accurately represent a [[Model]]'s use case, resulting in [[Skewness|skewed]] [[maths/probability-theory/Event|outcomes]], low accuracy levels, and analytical errors
 
 ---
 
