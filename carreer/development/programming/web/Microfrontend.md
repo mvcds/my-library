@@ -4,7 +4,7 @@ An architectural style where independently deliverable fronted applications are 
 
 # Benefits
 
-* smaller, more cohesive and maintainable codebases
+* smaller, more cohesive and maintainable [[Code|Codebase]]s
 * more scalable organisations with decoupled, autonomous teams
 * the ability to upgrade, update, or even rewrite parts of the frontend in a more incremental fashion than was previously possible
 
@@ -39,7 +39,7 @@ Some microfrontend implementations can lead to duplication of dependencies, incr
 - Do you have enough automation in place to feasibly provision and manage the additional required infrastructure?
 - Will your frontend development, testing, and release processes scale to many applications?
 - Are you comfortable with decisions around tooling and development practices becoming more decentralised and less controllable?
-- How will you ensure a minimum level of quality, consistency, or governance across your many independent frontend codebases?
+- How will you ensure a minimum level of quality, consistency, or governance across your many independent frontend [[Code|Codebase]]?
 
 
 # Drops
