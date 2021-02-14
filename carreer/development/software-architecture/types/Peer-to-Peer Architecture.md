@@ -1,5 +1,5 @@
 ---
-aliases: [P2P]
+aliases: [P2P, P2P Network]
 ---
 
 A kind of [[Software Architecture]] where _there is no central server_ and doesn't require constant connection, due to it, they are cost-effective
