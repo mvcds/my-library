@@ -1,1 +1,0 @@
-An area of [[math]] primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures

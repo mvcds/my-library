@@ -1,4 +1,6 @@
-A.K.A. CRNG 
+---
+aliases: [CRNG]
+---
 
 [[Programming Language]]s don't have a real way to generate true random values, so this is just a technique to do something close.
 

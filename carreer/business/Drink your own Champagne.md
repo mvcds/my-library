@@ -1,1 +1,1 @@
-A more classsy wa to say "[[Eat your own Dog food]]"
+A more classy way to say "[[Eat your own Dog food]]"

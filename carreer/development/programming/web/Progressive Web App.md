@@ -1,4 +1,6 @@
-A.K.A. PWA
+---
+aliases: [PWA]
+---
 
 An alternative for [[Instant App]]?
 

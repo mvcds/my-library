@@ -1,3 +1,7 @@
+---
+aliases: [Algorithms, Algo, Algos]
+---
+
 A set of well-defined rules to solve a (class of) problem
 
 ---

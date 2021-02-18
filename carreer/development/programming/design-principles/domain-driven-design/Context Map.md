@@ -1,5 +1,7 @@
 A document which outlines the difference between [[Bounded Context]]s
 
+![[context-map.png]]
+
 # Patterns
 
 - Shared Kernel
@@ -9,4 +11,4 @@ A document which outlines the difference between [[Bounded Context]]s
 - Anticorruption Layer
 - Distillation (smaller domains)
 
-#double-check #complement 
+#double-check #complement #learn

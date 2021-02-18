@@ -14,7 +14,7 @@ For small constraint problems, a naive model works fine. For big problems, the m
 
 #quote
 
-The power and flexibility of a constraint programming system depend on the expressiveness of its variable domains, the expressiveness and pruning power of its propagators, and the smartness of its CSP solver. Early constraint systems were based on simple domains such as finite trees and integers. Modern constraint systems have added real numbers and recently also directed graphs as domains
+The power and flexibility of a constraint programming system depend on the expressiveness of its variable domains, the expressiveness and pruning power of its propagators, and the smartness of its CSP solver. Early constraint systems were based on simple domains such as finite [[Tree]]s and integers. Modern constraint systems have added real numbers and recently also directed [[Graph]] as domains
 
 ---
 

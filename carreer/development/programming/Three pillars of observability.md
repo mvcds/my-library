@@ -1,5 +1,5 @@
 The pillars of [[Observability]] are
 
 * Distributed tracing
-* [[Metric]]s
+* [[carreer/achieving-goals/Metric]]s
 * Logging

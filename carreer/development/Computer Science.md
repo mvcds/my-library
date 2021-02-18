@@ -1,4 +1,6 @@
-A.K.A. System Science
+---
+aliases: [System Science]
+---
 
 There are two systems that science understands
 

@@ -4,4 +4,4 @@
  
  DevOps is complementary with [[Agile]] software development; several DevOps aspects came from Agile methodology.
  
-There's a heavy usage of [[Metric]]s in this practices because [[You can only improve what you can measure]].
+There's a heavy usage of [[carreer/achieving-goals/Metric]]s in this practices because [[You can only improve what you can measure]].

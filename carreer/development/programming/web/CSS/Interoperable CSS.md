@@ -1,4 +1,6 @@
-A.K.A. ICSS
+---
+aliases: [ICSS]
+---
 
 A low-level interchange specification which transforms CSS in JS in a way that is hidden from the end-user
 

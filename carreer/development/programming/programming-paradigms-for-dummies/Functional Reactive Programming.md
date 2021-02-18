@@ -1,4 +1,6 @@
-AKA Continuous Synchronous Programming
+---
+aliases: [Continuous Synchronous Programming]
+---
 
 A [[Programming Paradigm]] where the programs are functional but the arguments of the [[Function]] changes this is reflected through the [[Software]].
 

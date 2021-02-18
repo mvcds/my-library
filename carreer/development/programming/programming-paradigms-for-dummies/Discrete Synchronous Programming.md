@@ -1,4 +1,6 @@
-AKA Reactive System
+---
+aliases: [Reactive System]
+---
 
 A [[Programming Paradigm]] that waits for input events and emits output events. It has to be [[Determinism|deterministic]].
 

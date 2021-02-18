@@ -1,1 +1,5 @@
-A [[Software]] that keeps [[data]]
+---
+aliases: [DB, Databases]
+---
+
+A [[Software]] that keeps [[data]].

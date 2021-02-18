@@ -1,4 +1,6 @@
-A.K.A. [[Definitive Programming Languages]]
+---
+aliases: [Definitive Programming Languages]
+---
 
 [[Programming Language]] that through [[Language Design]] have evolved to contribute seriously for the areas they were trying to solve.
 

@@ -1,0 +1,2 @@
+- Actors (people): they might accomplish tasks in different roles
+- Roles (tasks): roles are the actual thing that we should name [[Entity in DDD|entities]] after

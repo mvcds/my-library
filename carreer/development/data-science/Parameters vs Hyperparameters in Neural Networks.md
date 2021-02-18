@@ -1,0 +1,2 @@
+- Parameters: found by the optimization like weights and biases
+- Hyperparameters: set by us like width, depth and [[learning rate]]

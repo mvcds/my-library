@@ -1,4 +1,6 @@
-AKA IaC
+---
+aliases: [IaC]
+---
 
 Nowadays the [[infrastructure]] of any [[Software]] can be written as [[Code]], and managed by [[Version Control System]]s
 

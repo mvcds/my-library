@@ -1,1 +1,0 @@
-[[Object]]-Relational Mapping is a technique to make incompatible [[Type Systems]] to work together. Normally through [[Code]] and [[Database]]s

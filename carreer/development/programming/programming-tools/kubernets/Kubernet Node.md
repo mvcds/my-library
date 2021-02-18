@@ -1,4 +1,6 @@
-A.K.A.  `Minion`, historically
+---
+aliases: [Minion] # historically
+---
 
 In [[Kubernets]] is a worker machine and may be either a virtual or a physical machine, depending on the [[Kubernet Cluster|cluster]]
 

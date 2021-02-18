@@ -12,3 +12,7 @@ The objects in a bounded context are expected to have either
 
 - Communical cohesion
 - Functional cohesion
+
+---
+
+People working in a context have a set of **[[Actors and Roles|responsibilities]]** which need to be translated into the software

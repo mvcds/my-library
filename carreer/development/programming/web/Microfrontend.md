@@ -4,7 +4,7 @@ An architectural style where independently deliverable fronted applications are 
 
 # Benefits
 
-* smaller, more cohesive and maintainable codebases
+* smaller, more cohesive and maintainable [[Code|Codebase]]s
 * more scalable organisations with decoupled, autonomous teams
 * the ability to upgrade, update, or even rewrite parts of the frontend in a more incremental fashion than was previously possible
 
@@ -39,7 +39,7 @@ Some microfrontend implementations can lead to duplication of dependencies, incr
 - Do you have enough automation in place to feasibly provision and manage the additional required infrastructure?
 - Will your frontend development, testing, and release processes scale to many applications?
 - Are you comfortable with decisions around tooling and development practices becoming more decentralised and less controllable?
-- How will you ensure a minimum level of quality, consistency, or governance across your many independent frontend codebases?
+- How will you ensure a minimum level of quality, consistency, or governance across your many independent frontend [[Code|Codebase]]?
 
 
 # Drops
@@ -48,8 +48,8 @@ Some microfrontend implementations can lead to duplication of dependencies, incr
 
 * Communication should be kept to a minimum
 * When features on micro frontend often also requires backend changes, that's a strong case for a [[Backend for frontends]], owned by the same team.
-* use unit tests to cover your low-level business logic and rendering logic, and then use functional tests just to validate that the page is assembled correctly. For example, you might load up the fully-integrated application at a particular URL, and assert that the hard-coded title of the relevant micro frontend is present on the page.
-* If there are user journeys that span across micro frontends, then you could use functional testing to cover those, but keep the functional tests focussed on validating the integration of the frontends, and not the internal business logic of each micro frontend, which should have already been covered by unit tests.
+* use unit tests to cover your low-level [[business]] logic and rendering logic, and then use functional tests just to validate that the page is assembled correctly. For example, you might load up the fully-integrated application at a particular URL, and assert that the hard-coded title of the relevant micro frontend is present on the page.
+* If there are user journeys that span across micro frontends, then you could use functional testing to cover those, but keep the functional tests focussed on validating the integration of the frontends, and not the internal [[business]] logic of each micro frontend, which should have already been covered by unit tests.
 
 #complement webpack federation(?)\
 
