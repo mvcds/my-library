@@ -1,6 +1,6 @@
 https://www.psychologytoday.com/us/blog/clear-organized-and-motivated/201411/the-7-laws-impatience
 
-1.** Impatience is not a lack of patience**:[^1] impatience is a mental/physical process which gets triggered in the right circumstances and motivates to take very specific actions
+1. ** Impatience is not a lack of patience**:[^1] impatience is a mental/physical process which gets triggered in the right circumstances and motivates to take very specific actions
 2. **Impatience is triggered when we have a [[Goal]], and realize it’s going to cost us more than we thought to reach it**:  for instance, if we're driving back home and found ourselves stuck in traffic
 3. **Impatience motivates us to reduce the costs of reaching our goal, or to switch goals**: When we realize it’s going to [[cost]] us more than we thought to get to our goal, our mental gears start spinning. We start looking for ways to avoid the additional costs in time, pain, distraction, credibility or opportunity.
 4. **Impatience and indignation are a potent combination**: We’re in special danger of making an irrational choice when we run into unexpected costs, _and we think the extra costs are someone else’s fault_.
