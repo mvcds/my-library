@@ -4,7 +4,7 @@ The earlier an architectural decision is made, the more weight it has on impacti
 
 # Why is architecture important?
 
-- Enables desired [[Quality Attribute of Software]]
+- Enables desired [[Quality Attributes of Software]]
 - Helps considering stakeholders' needs and/or expectations[^1]
 - Restricts design choices, enabling creativity in another areas.
 

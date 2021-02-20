@@ -4,10 +4,11 @@ It's possible to replay those events to understand how they have affected the sy
 
 # Benefits
 
-- Durability
-- Scalability
+- [[Durability]]
+- [[Scalability]]
 - [[Observability]]
-- Auditable
+- [[Auditability]]
+- [[Persformance]]
 
 # Downs
 

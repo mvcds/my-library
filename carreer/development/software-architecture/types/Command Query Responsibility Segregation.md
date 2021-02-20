@@ -30,4 +30,4 @@ Having different models allow us to write scenario-specific queries to maximize 
 
 ---
 
-A good pair up with [[Event Sourcing]]
+A good pair up with [[Event Sourcing]], and it might help with [[Scalability]] and [[Performance]]
