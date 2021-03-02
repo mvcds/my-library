@@ -12,4 +12,4 @@ Containers within a `pod` share some resources
 
 ---
 
-Each `Pod` in a [[Kubernet Cluster]] has a unique IP address, even `Pods` on the same `Node`, but as `Pods` can die, it's not recommended to access them directly through IP.
+Each `Pod` in a [[Kubernet Cluster]] has a unique IP address, even `Pods` on the same [[Kubernet Node|node]], but as `Pods` can die, it's not recommended to access them directly through IP.

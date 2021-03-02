@@ -2,7 +2,7 @@
 aliases: [NPM]
 ---
 
-A tool for [[Node]] with the double purpose of:
+A tool for [[NodeJS]] with the double purpose of:
 
 - a [[CLI]] which installs libraries into your [[Code]] and;
 - a [[repository manager]] where such libraries are deployed by default
