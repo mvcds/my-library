@@ -1,0 +1,4 @@
+- Justice
+- Courage
+- Temperance (self-control)
+- Prudence (efficiency)

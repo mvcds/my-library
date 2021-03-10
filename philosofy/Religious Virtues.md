@@ -1,0 +1,3 @@
+- Faith
+- Hope
+- Charity
