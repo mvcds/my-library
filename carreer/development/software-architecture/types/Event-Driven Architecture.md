@@ -34,7 +34,7 @@ A kind of [[Software Architecture]]
 - Teams need to know why, the purpose and when a [[message]] exist/is used for
 - Complex graphs or feedback loops will impact network usage
 - [[Hard Problems#Hackernoon|Order is not guaranted]]
-- Side effects on consumers make messsages not replayable
+- [[Side Effect|Side Effects]] on consumers make messages not replayable
 
 # [[Representational State Transfer Architecture| REST]]'s still good
 

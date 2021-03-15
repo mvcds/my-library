@@ -1,4 +1,6 @@
-An expression immediately returns its [[Value]].
+An expression (immediately) returns its [[Value]].
+
+They [[Composition Over Inheritance|compose]] easily.
 
 ---
 
