@@ -6,4 +6,4 @@ Programmers can [[DRY]] up their code by dedicating a part of the [[Code|Codebas
 
 ---
 
-The most important aspect of [[OOP]] according to [[Peter Van Roy]]
+The most important aspect of [[Object-Oriented Programming|OOP]] according to [[Peter Van Roy]]

@@ -1,4 +1,4 @@
-General Responsibility Assignment [[Software]] Patterns (or Principles), abbreviated GRASP, consist of guidelines for assigning responsibility to classes and objects in [[OOP]]
+General Responsibility Assignment [[Software]] Patterns (or Principles), abbreviated GRASP, consist of guidelines for assigning responsibility to classes and objects in [[Object-Oriented Programming|OOP]]
 
 # Patterns
 

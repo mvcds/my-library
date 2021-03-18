@@ -1,8 +1,8 @@
 http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en
 
-> [[OOP]] to me means only messaging, local retention and protection and hiding of [[state]]-[[process#Noun|process]], and extreme late-binding of all things. It can be done in [[Smalltalk]] and in [[Lisp]]. There are possibly other systems in which this is possible, but I'm not aware of them.
+> [[Object-Oriented Programming|OOP]] to me means only messaging, local retention and protection and hiding of [[state]]-[[process#Noun|process]], and extreme late-binding of all things. It can be done in [[Smalltalk]] and in [[Lisp]]. There are possibly other systems in which this is possible, but I'm not aware of them.
 
-#quote  by [[Alan Kay]]
+#quote by [[Alan Kay]]
 
 ---
 

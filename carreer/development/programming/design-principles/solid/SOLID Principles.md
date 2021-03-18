@@ -1,4 +1,4 @@
-[[Mnemonic]] for five [[OOP]] principles
+[[Mnemonic]] for five [[Object-Oriented Programming|OOP]] principles
 
 - ![[Single Responsability Principle]]
 - ![[Open-Closed Principle]]
