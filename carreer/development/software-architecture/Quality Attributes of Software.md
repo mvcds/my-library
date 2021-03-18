@@ -5,7 +5,7 @@ You have to pick some of those to be more important in you [[Software Architectu
 - [[Usability]]
 - [[Modifiability]]
 - [[Interoperability]]
-- [[Security]]
+- [[Information Security|Security]]
 - [[Portability]]
 - [[Scalability]]
 - [[Deployability]]

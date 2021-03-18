@@ -1,1 +1,1 @@
-A [[DevOps]] extension which also concerns with [[Security]]
+A [[DevOps]] extension which also concerns with [[Information Security|Security]]

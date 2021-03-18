@@ -4,4 +4,4 @@ It can also be used with legacy systems.
 
 ---
 
-It helps with [[Data Management]] and [[Security]]
+It helps with [[Data Management]] and [[Information Security|Security]]
