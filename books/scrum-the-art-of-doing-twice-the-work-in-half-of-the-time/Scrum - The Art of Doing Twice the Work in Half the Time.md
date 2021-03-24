@@ -1,1 +1,1 @@
-A book about [[Scrum]]] by [[Jeff Sutherland]]
+A book about [[Scrum]] by [[Jeff Sutherland]]
