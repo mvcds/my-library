@@ -1,1 +1,1 @@
-A form of [[Authentication]] for highly sensitive systems where there are many ways to authenticate a user
+A form of [[Authentication]] for highly sensitive [[system]]s where there are many ways to authenticate a user

@@ -17,7 +17,7 @@ Normally, it is used by using color-coded post-its to represent different things
 - Questions (red): things we are not sure about yet[^1]
 - [[Policy and Details|Policy]] (purple): controls how the actions plays out
 - Human activities (yellow): actions/events with human input
-- External systems (pink): occurrences from the outside world
+- External [[system]]s (pink): occurrences from the outside world
 - [[Entity in DDD|Entity]] (light yellow): the system entities together with the [[Bounded Context]] that they below[^3]
 
 ![[event-storming.png]][^2]

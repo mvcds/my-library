@@ -1,6 +1,6 @@
  A way to control how different [[Microservice]]s of an application share data with one another.
  
- Unlike other systems for managing this communication, a [[service]] mesh is a dedicated infrastructure layer built right into an app. This visible infrastructure layer can document how well (or not) different parts of an app interact, so it becomes easier to optimize communication and avoid downtime as an app grows.
+ Unlike other [[system]]s for managing this communication, a [[service]] mesh is a dedicated infrastructure layer built right into an app. This visible infrastructure layer can document how well (or not) different parts of an app interact, so it becomes easier to optimize communication and avoid downtime as an app grows.
  
  Normally a service mesh is built into an app as an array of network proxies.
  

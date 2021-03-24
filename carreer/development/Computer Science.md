@@ -2,7 +2,7 @@
 aliases: [System Science]
 ---
 
-There are two systems that science understands
+There are two [[systems|systems]] that science understands
 
 - Aggregates (gas, molecules in a box, etc)
 - Machines (clocks, washing machines, etc)

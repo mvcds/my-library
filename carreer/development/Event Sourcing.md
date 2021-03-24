@@ -12,7 +12,7 @@ It's possible to replay those events to understand how they have affected the sy
 
 # Downs
 
-- Dealing with events that rely on external systems
+- Dealing with events that rely on external [[system]]s
 - Changes on event structures
 - Large amount of events take a lot of time
 - 

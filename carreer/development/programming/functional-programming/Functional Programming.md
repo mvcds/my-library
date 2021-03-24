@@ -4,4 +4,4 @@ According to [[Peter Van Roy]] in [[Programming Paradigms for Dummies - What Eve
 
 ---
 
-It's not a silver bullet, some say it should be reserved for [[State]]less systems
+It's not a silver bullet, some say it should be reserved for [[State]]less [[system]]s

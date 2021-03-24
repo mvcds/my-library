@@ -10,7 +10,7 @@ The Publishers send messages to the broker instead of sending directly to the Su
 
 ---
 
-Best way to do it is using [[message|messaging]] systems
+Best way to do it is using [[message|messaging]] [[system]]s
 
 ---
 

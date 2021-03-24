@@ -2,7 +2,7 @@ FHS defines the structure of file systems on [[Linux]] and other UNIX-like [[OS]
 
 # Directories
 
-* `/` – The Root Directory: the system's first folder
+* `/` – The Root Directory: the [[system]]'s first folder
 * `/bin` – Essential User Binaries: essential programs that must be present when the system is mounted in single-user mode
 * `/boot` – Static Boot Files: contains files needed to boot system, though their configurations are stored in `/etc`
 * `/dev` – Device Files: contains special files representing devices, physical (hardware) and virtual (software) e.g. `/dev/random` produces random numbers

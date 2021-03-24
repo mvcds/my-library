@@ -1,3 +1,7 @@
+---
+aliases: [Type]
+---
+
 A logical [[system]] comprising a set of rules that assigns a [[Property]] called a [[Type]] to the various constructs of a [[Computer]] program, such as variables, [[Expression]], [[Function]] or modules.
 
 These types formalize and enforce the otherwise implicit categories the programmer uses in [[Code]].

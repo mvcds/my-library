@@ -1,4 +1,4 @@
-You have to pick some of those to be more important in you [[Software Architecture]][^1], they help you overcome challenges with IT systems.
+You have to pick some of those to be more important in you [[Software Architecture]][^1], they help you overcome challenges with IT [[system]]s.
 
 - [[Performance]]
 - [[Availability]]

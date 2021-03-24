@@ -6,4 +6,4 @@ To trust there are many factors to take into consideration like age, shape, issu
 
 Different contexts might see the same piece of data with different levels of trust[^1]
 
-[^1]: For instance [[Bounded Context]] or external systems
+[^1]: For instance [[Bounded Context]] or external [[system]]s

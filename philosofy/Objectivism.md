@@ -1,4 +1,4 @@
-A philosophical system created by [[Ayn Rand]]
+A philosophical [[system]] created by [[Ayn Rand]]
 
 > The concept of man as a heroic being, with his own happiness as the moral purpose of his life, with productive achievement as his noblest activity, and reason as his only absolute
 

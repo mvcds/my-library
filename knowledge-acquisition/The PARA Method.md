@@ -1,6 +1,6 @@
 https://fortelabs.co/blog/para/
 
-# A Universal System for Organizing Digital [[Information]]
+# A Universal [[System]]  for Organizing Digital [[Information]]
 
 ![[the-para-method-lists.png]]
 

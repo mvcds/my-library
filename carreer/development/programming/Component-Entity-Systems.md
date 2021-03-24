@@ -1,6 +1,6 @@
 https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/
 
-Tackles the problem with hierarchy in [[Object-Oriented Programming|OOP]] where we end-up with very rigid [[class]] structures by [[Abstraction|abstracting]] [[data]] and logic to different parts of the system
+Tackles the problem with hierarchy in [[Object-Oriented Programming|OOP]] where we end-up with very rigid [[class]] structures by [[Abstraction|abstracting]] [[data]] and logic to different parts of the [[system]]
 
 **Probably, Unity is made like this**
 
