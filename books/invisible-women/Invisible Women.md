@@ -1,1 +1,1 @@
-A book about bias against women by [[Caroline Criado Perez]]]
+A book about bias against women by [[Caroline Criado Perez]]

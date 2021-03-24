@@ -1,3 +1,0 @@
-In transport [[system]], for instance, women navigation patterns tend to be more [[Complicated vs Complex|complicated]] because we delegate them child and elderly care, together with a lot of unpaid work, so they spend more time from place to place and need to use more transfer.
-
-Given the [[pay gap]], this implies on them using more public transport, which are also designed to optimize access to workplaces from which they are partially excluded, not to mention that they might be less secure due to arrastments which can sometimes be dismissed as "the transport was too crowed".
