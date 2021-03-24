@@ -1,3 +1,7 @@
+---
+aliases: [Programming Languages, Language, Languages]
+---
+
 A way for humans to interact with [[Computer]]s
 
 It's heavily influenced by [[Linguistics]], so we get terms like [[Syntax]] and [[Semantics]]
