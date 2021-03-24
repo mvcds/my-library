@@ -1,4 +1,4 @@
-The long Friday was a finish national strike where more than 90% of women didn't do any kind of job (paid or not), and went to rallies. In the following year there was a passed act for gender equality.
+The long Friday was a Icelandic national strike where more than 90% of women didn't do any kind of job (paid or not), and went to rallies. In the following year there was a passed act for gender equality.
 
 But in most countries women relationship with work is more complicated.
 
