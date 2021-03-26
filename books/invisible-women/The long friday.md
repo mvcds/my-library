@@ -9,3 +9,7 @@ Women normally have to have multiple income sources to make as much as men, so t
 Not only this, due to taking care of house, children, etc, they normally go to part part time jobs, which have worse payments, not to mention that for "educated" services (like in an office, as opposed to a waitress), they are pretty rare, so they'd earn less anyway.
 
 On top of this women normally have less free time than men because of unpaid tasks plus the issue of transport discussed on [[Can snow-clearing be sexist?]].
+
+---
+
+Understanding of [[Invisible Women]]

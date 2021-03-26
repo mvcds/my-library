@@ -2,4 +2,4 @@ Giving that [[The goverment is just a bunch of people with the same selfish moti
 
 ---
 
-Blink of [[A little story of economics]]
+Understanding of [[A little story of economics]]

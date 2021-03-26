@@ -6,4 +6,4 @@ Gender also plays a role here, as [[The default male|men]] sets the the rule of 
 
 ---
 
-Blink of [[A little story of economics]]
+Understanding of [[A little story of economics]]

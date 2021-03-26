@@ -10,4 +10,8 @@ This turns moms the only responsible for looking the children and, due to the so
 
 So in the end some prefer not to move from the favelas, while others who do tend to give up their formal jobs to be able to work at home.
 
+---
+
+Understanding of [[Invisible Women]]
+
 [^1]: Favelas are irregular terrain occupations, so they appear by necessity, and normally this necessity is work, [[Can snow-clearing be sexist?|tranposrtation]] is less necessary if you live close to it

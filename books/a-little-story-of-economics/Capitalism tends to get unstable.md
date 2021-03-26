@@ -10,4 +10,4 @@ This can be explained by what [[Raimond Minsk]](?) believes to be the consequenc
 
 ---
 
-Blink of [[A little story of economics]]
+Understanding of [[A little story of economics]]

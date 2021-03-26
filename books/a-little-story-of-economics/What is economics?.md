@@ -4,4 +4,4 @@ And thought such differences are hard to contemplate, economists are asking thos
 
 ---
 
-Blink of [[A little story of economics]]
+Understanding of [[A little story of economics]]

@@ -6,4 +6,4 @@ In his book Smith paves the way to industrialized work, as everybody works bette
 
 ---
 
-Blink of [[A little story of economics]]
+Understanding of [[A little story of economics]]

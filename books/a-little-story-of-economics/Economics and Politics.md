@@ -8,4 +8,4 @@ We have bad examples of this happening like in Uganda(?) but also good examples,
 
 ---
 
-Blink of [[A little story of economics]]
+Understanding of [[A little story of economics]]

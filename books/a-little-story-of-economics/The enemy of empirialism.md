@@ -10,4 +10,4 @@ This was enforced by wealthy people showing off in comfortable lives like if the
 
 ---
 
-Blink of [[A little story of economics]]
+Understanding of [[A little story of economics]]
