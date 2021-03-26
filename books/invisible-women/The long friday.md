@@ -10,6 +10,18 @@ Not only this, due to taking care of house, children, etc, they normally go to p
 
 On top of this women normally have less free time than men because of unpaid tasks plus the issue of transport discussed on [[Can snow-clearing be sexist?]].
 
+Even office policies have often are designed to promote those who work more hours, and can attend to social events - often [[The default male]].  As those things take time that normally women are using with unpaid work, they don't benefit from it.
+
+Even parental leaves are designed around this. Most countries offer fewer time than health authorities recommend (7 to 12 months) and/or paying only a fraction of the wage
+
+Some even have policies designed to "give" parents a choice of who will be benefited (or less hurt) by the leave. Often the choice is made in ways that are favorable to the father, as he'll have more chances anyway
+
+Ironically, finish and Icelandic policies are designed in ways that force the parents to take leaves or they'll lose them - so they start to take them
+
+And if a father gets involved in the child upbringing from beginning they are more likely to keep doing this through their lives
+
+Some cultures, like Japanese, are too much focused on work, so employees are even informally penalized if they use their leaves
+
 ---
 
 Understanding of [[Invisible Women]]
