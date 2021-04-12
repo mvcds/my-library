@@ -1,6 +1,6 @@
 By the end of 20th century, risk financial behavior led to catastrophic losses.
 
-People do not take rational decisions when emotive with the prospect of getting rich, something that investing makes people think will be the natural course of events.
+People do not take [[rationality|rational]] decisions when emotive[ˆ1] with the prospect of getting rich, something that investing makes people think will be the natural course of events.
 
 When bubbles burst, people lose everything.
 
@@ -11,3 +11,5 @@ This can be explained by what [[Raimond Minsk]](?) believes to be the consequenc
 ---
 
 Understanding of [[A little story of economics]]
+
+[^1]: [[Negotiaions are not fully rational]]

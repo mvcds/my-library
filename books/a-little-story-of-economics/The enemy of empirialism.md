@@ -4,7 +4,7 @@ The [[USSR]], which [[Lenin]] called "The enemy of empirialism" was an extreme o
 
 Despite this, some come to believe that some level of government intervention should be acceptable because individuals (citizens or companies) might damage economy even without intention.
 
-Others went to the other way and said [[Prices regulated by the government are meaningless unless people know what money represents]], therefore [[Capitalism]] was the only rational option.
+Others went to the other way and said [[Prices regulated by the government are meaningless unless people know what money represents]], therefore [[Capitalism]] was the only [[rationality|rational]] option.
 
 This was enforced by wealthy people showing off in comfortable lives like if they didn't have to work, what caused the workforce to aim for it and work harder to achieve it, even though it is not sustainable.
 

@@ -1,6 +1,6 @@
 The desired outcome of a military operation. It is made out of 8 facets
 
-- Mission/[[Goal]]: The purpose of the task (the higher-level goals). It provides the rationale why it should be executed.  It's regularly stated in one sentence following on the form of Who, What, When, Where and Why, or described by using a [[Compound State]]
+- Mission/[[Goal]]: The purpose of the task (the higher-level goals). It provides the [[rationality|rationale]] why it should be executed.  It's regularly stated in one sentence following on the form of Who, What, When, Where and Why, or described by using a [[Compound State]]
 - End-State: The desired outcome describes a situation. Can be described by a short test, or using a [[Compound State]]
 - Sequence: The sequence of steps in the plan
 - Initial State: Builds the rationale for the plan, what information was available, who was making the decisions, under what time pressure and similar circumstances. Initial State encompass own and other forces, adversaries, operating environment, terrain, time, preparation for future operations.
