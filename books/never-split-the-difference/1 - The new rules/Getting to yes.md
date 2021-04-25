@@ -5,6 +5,8 @@ The things to remember
 - Generate win-win situations
 - Mutually agree on solutions
 
+(Due to an error I made, the next file of this folder should be [[Feeling is a form of thinking]])
+
 ---
 
 Understanding of [[Never Split The Difference]]
