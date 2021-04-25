@@ -1,5 +1,7 @@
 ---
-aliases: [Feelings]
+aliases: [Feelings, Thought, Thoughts]
 ---
 
-The rationalization of an [[Emotion]] is what we come to understand as feeling
+The rationalization[^1] of an [[Emotion]]. And as such it might have many levels, complexity and layers.
+
+[^1]: [[Feeling is a form of thinking]]
