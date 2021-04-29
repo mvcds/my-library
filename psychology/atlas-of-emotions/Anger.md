@@ -1,0 +1,1 @@
+We get angry when something blocks us or when we think we're being treated unfairly.

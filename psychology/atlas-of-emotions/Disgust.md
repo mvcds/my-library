@@ -1,0 +1,1 @@
+Feeling disgusted by what is toxic helps us to avoid being poisoned, physically or socially.

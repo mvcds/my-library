@@ -1,0 +1,1 @@
+Our fear of danger lets us anticipate threats to our safety.
