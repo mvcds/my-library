@@ -13,7 +13,7 @@ Good usages
 - Browser extensions
 - Graphic Designer Apps
 
-It is a very flexible pattern with a clear separations of concerns which allows teams to work separately (with their own style of work). Functional-wise, it allows the behavior of the app to change during runtime
+It is a very flexible pattern with a clear separations of concerns which allows teams to work separately (with their own style of work). Functional-wise, it allows the [[behavior]] of the app to change during runtime
 
 The tradeoffs for its advantages is that the API might be limiting for future plugins and that it's not possible to trust the security of a plugin, not to mention that it is a struggle to identify what belongs to the core and what belongs to each plugin
 

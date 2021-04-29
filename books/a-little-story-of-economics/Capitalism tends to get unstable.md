@@ -1,4 +1,4 @@
-By the end of 20th century, risk financial behavior led to catastrophic losses.
+By the end of 20th century, risk financial [[behavior]] led to catastrophic losses.
 
 People do not take [[rationality|rational]] decisions when emotive[ˆ1] with the prospect of getting rich, something that investing makes people think will be the natural course of events.
 

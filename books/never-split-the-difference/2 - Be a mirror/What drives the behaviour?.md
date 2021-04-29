@@ -1,4 +1,4 @@
-Identify the primary [[Emotion]] that drives the behavior is a must for a good [[negotiation]]
+Identify the primary [[Emotion]] that drives the [[behavior]] is a must for a good [[negotiation]]
 
 ---
 

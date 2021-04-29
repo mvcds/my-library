@@ -1,4 +1,4 @@
-As it's mentally expensive for animals to do new stuff, evolution has equipped us with habits: automation of our own behaviors.
+As it's mentally expensive for animals to do new stuff, evolution has equipped us with habits: automation of our own [[behavior]]s.
 
 Some habits are bad, and you might make a [[Goal]] to get rid of them; but some are good to the point that you want to do them daily.
 

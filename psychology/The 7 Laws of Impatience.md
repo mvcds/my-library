@@ -6,7 +6,7 @@ https://www.psychologytoday.com/us/blog/clear-organized-and-motivated/201411/the
 4. **Impatience and indignation are a potent combination**: We’re in special danger of making an [[rationality|irrational]] choice when we run into unexpected costs, _and we think the extra costs are someone else’s fault_.
 5. **We're more likely to feel impatience when we have more options**: due to the [[Paradox of Choice]]
 6. **Impatience can cost us**:
-7. **Impatience can benefit us**:  Impatience is in our emotional-behavioral repertoire for a reason: When hunter-gatherers spent two days pursuing game and found nothing, it was good to grow impatient. It was good to consider the possibility that another food-acquisition strategy (gathering) might be better at that point.
+7. **Impatience can benefit us**:  Impatience is in our [[Emotion|Emotional]]-[[behavior|behavioral]] repertoire for a reason: When hunter-gatherers spent two days pursuing game and found nothing, it was good to grow impatient. It was good to consider the possibility that another food-acquisition strategy (gathering) might be better at that point.
 
 How to fight it: [[Knowledge]]!
 
