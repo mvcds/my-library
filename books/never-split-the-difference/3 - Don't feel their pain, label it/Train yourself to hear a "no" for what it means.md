@@ -8,6 +8,10 @@ Train yourself to hear a "[[Handling "no"s|no]]" as one of the following
 - I need more [[information]]
 - I need to discuss it with someone else[^2]
 
+---
+
+Understanding of [[Never Split The Difference]]
+
 [^1]: Due to [[Anger]], [[Fear]], [[Disgust]] or [[Sadness]]
 [^2]: Relates to [[Autonomy]]
 [^3]: Might be economic, political, social or other ways of capital

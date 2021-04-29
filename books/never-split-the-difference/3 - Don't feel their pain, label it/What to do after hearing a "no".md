@@ -3,3 +3,7 @@ After hearing a "[[Train yourself to hear a "no" for what it means|no]]", pause 
 - What about this doesn't work for you?
 - What do you need to make it work?
 - It seems like you're bothering for XXX
+
+---
+
+Understanding of [[Never Split The Difference]]
