@@ -1,6 +1,6 @@
 We're animals mainly driven by
 
-- Fear
+- [[Fear]]
 - Need
 - Perception
 - Desire

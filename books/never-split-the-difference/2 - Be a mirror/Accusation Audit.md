@@ -4,6 +4,8 @@ An accusation audit shows that you have a lot of [[Empathy]] for the other witch
 
 Normally, the other will listen to your Accusation Audit and it will sound exaggerated, reducing the problem.
 
+You should do it with [[A positive frame of mind]].
+
 ---
 
 Understanding of [[Never Split The Difference]]

@@ -1,6 +1,6 @@
-[[Labeling]] makes the other less tense, as it might expose negative [[Feeling|Thoughts]]
+[[Labeling]] makes the other less tense, as it might expose negative [[Feeling is a form of thinking|thoughts]]
 
-Such exposure makes them less frightening.
+Such exposure makes them less [[Fear|frightening]].
 
 ---
 
