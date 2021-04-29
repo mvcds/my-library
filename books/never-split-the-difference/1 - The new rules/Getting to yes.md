@@ -1,4 +1,4 @@
-The things to remember
+The things to remember[^1]
 
 - The others are not the problem: the situation is
 - Understand the underlying reasons behind what they are asking for: the **[[Five whys|whys]]** not the [[Calibrated Question|whats]]
@@ -12,3 +12,5 @@ The things to remember
 Understanding of [[Never Split The Difference]]
 
 #learn 
+
+[^1]: [[Don't push for an "yes"]]
