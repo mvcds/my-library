@@ -5,5 +5,3 @@ Some habits are bad, and you might make a [[Goal]] to get rid of them; but some 
 In this framework, the most important thing you can do is develop the habit of [[Working Towards Your Goals]], which make habits a vital tool in our behavioral box.
 
 Habits take around 66 days to form, so at the beginning you have to actively do them daily.
-
-#complement 
