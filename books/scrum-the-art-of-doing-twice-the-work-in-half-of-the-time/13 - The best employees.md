@@ -10,4 +10,4 @@ So, how can we apply this discovery in the business world? Well, if you are a ma
 
 #quote from [[0 - Scrum - The Art of Doing Twice the Work in Half the Time]]
 
-#lear
+#learn
