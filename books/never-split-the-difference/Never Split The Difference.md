@@ -1,1 +1,0 @@
-A book about how to improve your [[negotiation]] skill by [[Chris Voss]]
