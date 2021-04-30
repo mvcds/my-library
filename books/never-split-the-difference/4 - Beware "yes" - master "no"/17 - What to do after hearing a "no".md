@@ -7,3 +7,5 @@ After hearing a "[[7 - Train yourself to hear a "no" for what it means|no]]", pa
 ---
 
 Understanding of [[0 - Never Split The Difference]]
+
+#learn
