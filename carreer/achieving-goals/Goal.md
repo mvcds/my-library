@@ -1,3 +1,7 @@
+---
+aliases: [Goals]
+---
+
 An [[Abstraction|abstract]] idea that you want to achieve. Such achievement seldom happens by chance, so you have to take some active steps towards it.
 
 Depending on your goal, you'll have different ways to evaluate if you have achieved it. For instance "writing a book", though not a simple process, requires way more an empirical observation than "be happy" - which is subjective.
