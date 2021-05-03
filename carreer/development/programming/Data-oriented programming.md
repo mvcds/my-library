@@ -16,7 +16,7 @@ And concepts
 
 - [[Abstraction]]
 - [[Concretion]]
-- [[Identity]]
+- [[carreer/development/programming/Identity|Identity]]
 - [[Information]]
 - [[Loose coupling]]
 - Maybe: a propriety of the [[Aggregate]], not the field

@@ -8,6 +8,6 @@ It's backbone is the model
 
 ---
 
-It tries to identity **roles** for [[Entity in DDD|entitites]][^1]
+It tries to identify **roles** for [[Entity in DDD|entitites]][^1]
 
 [^1]: Check [[Actors and Roles]]
