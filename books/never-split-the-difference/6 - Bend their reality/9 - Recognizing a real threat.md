@@ -1,7 +1,7 @@
-When someone threats you have to keep an eye in two factors to see if the threat is real or not
+When someone [[8 - The ambiguity of a threat|threats]] you have to keep an eye in two factors things and evaluate how specific they are
 
-- The closer the real consequences can be
-- A real specific [[time]] is given
+- The real consequence
+- The [[time]]
 
 ---
 
