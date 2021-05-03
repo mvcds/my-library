@@ -8,4 +8,4 @@
 # Quantitative 
 
 - Ratio: have absolute zeros e.g. [[Number]]s (under context) and kelving degrees
-- Interval: do not have absolute zeros e.g. [[Number]]s (under context) and celsius/farenheit degrees
+- Interval: do not have absolute zeros e.g. [[Number]]s (under context) and Celsius/Fahrenheit degrees
