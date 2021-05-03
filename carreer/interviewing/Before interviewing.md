@@ -1,4 +1,4 @@
 - Think if how your skills match the job description
 - Think about the things you like and how they relate to the traits that fit the job
-- Think why you should be hired
+- Think [[Five whys|why]] you should be hired
 - Think how you'd compensate lack of experience with something you never faced before
