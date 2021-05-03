@@ -3,7 +3,7 @@ Some principle for you to have in your head when writing [[Code]] that you want 
 - ![[Basic principles]]
 - ![[Calisthenic]]
 - ![[DRY Principle]]
-- ![[KISS Principle]]
+- ![[Keep it simple, stupid]]
 - ![[Tell, don't ask]]
 - ![[YAGNI Principle]]
 - ![[SOLID Principles]]

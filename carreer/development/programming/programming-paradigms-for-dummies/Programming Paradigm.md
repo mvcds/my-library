@@ -8,4 +8,4 @@ They influence the [[Design]] of the [[Programming Language]] due to the [[Kerne
 
 ---
 
-Most of the time, a paradigm has to allow [[Turing Completetude]] to be useful
+Most of the [[time]], a paradigm has to allow [[Turing Completetude]] to be useful

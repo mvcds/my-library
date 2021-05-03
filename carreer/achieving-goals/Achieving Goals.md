@@ -4,7 +4,7 @@ It was based on [[Lean Startup]], [[Agile]], [[Domain-Driven Design]] and [[Comm
 
 ---
 
-There are many things that we want to do with our lives, we want to achieve stuff. But more often than not, we get trapped into investing our time on things that actually have no real, deep meaning for ourselves.
+There are many things that we want to do with our lives, we want to achieve stuff. But more often than not, we get trapped into investing our [[time]] on things that actually have no real, deep meaning for ourselves.
 
 And even when we get the time to do so, human nature works against us - we take our eyes off the game, we have emergencies, we get dragged into something more immediately appealing, etc.
 

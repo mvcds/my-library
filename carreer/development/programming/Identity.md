@@ -1,6 +1,6 @@
 On [[Data-oriented programming]]
 
-A **stable** logical [[Entity]] that humans or programs associate with a series of different **[[Value]]s** over **time**.
+A **stable** logical [[Entity]] that humans or programs associate with a series of different **[[Value]]s** over **[[time]]**.
 
 An identity is not the same as a name.
 

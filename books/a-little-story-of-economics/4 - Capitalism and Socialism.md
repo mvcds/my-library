@@ -1,6 +1,6 @@
 On 19th century, industrialization attenuated the difference between workers and [[Capitalism|capitalists]].
 
-Some rules even tried to easy the workers burden by approving some laws that would allow them to have an easier access to food and another necessities but due to the mentalities of the time, they faced resistant from their co-rulers.
+Some rules even tried to easy the workers burden by approving some laws that would allow them to have an easier access to food and another necessities but due to the mentalities of the [[time]], they faced resistant from their co-rulers.
 
 In general, the idea that if people worked hard is enough they'd go out of poverty.
 

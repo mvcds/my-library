@@ -5,5 +5,5 @@ The theory is that people tend to naturally give love in the way that they prefe
 - Acts of service
 - Gift-giving
 - Physical touch
-- Quality time
+- Quality [[time]]
 - Words of affirmation

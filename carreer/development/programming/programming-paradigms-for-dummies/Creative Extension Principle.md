@@ -6,4 +6,4 @@ This keeps the [[Code]] as simple as it can be regarding solving the problem.
 
 ---
 
-Every time you need pervasive (non-local) modifications to handle a new concept, this is a sign.
+Every [[time]] you need pervasive (non-local) modifications to handle a new concept, this is a sign.

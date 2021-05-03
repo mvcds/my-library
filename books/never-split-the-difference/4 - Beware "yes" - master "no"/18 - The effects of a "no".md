@@ -1,4 +1,4 @@
-The person who says "no" creates a safe self time to be [[Keeping control|keep the control]] ans [[7 - Slow it down|slow things down]].
+The person who says "no" creates a safe self [[time]] to be [[Keeping control|keep the control]] ans [[7 - Slow it down|slow things down]].
 
 ---
 

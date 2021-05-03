@@ -26,7 +26,7 @@ They should never be killed upfront, put into a prioritization deathmatched, fav
 
 # Step-Projects
 
-We break the bigger project behind the idea into small step-projects, each no more than 10 weeks long, and execute them one at a time.
+We break the bigger project behind the idea into small step-projects, each no more than 10 weeks long, and execute them one at a [[time]].
 
 In accordance with Lean-Startup’s Build-Measure-Learn principle, each step-project is actually an experiment that tests the idea. In a successful progression we will put in each step-project a somewhat more complete version of the idea in front of more users for a longer duration of time.
 

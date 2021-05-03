@@ -14,7 +14,7 @@ It's possible to replay those events to understand how they have affected the [[
 
 - Dealing with events that rely on external systems
 - Changes on event structures
-- Large amount of events take a lot of time
+- Large amount of events take a lot of [[time]]
 
 ---
 

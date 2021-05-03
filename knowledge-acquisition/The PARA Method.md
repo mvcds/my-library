@@ -20,7 +20,7 @@ https://fortelabs.co/blog/para/
 **P.A.R.A. stands for Projects — Areas — Resources — Archives**, the four top-level categories that encompass every type of [[information]] you might encounter in your work and life
 
 - A **project** is “a series of tasks linked to a [[Goal]], with a [[deadline]].”
-- An **area of responsibility** is “a sphere of activity with a standard to be maintained over time.”
+- An **area of responsibility** is “a sphere of activity with a standard to be maintained over [[time]].”
 - A **resource** is “a topic or theme of ongoing interest.”
 - **Archives** include “inactive items from the other three categories, like projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in
 

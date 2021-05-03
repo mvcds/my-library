@@ -6,4 +6,4 @@ An #acronym for how [[Testing]] should be performed
 - Isolated: [[Root Cause|failure reasons]] become obvious
 - Repeatable: Present [[Determinism]] regardless of order and time
 - Self-validating: [[Automate Everything]]
-- Timely: Practice [[Test-Driven Design]]
+- [[Time]]ly: Practice [[Test-Driven Design]]

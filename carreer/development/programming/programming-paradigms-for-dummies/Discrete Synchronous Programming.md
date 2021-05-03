@@ -11,4 +11,4 @@ Output events are emitted at the same logical instant as the input, like a [[Mea
 Clocked digital logic works like this
 
 - Combination circuits are instantaneous (happen withing the same cycle)
-- Sequential circuits are sequential (they happen in multiple cycles, they "take time")
+- Sequential circuits are sequential (they happen in multiple cycles, they "take [[time]]")

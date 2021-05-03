@@ -30,5 +30,5 @@ We can also derivate a [[Classes-Responsibilities-Collaborator|CRC]] from it
 #learn
 
 [^1]: It is not recommended to start [[Code|coding]] if there are still question post-its
-[^2]: He uses an "X" to indicate the end of the flow, the doll (green) to indicate human and the hourglass (pink) to indicate time passing - if events are stacked up, they are happen in [[Parallelism|parallel]]
+[^2]: He uses an "X" to indicate the end of the flow, the doll (green) to indicate human and the hourglass (pink) to indicate [[time]] passing - if events are stacked up, they are happen in [[Parallelism|parallel]]
 [^3]: He uses a line to separate the entity (top) from the context (bottom)

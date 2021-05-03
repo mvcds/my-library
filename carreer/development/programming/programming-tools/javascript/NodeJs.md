@@ -1,4 +1,4 @@
-A [[Javascript]] runtime built on [[Chrome]]'s V8 JavaScript engine.
+A [[Javascript]] [[runtime]] built on [[Chrome]]'s V8 JavaScript engine.
 
 (JS on server)
 

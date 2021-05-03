@@ -6,7 +6,7 @@ A [[Programming Paradigm]] where the programs are functional but the arguments o
 
 It accepts [[Nondeterminism|nondeterministic]] inputs but does not adds its own [[Nondeterminism]], which sets it apart from [[Nonmonotonic Dataflow]].
 
-Its arguments are [[Continous Functions]] of totally order variable e.g. time and size.
+Its arguments are [[Continous Functions]] of totally order variable e.g. [[time]] and size.
 
 Its implementations recompute only when the values change and are needed.
 

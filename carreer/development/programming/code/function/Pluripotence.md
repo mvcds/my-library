@@ -1,1 +1,1 @@
-The [[Property]] of a [[Function]] that has an effect every time it's called.
+The [[Property]] of a [[Function]] that has an effect every [[time]] it's called.

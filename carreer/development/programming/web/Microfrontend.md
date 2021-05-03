@@ -29,7 +29,7 @@ Some microfrontend implementations can lead to duplication of dependencies, incr
 * How to handle common parts like footer, header, etc?
 * How to know when and where to render each part?
 * Manage each part as a dependency?
-* Runtime or build time? (Build time seems to reintroduce the problems)
+* [[Runtime]] or build time? (Build time seems to reintroduce the problems)
 * Iframes, scripts to load different bundles (JS) or  [[Web Component]]s? (Iframes are the less flexible choice)
 * Functional or contractual testing[ˆ1]? (Functional seems too brittle)
 * How to keep the size of the app low?

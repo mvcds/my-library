@@ -27,4 +27,4 @@ https://martinfowler.com/bliki/TwoHardThings.html
 
 http://composition.al/CMPS290S-2018-09/2018/11/17/time-is-partial-or-why-do-distributed-consistency-models-and-weak-memory-models-look-so-similar-anyway.html
 
-> There’s only one hard problem in computer science: recognizing that [[Cache]] invalidation errors are misnamed. They’re just off-by-one errors in the time domain.
+> There’s only one hard problem in computer science: recognizing that [[Cache]] invalidation errors are misnamed. They’re just off-by-one errors in the [[time]] domain.

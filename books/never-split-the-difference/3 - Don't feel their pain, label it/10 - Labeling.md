@@ -2,7 +2,7 @@
 aliases: [Label, Labels]
 ---
 
-The act of "call out" somebody's else [[Emotion|Emotions]] and repeat them back is a [[10 - Tactical Empathy|tactical]] move, not a strategy - it allows the other to know you [[knowledge|acknowledge]] what they are saying at the same time, buys you time.
+The act of "call out" somebody's else [[Emotion|Emotions]] and repeat them back is a [[10 - Tactical Empathy|tactical]] move, not a strategy - it allows the other to know you [[knowledge|acknowledge]] what they are saying at the same [[time]], buys you time.
 
 The other also understands labeling as a way of you validating what they say[^1], so it makes them less tense[^2]. It shows them we understand.
 

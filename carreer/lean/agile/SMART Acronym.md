@@ -6,4 +6,4 @@ https://en.wikipedia.org/wiki/SMART_criteria
  - Measurable
  - Achievable
  - Relevant
- - Time-boxed
+ - [[Time]]-boxed

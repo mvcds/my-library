@@ -4,7 +4,7 @@ The circuit breaker has three states.
 
 - Closed: it works as intended, when an error happens, it opens the state
 - Open: it avoids finishing the normal circuit
-- Half Open: it tries to test waters after some wait time, to see if the problem still exists, and it changes the state to close/open accordingly to the result
+- Half Open: it tries to test waters after some wait [[time]], to see if the problem still exists, and it changes the state to close/open accordingly to the result
 
 ---
 

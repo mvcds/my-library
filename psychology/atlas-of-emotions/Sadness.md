@@ -1,4 +1,4 @@
-Sadness is a response to loss, and feeling sad allows us to take a timeout and show others that we need support.
+Sadness is a response to loss, and feeling sad allows us to take a [[time|timeout]] and show others that we need support.
 
 Responses:
 

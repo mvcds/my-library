@@ -10,7 +10,7 @@ It has 5 different hypotheses
 
 The **monitor** acts in a planning, editing, and correcting function when three specific conditions are met: that is,
 
-1. the second [[Language]] learner has sufficient time at his/her disposal
+1. the second [[Language]] learner has sufficient [[time]] at his/her disposal
 2. he/she focuses on the form or thinks about correctness
 3. and he/she knows the rule
 

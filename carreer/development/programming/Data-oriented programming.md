@@ -20,6 +20,6 @@ And concepts
 - [[Information]]
 - [[Loose coupling]]
 - Maybe: a propriety of the [[Aggregate]], not the field
-- Names: **Names** are a fundamental property of information. However, in [[Static Type System|statically-typed]] languages, names compile away. There exist at compile time but not a run time. At run time, a field cannot be access **dynamically** by its name. In order to access data, we are required to import the definition of the class that contains the data.
+- Names: **Names** are a fundamental property of information. However, in [[Static Type System|statically-typed]] languages, names compile away. There exist at compile [[time]] but not a run time. At run time, a field cannot be access **dynamically** by its name. In order to access data, we are required to import the definition of the class that contains the data.
 - [[State]]
 - [[Value]]

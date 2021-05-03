@@ -1,6 +1,6 @@
 So [[Joel Spolsky,]] who studied Eisenstat's discipline in the 80s and now has his own software company, compared the data with the grades people got.
 
-He wanted to discover if there was any relation between time spent in a project and the student's grade. Curiously, there ain't.
+He wanted to discover if there was any relation between [[time]] spent in a project and the student's grade. Curiously, there ain't.
 
 Some people work fast and get a 10, others execute their task meticulous and get the same results.
 

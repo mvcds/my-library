@@ -1,6 +1,6 @@
 Constructing a program as independent parts.
 
-Even making one instruction to be executed after the other already create a dependency based on time[^1]
+Even making one instruction to be executed after the other already create a dependency based on [[time]][^1]
 
 For [[Computer]], we can identify 3 levels of [[Concurrency]]
 
