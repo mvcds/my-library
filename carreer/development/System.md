@@ -2,7 +2,7 @@
 aliases: [Systems]
 ---
 
-A group of [[Entity|Entities]] interacting withing a giving [[Context]].
+A group of [[Entity|Entities]] interacting withing a giving [[context]].
 
 A system has some attributes #complement which can be attributed to it, and we can look to it from different angles and levels, which make us understand them differently every [[time]].
 

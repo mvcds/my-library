@@ -5,7 +5,7 @@
 
 [^1]: Check [[Numerical vs Categorical Values]]
 
-# Quantitative 
+# Quantitative
 
-- Ratio: have absolute zeros e.g. [[Number]]s (under context) and kelving degrees
-- Interval: do not have absolute zeros e.g. [[Number]]s (under context) and Celsius/Fahrenheit degrees
+- Ratio: have absolute zeros e.g. [[Number]]s (under [[context]]) and kelving degrees
+- Interval: do not have absolute zeros e.g. [[Number]]s (under [[context]]) and Celsius/Fahrenheit degrees

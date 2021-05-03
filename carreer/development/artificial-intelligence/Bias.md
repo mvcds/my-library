@@ -10,4 +10,4 @@ A **[[Bias|biased]]** dataset does not accurately represent a [[Model]]'s use ca
 
 In [[Machine Learning|ML]] there are as many biases as there are outputs
 
-Under the [[Linear Model]] context
+Under the [[Linear Model]] [[context]]
