@@ -2,7 +2,7 @@
 - Fonts?: no
 - Stylesheets?: **yes**
 
-It's possible to encode assets into [[CSS]] to load them at the same [[time]] as the stylesheet. eg. images and font on CSS.
+It's possible to encode assets into [[Cascading Style Sheet|CSS]] to load them at the same [[time]] as the stylesheet. eg. images and font on CSS.
 
 Compressing CSS with images is less efficient, and over the network, embedding an image into a file text will delay the file text to arrive, if the file text is critical to page rendering (as is CSS), the page will be blocked until the request finishes.
 

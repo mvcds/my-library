@@ -1,3 +1,7 @@
+---
+aliases: [JS]
+---
+
 A [[Weak Type System|weak]] and [[Dynamic Type Systemn|dynamic]] [[Programming Language]] 
 
 It runs the [[Internet]]
@@ -21,3 +25,7 @@ console.log(typeof aaa()); //'undefined', not '{ test: 1 }'
 * JS may cast an object or [[function]] to a primitive string or number, when a primitive value is expected
 	* `toString`
 	* `valueOf`
+
+---
+
+One of the 3 cornerstones of the [[World Wide Web]]

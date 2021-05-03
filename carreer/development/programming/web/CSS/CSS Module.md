@@ -1,4 +1,4 @@
-A CSS Module is a [[CSS]] file in which all class names and animation names are scoped locally by default
+A CSS Module is a [[Cascading Style Sheet|CSS]] file in which all class names and animation names are scoped locally by default
 
 CSS Modules compile to [[Interoperable CSS]], thought they are written in normal CSS
 

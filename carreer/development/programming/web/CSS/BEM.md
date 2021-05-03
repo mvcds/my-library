@@ -1,3 +1,3 @@
 http://getbem.com/introduction/
 
-A [[CSS]] methodology centered around "Block, Element and Modifier"
+A [[Cascading Style Sheet|CSS]] methodology centered around "Block, Element and Modifier"

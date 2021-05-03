@@ -1,4 +1,4 @@
-A way to encapsulate [[CSS]] styles. by using hidden [[DOM]] trees to be attached to elements in the regular DOM tree (the Shadow DOM can be attached/removed/edited just like a regular DOM tree)
+A way to encapsulate [[Cascading Style Sheet|CSS]] styles. by using hidden [[DOM]] trees to be attached to elements in the regular DOM tree (the Shadow DOM can be attached/removed/edited just like a regular DOM tree)
 
 There are some bits of shadow DOM terminology to be aware of:
 
@@ -14,4 +14,3 @@ There are some bits of shadow DOM terminology to be aware of:
 If you attach a shadow root to a custom element with mode "closed", you won't be able to access the shadow DOM from the outside. Consulting it returns null.
 
 This is the case with built in elements that contain shadow DOMs, such as <video> (which has internal controls which are hidden).
-
