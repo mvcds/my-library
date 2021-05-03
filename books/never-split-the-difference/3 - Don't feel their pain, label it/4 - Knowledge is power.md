@@ -1,4 +1,4 @@
-[[Knowledge]] is power, so you must trigger the other to talk
+[[Knowledge]] is power, so you must trigger the other to talk, so you have more leverage in the [[negotiation]]
 
 ---
 

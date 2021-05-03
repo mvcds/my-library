@@ -1,4 +1,4 @@
-Even though they are often arbitrary and hardly have "deadly" consequences, deadlines trick us to get the deal [[time|fast]] at expense of its quality.
+Even though they are often arbitrary and hardly have "deadly" consequences, [[4 - Time is the most crucial thing in a negotiaion|deadlines]] trick us to get the deal [[time|fast]] at expense of its quality.
 
 They case pressure and anxieties due to its possible consequences: we can [[Loss Aversion|lose]] something in the future.
 
