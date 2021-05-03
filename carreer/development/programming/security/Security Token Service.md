@@ -1,1 +1,1 @@
-Or STS, is [[web service]] that issues security tokens
+Or STS, is [[web service]] that issues [[Security Token|Security Tokens]]
