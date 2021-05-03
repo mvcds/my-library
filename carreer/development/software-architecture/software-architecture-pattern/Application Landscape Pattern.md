@@ -3,6 +3,6 @@ The "ecosystem" of the [[Software]] i.e. the end-user might be seeing a single a
 - [[Monolithic Architecture]]
 - [[Layered Architecture]]
 - [[Service-Oriented Architecture]]
-- [[Microservice]]
+- [[Microservice Architecture]]
 - [[Serverless Architecture]]
 - [[Peer-to-Peer Architecture]]

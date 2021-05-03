@@ -2,4 +2,4 @@
 
 #quote 
 
-Useful in the context of [[Microservice]]s
+Useful in the context of [[Microservice Architecture|Microservices]]

@@ -1,3 +1,7 @@
+---
+aliases: [Microservice, Microservices]
+---
+
 A kind of [[Software Architecture]] where you have multiple independent services (machine, code and data) which communicate only trough some protocol over the [[Network]], like HTTP.
 
 ---
