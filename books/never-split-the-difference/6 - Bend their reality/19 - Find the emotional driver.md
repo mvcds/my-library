@@ -3,3 +3,5 @@ If you can get at [[4 - Knowledge is power|what people are really buying]], you 
 ---
 
 Understanding of [[0 - Never Split The Difference]]
+
+#learn
