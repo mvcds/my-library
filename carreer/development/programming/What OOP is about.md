@@ -4,6 +4,10 @@ http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en
 
 #quote by [[Alan Kay]]
 
+Also (but paraphrased)
+
+> I regret using the word "[[Object]]" as it focus of what really matters: [[Message|messaging]]
+
 ---
 
 The original conception of it had the following parts.
