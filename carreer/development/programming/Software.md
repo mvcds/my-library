@@ -1,5 +1,5 @@
 ---
-aliases: [Softwares, Program, Programs]
+aliases: [Softwares, Program, Programs, Application, Applications]
 ---
 
 Executable [[Code]] that make the [[Computer]] - through diverse programs - to work.

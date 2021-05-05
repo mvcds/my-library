@@ -13,7 +13,9 @@ A tool to orchestrate containers
 	* scheduled the application to run on that `Node`
 	* configured the `cluster` to reschedule the instance on a new `Node` when needed
 * `kubectl get deployments`
-* `kubectl proxy`: Expose the `kubectl` as an API that we can query with HTTP request. The API Server inside of Kubernetes creates an endpoint for each [[Kubernet Pod|pod]] by its name
+* `kubectl proxy`[^1]: Expose the `kubectl` as an API that we can query with HTTP request. The API Server inside of Kubernetes creates an endpoint for each [[Kubernet Pod|pod]] by its name
 * `kubectl get pods`: list all the pods you have
 * `kubectl logs`
 * `kubectl exec`: This command executes an action on the `pod`. To enter a `pod`, use the following command: `kubectl exec -ti $POD_NAME bash` (pretty similar to [[Docker]])
+
+[^1]: [[Proxy]]

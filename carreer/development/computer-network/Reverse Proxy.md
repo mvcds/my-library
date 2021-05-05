@@ -1,0 +1,9 @@
+---
+aliases: [Reverse Proxies, Surrogate, Surrogates, API Gateway, API Gateways, Gateway, Gateways]
+---
+
+A [[Proxy]] that doesn't let the [[Client]] to know it is dealing with a proxy i.e. it appears to be the final [[Server]].
+
+---
+
+All traffic coming from the [[Internet]] and with a destination of one of the neighborhood's web servers goes through the proxy server.
