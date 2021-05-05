@@ -1,8 +1,0 @@
-You can use an [[23 - Accusation Audit]] to acknowledge their fears[^2], this would inflate their [[Loss Aversion]] so they jump on the opportunity to avoid losing[^1]
-
----
-
-Understanding of [[0 - Never Split The Difference]]
-
-[^1]: It seems [[Moral|morality]] is not a big concern here
-[^2]: In this case, we're [[Anchoring]] [[Fear]]
