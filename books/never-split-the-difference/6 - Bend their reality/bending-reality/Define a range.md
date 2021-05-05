@@ -4,7 +4,7 @@ A bolstering range works better, and as normally people will go for the opening 
 
 ---
 
-Understanding of [[0 - Never Split The Difference]]
+A [[21 - Bending reality]] technique on [[0 - Never Split The Difference]]
 
 [^1]: [[Let them go first]]
 [^2]: A [[Number]] alone would be limiting their options and thus taking some [[Autonomy]] away

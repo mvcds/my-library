@@ -2,4 +2,4 @@ Pivot to [[Money|non-monetary]] terms if you [[24 - Extreme Anchoring|anchored]]
 
 ---
 
-Understanding of [[0 - Never Split The Difference]]
+A [[21 - Bending reality]] technique on [[0 - Never Split The Difference]]

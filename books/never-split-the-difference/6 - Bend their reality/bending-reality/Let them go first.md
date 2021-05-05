@@ -4,6 +4,6 @@ If they do go first, be prepared to resist the first offer as they might just be
 
 ---
 
-Understanding of [[0 - Never Split The Difference]]
+A [[21 - Bending reality]] technique on [[0 - Never Split The Difference]]
 
 #learn
