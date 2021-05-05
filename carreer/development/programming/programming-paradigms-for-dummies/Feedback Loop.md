@@ -9,6 +9,6 @@ They can interact in two ways
 
 # Components
 
-- A monitoring agent
+- A [[monitoring]] agent
 - A correcting agent
 - An actuating agent

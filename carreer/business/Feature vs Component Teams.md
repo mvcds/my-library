@@ -1,6 +1,6 @@
 https://www.romanpichler.com/blog/feature-teams-vs-component-teams
 
-A [[feature]] team is a development team that implements end-user functionality end-to-end. It contrasts a component team, which owns an architecture building block, for example, a layer, a sub[[system]], or a collection of components or services.
+A [[feature]] team is a development team that implements end-user [[functionality]] end-to-end. It contrasts a component team, which owns an architecture building block, for example, a layer, a sub[[system]], or a collection of components or services.
 
 (It'ts a matter of vertical vs horizontal focus)
 

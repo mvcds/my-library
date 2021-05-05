@@ -11,3 +11,7 @@ When using an IAM platform, you gonna have 3 capabilities.
 - [[Authentication]]
 - [[Identity Management]]
 - [[Token management]]
+
+---
+
+It has some overlapping with [[API Gateway]]
