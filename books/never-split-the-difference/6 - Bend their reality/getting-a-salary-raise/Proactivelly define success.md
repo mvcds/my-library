@@ -1,4 +1,4 @@
-After [[negotiation|negotiating]], define how success look like for the position and some metrics that would give meaning for you and your boss.
+After [[negotiation|negotiating]], define how success look like for the position and some [[carreer/development/data-science/Metric|metrics]] that would give meaning for you and your boss.
 
 It also gets you a planned raise and should [[Make them have a stake at your success]]
 
