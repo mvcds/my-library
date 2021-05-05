@@ -10,6 +10,6 @@ Of course, a [[Reverse Proxy]] can sit on front of your architecture and then ea
 
 ![[damp-2.png]]
 
-To prevent this, each service should be responsible for its own token verification.
+To prevent this, each service should be responsible for its own [[Security Token Lifecycle|token verification]].
 
 ![[damp-3.png]]
