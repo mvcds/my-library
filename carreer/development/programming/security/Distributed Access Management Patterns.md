@@ -6,7 +6,7 @@ On the following image, for instance, if each service verifies the token with th
 
 ![[damp-1.png]]
 
-Of course, a [[Reverse Proxy]] can sit on front of your architecture and then each service just shares it around without verifying anything, an act which violates the [[Zero Trust Security Architecture]] because if one service is breached, all others which it contacts will become insecure.
+Of course, a [[Reverse Proxy]] can sit on front of your architecture and then each service just shares it around without verifying anything, an act which violates the [[Zero Trust Security Architecture]] because if one [[Service]] is breached, all others which it contacts will become insecure.
 
 ![[damp-2.png]]
 

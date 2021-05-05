@@ -1,4 +1,4 @@
-The direction through witch [[Information]] relative to [[Information Security|Security]] flows
+The direction through witch [[Information]] relative to [[Information Security|Security]] flows in [[Service]]
 
 North-South represents [[Access Control]]
 
