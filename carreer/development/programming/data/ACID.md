@@ -2,7 +2,7 @@ To maintain the integrity of a [[Database]], all transactions must obey ACID pro
 
 # Atomicity
 
-A transaction should be atomic, or all of its commands [[success]] or all of them fail
+A transaction should be atomic, or all of its commands [[success]] or all of them [[success|fail]]
 
 # Consistency
 
@@ -14,4 +14,4 @@ When multiple transactions are running in parallel, one should not interfere wit
 
 # Durability
 
-Hard- or [[Software]] failure should not make [[Information]] disappear
+Hard- or [[Software]] [[success|failure]] should not make [[Information]] disappear

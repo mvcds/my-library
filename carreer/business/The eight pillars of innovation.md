@@ -9,4 +9,4 @@ Those are used by [[Google]]
 - Share everything
 - Spark with imagination, full with data
 - Be a plataform
-- Never fail to fail
+- Never [[success|fail]] to [[success|fail]]

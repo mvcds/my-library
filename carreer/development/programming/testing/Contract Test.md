@@ -1,6 +1,6 @@
 A [[test double]] can be used to isolate your tests from third parties integration but [[testing]] contracts inform you when the third parties change their contracts.
 
-Testing contracts can happen on a different pipeline than your regular tests, like happening periodically and in case of failure, they can trigger an action to solve the contract
+Testing contracts can happen on a different pipeline than your regular tests, like happening periodically and in case of [[success|failure]], they can trigger an action to solve the contract
 
 They not necessary need to test the content of the data, but rather its shape.
 

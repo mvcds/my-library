@@ -12,4 +12,4 @@ Some people put it as an "evolution" of [[Service-Oriented Architecture]] by rem
 
 ---
 
-Microservices should be designed around the idea of handling failures
+Microservices should be designed around the idea of handling [[success|failures]]

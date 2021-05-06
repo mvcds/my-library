@@ -2,7 +2,7 @@
 
 This means that even though attackers have less opportunities to breach the [[System]], when they do, the whole is compromised.
 
-On the other hand, for each [[Microservice Architecture|Microservices]] the attacker will have a new attack surface to exploit but if they succeed, damage is localized.
+On the other hand, for each [[Microservice Architecture|Microservices]] the attacker will have a new attack surface to exploit but if they [[success|succeed]], damage is localized.
 
 With microservices the attack surface is also dynamic, as we can scale or "refactor" how the services are made available.
 

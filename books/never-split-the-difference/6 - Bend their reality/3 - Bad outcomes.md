@@ -2,7 +2,7 @@ Splitting the difference usually produces [[2 - Do not compromise|bad outcomes]]
 
 If you the other leaves the [[negotiation]] unsatisfied they might not want to do business with you again.
 
-If you are the one unsatisfied you fail your [[1 - Negotiation is about giving the other what we're willing to|goal]]
+If you are the one unsatisfied you [[success|fail]] your [[1 - Negotiation is about giving the other what we're willing to|goal]]
 
 ---
 

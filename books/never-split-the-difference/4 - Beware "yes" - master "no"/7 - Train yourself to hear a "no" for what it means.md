@@ -12,7 +12,7 @@ As this word has diverse [[15 - No's achievements|achievements]]
 
 ---
 
-A "no" is not a failure. [[10 - Tactical Empathy|Strategically]] it opens doors because it gives people [[Autonomy]].
+A "no" is not a [[success|failure]]. [[10 - Tactical Empathy|Strategically]] it opens doors because it gives people [[Autonomy]].
 
 ---
 
@@ -22,4 +22,4 @@ Understanding of [[0 - Never Split The Difference]]
 [^2]: Relates to [[Autonomy]]
 [^3]: Might be economic, political, social or other ways of capital
 
-#learn 
+#learn

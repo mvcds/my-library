@@ -1,1 +1,1 @@
-You're never actually directly dealing with "[[Character]]s" or "[[Text]]", you're always dealing with [[Bit]]s as seen through several layers of [[Abstraction]]s. Incorrect results are a sign of one of the [[Abstraction]] layers failing.
+You're never actually directly dealing with "[[Character]]s" or "[[Text]]", you're always dealing with [[Bit]]s as seen through several layers of [[Abstraction]]s. Incorrect results are a sign of one of the [[Abstraction]] layers [[success|failing]].
