@@ -4,10 +4,10 @@ It outlines, from a user’s point of view, a system’s [[behavior]] as it resp
 
 # Elements
 
-* Actor
-* Stakeholder
-* Primary Actor
-* Preconditions
-* Triggers
-* Main success scenarios / Basic flow
-* Alternative paths / Alternative Flow
+- Actor
+- Stakeholder
+- Primary Actor
+- Preconditions
+- Triggers
+- Main [[success]] scenarios / Basic flow
+- Alternative paths / Alternative Flow

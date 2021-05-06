@@ -2,7 +2,7 @@
 
 (the gradient desncent normally finds local minimum instead of global minimum, to correct for this a big learninig rate can be used, but this can move us away from the minimum, so a balance is necessary)
 
-[[Algorithm|Algos]] that try to find the minimum [[Loss Function|loss]] or maximum success using [[Maths]].
+[[Algorithm|Algos]] that try to find the minimum [[Loss Function|loss]] or maximum [[success]] using [[Maths]].
 
 It uses the [[Learning rate]] to vary the weights and biases
 

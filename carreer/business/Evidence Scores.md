@@ -2,7 +2,7 @@ https://medium.com/@itamargilad/evidence-based-scoring-a-systematic-way-to-know-
 
 Finding and building the next big idea is the holy grail of any tech company. This score is a way to tell if an idea is any good before making the big investment.
 
-1. We look at what supporting evidence the idea has (e.g. market research, surveys, successful A/B experiment)
+1. We look at what supporting evidence the idea has (e.g. market research, surveys, [[success|successful]] A/B experiment)
 2. Based on the evidence we give the idea a confidence score (details below) that indicates how sure we are now that this idea is a winner.
 3. If confidence is high we can go ahead with building and launching the idea.
 4. If confidence is not high we can decide to test the idea further (for example run a user study) to produce more evidence, to de-prioritize the idea in favor of other ideas, or to kill it altogether.
@@ -28,19 +28,19 @@ Obviously you don’t have to run every idea though every test in the list. Cert
 
 For each "evidence", add the equivalent points
 
-Stage | Points
-- | -
-Self Conviction | 0
-Crafted Pitch | 0.1
-Thematic support | 0.2
-Other’s Opinions | 1
-High level plans and estimates | 5
-Anecdotal evidence | 20
-Market data | 100
-User/Customer evidence | 500
-Test results | 2,000
-Early launch results | 10,000 
-Late launch results | Good Idea Badge!
+| Stage                          | Points           |
+| ------------------------------ | ---------------- |
+| Self Conviction                | 0                |
+| Crafted Pitch                  | 0.1              |
+| Thematic support               | 0.2              |
+| Other’s Opinions               | 1                |
+| High level plans and estimates | 5                |
+| Anecdotal evidence             | 20               |
+| Market data                    | 100              |
+| User/Customer evidence         | 500              |
+| Test results                   | 2,000            |
+| Early launch results           | 10,000           |
+| Late launch results            | Good Idea Badge! |
 
 Check against the results
 
@@ -57,13 +57,13 @@ Check against the results
 - You perceive yourself as a smart and capable product person
 - You feel your product ideas are usually pretty good (sometimes even brilliant).
 
-# Crafted Pitch 
+# Crafted Pitch
 
 - You can clearly articulate why this is going to help the users and the company
 - You have a short and elegant elevator pitch
 - You have a polished pitch deck
 
-# Thematic support 
+# Thematic support
 
 - The idea matches your company’s or investor’s vision or strategy
 - The idea is inline with a current industry trend/buzzword.
@@ -102,10 +102,10 @@ Check against the results
 # User/Customer evidence
 
 - Significant amount of product data across multiple months show support for this idea
-- A customer support/success report surfaces this as a top request by multiple customers
+- A customer support/[[success]] report surfaces this as a top request by multiple customers
 - You’ve interviewed 20+ potential users/customers and 70%+ of them say they would use this and/or be willing to pay for it.
 - You ran a usability study with 10+ users and 80%+ of them understood the idea, were able to use it, and said they would use it.
-- You ran a successful small scale concierge MVP study with 1–5 users.
+- You ran a [[success|successful]] small scale concierge MVP study with 1–5 users.
 
 # Test results
 
@@ -117,14 +117,16 @@ Check against the results
 # Early launch results
 
 1 month after launch:
+
 - The feature gets repeat usage from a significant % of users
 - Compared to a 5% holdback group the user group that got the product change demonstrate better product stats (e.g. better retention, time spent)
-- Customer support/success reports shows very positive feedback from users
+- Customer support/[[success]] reports shows very positive feedback from users
 - Business metrics have improved since the launch
 
 # Late launch results
 
 12–24 months after the launch you have:
+
 - Positive user feedback outweighs negative 10-to-1
 - Metrics show strong repeat usage of the new feature
 - Business metrics went up and stayed there

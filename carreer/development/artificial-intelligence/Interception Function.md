@@ -5,4 +5,4 @@ Smart agents[^1] may try to guess where other agents will be based on their vect
 - [[time]] to close `tc = | Sr | / | Vr |` where `|` is magnitude of the vectors
 - prey future position `Si = prey.position + prey.velocity * tc`
 
-[^1]: Check [[Function]], [[Artificial Intelligence]]] and [[Goal]]
+[^1]: Check [[Function]], [[Artificial Intelligence]] and [[Goal]]
