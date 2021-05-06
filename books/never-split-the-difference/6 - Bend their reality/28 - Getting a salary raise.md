@@ -5,6 +5,7 @@ Here are the techniques presented on the book for that
 ![[Pleasant persistance]]
 ![[Proactivelly define success]]
 ![[Make them have a stake at your success]]
+![["What does it take to be successfull here?"]]
 
 ---
 
