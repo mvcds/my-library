@@ -1,4 +1,4 @@
-This protocol has 4 parts
+This protocol, that focus only on [[Authorization]], has 4 parts
 
 - Resource Owner: it is the [[Entity]] capable of granting access to resources
 - Resource [[Server]]: it hosts the protected resources if the right [[Security Token|Token]] is provided
