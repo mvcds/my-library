@@ -10,7 +10,7 @@ When using an IAM platform, you gonna have 3 capabilities.
 
 - [[Authentication]]
 - [[Identity Management]]
-- [[Token management]]
+- [[Security Token management]]
 
 ---
 
