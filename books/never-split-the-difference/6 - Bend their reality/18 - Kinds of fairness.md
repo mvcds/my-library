@@ -2,7 +2,7 @@ There are 3 kinds of "[[17  - About "fairness"|Fairness]]" that you can hear or 
 
 # Judo-Like
 
-It [[5 - Negotiations are not fully rational|destabilizes]] the other side, making them uncomfortable and thus defensive.
+It [[5 - Negotiations are not fully rational|destabilizes]] the other side, making them uncomfortable and thus [[Defensive Behavior|defensive]].
 
 **[[10 - Tactical Empathy|Apologize]], and [[12 - Do not project|ask]] for a way to fix it**
 

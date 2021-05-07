@@ -1,4 +1,4 @@
-[[Negotiation]] is not beating the other into submission, as this makes them defensive
+[[Negotiation]] is not beating the other into submission, as this makes them [[Defensive Behavior|defensive]]
 
 ---
 

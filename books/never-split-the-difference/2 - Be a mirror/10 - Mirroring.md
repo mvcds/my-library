@@ -4,7 +4,7 @@ aliases: [Isopraxism, Neural resonance, Mirror, Mirrors]
 
 Mirroring words is about repeating the last 3 words from the central point or end of a phrase.
 
-The other feels like they should expand[^1] on the explanation without [[Anger|sounding aggressive]] (they don't go on defensive) and also buys you [[time]].
+The other feels like they should expand[^1] on the explanation without [[Anger|sounding aggressive]] (they don't go on [[Defensive Behavior|defensive]]) and also buys you [[time]].
 
 **For the mirror to work you should shut up after.**
 
