@@ -1,4 +1,4 @@
-Contrary to an [[Entity]], an [[Object]]-[[Value]] does not have an [[carreer/development/programming/security/Identity#Noun|identity]] by its own, so to make one apart from another, we have to consider all of its properties at once.
+Contrary to an [[Entity]], an [[Object]]-[[Value]] does not have an [[carreer/development/programming/security/identity/Identity#Noun|identity]] by its own, so to make one apart from another, we have to consider all of its properties at once.
 
 If one property differs, they are not the same object.
 
