@@ -1,3 +1,3 @@
 - You ideally want to render 60 frames per second in the browser, leaving you 16.7ms per frame
-- When your app is slow, it's often taking too long to respond to user [[carreer/development/programming/Event]]s, to process the [[Data]] or to re-render the new data
+- When your app is slow, it's often taking too long to respond to user [[carreer/development/programming/message/Event|events]], to process the [[Data]] or to re-render the new data
 - In majority of cases, you're not doing complex data processing onClock - you're wasting [[time]] re-rendering

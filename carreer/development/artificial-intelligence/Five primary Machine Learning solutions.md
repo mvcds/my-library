@@ -1,5 +1,5 @@
 - Recommender/ranking [[system]]s provide a ranked list of documents from a corpus. These documents can be anything from apps in the app store to movies on Netflix.
-- [[carreer/development/programming/Event]]/action prediction models predict the likelihood of an event or user action. At Google, [[Machine Learning]] is used to predict a click (e.g., showing you videos that you're likely to click).
+- [[carreer/development/programming/message/Event|Event]]/action prediction models predict the likelihood of an event or user action. At Google, [[Machine Learning]] is used to predict a click (e.g., showing you videos that you're likely to click).
 - Classification [[model]]s classify arbitrary [[object]]s into known classes, like categorizing emails as spam or not spam.
 - Generative [[Model|models]] generate output in a form similar to the input they were trained with, like translation models that turn text in one [[language]] into text in another language.
 - [[Clustering]] is a form of unsupervised machine learning in which similar objects are “clustered” together, like segmenting users into groups.

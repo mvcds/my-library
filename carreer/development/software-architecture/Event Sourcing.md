@@ -1,4 +1,4 @@
-An [[Event-Driven Architecture]] which stores the application [[state]] as a sequence of [[carreer/development/programming/Event]]s
+An [[Event-Driven Architecture]] which stores the application [[state]] as a sequence of [[carreer/development/programming/message/Event|events]]
 
 It's possible to replay those events to understand how they have affected the [[System]] in a process that is also known as rehydration[^1]
 

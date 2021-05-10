@@ -1,4 +1,4 @@
-Considered one of the best patterns to do [[Data Management]], it allows a sequence of local transactions that updates each service and publishes a [[message]]/[[carreer/development/programming/Event]] to trigger the next local transaction. In case of [[success|failure]] of any of the local transactions, saga executes series of **compensating transactions** that undo changes made by preceding local transactions thereby preserving **[[ACID|atomicity]]**
+Considered one of the best patterns to do [[Data Management]], it allows a sequence of local transactions that updates each service and publishes a [[message]]/[[carreer/development/programming/message/Event|event]] to trigger the next local transaction. In case of [[success|failure]] of any of the local transactions, saga executes series of **compensating transactions** that undo changes made by preceding local transactions thereby preserving **[[ACID|atomicity]]**
 
 There are two flavors:
 
