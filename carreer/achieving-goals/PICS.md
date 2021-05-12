@@ -1,6 +1,6 @@
 https://personalmba.com/goals/
 
-A [[Goal]] is a statement that describes precisely what you want to achieve. Goals are more useful if they are Framed in a Positive, Immediate, Concrete and Specific (PICS) format;
+A [[Goal]] is a [[linguistics/Statement|statement]] that describes precisely what you want to achieve. Goals are more useful if they are Framed in a Positive, Immediate, Concrete and Specific (PICS) format;
 
 - Positive: your goal should be something you move toward, not away from.
 - Immediate: your goals should be something that you decide to make progress on now, not “someday.”
