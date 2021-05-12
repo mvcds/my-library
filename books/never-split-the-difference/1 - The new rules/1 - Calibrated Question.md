@@ -2,7 +2,9 @@ An [[Open-Ended Question]] "designed" to give the other the [[3 - Project an ill
  
  They don't have fixed answers so it buys you [[time]] while forcing the other side to find the [[11 - The idea doesn't need to be yours|solution]] to your problems without even realizing it because such questions [[9 - Calibrated questions feel part of the convo|feel part of the convo]][^1].
  
- Plus, [[20 - Value depends on the framing|if done correctly]], they feel smart - [8 - Make them feel you rely on them|you need them to achieve anything.] - and help you managing their [[Unbelief]] because you [[6 - Listening to the other|listen]] to them enough to make questions that matter.
+ Plus, [[20 - Value depends on the framing|if done correctly]], they feel smart - [[8 - Make them feel you rely on them|you need them to achieve anything]] - and help you managing their [[Unbelief]] because you [[6 - Listening to the other|listen]] to them enough to make questions that matter.
+ 
+Asking questions also offer [[13 - Reducing attack surface|less surface for attack.]]
  
  ---
  
