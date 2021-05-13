@@ -9,5 +9,5 @@ Responses:
 - Seek comfort
 - Withdraw[^1]
 
-[^1]: As in [[Disgust]]
+[^1]: As in [[Disgust]] and [[Fear]]
 [^2]: As in [[Fear]]

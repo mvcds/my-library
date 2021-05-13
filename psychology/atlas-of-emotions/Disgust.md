@@ -7,5 +7,5 @@ Responses:
 - Vomit
 - Withdraw[^1]
 
-[^1]: As in [[Sadness]]
+[^1]: As in [[Sadness]] and [[Fear]]
 [^2]: As in [[Fear]]
