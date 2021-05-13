@@ -1,4 +1,8 @@
-The way through which two distinct [[system]]s exchange [[Information]]
+---
+aliases: [Interfaces]
+---
+
+The way through which two distinct [[system]]s (and humans are counted as systems) exchange [[Information]]
 
 Some [[Programming Language]]s have them explicit defined ([[C#]]), others implicit ([[Javascript]]), and some will ask you to declare which [[Class|classes]] implement them ([[C#]]) while others will simple infer it ([[Go]])
 

@@ -1,4 +1,4 @@
-Monads are generic datatypes respecting a certain [[interface]] that encodes a given degree of “expressive power” of this datatype. There are many definitions of this interface, and they are all equivalent. The crucial aspect of a monad is that it can be:
+Monads are generic datatypes respecting a certain [[interface]] that encodes a given degree of “expressive power” of this datatype. There are many definitions of this [[Interface]], and they are all equivalent. The crucial aspect of a monad is that it can be:
 
 * created
 * transformed

@@ -8,7 +8,7 @@ Those objects typically consist of metadata, the data itself and an unique ident
 
 Good for [[Unstructured Data]] because it optimizes for:
 
-- interface which can be programmed upon
+- [[Interface]] which can be programmed upon
 - namespaces spanning multiple physical instances
 - data replication and distribution
 

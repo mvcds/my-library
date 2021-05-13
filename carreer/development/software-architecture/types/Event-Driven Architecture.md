@@ -4,7 +4,7 @@ aliases: [Implicit Invocation]
 
 A kind of [[Software Architecture]]
 
-#learn 
+#learn
 
 # Advantages
 
@@ -38,7 +38,7 @@ A kind of [[Software Architecture]]
 
 # [[Representational State Transfer Architecture| REST]]'s still good
 
-- To sync ps due to request/reply model
-- Public APIs (?)
+- To sync is due to request/reply model
+- Public [[Application Programming Interface|API]]s (?)
 - Convenient support for strong transactions (?)
 - Small projects, as it is simpler

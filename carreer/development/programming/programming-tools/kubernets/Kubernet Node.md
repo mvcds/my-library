@@ -10,7 +10,7 @@ When a worker node dies, the `Pods` running on the `Node` are also lost.
 
 # Every Kubernets Node runs at least a
 
-* *Kubelet**, is responsible for the pod spec and talks to the CLI interface
-* **Kube [[proxy]]**, is the main interface for coms between nodes
+* *Kubelet**, is responsible for the pod spec and talks to the CLI [[Interface]]
+* **Kube [[proxy]]**, is the main [[Interface]] for coms between nodes
 * **A container [[runtime]]**, (like [[Docker]], rkt) responsible for pulling the container image from a registry, unpacking the container, and running the application.
 * **One or many `pods`**

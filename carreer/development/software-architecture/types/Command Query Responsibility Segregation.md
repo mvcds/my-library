@@ -16,7 +16,7 @@ The separation occurs based upon whether the methods are a [[Command#Mutation|co
 
 This separation however enables us to do many interesting things architecturally, by allowing us to see that they do not need to use the same data [[Model]] just because they share the same [[Data]].
 
-CQRS does not require a task based UI. We could apply CQRS to a CRUD based interface.
+CQRS does not require a task based UI. We could apply CQRS to a CRUD based [[Interface]].
 
 ---
 
