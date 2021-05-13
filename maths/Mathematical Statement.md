@@ -12,3 +12,5 @@ It's possible to combine statements by using:
 With the ones above is possible to express some other statements, like:
 
 - xor: `a xor b` means that only one statement is[^1] true (exclusive or)
+
+[^1]: Or "need to be"
