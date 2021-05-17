@@ -4,9 +4,9 @@ An [[Open-Ended Question]] "designed" to give the other the [[3 - Project an ill
  
  Plus, [[20 - Value depends on the framing|if done correctly]], they feel smart - [[8 - Make them feel you rely on them|you need them to achieve anything]] - and help you managing their [[Unbelief]] because you [[6 - Listening to the other|listen]] to them enough to make questions that matter.
  
-Asking questions also offer [[13 - Reducing attack surface|less surface for attack]].
+Asking questions also offer [[13 - Reducing attack surface|less surface for attack]] and spark their imagination, so they are able to [[4 - Feeling is a form of thinking|think]] in the  [[8 - We share the same goal|direction you want]].
 
-And, as questions like this spark their imagination, they are able to [[4 - Feeling is a form of thinking|think]] in the  [[8 - We share the same goal|direction you want]].
+Use them early and often!
  
  ---
  
