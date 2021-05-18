@@ -1,4 +1,4 @@
-**Slowing down keeps you in control**, people feel appreciated and thus more open because [[6 - Listening to the other|they feel listened to]]
+**Slowing down keeps you in [[Keeping control|control]]**, people feel appreciated and thus more open because [[6 - Listening to the other|they feel listened to]]
 
 ---
 

@@ -2,5 +2,5 @@ Each [[Virtue]] here contributes to [[Moral]]
 
 - Justice
 - Courage
-- Temperance (self-control)
+- Temperance ([[Keeping control|self-control]])
 - Prudence (efficiency)

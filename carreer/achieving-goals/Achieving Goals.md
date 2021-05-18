@@ -14,4 +14,4 @@ Achieving our goals is a dynamic process because we change over time, so part of
 
 Given this constant work, it might seem counter-intuitive to have abstract ideas defined as "goals"[^1] but the abstract idea is just the beginning - by stating it properly we start to think about the required steps necessary to get there.
 
-[^1]: Check [[PICS]]
+[^1]: Check [[Positive, Immediate, Concrete and Specifics]]

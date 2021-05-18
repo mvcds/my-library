@@ -32,7 +32,7 @@ The essence of objectivism while standing on one foot (by the author):
 
 ---
 
-Objectivism rejects any form of [[Determinism]], the belief that man is a victim of forces beyond his control (such as God, fate, upbringing, genes or economic condition)
+Objectivism rejects any form of [[Determinism]], the belief that man is a victim of forces beyond his [[Keeping control|control]] (such as God, fate, upbringing, genes or economic condition)
 
 ---
 
