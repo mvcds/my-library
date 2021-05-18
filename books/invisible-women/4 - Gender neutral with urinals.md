@@ -14,4 +14,4 @@ So in the end some prefer not to move from the favelas, while others who do tend
 
 Understanding of [[0 - Invisible Women]]
 
-[^1]: Favelas are irregular terrain occupations, so they appear by necessity, and normally this necessity is work, [[2 - Can snow-clearing be sexist?|tranposrtation]] is less necessary if you live close to it
+[^1]: Favelas are irregular terrain occupations, so they appear by necessity, and normally this necessity is work, [[3 - Can snow-clearing be sexist?|tranposrtation]] is less necessary if you live close to it
