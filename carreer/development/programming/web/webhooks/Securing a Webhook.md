@@ -1,6 +1,6 @@
 https://sendgrid.com/blog/whats-webhook/
 
-The easiest thing to do (and what you should implement before going any further) is to force [[TLS]] connections (https). Once you’ve implemented that, you may go forward and further secure your connection:
+The easiest thing to do (and what you should implement before going any further) is to force [[Transport Layer Security|TLS]] connections (https). Once you’ve implemented that, you may go forward and further secure your connection:
 
 Techniques
 
