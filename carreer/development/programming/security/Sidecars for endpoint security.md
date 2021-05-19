@@ -1,0 +1,1 @@
+Due to the increase of [[Attack Surface]] that [[Microservice Architecture|Microservices]] cause, it's necessary to implement a [[Zero Trust Security Architecture]], for helping that, [[Information Security|Security]] might be delegated to an out-of-process [[Sidecar]]
