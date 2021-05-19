@@ -1,1 +1,1 @@
-A a way to trace back the decisions behind a deep [[Neural Network]] in a human-understandable way.
+A a way to [[Logging, Monitoring and Tracing|trace]] back the decisions behind a deep [[Neural Network]] in a human-understandable way.

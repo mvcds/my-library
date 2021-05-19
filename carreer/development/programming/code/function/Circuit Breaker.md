@@ -1,4 +1,4 @@
-You wrap a protected [[Function]] call in a circuit breaker [[Object]], which monitors for [[success|failures]]. Once the [[success|failures]] reach a certain threshold, the circuit breaker trips, and all further calls to the circuit breaker return with an error, without the protected call being made at all. Usually you'll also want some kind of monitor alert if the circuit breaker trips.
+You wrap a protected [[Function]] call in a circuit breaker [[Object]], which monitors for [[success|failures]]. Once the [[success|failures]] reach a certain threshold, the circuit breaker trips, and all further calls to the circuit breaker return with an error, without the protected call being made at all. Usually you'll also want some kind of [[Logging, Monitoring and Tracing|monitor]] alert if the circuit breaker trips.
 
 The circuit breaker has three states.
 
