@@ -8,4 +8,8 @@ With microservices the attack surface is also dynamic, as we can scale or "refac
 
 If each microservice has its own access control mechanism, communication between them requires constant authentication[^1].
 
+---
+
+It's pretty common for microservices to run in [[Container]]s, and thus it's a good idea to automatize security practices for each container
+
 [^1]: Check [[Mutual Transport Layer Security|MTLS]]

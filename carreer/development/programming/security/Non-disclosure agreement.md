@@ -6,4 +6,4 @@ A legal contract or part of a contract between at least two parties that outline
 
 Normally such purposes relate to protect any type of confidential and proprietary information or trade secrets.
 
-Examples: Doctor–patient confidentiality (physician–patient privilege), attorney–client privilege, priest–penitent privilege and bank–client 
+Examples: Doctor–patient confidentiality (physician–patient [[privilege]]), attorney–client privilege, priest–penitent privilege and bank–client 
