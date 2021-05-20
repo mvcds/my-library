@@ -1,4 +1,4 @@
-The [[File .gitlab-ci.yml]] is the one that defines the [[Gitlab]]'s [[Pipeline]]
+The [[File .gitlab-ci.yml]] is the one that defines the [[Gitlab]]'s [[DevOps Pipeline|Pipeline]]
 
 A [[JOB]] is WHAT TO DO, it is possible to extend a jog from another one in another file
 A [[STAGE]] is WHEN TO DO IT

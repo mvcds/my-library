@@ -18,6 +18,6 @@ It is a very flexible pattern with a clear separations of concerns which allows 
 
 The tradeoffs for its advantages is that the [[Application Programming Interface|API]] might be limiting for future plugins and that it's not possible to [[Trust Domain|trust]] the security of a plugin, not to mention that it is a struggle to identify what belongs to the core and what belongs to each plugin
 
-[^1]: Check [[Pipeline]]
+[^1]: Check [[Function Pipeline]]
 
 #learn
