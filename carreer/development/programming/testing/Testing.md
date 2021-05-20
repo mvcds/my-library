@@ -22,3 +22,4 @@ There are many #complement  with that amazing picture of overlapping tests
 - Unit
 - [[Syntatic Monitoring]]
 - [[Contract Test]]
+- [[Interactive App Security Testing|IAST]]
