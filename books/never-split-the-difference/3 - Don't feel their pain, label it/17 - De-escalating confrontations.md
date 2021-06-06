@@ -1,4 +1,4 @@
-[[10 - Labeling|Labels]] help you de-escalating confrontation because the other person [[knowledge|acknowledges]] their feelings[^1], rather than continue to act on them.
+[[10 - Labeling|Labels]] help you de-escalating [[Defensive Behavior|confrontations]] because the other person [[knowledge|acknowledges]] their feelings[^1], rather than continue to act on them.
 
 ---
 
