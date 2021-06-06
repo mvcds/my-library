@@ -1,0 +1,1 @@
+Liers tend to work harder to be believed, so they use more words and more complex sentences
