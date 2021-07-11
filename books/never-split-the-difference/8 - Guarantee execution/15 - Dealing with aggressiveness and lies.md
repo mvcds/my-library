@@ -5,7 +5,7 @@ Normally paying attention to verbal, paraverbal[^1] and nonverbal [[1 - Negotiat
 "Dodge and wave" is a very good strategy in this cases.
 
 ![[Storytelling incongruences - Not official name]]
-![[The pinocchio Effect]]
+![[psychology/cognitive-bias/The pinocchio Effect]]
 ![[Social Distance - Not official name]]
 
 ---
