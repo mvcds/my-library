@@ -5,7 +5,7 @@ Voices can act like an [[Emotion|Emotional]] switch flipper, calming the other p
 
 ---
 
-Your voice is the most powerful tool in a verbal communication.
+Your voice is the most powerful tool in a verbal [[communication]].
 
 ---
 
