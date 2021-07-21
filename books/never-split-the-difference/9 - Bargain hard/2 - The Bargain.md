@@ -1,0 +1,7 @@
+After [[10 - Mirroring]], using [[1 - Calibrated Question]]s, and building rapportm after using an [[23 - Accusation Audit]] to clear any lingering emotional/mental obstacle, and getting a [[3 - "That's right"]], after identifying and [[4 - Summarizing]] you need to "confront" the other with **the actual** [[negotiation]]: the bargain
+
+The bargain is the most unconforable part for most people even when they have a good plan, so the most prepared and confortable people generally have the upper hand.
+
+---
+
+Understanding of [[0 - Never Split The Difference]]
