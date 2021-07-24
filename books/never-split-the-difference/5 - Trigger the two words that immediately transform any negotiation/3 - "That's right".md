@@ -12,4 +12,11 @@ When you hear those words, the other has [[7 - Influence springs from empathy|op
 
 ---
 
+They might take other forms, like
+
+- "That's it exactly"
+- "You hit it on the head"
+
+---
+
 Understanding of [[0 - Never Split The Difference]]
