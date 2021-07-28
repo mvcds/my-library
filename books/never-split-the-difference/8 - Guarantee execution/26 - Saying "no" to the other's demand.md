@@ -1,6 +1,6 @@
 It's "safe" to say "no" like this about 4 times before actually saying the word.
 
-1. "How am I supposed to do that?" as a request for help, so the other is part of your dilema, so they have a better offer
+1. [[6 - "How am I supposed to do that?"]]  as a request for help, so the other is part of your dilema, so they have a better offer
 2. "Your offer is generous but I'm sorry, that just doesn't work for me"
 	- "Generous" make the other to live by their word
 	- "Sorry" [[9 - Softening the blow|softens the blow]]

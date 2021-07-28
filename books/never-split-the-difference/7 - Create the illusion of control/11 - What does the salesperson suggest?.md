@@ -1,6 +1,6 @@
 Describe what you're looking for to the salesperson and ask for suggestions.
 
-When the [[Money|price]] come, ask "how am i supposed to do that"?
+When the [[Money|price]] come, ask [[6 - "How am I supposed to do that?"]]?
 
 ---
 

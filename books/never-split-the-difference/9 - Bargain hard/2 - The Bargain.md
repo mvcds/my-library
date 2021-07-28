@@ -4,7 +4,7 @@ The bargain is the most unconforable part for most people even when they have a 
 
 It is not a rockect science but it's not a smple intuition or maths either.
 
-Bargaining is more than offerws, counteroffers, and closing moves. As always it's about [[psycology]]
+Bargaining is more than offer, counteroffers, and closing moves. As always it's about [[psycology]]
 
 ---
 

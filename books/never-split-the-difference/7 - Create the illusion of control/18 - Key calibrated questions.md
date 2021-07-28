@@ -7,7 +7,7 @@ Here are some [[1 - Calibrated Question]] useful in many situations, as always [
 - What is it that brought us into this situation?
 - How can we solve this problem?
 - What's the [[objective]]? / What are we trying to accomplish here? 
-- How am I supposed to do that?
+- [[6 - "How am I supposed to do that?"]]
 
 ---
 
