@@ -1,4 +1,4 @@
-> Science advances one funeral at a [[time]]
+> [[Science]] advances one funeral at a [[time]]
 
 #quote  by the German physicist [[Max Planck]]
 
