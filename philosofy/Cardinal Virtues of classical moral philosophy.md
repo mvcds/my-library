@@ -1,6 +1,6 @@
-Each [[Virtue]] here contributes to [[Moral]]
+Each [[Virtue]] here contributes to a [[Moral]] in classical moral [[Philosophy]]
 
 - Justice
 - Courage
-- Temperance ([[Keeping control|self-control]])
+- [[Keeping control|Tempereance]]
 - Prudence (efficiency)

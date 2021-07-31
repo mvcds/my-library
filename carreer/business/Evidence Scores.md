@@ -69,7 +69,7 @@ Check against the results
 - The idea is inline with a current industry trend/buzzword.
 - Outside research reports could be interpreted to support the idea.
 - The idea seems to be aligned with macro trends in economy/society
-- The idea fits a current product development or design methodology/philosophy
+- The idea fits a current product development or design methodology/[[philosophy]]
 
 # Other’s Opinions
 
