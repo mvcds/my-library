@@ -11,7 +11,7 @@ Good usages
 - Task Scheduler
 - Workflow
 - Data processing[^1]
-- Browser extensions
+- [[Browser]] extensions
 - Graphic Designer Apps
 
 It is a very flexible pattern with a clear separations of concerns which allows teams to work separately (with their own style of work). Functional-wise, it allows the [[behavior]] of the app to change during [[runtime]]
