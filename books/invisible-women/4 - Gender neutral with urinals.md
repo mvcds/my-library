@@ -1,4 +1,4 @@
-Some times society tries to do well but due to the [[1 - The default male]] is still the main perspective plus the difficulty of predicting real consequences ([[Black Swan]]?), some "funny" cases happen
+Some times society tries to do well but due to the [[1 - The default male]] is still the main perspective plus the difficulty of [[Black Swan|predicting real consequences]], some "funny" cases happen
 
 For instance, normally women have to queue to go to the toilet (they take longer to get clean, they normally are with kids, they have periods, etc), so when a theater changed "men" and "women" words in its toilets for "gender neutral with urinal" and "gender neutral with cubicles", respectively, what actually happened is that men could go alleviate themselves in two distinct places, overflowing the ladies restroom beyond its capacity.
 
