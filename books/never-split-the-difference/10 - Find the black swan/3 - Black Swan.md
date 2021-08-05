@@ -6,4 +6,8 @@ The unspoken,underlying [[behavior|behavioral]]dynamics of a [[negotiation]].
 
 ---
 
+The author believes that every [[negotiation]] has at least 3 [[Black Swan]]s. 
+
+---
+
 Understanding of [[0 - Never Split The Difference]]
