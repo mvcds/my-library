@@ -11,3 +11,7 @@ They symbolize the useleness of predictions based on previous experiences becaus
 ---
 
 By definition, we don't know what we don't know
+
+---
+
+Check out [[3 - Black Swan|black swans in "never slit the difference"]]
