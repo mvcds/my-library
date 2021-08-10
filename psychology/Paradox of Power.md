@@ -1,0 +1,1 @@
+The harder we push, the harder the resistence (on [[0 - Never Split The Difference]])

@@ -4,6 +4,11 @@ It doesn't need to be a religious religious belive, it can be norms and standard
 
 People will try to act [[Consistency Principle|consistently]] to it, so to not appear hypocrites, so this is a key component for your success on a [[negotiaion]].
 
+# Tips to read religion correctly
+
+- Review what you hear as you won't get it right on the first time
+- Have backup listeners to compare notes
+
 ---
 
 Understanding of [[0 - Never Split The Difference]] #learn 
