@@ -1,5 +1,5 @@
 ---
-aliases: [DevOps Pipelines, Pipeline, Pipeline]
+aliases: [DevOps Pipelines, Pipeline, Pipelines]
 ---
 
 ![[devops-pipeline.png]]
