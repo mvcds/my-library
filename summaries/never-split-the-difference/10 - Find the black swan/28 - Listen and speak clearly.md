@@ -1,0 +1,1 @@
+[[6 - Listening to the other|Listen]] & [[Pillars of Public Speaking and Persuasion|Speak Clearly]]. and [[10 - Tactical Empathy|empathetically]], treating others with [[dignity]] and [[respect]], and being [[honesty|honest]] about [[3 - Bad outcomes|what you want]] and can(not) do.
