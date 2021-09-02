@@ -1,5 +1,5 @@
 ---
-aliases: [Security]
+aliases: [Security, CIA, CIA Triad]
 ---
 
 ![[information-security.png]]
