@@ -19,4 +19,8 @@ TDD is an iterative process, based on [[Baby Step]]s
 
 It's possible to create [[Container]]'s by using TDD too![^1]
 
+---
+
+![[TDD is a design tool]]
+
 [ˆ1]: https://www.thoughtworks.com/radar/techniques/tdd-ing-containers
