@@ -14,7 +14,7 @@ Naturally women resisted them, as it takes even more time of the little they hav
 
 ![[14 - The report recommendation was to fix the women rather than the stoves]]
 
-On top of this rhe [[design|designers]] didn't consider the dynamics of a household
+On top of this rhe [[15 - Male-biased design|designers]] didn't consider the dynamics of a household
 
 The new stoves would require more maintanance, a task dominated by men who wouldn't prioritize fixing the stoves because their wives would still have the old stove as backup - men kept the [[Purchase Authority]].
 
