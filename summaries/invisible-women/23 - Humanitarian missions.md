@@ -8,6 +8,8 @@ Similar things happen on humanitarian missions that provide cookable food withou
 
 Women fled home due to male violence, and normally humanitarian missions are desigend by men that don't take that into account. Creating unsafe environments for vulnerable women.
 
+Not to mention that we don't usually measuary, when we do it is poorly and male-driven. So we cannot do anything.
+
 ---
 
 Understanding of [[0 - Invisible Women]]

@@ -4,4 +4,8 @@ Sometimes it's hard to see this. Like, the lack of pockets for women made the ma
 
 ---
 
+Femaile bodies should be accomodated in our designs.
+
+---
+
 Understanding of [[0 - Invisible Women]]
