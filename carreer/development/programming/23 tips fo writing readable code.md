@@ -24,6 +24,6 @@ IDK the source
 22. Comments.
 23. Documentation.
 
-[^1]: Check [[DRY Principle]]
-[^3]: Resembles [[Command Query Responsibility Segregation]]?
-[^4]: My favorite way is [[Test-Driven Design]]
+[^1]: Check [[Don't repeat yourself|DRY Principle]]
+[^3]: Resembles [[Command Query Responsibility Segregation|CQRS]]?
+[^4]: My favorite way is [[Test-Driven Design|TDD]]

@@ -1,3 +1,7 @@
+---
+aliases: [FIRST]
+---
+
 From https://addyosmani.com/first/
 
 - Focused
@@ -5,3 +9,5 @@ From https://addyosmani.com/first/
 - Reusable
 - Small
 - Testable
+
+#acronym 

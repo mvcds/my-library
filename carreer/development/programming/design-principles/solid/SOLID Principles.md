@@ -1,3 +1,7 @@
+---
+aliases: [SOLID]
+---
+
 [[Mnemonic]] for five [[Object-Oriented Programming|OOP]] principles
 
 - ![[Single Responsability Principle]]
