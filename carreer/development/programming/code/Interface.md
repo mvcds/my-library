@@ -1,5 +1,5 @@
 ---
-aliases: [Interfaces]
+aliases: [Interfaces, Protocol, Protocols]
 ---
 
 The way through which two distinct [[system]]s (and humans are counted as systems) exchange [[Information]]
