@@ -1,5 +1,5 @@
 ---
-aliases: [Feature Flag, Feature bit, Feature Flipper]
+aliases: [Feature Toggles, Feature Flag, Feature Flags, Feature Bit, Feature Bits, Feature Flipper, , Feature Flippers]
 ---
 
 According to https://www.martinfowler.com/articles/feature-toggles.htm
