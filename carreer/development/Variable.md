@@ -1,5 +1,5 @@
 ---
-aliases: [Scalar]
+aliases: [Variables, Scalar, Scalares]
 ---
 
 On [[Programming]]
