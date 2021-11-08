@@ -2,8 +2,10 @@
 aliases: [BFF]
 ---
 
-The practice of defining a different backend for each kind of frontend client where the aligment between both ends happens within the same team.
+The practice of defining a backend that will be like a [[API Gateway]] where the backend "protects" its clients by aggregating and normalizing everything so its [[Client|Clients]] can handle.
 
-As opposed as having a single backend handling multiple kinds of [[Client|Clients]].
+---
 
-Relates to [[Interface Segregation Principle]]
+When each frontend client has its on the aligment with a backend owned by the same team.
+
+It relates  it to [[Interface Segregation Principle]].
