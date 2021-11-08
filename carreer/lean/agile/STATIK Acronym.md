@@ -1,3 +1,3 @@
-#acronym for "[[System]]s thinking approach to introduce [[kanban]]"
+#acronym for "[[System]]s thinking approach to introduce [[Kanban]]"
 
 #learn 
