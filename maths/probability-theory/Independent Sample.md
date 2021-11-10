@@ -1,4 +1,8 @@
-One variable does not influence the other - but it is still possible to infer some [[information]] from the [[Population vs Sample|sample]]
+---
+aliases: [Independent Samples, Independent Variable, Independent Variables]
+---
+
+One [[variable]] does not influence the other - but it is still possible to infer some [[information]] from the [[Population vs Sample|sample]]
 
 For instance, grades from different courses in the same university might have different numbers of students and not be taught by some teachers, it is still possible to calculate which teacher performs better (not only looking at the mean, as the number of students might be different this would cause a bias)
 
@@ -6,4 +10,4 @@ For instance, grades from different courses in the same university might have di
 
 --- 
 
-Opposite to [[Dependent Samples]]
+Opposite to [[Dependent Sample]]

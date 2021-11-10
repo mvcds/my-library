@@ -4,4 +4,4 @@
 
 ---
 
-The [[Confidence Levels|rejection zone]] means that we're rejecting the null hypothesis and thus our own hypothesis is the correct one
+The [[Confidence Level|rejection zone]] means that we're rejecting the null hypothesis and thus our own hypothesis is the correct one
