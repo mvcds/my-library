@@ -1,0 +1,3 @@
+The occurrence of high intercorrelations among two or more [[Independent Sample|Independent Variables]] in a multiple [[Correlation vs Regression|regression]] [[model]]. Multicollinearity can lead to skewed or misleading results when a researcher or analyst attempts to determine how well each independent variable can be used most effectively to predict or understand the dependent variable in a statistical model.
+
+In general, multicollinearity can lead to wider [[confidence intervals]] that produce less reliable [[Probability|Probabilities]] in terms of the effect of independent variables in a model. That is, the statistical inferences from a model with multicollinearity may not be dependable.
