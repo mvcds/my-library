@@ -1,5 +1,5 @@
 ---
-aliases: [Numbers]
+aliases: [Numbers, Numerical]
 ---
 
 A [[data type]] for numerical representation - so we can do [[Maths|mathematical]] operations.
