@@ -1,3 +1,7 @@
+---
+aliases: [Bytes]
+---
+
 The most common way to refer to an [[Octet]].
 
 ---
