@@ -1,0 +1,1 @@
+An [[Software|Application]] to use the [[World Wide Web|Web]] in a [[user]]-friendly way
