@@ -1,4 +1,4 @@
-Sentences that start with **There is** or **There are** marry a generic noun to a generic verb.
+[[Sentence|Sentences]] that start with **There is** or **There are** marry a generic noun to a generic verb.
 
 Removing **There is** replaces the generic subject with a better subject
 
