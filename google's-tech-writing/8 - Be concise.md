@@ -14,6 +14,8 @@ It's possible to be more concise by eliminating/reducing extraneous words
 
 Keep one idea per [[Sentence]][^1]
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]
 
 [^1]: [[10 - Branch off subordinate clauses]]

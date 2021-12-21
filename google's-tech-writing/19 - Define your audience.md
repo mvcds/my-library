@@ -4,4 +4,6 @@ Beyond the audience's role, a good audience declaration might also specify any p
 
 And, in some cases, the audience declaration should also specify prerequisite reading or coursework
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

@@ -15,4 +15,6 @@ Note that your audience must sometimes master tasks in a certain order
 -   What do your readers already know _before_ they read your document?
 -   What should your readers know or be able to do _after_ they read your document?
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

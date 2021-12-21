@@ -11,4 +11,6 @@ Note that generic verbs often signal other ailments, such as:
 -   an imprecise or missing actor in a sentence
 -   a [[4 - Prefer active voice|passive voice ]] [[sentence]]
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

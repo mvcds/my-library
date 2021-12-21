@@ -6,4 +6,6 @@ Or:
 
 > The Froobus API handles the same use cases as the Frambus API, except that the Froobus API is much easier to use.
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

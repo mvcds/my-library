@@ -11,4 +11,6 @@ They answer
 2.  **Why** is it important for the reader to know this?
 3.  **How** should the reader use this knowledge? Alternatively, how should the reader know your point to be true?
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

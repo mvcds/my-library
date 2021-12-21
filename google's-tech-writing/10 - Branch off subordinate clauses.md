@@ -8,4 +8,6 @@ In some countries, reserve **which** for nonessential subordinate clauses, and u
 
 If you read a sentence aloud and hear a pause just before the subordinate clause, then use **which**. If you don't hear a pause, use **that**.
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

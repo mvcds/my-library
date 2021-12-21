@@ -4,4 +4,6 @@ Advantages of active voide:
 -   Some passive voice sentences omit an actor altogether, which forces the reader to guess the actor's identity.
 -   Active voice is generally shorter than passive voice.
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

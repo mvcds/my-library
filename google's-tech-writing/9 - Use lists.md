@@ -4,4 +4,6 @@ When the [[sentence]] is big, due to use of "or" or because it describes a seque
 
 For numered lists, consider only using imperative sentences
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

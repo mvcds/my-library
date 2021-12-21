@@ -4,4 +4,6 @@ The same applies to #acronym s
 	- Present them together with the first occurence
 	- But only use them if they are used through the text
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

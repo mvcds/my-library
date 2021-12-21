@@ -2,4 +2,6 @@ Adjectives and adverbs can make technical documentation sound dangerously like m
 
 `Setting this flag makes the application run screamingly fast.` vs `Setting this flag makes the application run 225-250% faster.`
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]

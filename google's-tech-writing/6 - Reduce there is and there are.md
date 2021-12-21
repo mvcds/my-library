@@ -24,4 +24,6 @@ If no subject exists, consider creating one
 |Bad|There is no guarantee that the updates will be received in sequential order.|
 |Good|Clients might not receive the updates in sequential order.|
 
+---
+
 Understanding of [[0 - Google's Tech Writing]]
