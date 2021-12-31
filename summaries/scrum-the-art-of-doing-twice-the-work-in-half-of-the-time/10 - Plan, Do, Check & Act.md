@@ -1,8 +1,4 @@
- ---
-aliases: [PDCA]
----
-
-Let's make 3 cycles of 6 minutes for creating paper airplanes.
+Let's make 3 cycles of 6 minutes for creating paper airplanes using [[Plan, Do, Check & Act|PDCA]]
 
 The teams have a minute of each cycle to plan (P) how they will assemble, three to do (D) - build and test as many real flying planes - and, in the end, two minutes to verify (C).
 
