@@ -8,4 +8,4 @@ An [[UML]] (like?) technique where you model
 - Responsibilities: what do a class do?
 - Collaborators: with whom does the individual class collaborate with
 
-[ˆ1]: Not like programming classes
+[^1]: Not like programming classes
