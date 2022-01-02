@@ -1,0 +1,1 @@
+Try to being able to afford more freedom to make case-by-case decisions [[Everything can be broken into smaller parts|on individual parts of our product]], and to make incremental upgrades to our [[Software Architecture|architecture]], our dependencies, and our [[user experience]]
