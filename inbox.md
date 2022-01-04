@@ -1,0 +1,32 @@
+- Opening Gradle Projects with InteliJ
+	- Open with gradle file
+	- Invalidate cache
+	- Clean the idea folder, close IDE
+	- Open, grab coffe
+- Vote as a tool: in teams, using voting as a tool can be problematic because it might promote fragmentation based on popularity
+	- Relative Market Share [RMS]
+	- Terapia breve operacional
+	- Fator | Atracao primario secundaro
+		- Virilidade
+		- Parnosiaa?
+		- Fenotipo
+- Terraform: for provisioning infrastructure
+	- Day 1: nothing previous
+	- Day 2+: evolving it
+	- Infrastructure as code
+	- TF Config is to describe overall topology
+	- Commands
+		- Refresh: reconsiles what TF thinks our infra looks like with the real world
+		- Plan: We tell the real worl about our desiderd config
+		- APply: executes yhe plan into the real world taking into the account the necessary dependencies and possible paralization of stuff
+		- Destroy: especialized version of apply that creates a plan to destroy the elements in the end of a life cycle during a decomission
+	- Components
+		- Core: lifecycle managemente, reads the configs and the state (graph of dependencies)
+		- Providers: we can mix different kinds (IaaS, PaaS, SaaS) of resources to provide a whole workflow of provisioning
+		- Module: a "blackbox" of infrastructure, you have inputs and outputs variables
+		- Regestry: where Terraform providers place their modules
+	- Terraform Enterprise: a github-like plataform
+		- Local state
+		- Sequentail application: two devs should not step on each other's toes when doing changeds
+		- Vars (encrypted)
+		- Allows private registries
