@@ -1,4 +1,3 @@
-- Terapia breve operacional
 - Fator | Atracao primario secundaro
 	- Virilidade
 	- Parnosiaa?
