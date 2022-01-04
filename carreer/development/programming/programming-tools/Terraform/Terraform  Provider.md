@@ -1,0 +1,1 @@
+A way to link [[Terraform]] with different resource vendors, regardless of if they are [[Iaas]], [[Paas]] or [[SaaS]].

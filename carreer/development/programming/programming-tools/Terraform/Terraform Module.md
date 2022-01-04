@@ -1,0 +1,1 @@
+A [[Terraform]] component that allows pre-configured [[infrastructure]]. Each [[Terraform  Provider|Provider]] can make their own modules according to how they think they should be used, so anyone using TF can just set some input variables and read the output variables.

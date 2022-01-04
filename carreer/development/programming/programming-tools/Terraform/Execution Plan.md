@@ -1,3 +1,7 @@
-Shows what [[Terraform]] will do when you call apply.
+---
+aliases: [[Action Plan]]
+---
 
-By running `terraform plan`, the current state is refreshed and the configuration is consulted to generate an action plan. The plan includes all actions to be taken: which resources will be created, destroyed or modified
+Shows what [[Terraform]] will do when you call [[Terraform apply]].
+
+The plan includes which resources will be created, destroyed or modified.

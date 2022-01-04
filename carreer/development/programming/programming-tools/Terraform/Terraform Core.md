@@ -1,0 +1,1 @@
+The [[Terraform]] component that does the [[development lifecycle|lifecycle]] management of the [[infrastructure]]. It rreads the [[Terraform Config|Config]] and the [[Terraform State|State]] to make the commands work
