@@ -1,7 +1,3 @@
-- Fator | Atracao primario secundaro
-	- Virilidade
-	- Parnosiaa?
-	- Fenotipo
 - Terraform: for provisioning infrastructure
 	- Day 1: nothing previous
 	- Day 2+: evolving it
