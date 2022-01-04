@@ -1,8 +1,3 @@
-- Opening Gradle Projects with InteliJ
-	- Open with gradle file
-	- Invalidate cache
-	- Clean the idea folder, close IDE
-	- Open, grab coffe
 - Vote as a tool: in teams, using voting as a tool can be problematic because it might promote fragmentation based on popularity
 	- Relative Market Share [RMS]
 	- Terapia breve operacional
