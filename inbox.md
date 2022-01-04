@@ -1,10 +1,8 @@
-- Vote as a tool: in teams, using voting as a tool can be problematic because it might promote fragmentation based on popularity
-	- Relative Market Share [RMS]
-	- Terapia breve operacional
-	- Fator | Atracao primario secundaro
-		- Virilidade
-		- Parnosiaa?
-		- Fenotipo
+- Terapia breve operacional
+- Fator | Atracao primario secundaro
+	- Virilidade
+	- Parnosiaa?
+	- Fenotipo
 - Terraform: for provisioning infrastructure
 	- Day 1: nothing previous
 	- Day 2+: evolving it
