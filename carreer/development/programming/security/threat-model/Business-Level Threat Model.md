@@ -5,3 +5,5 @@ During this step, it's useful to keep in mind:
 - The business workflows
 	- The [[Entity|Entities]] that perform them and their [[Actors and Roles|Roles]]
 	- How they interact
+
+Those can be used to come up with [[Threat|Threats]] which should then be prioritized.
