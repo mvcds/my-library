@@ -1,1 +1,1 @@
-The second step of a [[Threat Model]] maps the threats found in the [[Business-Level Threat Model|previous step]] to the [[Software|Application]]
+The second step of a [[Threat Model]] maps the [[Threat|Threats]] found in the [[Business-Level Threat Model|previous step]] to the [[Software|Application]]. We need to [[Design]] our app to prevent them.
