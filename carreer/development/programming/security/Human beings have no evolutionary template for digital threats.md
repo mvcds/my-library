@@ -1,4 +1,4 @@
-> Human beings have no evolutionary template for digital threats, nor were today’s adult generations warned against digital threats as children.
+> Human beings have no evolutionary template for digital [[Threat|Threats]], nor were today’s adult generations warned against digital threats as children.
 
 So we lack [[Emotion|Emotional]] response to face [[Information Security]] perils
 
