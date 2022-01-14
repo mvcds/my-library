@@ -1,6 +1,6 @@
 You draw a diagram representing a [[Tree]] for each [[Threat]].
 
-With the root node being the attacker's [[Goal]], and each possible way of achieving that goal, being a node which ramifies according to the action they can take. Then you start asking how to mitigate an arbitrary [[Node Leaf]].
+With the root node being the attacker's [[Goal]], and each possible way of achieving that goal, being a node which ramifies according to the action they can take. Then you start asking how to [[Mitigation Strategy|mitigate]] an arbitrary [[Node Leaf]].
 
 Guidelines:
 - Keep asking "[[Five whys|why]]" 
