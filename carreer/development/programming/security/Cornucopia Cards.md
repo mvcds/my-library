@@ -1,6 +1,6 @@
 https://owasp.org/www-project-cornucopia/
 
-A gamified approach for analysing [[OWASP]]-identified [[Threat|Threats]] 
+A gamified approach for analysing [[Open Web Application Security Project]]-identified [[Threat|Threats]] developed by [[Open Web Application Security Project|OWASP]]
 
 The game is played with different stakeholders trying to justify why a part of the [[System]] is vulnerable or secure agains what the card says.
 
