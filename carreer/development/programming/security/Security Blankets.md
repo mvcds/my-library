@@ -2,7 +2,7 @@ When doing [[Information Security|Security]]
 
 - Awareness
 - Build security from scratch
-- Defense in depth
+- [[Defense in depth]]
 - [[Privacy]] of [[Information]]
 - [[Least Privilege Principle]]
 - [[Allowedlisting]]
