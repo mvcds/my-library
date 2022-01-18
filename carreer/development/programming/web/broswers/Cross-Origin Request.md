@@ -2,7 +2,7 @@
 aliases: [CORS]
 ---
 
-A [[browser]] [[Information Security|Security]] [[feature]] configured on the [[server]] so that only trustworthy origins (protocol, host and port) can request a resource
+A [[Browser]] [[Information Security|Security]] [[feature]] configured on the [[server]] so that only trustworthy origins (protocol, host and port) can request a resource
 
 To setup CORS in production you should add appropriate listener for OPTIONS request. That listener should send response 200 with no body but with Headers that will define your wanted CORS policy:
 

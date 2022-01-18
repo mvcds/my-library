@@ -1,1 +1,1 @@
-If two [[System]]s are talking to each other, they always need to specify what [[Encoding]] they want to talk to each other in. The simplest example of this is this website telling your [[browser]] that it's encoded in [[UTF-8]].
+If two [[System]]s are talking to each other, they always need to specify what [[Encoding]] they want to talk to each other in. The simplest example of this is this website telling your [[Browser]] that it's encoded in [[UTF-8]].

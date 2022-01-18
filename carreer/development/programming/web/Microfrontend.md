@@ -20,7 +20,7 @@ Some microfrontend implementations can lead to duplication of dependencies, incr
 
 * Host the microfrontends
 * Avoid styling conflicts
-* To communicate is better to use custom events, prop drilling, to share a storage (redux or [[browser]]'s) or the address bar?
+* To communicate is better to use custom events, prop drilling, to share a storage (redux or [[Browser]]'s) or the address bar?
 * Share cross-cutting concerns e.g. authentication being equal for every part
 * Handle dependency redundancy
 * Handle dependency conflicts 
