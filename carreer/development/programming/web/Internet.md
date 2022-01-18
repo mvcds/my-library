@@ -1,4 +1,4 @@
-A global network of networks
+A global [[network]] of networks
 
 --
 
