@@ -1,15 +1,16 @@
+
 ---
 aliases: [NPM]
 ---
 
-A tool for [[NodeJS]] with the double purpose of:
+A [[Package Manager|Package Management Tool]] for [[NodeJS]] with the double purpose of:
 
 - a [[CLI]] which installs libraries into your [[Code]] and;
 - a [[repository manager]] where such libraries are deployed by default
 
 ---
 
-In the past named using anything that was URL complient but now it's more restrict, for instance, it only accepts lower-case letters
+In the past named using anything that was URL compliant but now it's more restrict, for instance, it only accepts lower-case letters
 
 ---
 
