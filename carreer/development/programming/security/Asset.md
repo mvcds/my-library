@@ -1,5 +1,5 @@
 ---
-aliases: [Assets]
+aliases: [Assets, Resource, Resources]
 ---
 
 Any [[Data]], [[Service]] or [[Computer|device]] that needs protection from a [[business]] perspective.

@@ -54,3 +54,20 @@ Any full-featured data access layer will have the ability to bind variables and 
 - Conceal Whether Users Exist: instead of saying _The user id is unknown_ consider _Incorrect user ID or password_
 - Prevent brute force attacks: use techniques like [[Short Lockout|Short Lockouts]] and [[CAPTCHA]]
 - Don't use default or hard-coded credentials
+
+# Protect user [[Session|Sessions]]
+
+- Do not expose session identifiers
+- Restrict [[Cookie]] scope by setting `path` ,  `secure` , `domain` and `expires`
+- Create a new session for authenticate or change [[Elevation of Privilege|privilege]] level
+- Never create sessions with ids you haven't created yourself
+- Make sure it's possible to log out and terminate existing sessions
+
+# [[Authorization|Authorize]] actions
+
+- Authorize on the server
+- Don't trust clients with identities, [[Permission|permissions]], or [[Actors and Roles|Roles]]
+- Deny by default
+- Authorize actions on [[Asset|resources]]
+- Use [[Policy and Details|policy]] to authorize behaviour
+- Implement a model policy
