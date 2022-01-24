@@ -1,4 +1,4 @@
-An [[abstraction]] which defines a logical set of [[Kubernet Pod|pods]]  and a policy by which to access them. They allow `pods` to die and replicate in [[Kubernets]] without impacting your application.
+An [[abstraction]] which defines a logical set of [[Kubernet Pod|pods]]  and a [[Policy and Details|policy]] by which to access them. They allow `pods` to die and replicate in [[Kubernets]] without impacting your application.
 
 The set of `Pods` targeted by a `Service` is usually determined by a `LabelSelector`.
 
