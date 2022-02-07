@@ -8,6 +8,7 @@ A [[State Manager]] which is a implementation of [[Flux]]
 - Store: where the [[Information]] lays. We can read and [[Publisher-Subscriber Pattern|subscribe]] to it. A store can be [[composition|composed]] by sub-stores
 
 # Alternatives
--  [[MobX]]
--  [[React-Query]] 
--  [[React Hooks]]
+- [[MobX]]
+- [[React-Query]] 
+- [[React Hooks]]
+- [[Vuex]]
