@@ -1,0 +1,1 @@
+“Sexism refers to discrimination against people on the basis of their [[gender]] and the ideologies and attitudes that underlie it. In particular, sexism encompasses the discrimination against and oppression of women on the basis of their gender. Sexism is thus based on an ideology of inequality."
