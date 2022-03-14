@@ -1,0 +1,8 @@
+- Take a holistic view
+- Divide & conquer (look at a module, select people for a specific module)
+- Document as you discover
+- Be proactive for next person (self-document, automation, etc)
+- Give examples
+- Put business case into perspective
+- Explore learning path and help team to understand leverage knowledge
+- [[Ubiquitous Language]]-like
