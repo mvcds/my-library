@@ -1,5 +1,5 @@
 ---
-aliases: [CFR]
+aliases: [CFR, Change Fail Percentage, CFP]
 ---
 
 How often their changes lead to failures in production. 
