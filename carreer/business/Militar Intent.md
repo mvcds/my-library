@@ -1,3 +1,7 @@
+---
+aliases: [Militar Intents, Intent, Intents]
+---
+
 The desired outcome of a military operation. It is made out of 8 facets
 
 - Mission/[[Goal]]: The purpose of the task (the higher-level goals). It provides the [[rationality|rationale]] why it should be executed.  It's regularly stated in one sentence following on the form of Who, What, When, Where and Why, or described by using a [[Compound State]]
