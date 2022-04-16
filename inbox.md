@@ -11,3 +11,4 @@ https://www.archivoarcano.com/
 https://www.amazon.es/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451
 https://github.com/Swordfish90/cool-retro-term
 Google Colab
+https://beagileframework.com/en/overview
