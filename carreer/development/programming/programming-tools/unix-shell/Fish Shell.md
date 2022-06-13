@@ -1,3 +1,5 @@
-The friendly interactive shell is a [[Unix Shell]].
+---
+aliases: Fish
+---
 
-The one that [[Me|I]] use as an alternative for [[Bash]]
+The friendly interactive [[Unix Shell|Shell]]
