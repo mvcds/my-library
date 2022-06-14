@@ -1,4 +1,4 @@
-Spain was already rich due to America [[1 - Exploration]] when England, its [[Religions|religious]] rival, employed piracy to seize their goods. [[Piracy]] led them conquering some territories
+Spain was already rich due to America [[1 - Exploration]] when England, its [[Religion|religious]] rival, employed piracy to seize their goods. [[Piracy]] led them conquering some territories
 
 With the new income they needed to manage their [[money]] better so they got inspired by the Dutch [[Republic]] Bank [[System]].
 

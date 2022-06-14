@@ -1,3 +1,7 @@
+---
+aliases: Religions
+---
+
 - Change over [[time]]
 - Are internally diverse
 - Are embedded in the culture

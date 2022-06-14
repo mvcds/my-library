@@ -9,4 +9,4 @@ One of the [[Ways of addressing the fundamental questions]], distinct from the o
 - [[Ethics]]
 - [[Logic]]
 - [[Metaphysics]]
-- Philosofy of X: investigates the nature of X (like [[Science]], [[Maths]], [[Religions]], etc)
+- Philosofy of X: investigates the nature of X (like [[Science]], [[Maths]], [[Religion]], etc)

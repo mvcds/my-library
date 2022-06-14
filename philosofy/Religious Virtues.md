@@ -1,4 +1,4 @@
-Each [[Virtue]] here helps to explain [[Religions]]
+Each [[Virtue]] here helps to explain [[Religion]]
 
 - Faith
 - Hope

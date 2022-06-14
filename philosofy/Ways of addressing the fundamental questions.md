@@ -1,5 +1,5 @@
 - [[Philosophy]]
 - Mysticism
 - [[Myth]]
-- [[Religions]]
+- [[Religion]]
 - [[Science]](?)
