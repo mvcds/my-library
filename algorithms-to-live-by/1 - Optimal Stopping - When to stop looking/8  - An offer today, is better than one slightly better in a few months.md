@@ -4,4 +4,4 @@ Because not selling also means you're spending [[time]], and in this particular 
 
 ---
 
-Understanding of [[0 - Algorithms to live by - The computer science of human decisions]]
+#quote on of [[0 - Algorithms to live by - The computer science of human decisions]] 

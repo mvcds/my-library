@@ -2,4 +2,4 @@
 
 ---
 
-Paraphrasing [[0 - Algorithms to live by - The computer science of human decisions]]
+#paraphrased  from [[0 - Algorithms to live by - The computer science of human decisions]]
