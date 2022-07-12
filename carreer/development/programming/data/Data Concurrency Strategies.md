@@ -10,4 +10,4 @@ One part locks the data for update by other parts until it is done with it. Some
 
 # Last Writer Wind
 
-In some scenarios, there's no need to verify if the data that we are changing contains the most recent updates i.e. short-lived data streams or scenarios where the likelihood of multiple simultaneous accesses is low
+In some scenarios, there's no need to verify if the data that we are changing contains the most recent updates i.e. short-lived data [[stream|streams] or scenarios where the likelihood of multiple simultaneous accesses is low

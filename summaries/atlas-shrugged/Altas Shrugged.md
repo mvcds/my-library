@@ -1,1 +1,1 @@
-A philosophical romance by [[Ayn Rand]]
+A [[Philosophy|Philosophical]] romance by [[Ayn Rand]]

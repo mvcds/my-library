@@ -10,6 +10,6 @@ It is also a form of programming that offers the same results as [[Concurrent Pr
 
 Funny enough, if you have [[Named State]] this becomes harder because [[State]] itself implies order (in the time dimension).
 
-By connecting concurrent agents by streams, we can split them over the core to obtain a pipelined execution.
+By connecting concurrent agents by [[stream|streams]], we can split them over the core to obtain a pipelined execution.
 
 (by [[Peter Van Roy]])

@@ -1,5 +1,5 @@
 ---
-aliases: [SOLID]
+aliases: [SOLID, SOLID Principle]
 ---
 
 [[Mnemonic]] for five [[Object-Oriented Programming|OOP]] principles
