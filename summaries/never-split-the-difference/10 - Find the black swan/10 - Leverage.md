@@ -14,4 +14,4 @@ We have 3 different kinds of leverage
 
 Understanding of [[0 - Never Split The Difference]]
 
-[^1]: [[psycology]]
+[^1]: [[Psycology]]
