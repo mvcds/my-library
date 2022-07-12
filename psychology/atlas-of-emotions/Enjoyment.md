@@ -1,3 +1,7 @@
+---
+aliases: [Joy, Joyful]
+---
+
 Enjoyment describes the many good feelings that arise from experiences both novel and familiar.
 
 Responses:
