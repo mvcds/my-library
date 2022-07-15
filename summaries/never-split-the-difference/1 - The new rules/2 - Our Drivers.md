@@ -1,4 +1,4 @@
-We're animals mainly driven by
+We're [[Our 3 brains|animals]] mainly driven by
 
 - [[Fear]]
 - Need[^1]
