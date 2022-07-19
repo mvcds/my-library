@@ -2,7 +2,7 @@
 aliases: [Service Level Objectives, SLO, SLOs]
 ---
 
-The [[Service Level]] focused on [[Quality]]. It uses cross-functinal requirements.
+The [[Service Level]] focused on [[Quality]]. It uses [[Cross-Functional Requirement]].
 
 Such qualities varies in [[money|cost]], effort and [[time]], and should match the solution you're doing. That is, an SLO for an application that only works during working hours is different than for an application that cannot stop.
 
