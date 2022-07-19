@@ -1,1 +1,1 @@
-A [[Computer data storage|Storage]] that manages the [[carreer/development/programming/security/identity/Identity|identity]] of a [[user]]: credentials, [[permission]], etc
+A [[Computer data storage|Storage]] that manages the [[carreer/development/programming/security/identity/Identity|identity]] of a [[User]]: credentials, [[permission]], etc

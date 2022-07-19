@@ -39,7 +39,7 @@ Any full-featured data access layer will have the ability to bind variables and 
 - Protect [[Private Key]]s
 - Set "secure" flag in [[Cookie|Cookies]]
 
-# Hash and Salt your [[user]]'s password
+# Hash and Salt your [[User]]'s password
 
 - Never store a password, instead store its [[hash]] from a known and secure hash [[Algorithm]]
 - [[Salt]] before hashing

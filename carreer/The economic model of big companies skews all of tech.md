@@ -7,7 +7,7 @@
 3. Most people in tech sincerely want to do good
 4. Tech history is poorly documented and poorly understood
 5. Most tech education doesn’t include [[Ethics|ethical]] training
-6. Tech is often built with surprising ignorance about its [[user|users]]
+6. Tech is often built with surprising ignorance about its [[User|users]]
 7. There is _never_ just one single genius creator of technology
 8. Most tech isn’t from startups or by startups
 9. Most big tech companies make [[money]] in just one of three ways
