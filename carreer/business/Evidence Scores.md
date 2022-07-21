@@ -120,13 +120,13 @@ Check against the results
 
 - The feature gets repeat usage from a significant % of users
 - Compared to a 5% holdback group the user group that got the product change demonstrate better product stats (e.g. better retention, time spent)
-- Customer support/[[success]] reports shows very positive feedback from users
+- Customer support/[[success]] reports shows very positive [[feedback]] from users
 - Business metrics have improved since the launch
 
 # Late launch results
 
 12–24 months after the launch you have:
 
-- Positive user feedback outweighs negative 10-to-1
+- Positive user [[feedback]] outweighs negative 10-to-1
 - Metrics show strong repeat usage of the new feature
 - Business metrics went up and stayed there

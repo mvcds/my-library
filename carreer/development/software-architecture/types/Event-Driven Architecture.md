@@ -32,7 +32,7 @@ A kind of [[Software Architecture]]
 - Event consumers should [[code]] with the assumption that data schema might change
 - Event producers should minimize breaking changes
 - Teams need to know why, the purpose and when a [[message]] exist/is used for
-- Complex graphs or feedback loops will impact network usage
+- Complex graphs or [[Feedback Loop]] will impact network usage
 - [[Hard Problems#Hackernoon|Order is not guaranted]]
 - [[Side Effect|Side Effects]] on consumers make messages not replayable
 

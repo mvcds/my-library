@@ -6,7 +6,7 @@ Practices
 2. [[WIP Limit|Limit Work in Progress (WIP)]]
 3. Manage Flow
 4. Make Process Policies Explicit
-5. Feedback Loops
+5. [[Feedback|Feedback Loops]]
 6. Improve Collaboratively (using [[Model|Models]] & the [[scientific method]])
 
 ---

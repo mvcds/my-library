@@ -1,4 +1,4 @@
-Realistic [[system]]s consist of many feedback loops interacting in different levels.
+Realistic [[system]]s consist of many [[feedback]] loops interacting in different levels.
 
 They can interact in two ways
 

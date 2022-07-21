@@ -6,7 +6,7 @@ https://medium.com/hh-design/crash-course-ui-design-25d13ff60962#.zageazfih
 
 # Principles
 - Clarity comes first
-- Provide clear, meaningful feedback
+- Provide clear, meaningful [[feedback]]
 - Consistency matters
 - When in doubt, use established [[Design Patterns]]
 - Use visual hierarchy
