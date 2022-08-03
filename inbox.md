@@ -16,3 +16,6 @@ https://github.com/cavi-au/Consent-O-Matic
 Cloudinary
 ReWrite (Java refactoring)
 Webpack dll-plugin
+https://www.asyncagile.org/
+https://www.asyncagile.org/blog/build-mindset-for-change
+https://www.funretrospectives.com/
