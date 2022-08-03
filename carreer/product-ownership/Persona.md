@@ -1,1 +1,5 @@
+---
+aliases: [Personas]
+---
+
 A way to group similar people in an avatar that can be used during [[Design],[[System Requirement]], [[Testing]] and [[User Story]]

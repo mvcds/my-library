@@ -1,0 +1,1 @@
+Uses [[UML]] to represent details of a single [[Component Diagram|component]]
