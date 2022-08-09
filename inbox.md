@@ -43,3 +43,4 @@ https://en.wikipedia.org/wiki/URI_fragment
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399
 https://en.wikipedia.org/wiki/Network_address_translation
 http://worrydream.com/refs/Backus-CanProgrammingBeLiberated.pdf
+https://medium.com/swlh/design-your-products-around-mindsets-not-just-user-personas-68b1b6f35f85
