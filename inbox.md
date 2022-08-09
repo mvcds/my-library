@@ -36,3 +36,10 @@ https://owasp.org/www-project-enterprise-security-api/
 https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 https://asatarin.github.io/testing-distributed-systems/
 https://pre-commit.com/#intro
+https://www.simplethread.com/pure-and-deterministic-functions/
+https://www.thoughtworks.com/radar/techniques/four-key-metrics
+https://gist.github.com/chitchcock/1281611
+https://en.wikipedia.org/wiki/URI_fragment
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399
+https://en.wikipedia.org/wiki/Network_address_translation
+http://worrydream.com/refs/Backus-CanProgrammingBeLiberated.pdf
