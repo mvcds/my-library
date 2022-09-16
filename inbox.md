@@ -44,3 +44,10 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399
 https://en.wikipedia.org/wiki/Network_address_translation
 http://worrydream.com/refs/Backus-CanProgrammingBeLiberated.pdf
 https://medium.com/swlh/design-your-products-around-mindsets-not-just-user-personas-68b1b6f35f85
+
+- Hosts = Instance here
+- Kinisis is better for real-time processing, compared with SQS/Kafka
+- We can try again ---
+
+
+Kinesis is the "go-to" solution for communication between services here in Glovo (usually monolith <-> microservices) and the one we used in our own microservice, but we've seen also a few examples of SQS, both between different services and within the monolith itself
