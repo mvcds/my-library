@@ -1,3 +1,7 @@
+---
+aliases: [Mathematics, Mathematical]
+---
+
 The studies of 
 
 - Quantities ([[Number]] theory)
