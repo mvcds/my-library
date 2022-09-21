@@ -1,3 +1,4 @@
+Qwik (Server-Render Framework) [maybe be bad for slow connections]
 https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html "https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html"
 
 jsonsort NPM package
@@ -50,4 +51,4 @@ https://medium.com/swlh/design-your-products-around-mindsets-not-just-user-perso
 - We can try again ---
 
 
-Kinesis is the "go-to" solution for communication between services here in Glovo (usually monolith <-> microservices) and the one we used in our own microservice, but we've seen also a few examples of SQS, both between different services and within the monolith itself
+Kinesis is the "go-to" solution for communication between services here in XXX (usually monolith <-> microservices) and the one we used in our own microservice, but we've seen also a few examples of SQS, both between different services and within the monolith itself
