@@ -4,7 +4,7 @@ You need to [[13 - Always consider the whole entire negotiation space|understand
 
 [[1 - Calibrated Question]] can help you [[1 - Negotiation is a process of discovery|identifying]] the motivations of diverse people, even if you haven't meet them:
 
-- "How does it affect the rest of the team?"
+- "How does it affect the rest of the [[team]]?"
 - "How onboard are the people not in the call?"
 - "What do you colleagues see as a challenge in this area?"
 

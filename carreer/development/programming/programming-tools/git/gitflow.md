@@ -14,6 +14,6 @@ Beware that **Long-lived branches** should be avoided
 
 In 2020 the author recognizes that this model might be outdated (or misused).
 
-> If, however, you are building software that is explicitly versioned, or if you need to support multiple versions of your software in the wild, then git-flow may still be as good of a fit to your team
+> If, however, you are building software that is explicitly versioned, or if you need to support multiple versions of your software in the wild, then git-flow may still be as good of a fit to your [[team]]
 
 #quote

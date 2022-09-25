@@ -1,4 +1,4 @@
-A cultural shift and a set of practices that allows people across an organization to continuously redesign products without compromising quality, service coherency or team autonomy.
+A cultural shift and a set of practices that allows people across an organization to continuously redesign products without compromising quality, service coherency or [[team]] [[autonomy]].
 
 DesignOps advocates for the creation and evolution of a [[design]] [[infrastructure]] that minimizes the effort necessary to create new UI concepts and variations, and to establish a rapid and reliable [[feedback]] loop with end users.
 

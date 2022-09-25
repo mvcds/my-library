@@ -2,7 +2,7 @@
 aliases: [Rhino]
 ---
 
-The Rhino is just there to collect a paycheck without contributing much to the team. 
+The Rhino is just there to collect a paycheck without contributing much to the [[team]]. 
 
 They might not be actively impeding your decision-making but they're not helping much either. 
 

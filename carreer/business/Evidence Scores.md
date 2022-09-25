@@ -24,7 +24,7 @@ As you go through the steps of validation you also learn more: about users, the 
 
 # Score your idea
 
-Obviously you don’t have to run every idea though every test in the list. Certainly for big ideas that require substantial investment it is good idea to to go through the test groups and perform at least a couple of things in each. Some data-driven companies like Netflix and Booking.com skip the early conviction/thematic-support/pitch phases altogether and empower their teams to A/B test almost anything. Other companies rely much more on qualitative research. Either way, doing more, especially of the mid and late tests, is very important.
+Obviously you don’t have to run every idea though every test in the list. Certainly for big ideas that require substantial investment it is good idea to to go through the test groups and perform at least a couple of things in each. Some data-driven companies like Netflix and Booking.com skip the early conviction/thematic-support/pitch phases altogether and empower their [[team|teams]] to A/B test almost anything. Other companies rely much more on qualitative research. Either way, doing more, especially of the mid and late tests, is very important.
 
 For each "evidence", add the equivalent points
 
@@ -73,7 +73,7 @@ Check against the results
 
 # Other’s Opinions
 
-- The team thinks it’s a good idea
+- The [[team]] thinks it’s a good idea
 - Management thinks it’s a good idea
 - An external expert thinks it’s a good idea
 - An investor thinks it’s a good idea
@@ -83,7 +83,7 @@ Check against the results
 
 - Back-of-the-envelope calculations (e.g. funnel numbers) show good potential
 - Engineering and UX feel the idea is feasible
-- Effort estimates from the team converge into a reasonable project timeframe
+- Effort estimates from the [[team]] converge into a reasonable project timeframe
 - A draft [[business]] model/plan suggests it has good chances of being viable.
 
 # Anecdotal evidence

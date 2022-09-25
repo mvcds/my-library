@@ -1,4 +1,4 @@
-On [[Google]]
+On [[Google]] a [[team]] can only achieve success if it has the following:
 
 - [[Psycology|Psychological]] safety: so everybody works well
 - Dependability: each member can hold others accountable

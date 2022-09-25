@@ -7,7 +7,7 @@ A result of six years’ worth of surveys conducted by the DORA ([DevOps Researc
 	- **[[Mean Time to Recover]]**
 	- **[[Change Failure Rate]]**
 
-These metrics serve as a guide to how well the engineering teams are performing and how successful a company is at DevOps, ranging from “low performers” to “elite performers.
+These metrics serve as a guide to how well the engineering [[team|teams]] are performing and how successful a company is at DevOps, ranging from “low performers” to “elite performers.
 
 They help DevOps and engineering leaders measure software delivery throughput (**velocity**) and stability (**quality**)
 

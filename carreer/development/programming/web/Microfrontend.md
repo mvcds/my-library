@@ -5,7 +5,7 @@ An architectural style where independently deliverable fronted applications are 
 # Benefits
 
 * smaller, more cohesive and maintainable [[Code|Codebase]]s
-* more scalable organisations with decoupled, autonomous teams
+* more scalable organisations with decoupled, [[Autonomy|autonomous]] [[team|teams]]
 * the ability to upgrade, update, or even rewrite parts of the frontend in a more incremental fashion than was previously possible
 
 # Drawbacks

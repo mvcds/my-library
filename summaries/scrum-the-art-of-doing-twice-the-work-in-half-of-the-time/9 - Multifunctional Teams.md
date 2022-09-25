@@ -1,4 +1,4 @@
-The teams were multifunctional. They had autonomy. They were invested with authority to make their own decisions. And shared a transcendent objective.
+The [[team|teams]] were multifunctional. They had autonomy. They were invested with authority to make their own decisions. And shared a transcendent objective.
 
 They seek something bigger than themselves
 

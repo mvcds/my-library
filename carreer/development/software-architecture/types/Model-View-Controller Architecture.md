@@ -4,7 +4,7 @@ aliases: [MVC]
 
 ![[model-view-controller.png]]
 
-A famous architecture where there are three main kinds of components which can be worked in parallel by different team members
+A famous architecture where there are three main kinds of components which can be worked in parallel by different [[team]] members
 
 - [[Model]]: manages the application's [[Data]]
 - View: presents user with the relevant model

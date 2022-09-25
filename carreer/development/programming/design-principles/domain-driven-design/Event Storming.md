@@ -1,4 +1,4 @@
-A process through which a team (developers, [[business]] experts, POs, etc), create a diagram that shows the flow of [[Event in DDD|events]]
+A process through which a [[team]] (developers, [[business]] experts, POs, etc), create a diagram that shows the flow of [[Event in DDD|events]]
 
 Characteristics:
 

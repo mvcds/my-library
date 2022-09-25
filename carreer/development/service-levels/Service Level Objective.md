@@ -7,7 +7,7 @@ The [[Service Level]] focused on [[Quality]]. It uses [[Cross-Functional Require
 Such qualities varies in [[money|cost]], effort and [[time]], and should match the solution you're doing. That is, an SLO for an application that only works during working hours is different than for an application that cannot stop.
 
 Useful SLOS
-- Protect the team
+- Protect the [[team]]
 - Help shape priorities
 
 ---

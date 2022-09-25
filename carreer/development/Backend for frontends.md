@@ -6,6 +6,6 @@ The practice of defining a backend that will be like a [[API Gateway]] where the
 
 ---
 
-When each frontend client has its on the aligment with a backend owned by the same team.
+When each frontend client has its on the aligment with a backend owned by the same [[team]].
 
 It relates  it to [[Interface Segregation Principle]].

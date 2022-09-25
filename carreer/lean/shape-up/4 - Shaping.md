@@ -2,7 +2,7 @@ It's a primary [[Design]] work but sprinkled with technical and strategical lite
 
 Properties of shaped work:
 
-- Rough: clearly unfinished, so the team can apply their own knowledge on it
+- Rough: clearly unfinished, so the [[team]] can apply their own knowledge on it
 - Solved: all the macro are there and connected together, there are no _open questions nor [[17 - Risks and Rabbit holes|rabbit holes]]_
 - Bounded: **it tells us what not to do**
 
