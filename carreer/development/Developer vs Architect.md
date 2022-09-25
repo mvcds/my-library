@@ -1,3 +1,7 @@
+---
+aliases: [Developer, Developers, Architect, Architects, Engineer, Engineers]
+---
+
 According to [[Jason Payne]]
 
 > A developer can [[Code]] - they will be able to deliver a solution.
