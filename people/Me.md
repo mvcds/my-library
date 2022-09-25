@@ -1,4 +1,2 @@
-![[First recall the rules]]
-
 - I am a [[Cynicism|cynist]] person
 - Technically, the first [[Programming Language]] I've ever entered in contact with is [[Ruby]]
