@@ -52,3 +52,5 @@ https://medium.com/swlh/design-your-products-around-mindsets-not-just-user-perso
 
 
 Kinesis is the "go-to" solution for communication between services here in XXX (usually monolith <-> microservices) and the one we used in our own microservice, but we've seen also a few examples of SQS, both between different services and within the monolith itself
+
+Webcal vs WebDAV/CalDAV
