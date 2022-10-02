@@ -2,7 +2,7 @@
 aliases: [Multilayered, N-Tier, Multi-tier]
 ---
 
-A kind of [[Software Architecture]] where you separate your app in layers with different responsibilities. Data flows from one layer to the other.
+A kind of [[Software Architecture]] where you separate your app in [[Tier vs Layer|Layers]] with different responsibilities. [[Data]] flows from one to the other.
 
 - Closed layers can only use layers below
 - Open layers can be used by all the layers
@@ -10,10 +10,6 @@ A kind of [[Software Architecture]] where you separate your app in layers with d
 ---
 
 A possible "evolution" of [[Monolithic Architecture]], after some refactoring for organization.
-
---- 
-
-Some people make a distinction between "layers" and "tiers", where the former is logical and the latter physical
 
 ---
 
