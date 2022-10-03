@@ -10,4 +10,4 @@ They can be classified in a lot of different ways
 
 ---
 
-They are complicated (on the [[Cynefin Framework]]) (according to [[Peter Van Roy]])
+They are [[complicated]] (on the [[Cynefin Framework]]) (according to [[Peter Van Roy]])

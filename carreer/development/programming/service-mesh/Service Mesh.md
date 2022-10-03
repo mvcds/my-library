@@ -10,7 +10,7 @@
  
  ---
  
- The logic governing communication can be coded into each service without a service mesh layer—but as communication gets more complex[^1], a service mesh becomes more valuable.
+ The logic governing communication can be coded into each service without a service mesh layer—but as communication gets more [[complex]][^1], a service mesh becomes more valuable.
  
  For cloud-native apps built in a microservices architecture, a service mesh is a way to comprise a large number of discrete services into a functional application.
  

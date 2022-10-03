@@ -1,3 +1,3 @@
-> If you don't have ways to control it or measure it, it's probably [[Complicated vs Complex|complex]]
+> If you don't have ways to control it or measure it, it's probably [[Complex]]
 
-#quote about complexity in the context of [[Antifragile Systems]]
+#quote about [[Complex|complexity]] in the context of [[Antifragile Systems]]

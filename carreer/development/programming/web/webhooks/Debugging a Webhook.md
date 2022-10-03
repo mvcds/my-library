@@ -1,6 +1,6 @@
 https://sendgrid.com/blog/whats-webhook/
 
-Debugging a [[Webhook]] can be complex at [[Time]]s, as webhooks are principally asynchronous. Thus, you must trigger them and wait, then check the response.
+Debugging a [[Webhook]] can be [[complex]] at [[Time]]s, as webhooks are principally asynchronous. Thus, you must trigger them and wait, then check the response.
 
 Steps 
 

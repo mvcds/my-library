@@ -5,7 +5,7 @@ Providing any [[Online learning and graphs|graphics]]—good or bad—makes read
 	* They explain what the reader should remember after viewing the graph
 	* They capture reader's attention
 * Don't put more than one [[14 - Good paragraphs|paragraph]]'s worth of information in a single image
-* The trick to whittling visual clutter into something coherent and helpful is to organize complex [[System|Systems]] into subsystems
+* The trick to whittling visual clutter into something coherent and helpful is to organize [[complex]] [[System|Systems]] into subsystems
 * When necessary to enphacise a particular part of the image use a callout (arrow, highlight or coutorning)
 * Revise the illustrations as you do with text
 	* Simplify it

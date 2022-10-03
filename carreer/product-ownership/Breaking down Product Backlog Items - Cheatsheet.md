@@ -23,7 +23,7 @@
 6. [[CRUD|Operations]]? - The essential part[^1]
 	- What operations does the story entail?
 	- Are all the operations necessary right now?
-7. [[Test cases]]? - Some test scenarios may be very complex, but not highly relevant at this time
+7. [[Test cases]]? - Some test scenarios may be very [[complex]], but not highly relevant at this time
 	- What test scenarios are used to verify this story?
 	- Are all of them relevant at the moment?
 8. [[Actors and Roles|Roles]]? - A customer can create orders, admins can mage them, etc

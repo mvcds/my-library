@@ -4,7 +4,7 @@ Experts often suffer from **the curse of knowledge**, which means that their exp
 
 ---
 
-Prefer simple words over complex words; avoid obsolete or overly-complex
+Prefer simple words over [[complex]] words; avoid obsolete or overly-[[complex]]
 
 ---
 

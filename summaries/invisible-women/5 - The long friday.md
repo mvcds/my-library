@@ -1,6 +1,6 @@
 The long Friday was a Icelandic national strike where more than 90% of women didn't do any kind of job (paid or not), and went to rallies. In the following year there was a passed act for gender equality.
 
-But in most countries women relationship with work is more complicated.
+But in most countries women relationship with work is more [[complicated]].
 
 As seem in [[4 - Gender neutral with urinals]], we do not give woman the work flexibilization that they need, especially when we consider that Financial [[System|Systems]] tend to ignore [[6 - Is woman unpaid work undervalued because we don't see it, or is it invisible because we don't value it?|unpaid work]], and some benefits can only be collected when the values come from the same source.
 

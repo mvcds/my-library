@@ -26,7 +26,7 @@ CQRS does not require a task based UI. We could apply CQRS to a CRUD based [[Int
 
 ---
 
-Having different models allow us to write scenario-specific queries to maximize efficiency but also might require us to sync them up manually, so it adds complexity and can lead to data inconsistencies
+Having different models allow us to write scenario-specific queries to maximize efficiency but also might require us to sync them up manually, so it adds [[Complex|complexity]] and can lead to data inconsistencies
 
 ---
 

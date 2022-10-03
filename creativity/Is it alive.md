@@ -6,7 +6,7 @@ To say something is alive, it's useful for us to look tick some boxes in a list 
 - Reproduction
 - Made of cells (one or more)
 - Responds to stimuli
-- Ordered and complex
+- Ordered and [[complex]]
 - Has metabolism
 - Maintains homeostasis
 - Evolves across generations

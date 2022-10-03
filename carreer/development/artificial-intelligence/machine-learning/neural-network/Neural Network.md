@@ -8,7 +8,7 @@ Inputs to the network are independent variables, while the output represents the
 
 # Advantages over other [[Artificial Intelligence]] techniques
 
-- Relegates key decision-making process to trained networks, instead of coding complex [[Finite State Machine]] or [[Rule-based system]]
+- Relegates key decision-making process to trained networks, instead of coding [[complex]] [[Finite State Machine]] or [[Rule-based system]]
 - They adapt as their [[environment]] changes
 
 # Disadvantages

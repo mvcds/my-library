@@ -4,7 +4,7 @@ According to the [[Caroline Criado Perez|author]], the 3 main themes of the [[0 
 - Sexual Aresment
 - [[5 - The long friday|Unpaid work]]
 
-Not to mention the execuse: "women are complicated"
+Not to mention the execuse: "women are [[complicated]]"
 
 ---
 

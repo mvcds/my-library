@@ -55,7 +55,7 @@ _Compared to metrics, ..._
     
 -   Useful for identifying bottlenecks or improving performance
     
--   Requires more complex instrumentation
+-   Requires more [[complex]] instrumentation
     
 -   Less straight-forward than metrics or log
     

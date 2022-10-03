@@ -30,7 +30,7 @@ Using [[Positive Validation]] is a good practice, but pay attention to not retur
 
 Parameter binding provides a means of separating executable code, such as [[Structured Query Language|SQL]], from content, transparently handling content encoding and escaping.
 
-Any full-featured data access layer will have the ability to bind variables and defer implementation to the underlying protocol. This way, the developer doesn't need to understand the complexities that arise from mixing user input with executable code. For this to be effective all untrusted inputs need to be bound. If SQL is built through concatenation, interpolation, or formatting methods, none of the resulting string should be created from user input.
+Any full-featured data access layer will have the ability to bind variables and defer implementation to the underlying protocol. This way, the developer doesn't need to understand the [[Complex|complexities]] that arise from mixing user input with executable code. For this to be effective all untrusted inputs need to be bound. If SQL is built through concatenation, interpolation, or formatting methods, none of the resulting string should be created from user input.
 
 # Protect Data in Transit
 

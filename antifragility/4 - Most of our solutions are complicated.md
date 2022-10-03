@@ -1,3 +1,3 @@
-> Most of our solutions are [[Complicated vs Complex|complicated]]
+> Most of our solutions are [[Complicated]]
 
 #quote about most of the [[Software]] developers write
