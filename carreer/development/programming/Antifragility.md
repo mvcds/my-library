@@ -1,3 +1,7 @@
+---
+aliases: [Antifragility, Antifragile]
+---
+
 Antifragility is a property of [[system]]s that increase in capability to thrive as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or [[success|failures]]
 
 > Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better.

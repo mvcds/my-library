@@ -1,3 +1,3 @@
 > [[Quality]] fights [[complexity]]
 
-#quote about [[Antifragile Systems]]
+#quote about [[Antifragility]]
