@@ -2,7 +2,7 @@
 aliases: [Overlearning]
 ---
 
-To get useful [[Informational Feedback]] or [[Corrective Feedback]] [[21 - Feedback]], we need to push ourselves to [[Success|Failure]].  
+To get useful [[Informational Feedback]] or [[Corrective Feedback]] [[21 - Feedback]], we need to push ourselves to [[Success|Failure]][^1].  
 
 With the feedback at hands, we can act and thus extend our limits
 
@@ -13,3 +13,5 @@ Let’s say you want to nail the basics of algebra. Pushing yourself to learn so
 A 1991 study from Ohio Wesleyan University demonstrates that extending your learning into a higher skill set not only challenges your abilities, it also improves your retention of lower-level skills
 
 #summary  of [[0 - Ultralearning]]
+
+[^1]: [[28 - A challenging learning experience can lead to a deeper grasp of the subject]]
