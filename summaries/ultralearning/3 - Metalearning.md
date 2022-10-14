@@ -10,7 +10,7 @@ This give you an [[Optimal Stopping|optimal]] learning [[strategy]], and the rec
 The metalearning map is a breakdown of the subject into three categories, which come in different proportions, according to the subject:
 
 - [[Concept|Concepts]]
-- [[ultralearning/metalearning/Fact|Facts]]
+- [[summaries/ultralearning/metalearning/Fact|Facts]]
 - [[Procedure|Procedures]]
 
 Each of this categories requires different [[tatic|tatics]], like learning a sport might have fewer facts but it requires lots of practice (procedures), so no techniques for memorizing is needed
