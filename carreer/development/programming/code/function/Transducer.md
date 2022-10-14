@@ -1,4 +1,4 @@
-> A [[carreer/development/hardware/Transducer]] is a [[Function Composition|composable]]  [[High Order Function|higher-order]] [[reducer]]. It takes a reducer as input, and returns another reducer.
+> A [[carreer/development/hardware/Transducer|Transducer]] is a [[Function Composition|composable]]  [[High Order Function|higher-order]] [[reducer]]. It takes a reducer as input, and returns another reducer.
 
 #quote by Eric Elliott at https://link.medium.com/zDMKKfLDlX
 
@@ -10,8 +10,8 @@ Transducers don’t do anything until you tell them to start and feed them some 
 
 # Characteristics
 
-- Composable using simple function composition
-- Efficient for large collections or infinite [[stream|streams]: Only enumerates over the elements once, regardless of the number of operations in the pipeline
+- Composable using simple [[function composition]]
+- Efficient for large collections or infinite [[stream|streams]]: Only enumerates over the elements once, regardless of the number of operations in the pipeline
 - Able to transduce over any enumerable source (e.g., [[Array]]s, [[Tree]]s, streams, [[Graph]]s, etc…)
 - Usable for either lazy or eager evaluation with no changes to the transducer pipeline
 

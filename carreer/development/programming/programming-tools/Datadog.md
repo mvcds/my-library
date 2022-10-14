@@ -26,7 +26,7 @@ For a more comprehensive explanation and comparison, I can recommend this chapte
     
 -   Metrics are billed by the number of distinct metrics / permutations of tag values
     
--   Metrics show whether there is a problem or where the problem happens, usually not the root cause
+-   Metrics show whether there is a problem or where the problem happens, usually not the [[root cause]]
     
 
 ### Logs
@@ -35,7 +35,7 @@ For a more comprehensive explanation and comparison, I can recommend this chapte
     
 -   Logs contain as much information as possible
     
--   Useful for root cause analysis
+-   Useful for [[root cause analysis]]
     
 
 _Compared to metrics, ..._

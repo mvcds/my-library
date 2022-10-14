@@ -1,6 +1,6 @@
 https://www.klipfolio.com/blog/kpi-metric-measure
 
-One or more [[Measure]]s that makes sense for that [[Objective]]
+One or more [[Measure|Measures]] that makes sense for that [[Objective]]
 
 They come in many shapes:
 
