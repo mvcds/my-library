@@ -1,3 +1,7 @@
+---
+aliases: [Shu-Ha-Ri, Copy Then Create, Copy-Then-Create]
+---
+
 A [[Japanese]] concept which somehow translates to
 
 > Follow the rule, break the rule, become the rule
