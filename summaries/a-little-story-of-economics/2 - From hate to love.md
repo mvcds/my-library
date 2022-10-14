@@ -6,4 +6,4 @@ Banks allowed [[Mercantilism]] to exist because it linked the rich of a nation t
 
 ---
 
-Understanding of [[0 - A little story of economics]]
+#summary  of [[0 - A little story of economics]]

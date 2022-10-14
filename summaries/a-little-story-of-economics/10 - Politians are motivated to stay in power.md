@@ -2,4 +2,4 @@ Giving that [[9 - The goverment is just a bunch of people with the same selfish 
 
 ---
 
-Understanding of [[0 - A little story of economics]]
+#summary  of [[0 - A little story of economics]]

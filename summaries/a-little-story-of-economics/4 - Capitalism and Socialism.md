@@ -10,4 +10,4 @@ It took a while for some [[society|societies]] to recognize that the reality was
 
 ---
 
-Understanding of [[0 - A little story of economics]]
+#summary  of [[0 - A little story of economics]]

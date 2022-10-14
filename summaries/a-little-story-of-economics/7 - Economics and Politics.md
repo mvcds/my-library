@@ -8,4 +8,4 @@ We have bad examples of this happening like in Uganda(?) but also good examples,
 
 ---
 
-Understanding of [[0 - A little story of economics]]
+#summary  of [[0 - A little story of economics]]
