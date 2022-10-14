@@ -26,7 +26,7 @@
 7. [[Test cases]]? - Some test scenarios may be very [[complex]], but not highly relevant at this time
 	- What test scenarios are used to verify this story?
 	- Are all of them relevant at the moment?
-8. [[Actors and Roles|Roles]]? - A customer can create orders, admins can mage them, etc
+8. [[Actors and Roles|Roles]]? - A [[customer]] can create orders, admins can mage them, etc
 	- Which roles are involved in this story?
 	- What can the roles do?
 	- Are all roles necessary now?

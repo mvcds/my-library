@@ -16,7 +16,7 @@ They will evolve according to what a company thinks it matters for them.
 -  Abstract (what is the project about?)
 - Status
 -  Architecture changes
--  Customer support considerations
+-  [[Customer]] support considerations
 - Documents & References
 - ADR
 - Decision

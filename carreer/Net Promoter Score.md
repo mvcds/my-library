@@ -10,4 +10,4 @@ Respondents are grouped as follows:
 -   **Passives** (score 7-8) are satisfied but unenthusiastic customers who are vulnerable to competitive offerings.
 -   **Detractors** (score 0-6) are unhappy customers who can damage your brand and impede growth through negative word-of-mouth.
 
-Subtracting the percentage of Detractors from the percentage of Promoters yields the Net Promoter Score, which can range from a low of -100 (if every customer is a Detractor) to a high of 100 (if every customer is a Promoter).
+Subtracting the percentage of Detractors from the percentage of Promoters yields the Net Promoter Score, which can range from a low of -100 (if every [[customer]] is a Detractor) to a high of 100 (if every customer is a Promoter).

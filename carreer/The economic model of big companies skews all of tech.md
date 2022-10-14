@@ -12,7 +12,7 @@
 8. Most tech isn’t from startups or by startups
 9. Most big tech companies make [[money]] in just one of three ways
 	- Adverstising
-	- Big business: Some of the larger (generally more boring) tech companies like [[Microsoft]] and [[Oracle]] and [[Salesforce]] exist to get money from other big companies that need business software but will pay a premium if it’s easy to manage and easy to lock down the ways that employees use it. Very little of this technology is a delight to use, especially because the customers for it are obsessed with controlling and monitoring their workers, but these are some of the most profitable companies in tech.
+	- Big business: Some of the larger (generally more boring) tech companies like [[Microsoft]] and [[Oracle]] and [[Salesforce]] exist to get money from other big companies that need business software but will pay a premium if it’s easy to manage and easy to lock down the ways that employees use it. Very little of this technology is a delight to use, especially because the [[Customer|customers]] for it are obsessed with controlling and monitoring their workers, but these are some of the most profitable companies in tech.
 	- Individuals: Companies like [[Apple]] and [[Amazon]] want you to pay them directly for their products, or for the products that others sell in their store.
 10. The economic model of big companies skews all of tech.
 	1. Make an interesting or useful product that transforms a big market

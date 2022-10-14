@@ -15,7 +15,7 @@ They help DevOps and engineering leaders measure software delivery throughput (*
 
 ---
 
-To improve in all 4 metrics, key is to embed [[quality]] into the [[development lifecycle]], otherwise you [[deploy]] fast and the lead time is short, but you fail a lot and at the end, that’s worst (less happy customers).
+To improve in all 4 metrics, key is to embed quality into the [[development lifecycle]], otherwise you [[deploy]] fast and the lead time is short, but you fail a lot and at the end, that’s worst (less happy [[Customer|customers]]).
 
 ---
 
