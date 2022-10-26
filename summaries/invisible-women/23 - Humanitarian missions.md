@@ -14,5 +14,5 @@ Not to mention that we don't usually measuary, when we do it is poorly and male-
 
 Understanding of [[0 - Invisible Women]]
 
-[^1]: [[15 - Male-biased design]], [[18 - Even well intententioned men cannot know know it is go  through a world where other men threat the female body as just an amusement arcade]], [[11 - Most people facing problems don't complain due to their position on society]]
+[^1]: [[15 - Male-biased design]], [[18 - Even well intententioned men cannot know how it is go  through a world where other men threat the female body as just an amusement arcade]], [[11 - Most people facing problems don't complain due to their position on society]]
 [^2]: [[13 - We don't design with women in mind]]

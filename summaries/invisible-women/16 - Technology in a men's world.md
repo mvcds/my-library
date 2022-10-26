@@ -10,7 +10,7 @@ When [[Siri]] was lunched, it could not identify phrases about rape nor search a
 
 ---
 
-![[18 - Even well intententioned men cannot know know it is go  through a world where other men threat the female body as just an amusement arcade]]
+![[18 - Even well intententioned men cannot know how it is go  through a world where other men threat the female body as just an amusement arcade]]
 
 Dummy to test car accidents are mostly based on men, and regulation to include female dummies could help to save women's life. And they should not only be on passagerns seats.
 

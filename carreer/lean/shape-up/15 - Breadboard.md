@@ -9,7 +9,7 @@ You can use it to identify the [[14 - Topology|topology]]
 ![[breadboard.png]]
 
 - Places: you can "navigate" to them e.g. screens, dialogs, menus, etc
-- Afforfance: you can act on it e.g. buttons, fields, [[Interface]] copies[^1]
+- Affordance: you can act on it e.g. buttons, fields, [[Interface]] copies[^1]
 - Connection lines: show how affordances take you from one place to another
 
 [^1]: Because you can read it
