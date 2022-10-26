@@ -1,0 +1,1 @@
+It generates a [[Graph]] about the dependencies of a [[Javascript]] project
