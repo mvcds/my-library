@@ -1,5 +1,5 @@
 ---
-aliases: [Type]
+aliases: [Type Systems, Type, Types]
 ---
 
 A logical [[system]] comprising a set of rules that assigns a [[Property]] called a [[Type]] to the various constructs of a [[Computer]] program, such as variables, [[Expression]], [[Function]] or modules.
@@ -13,4 +13,4 @@ The main purpose of a type system is to reduce possibilities for bugs in [[Compu
 There are two spectrum to observe a type system
 
 - [[Dynamic Type Systemn]] vs [[Static Type System]]
-- [[Strong Type System]] vs [[Weak Type System]]
+- [[Strong Type System]] vs [[Weak Type System]]`

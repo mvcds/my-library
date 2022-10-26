@@ -16,7 +16,7 @@
 	- Which platforms are supported
 	- Are all of them required right now?
 	- Are some platforms harder to implement than others?
-5. [[Type Systems|Datatypes]] and [[Parameter|Parameters]]? - Different search options / strategies or different kinds of reports (tables, graphs, etc)
+5. [[Type System|Datatypes]] and [[Parameter|Parameters]]? - Different search options / strategies or different kinds of reports (tables, graphs, etc)
 	- What datatypes are supported and relevant?
 	- Which parameterized views are there?
 	- Are all parameters relevant at the moment?
