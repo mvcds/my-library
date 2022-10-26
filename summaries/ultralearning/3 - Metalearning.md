@@ -4,7 +4,7 @@ aliases: [3 - How to start ultralearning, Metalearning Map]
 
 We should start by learning how to [[knowledge|learn]] a subject rather than absorbing [[Information]] at ramdom, but rather establish the structure of it.
 
-This give you an [[Optimal Stopping|optimal]] learning [[strategy]], and the recommended time is using about 10% of the time for metalearning.
+This give you an [[Optimal Stopping|optimal]] learning [[strategy]], and the recommended [[time]] is using about 10% of the time for metalearning.
 
 # Mapping
 The metalearning map is a breakdown of the subject into three categories, which come in different proportions, according to the subject:
