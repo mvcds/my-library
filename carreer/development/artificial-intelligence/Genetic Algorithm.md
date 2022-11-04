@@ -13,9 +13,9 @@ An individual is characterized by a set of parameters (variables) known as [[Gen
 
 The set of genes of an individual is represented using a [[string]], in terms of an alphabet. Usually, binary values are used (string of 1s and 0s). We say that we encode the genes in a chromosome.
 
-# Fitness [[Function]]
+# [[Fitness Function]]
 
-Determines how fit an individual is (the ability of an individual to compete with other individuals). It gives a fitness score to each individual. The probability that an individual will be selected for reproduction is based on its fitness score.
+The probability that an individual will be selected for reproduction is based on its [[Fitness Score]]
 
 # Selection
 
