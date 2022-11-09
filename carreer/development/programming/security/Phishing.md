@@ -1,0 +1,1 @@
+"Fishing for [[Information]]" is the practice of sending emails, or making phone calls, with the intention of tricking someone to give information to another
