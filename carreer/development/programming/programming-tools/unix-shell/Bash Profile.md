@@ -1,0 +1,1 @@
+In [[Bash]], the [.bash_profile](https://bash.cyberciti.biz/guide/.bash_profile?utm_source=Linux_Unix_File&utm_medium=faq&utm_campaign=nixfile ".bash profile - Linux Bash Shell Scripting Tutorial Wiki") file when you need to generate the [[environment variable|PATH variable]] for a single user account
