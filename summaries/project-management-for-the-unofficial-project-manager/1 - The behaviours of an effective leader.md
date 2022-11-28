@@ -6,4 +6,4 @@ The [[behaviour|behaviours]] of an effective [[leadership|leader]]
 4. Practice accountability
 5. Be an example for the people you manage (implicitly in the book)
 
-#understanding of [[0 - Project Management for the Unnoficial Project Manager]]
+#understanding of [[0 - Project Management for the Unofficial Project Manager]]

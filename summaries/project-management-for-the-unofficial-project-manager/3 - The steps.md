@@ -11,4 +11,4 @@ A [[project]] starts even before, with you being an [[1 - The behaviours of an e
 9. Monitor and control ([[Scope Creep]])
 10. Close it efficiently by asking feedback
 
-#understanding of [[0 - Project Management for the Unnoficial Project Manager]]
+#understanding of [[0 - Project Management for the Unofficial Project Manager]]
