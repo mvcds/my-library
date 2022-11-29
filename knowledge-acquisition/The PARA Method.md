@@ -28,7 +28,7 @@ https://fortelabs.co/blog/para/
 
 A [[Goal]] is a [[discrete event]] hat will happen in a specific moment at [[time]]
 
-An area has a [[standard]] to be maintained, without a deadline. The standard continues forever, so you have to "prune" it regurlarly.
+An area has a [[standard]] to be maintained, without a deadline. The standard continues forever, so you have to "prune" it regularly.
 
 > Publishing a book is a project, whereas [[Writing]] is an area
 
