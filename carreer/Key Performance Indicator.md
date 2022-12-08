@@ -2,7 +2,7 @@
 aliases: [Key Performance Indicators, KPI, KPIs]
 ---
 
- A set of quantifiable [[Measure|measurements]] used to gauge an overall long-term performance. KPIs specifically help determine a company's strategic, financial, and operational achievements.
+A set of quantifiable [[Measure|measurements]] used to gauge an overall long-term performance. KPIs specifically help determine a company's strategic, financial, and operational achievements.
  
 Some KPIs are dictated by a sector. Others are specific for a company.
 
