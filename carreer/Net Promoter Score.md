@@ -2,7 +2,7 @@
 aliases: [NPS]
 ---
 
-A methodology for measuring satisfaction. Created by [[Fred Reichheld]] in 2003. It can be ussed internally or externally e.g. with [[Customer|Customers]].
+A methodology for measuring satisfaction. Created by [[Fred Reichheld]] in 2003. It can be used internally or externally e.g. with [[Customer|Customers]].
 
 Calculate your NPS using the answer to a key question, using a 0-10 scale: How likely is it that you would recommend \[brand\] to a friend or colleague?
 
