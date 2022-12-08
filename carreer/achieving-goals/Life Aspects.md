@@ -1,5 +1,7 @@
 The part or parts of your life which the [[Goal]] improves while or after being accomplished. A [[Habit]] can also be associated to the life aspects because of the close relationship between goals and habits.
 
+![[life-aspects.png]]
+
 There are many ways to enlist life aspects, none and all are correct at the same [[time]]. My Favorite at the moment is this one I found in this video about a guy creating his [Habit Tier](https://www.youtube.com/watch?v=GriR73kSvPY).
 
 It is as follows:
@@ -21,3 +23,12 @@ It is as follows:
 - Recreation
 - Serenity
 - Wellbeing
+
+# I also recognise the following
+
+- Legal
+- (Meta) Organisational
+- Mind
+- Body
+- Social
+- Religion/Spirituality
