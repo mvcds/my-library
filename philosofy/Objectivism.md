@@ -1,6 +1,6 @@
 A [[Philosofy]] [[system]] created by [[Ayn Rand]]
 
-> The concept of man as a heroic being, with his own happiness as the [[Moral]] purpose of his life, with productive achievement as his noblest activity, and reason as his only absolute
+> The concept of man as a heroic being, with his own [[happiness]] as the [[Moral]] purpose of his life, with productive achievement as his noblest activity, and reason as his only absolute
 
 #quote 
 

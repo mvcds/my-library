@@ -2,7 +2,7 @@ CIA agents, or spies, are put in contact with people of interest from another co
 
 Most of the time, their victims are (un)willingly committing an act of treason against their countries, which is a crime.
 
-Sometimes, in order to succeed the agents have to revel that they work for CIA, which can be used as a moral level i.e. "the president of USA is really happy with the info you gave them"
+Sometimes, in order to succeed the agents have to revel that they work for CIA, which can be used as a moral level i.e. "the president of USA is really [[happiness|happy]] with the info you gave them"
 
 ---
 

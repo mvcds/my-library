@@ -8,7 +8,7 @@
 	- What rules apply to the user story?
 	- Are all business rules necessary now?
 	- Can simpler rules suffice?
-3. Happy/unhappy flow? - Failures during a webshop order processes and possible recovery options
+3. [[happiness|happy]]/unhappy flow? - Failures during a webshop order processes and possible recovery options
 	- What does each flow look like?
 	- Are all of the unhappy flow necessary?
 	- Can the unhappy flows be simplified for now?

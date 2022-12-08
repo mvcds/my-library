@@ -7,7 +7,7 @@ It is as follows:
 - Health
 - Wealth
 - Relationships
-- Happiness
+- [[Happiness]]
 
 # Before the above I was using the following
 

@@ -8,7 +8,7 @@ A [[Goal]] is a [[linguistics/Statement|statement]] that describes precisely wha
 
 - Positive: your goal should be something you move toward, not away from.
 - Immediate: your goals should be something that you decide to make progress on now, not “someday.”
-- Concrete: it means that you’re able to see results in the real world. Achieve “happiness” is not a concrete goal.
+- Concrete: it means that you’re able to see results in the real world. Achieve “[[happiness]]” is not a concrete goal.
 - Specific: you have to define what, when and where you are going to achieve your goal. Your goals should be under your [[Keeping control|control]], like “20 minutes of exercise” instead of “lose 20 pounds.”
 
 #acronym 

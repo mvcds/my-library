@@ -8,7 +8,7 @@ Quimby became the father of the “New Thought” movement, which quickly became
 
 Over the years, the New Thought movement became even more influential. Belief in the power of positive thinking spread to the medical community and psychologists. Then, in the 1930s, it became part of the recipe for power and success. According to books like Think and Grow Rich, you have to think positively to be successful.
 
-Fast-forward to the twenty-first century, and positive thinking has become a multibillion-dollar industry – and a fundamental part of Western culture. Toxic positivity is everywhere. And according to Goodman, not only is it not making us happy, but it’s actually making many of us miserable.
+Fast-forward to the twenty-first century, and positive thinking has become a multibillion-dollar industry – and a fundamental part of Western culture. Toxic positivity is everywhere. And according to Goodman, not only is it not making us [[Happiness|happy]], but it’s actually making many of us miserable.
 
 ---
 
