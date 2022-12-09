@@ -1,10 +1,12 @@
-> Ca we break this [[User Story]] down (vertically) on... (and make it simpler, more understandable and easier to estimate & order)
+> Ca we break this [[User Story]] down (vertically) on... 
+
+(and make it simpler, more understandable and easier to estimate & order)
 
 1. [[Workflow]] steps? - steps in an order process, like selecting a payment option, delivery method, etc
 	- What steps does a user perform?
 	- Are all of the steps necessary now?
 	- Can them be simplified for now?
-2. [[Acceptance Criteria|Business rules]]? - Rules in a process e.g. no order below 10 dollars, no shipping abroad
+2. [[Acceptance Criteria|Business rules]]? - Rules in a process or its [[Acceptance Criterium|Acceptance Criteria]] e.g. no order below 10 dollars, no shipping abroad
 	- What rules apply to the user story?
 	- Are all business rules necessary now?
 	- Can simpler rules suffice?
@@ -12,15 +14,15 @@
 	- What does each flow look like?
 	- Are all of the unhappy flow necessary?
 	- Can the unhappy flows be simplified for now?
-4. [[Input]] options? - [[Patform|Patforms]]
-	- Which platforms are supported
+4. [[Input]] options? - tablets, desktop, etc?
+	- which [[Platform|Platforms]]  are supported
 	- Are all of them required right now?
 	- Are some platforms harder to implement than others?
 5. [[Type System|Datatypes]] and [[Parameter|Parameters]]? - Different search options / strategies or different kinds of reports (tables, graphs, etc)
 	- What datatypes are supported and relevant?
-	- Which parameterized views are there?
+	- Which parameterised views are there?
 	- Are all parameters relevant at the moment?
-6. [[CRUD|Operations]]? - The essential part[^1]
+6. [[CRUD|Operations]]? - Breaking down on [[Create, Read, Update, Reapeat|CRUD]
 	- What operations does the story entail?
 	- Are all the operations necessary right now?
 7. [[Test cases]]? - Some test scenarios may be very [[complex]], but not highly relevant at this time
@@ -34,9 +36,19 @@
 	- What browsers have to be supported?
 	- Are all of them important at this point?
 10. Optimize now or later? - Implementing autocomplete for addresses, usage of GPS-location
-	- What optimizations can we think of [[UX/UI]]?
+	- What optimisations can we think of [[UX/UI]]?
 	- Are all of them necessary now?
+11. [[Logging]] and Error Handling[^1]  - logging can help us understand the product real usage
+	- Which errors happen more frequently?
+	- What prevents users from reaching critical points?
 
-#cheatsheet by Christiaan Verwijs
+#cheatsheet by [[Christiaan Verwijs]]
 
-[^1]: My words, not his
+Possible solutions for the problems above include but are not limited to:[^1]
+- Static vs Dynamic
+- Hard-coded vs Real Data
+- 0 vs 1 vs many
+
+Part of [[0 - Unlearning user stories and focus on incremental deliveries]]
+
+[^1]: Not part of the original cheatsheet, I've added it 
