@@ -1,3 +1,7 @@
+---
+aliases: [Abstractions]
+---
+
 Opposes [[Concretion]]
 
 The concept that dictates that you can be partially ignorant about how something works/behave and still benefit from it
