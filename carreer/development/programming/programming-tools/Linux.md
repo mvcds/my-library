@@ -1,1 +1,1 @@
-Created by [[Linus Turval]]l]] the same guy that created [[git]]
+Created by [[Linus Turval]] the same guy that created [[git]]

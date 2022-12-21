@@ -6,7 +6,7 @@ The "sum" of [[Functional Requirement|Functional Requirements]] and [[Cross-Func
 
 ---
 
-What the people that want/need the [[system]] specify as must-haves.
+What the people want/need from the [[system]], specified as must-haves.
 
 It's possible to [[Monitoring|Monitor]] and/or constrain[^1] some of them, like uptime
 
