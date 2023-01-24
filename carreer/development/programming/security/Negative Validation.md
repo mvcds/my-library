@@ -1,5 +1,5 @@
 ---
-aliases: [Blackisting]
+aliases: [Blackisting, Forbidlisting, Excludelisting]
 ---
 
 A  [[Data]] [[validation]] strategy that rejects every input that contains known dangerous values.

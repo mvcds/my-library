@@ -1,5 +1,5 @@
 ---
-aliases: [Whitelisting]
+aliases: [Whitelisting, Allowlisting]
 ---
 
 A  [[Data]] [[validation]] strategy that says validations are more effective for inputs that can be restricted to a small set. Numeric types can typically be restricted to values within a specific range. For example, it doesn’t make sense for a user to request to transfer a negative amount of money or to add several thousand items to their shopping cart.

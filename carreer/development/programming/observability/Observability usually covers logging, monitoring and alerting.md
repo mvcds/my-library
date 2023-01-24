@@ -1,3 +1,3 @@
-> [[Observability]] usually covers [[Logging]], monitoring and alerting
+> [[Observability]] usually covers [[Logging]], [[monitoring]] and alerting
 
 #quote 
