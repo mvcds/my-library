@@ -1,3 +1,7 @@
+---
+aliases: [DAMP]
+---
+
 The [[Identity & Access Manager Service|IAM Service]] is a component on its own, the issue is how to make other services in our [[Microservice Architecture]] to be able to trust the [[Security Token|Tokens]] it has issued for a [[Client]].
 
 For treating this the [[Model]] of what consists on a secure [[Authentication]] has changed over [[time]].
