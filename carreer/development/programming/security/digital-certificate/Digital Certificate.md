@@ -1,11 +1,11 @@
 ---
-aliases: [Digital Certificates]
+aliases: [Digital Certificates, Certificate, Certificates]
 ---
 
-The most common way to assert the[[carreer/development/programming/security/identity/Identity|identity]] of a digital [[Entity]].
+The most common way to assert the [[carreer/development/programming/security/identity/Identity|identity]] of a digital [[Entity]].
 
 It contains
 
 - A [[Public Key]]
-- The certificate authority identification
+- The [[Certificate Authority]] identification
 - The entity identification
