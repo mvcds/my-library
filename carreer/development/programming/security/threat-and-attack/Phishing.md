@@ -1,0 +1,1 @@
+"Fishing for [[Information]]" is the [[Digital Attack]] where there is sending emails, or making phone calls, with the intention of tricking someone to give information to a person who is not [[Authorization|authorized]] to have it
