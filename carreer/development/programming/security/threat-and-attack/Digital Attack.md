@@ -10,3 +10,4 @@ It includes but not limited to:
 - FREAK
 - DROWN
 - POODLE
+- [[SQL Injection]]
