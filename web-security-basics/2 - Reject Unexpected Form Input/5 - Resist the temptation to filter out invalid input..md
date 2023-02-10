@@ -8,4 +8,4 @@ This practice is a [[Negative Validation]] that removes undesirable input **rath
 
 Even though you caught the [[Attack Tree|attack]], by fixing it, you just reintroduced the vulnerability.
 
-#quote on [[0 - Web Security Basics]] about [[6 - Input Validation]]
+#quote on [[0 - Web Security Basics]] about [[3 - Input Validation]]
