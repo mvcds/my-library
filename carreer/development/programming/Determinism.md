@@ -1,3 +1,5 @@
-When the result of a [[Software]] is always the same, given that they start from the same [[state]] and get the same inputs
+---
+aliases: [Deterministic, Nondeterminism, Nondeterministic]
+---
 
-it's opposite it known as [[Nondeterminism]]
+When the result of a [[Software]] is always the same, given that they start from the same [[state]] and get the same inputs
