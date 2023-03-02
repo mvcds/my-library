@@ -1,4 +1,4 @@
-An [[Algorithm]] that finds the shortest path by guiding the search with a heuristic function: actual distance traveled plus estimated remaining distance to [[Goal]]. The estimation must not be greater than the actual remaining distance
+An [[Algorithm]] that finds the shortest path by guiding the search with a heuristic [[function]]: actual distance traveled plus estimated remaining distance to [[Goal]]. The estimation must not be greater than the actual remaining distance
 
 At [[Programming Paradigms for Dummies - What Every Programmer Should Know]]
 
