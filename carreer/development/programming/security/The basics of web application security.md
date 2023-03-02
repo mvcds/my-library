@@ -55,7 +55,7 @@ Any full-featured data access layer will have the ability to bind variables and 
 - Prevent brute force attacks: use techniques like [[Short Lockout|Short Lockouts]] and [[CAPTCHA]]
 - Don't use default or hard-coded credentials
 
-# Protect user [[Session|Sessions]]
+# Protect user [[carreer/development/programming/web/Session|Sessions]]
 
 - Do not expose session identifiers
 - Restrict [[Cookie]] scope by setting `path` ,  `secure` , `domain` and `expires`
