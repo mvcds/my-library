@@ -1,4 +1,4 @@
-> Don't let the [[amygdala]][^1] get in your way
+> Don't let the [[Amygdala]][^1] get in your way
 
 #quote by [[Chris Voss]] on [[0 - Never Split The Difference]]
 
