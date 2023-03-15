@@ -15,4 +15,4 @@ A way to fight [[15 - Male-biased design]] is having more women in politics beca
 Understanding of [[0 - Invisible Women]]
 
 
-[^1]: [[18 - Even well intententioned men cannot know how it is go  through a world where other men threat the female body as just an amusement arcade]]
+[^1]: [[18 - Even well intentioned men cannot know how it is go  through a world where other men threat the female body as just an amusement arcade]]
