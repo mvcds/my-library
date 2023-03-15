@@ -6,7 +6,7 @@ Anything our code does **besides** resolving to a value[^1]
 Examples
 -   network calls;
 -   reading and writing files;
--   database queries;
+-   [[database]] queries;
 -   modifying DOM elements;
 -   mutating global variables;
 -   even writing to the console.

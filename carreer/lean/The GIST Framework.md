@@ -20,7 +20,7 @@ Hypothetical ways to achieve the goals.
 
 They should never be killed upfront, put into a prioritization deathmatched, favored by management, or chosen according to hype/pitch/politics. Instead:
 
-- Collect all ideas in an Idea Bank, most commonly a spreadsheet or a database — all ideas are welcome and the bank can hold hundreds of ideas indefinitely
+- Collect all ideas in an Idea Bank, most commonly a spreadsheet or a [[database]] — all ideas are welcome and the bank can hold hundreds of ideas indefinitely
 - Prioritize using evidence  (like [[RICE Priorization]] and [[Evidence Scores]])
 - Put as many ideas as possible to the test in order of priority — that’s the job of Step-projects.
 

@@ -11,7 +11,7 @@
 11. Ball shooting game: Creating better FIFA or PES would be way too much work, but it would be possible to make a goal with the goalkeeper and allow shooting the ball from different places of the pitch trying to score.
 12. Short interactive story: You might want to convey your feelings or a message to the world with a short text story and limited user interactions.
 13. Choose your own adventure: Choose one of the options to move the story forward, the goal is to arrive at one of the endings. Just text here, no graphics.
-14. Wordplay: Combine letters to words. Give few letters and let the player come up with a word in a limited amount of time, choose words in specific order to tell a story. Use an existing database to check the validity of words (for example WordNet).
+14. Wordplay: Combine letters to words. Give few letters and let the player come up with a word in a limited amount of time, choose words in specific order to tell a story. Use an existing [[database]] to check the validity of words (for example WordNet).
 15. Plant bombs: Carve the path or destroy enemies by placing limited bombs in strategic places.
 16. Guessing game: Give the player some clues and allow him to take guesses. Maybe a detective game where scenario has to be recreated from some clues. Implement some helpers for reduced score if the player gets stuck.
 17. Assembling game: Allow players to combine different stuff and allow them to feel the results. For example, create a spaceship or a car from simple building blocks and allow them to take it for a spin. Just don't go too overboard with customizations yet.

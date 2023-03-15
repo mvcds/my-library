@@ -22,7 +22,7 @@ Typical layers include:
 - Presentation: UI
 - Application: Transaction between UI and business
 - Business: business logic
-- Persistence: Code to interact with the database
+- Persistence: Code to interact with the [[database]]
 - Data: the database per si
 
 Other layer, like caching, can be added when necessary, as well as merging layers
