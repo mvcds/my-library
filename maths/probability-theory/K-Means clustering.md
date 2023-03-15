@@ -1,4 +1,4 @@
-A process to create find [[Centroid]]s which is biased on where the seeds are initialized.
+A process to create find [[Centroid|Centroids]] which is biased on where the seeds are initialized.
 
 Choosing how many clusters will exist is very important, as well as if data should be [[Standartization|standarized]] or not. 
 
