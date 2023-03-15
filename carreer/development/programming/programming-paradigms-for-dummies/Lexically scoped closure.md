@@ -1,4 +1,4 @@
-A [[Function]] which remembers about the [[environment]](the lexical scope) where it has been created by keeping references to the [[Variable]]s it was interested.
+A [[Function]] which remembers about the [[environment]](the lexical scope) where it has been created by keeping references to the [[carreer/development/Variable|Variable]]s it was interested.
 
 Passing such closures around means that even though the callee cannot access such references directly, they will be used during the closure execution.
 

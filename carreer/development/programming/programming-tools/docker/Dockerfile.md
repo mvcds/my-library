@@ -10,7 +10,7 @@ File with [[Image]] instructions, so the [[environment]] can be reproduced every
 - ADD — copies files and directories to the container. Can unpack local .[[tar]] files.
 - CMD — provides a instruction and [[Argument]]s for an executing container. Parameters can be overridden. There can be only one CMD.
 - WORKDIR — sets the working [[directory]] for the [[instruction]]s that follow.
-- ARG — defines a [[variable]] to pass to [[Docker]] at [[build-time]].
+- ARG — defines a [[carreer/development/Variable|Variable]] to pass to [[Docker]] at [[build-time]].
 - ENTRYPOINT — provides instruction and [[Argument]]s for an executing container. [[Argument]]s persist.
 - EXPOSE — exposes a [[port]].
 - VOLUME — creates a directory mount point to access and store persistent [[data]].

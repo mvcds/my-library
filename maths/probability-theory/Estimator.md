@@ -13,4 +13,4 @@ They are like judges, we want the **most efficient** and **less biased** estimat
 
 ---
 
-It's possible that a [[Variable]] to have many estimators
+It's possible that a [[carreer/development/Variable|Variable]] to have many estimators
