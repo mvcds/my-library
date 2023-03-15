@@ -1,8 +1,4 @@
-- Formulate a [[Hypothesis]]
+- Formulate a [[Hypothesis]] using the available [[Data]]
 - Create a way to [[Testing|test]] it
 - Execute the test
 - Make a decision
-
----
-
-You need [[Data]] to do it
