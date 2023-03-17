@@ -1,6 +1,6 @@
 This is the way [[Me|I]] achieve [[Goal]]s in the long term.
 
-It was based on [[Lean Startup]], [[Agile]], [[Domain-Driven Design]] and [[Commander's Intent]], later I got to know about [[The GIST Framework]]
+It was based on [[Lean Startup]], [[Agile]], [[Domain-Driven Design]] and [[Commander's Intent]], later I got to know about the [[GIST Framework]]
 
 ---
 
