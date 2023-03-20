@@ -1,5 +1,5 @@
 ---
-aliases: [Computers]
+aliases: [Computers, Machine, Machine]
 ---
 
 A machine that can be instructed to do a bunch of [[Maths|mathematical]] operations through "programs" (basically a glorified calculator).
