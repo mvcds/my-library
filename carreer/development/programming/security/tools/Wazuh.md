@@ -1,0 +1,1 @@
+Use to collect and analyze logs from [[aws]] and sensitive servers. Alert on security incident.
