@@ -6,7 +6,7 @@ extends: [Reverse Proxy]
 
 It's a common practice to use a [[Reverse Proxy|API Gateway]] as a way to increase [[Information Security|Security]] because having a single point of entry hides underlying servers.
 
-It's in the gateway where [[Authentication]], [[Authorization]] and limiting access (to prevent attacks like [[DDOS]]) happens.
+It's in the gateway where [[Authentication]], [[Authorization]] and limiting access (to prevent attacks like [[Distributed Denial of Service|DDoS]]) happens.
 
 A gateway is also the place where you can do
 

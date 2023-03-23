@@ -11,3 +11,7 @@ It includes but not limited to:
 - DROWN
 - POODLE
 - [[SQL Injection]]
+- [[Distributed Denial of Service|DDoS]]
+- [[Malvertising]]
+- [[Ransomware]]
+- [[Man in the Middle|MITM]]

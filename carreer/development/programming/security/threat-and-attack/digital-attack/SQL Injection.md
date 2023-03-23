@@ -2,7 +2,7 @@
 url: https://www.w3schools.com/sql/sql_injection.asp
 ---
 
-The placement of malicious [[code]] in [[Structured Query Language|SQL]] statements through (user) [[Input]]
+The placement of malicious [[code]] in [[Structured Query Language|SQL]] statements through (user) [[Input]] for executing a [[Digital Attack]]
 
 ## 1=1
 

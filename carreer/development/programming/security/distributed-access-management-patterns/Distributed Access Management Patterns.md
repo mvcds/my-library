@@ -6,7 +6,7 @@ The [[Identity & Access Manager Service|IAM Service]] is a component on its own,
 
 For treating this the [[Model]] of what consists on a secure [[Authentication]] has changed over [[time]].
 
-On the following image, for instance, if each service verifies the token with the same IAM, there's a bottle neck and possibly a "designed" [[DDOS]]
+On the following image, for instance, if each service verifies the token with the same IAM, there's a bottle neck and possibly a "designed" [[Distributed Denial of Service|DDoS]]
 
 ![[damp-1.png]]
 
