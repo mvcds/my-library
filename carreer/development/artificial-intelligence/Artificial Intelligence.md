@@ -1,3 +1,7 @@
+---
+aliases: [AI]
+---
+
 ![[artificial-intelligence.png]]
 
 The study of devices (intelligent agents) that perceives its [[environment]]and takes actions that maximize its chance of [[success|successfully]] achieving its [[goal]]s
