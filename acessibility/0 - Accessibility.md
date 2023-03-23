@@ -1,0 +1,37 @@
+A course I took about [[Accessibility]] on [[Axe Training]](?)
+
+- Some people can only use their [[Computer]] through a keyboard
+- Timeouts or auctions can be hard on some people
+- Some use single-switch devices, together with some automation, normally [[Navigation]] or trying (like a [[Binary Search]])
+- Screen readers have different modes like "type of tag" and "writing"
+- Easy vs difficult is not the same as possible vs impossible
+- With [[time]] offs (like for [[Authentication]]), [[Information Security|Security]] might be the enemy of [[Accessibility|A11y]]
+- "It's impossible to be accessible for everybody" not only due to some extreme cases of accessibility requirements
+- [[Multi-Factor Authentication|2FA]] was invented later to [[W3C]]'s [[A11y]] guidelines, so not much (if any) is said on the topic
+- In some places, lack of [[A11y]] can cause a law suit, and this is a court-mandated thing, it will affect the [[business]] plans because it will be an after thought
+- [[A11y]] tree? -> SPA
+- [[W3C]] "double a" is modern standard
+- [[Axe Browser Extension]]
+- Aria authoring practing guide
+- [[A11y]] has the potential to not only be about catering for people with disabilities
+- Automated rules are better with [[heuristic]]
+- Evaluation can be one component at a time
+- Landmark: a heading is a section of text, landmarks are "visual" components. You can't invent them.
+- We should be intentional about [[A11y]] for non-native [[Software|Apps]]
+- Focus is important, instead of removing it try customising it
+- A pattern to help [[A11y]] is to giving them an one-button process to go to the main content - visually, this can be activates only during tab
+- Try reducing key-strokes
+- Always show the focus
+- Everything should be functional with the keyboard
+- Tab order should be logical
+- 3rd-party usage does not get you off the hook when it comes to legal claims
+- Semantic structure matter
+- Headings
+- Tables with headers
+- Forms properly labelled
+- Lists need to be real
+- Aria is the second best way to do it(?), but in some cases, it's the only one
+- Divs can be without text, if its styes has no semantic meaning, but some elements that do have it, like H2, cannot, unless they get an aria label on the wrapping semantic element - often a div, span or p
+- Focus should care about dynamic components, if it steals the visual focus, focus should change
+- Be as brief as possible but capture the creator's content when it comes to alternative text
+- [[Usability]] in a [[A11y]] context should be considerated
