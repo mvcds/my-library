@@ -1,25 +1,16 @@
 A course I took about [[Accessibility]] for [[World Wide Web|Web]] development by [[Axe Training]](?), tho they taught us the theory, it felt like most of the trainer's job was selling us the usage of their [[Axe Browser Extension]]
 
-- [[Accessibility|A11y]] tree? -> SPA
-- [[World Wide Web Consortium|W3C]] "double a" is modern standard
-- Aria authoring practicing guide
-- [[Accessibility|A11y]] has the potential to not only be about catering for people with disabilities
-- Automated rules are better with [[heuristic]]
-- Evaluation can be one component at a time
 - Focus is important, instead of removing it try customising it
 - A pattern to help [[Accessibility|A11y]] is to giving them an one-button process to go to the main content - visually, this can be activates only during tab
 - Try reducing key-strokes
 - Always show the focus
-- Semantic structure matter
 - Headings
 - Tables with headers
 - Forms properly labelled
 - Lists need to be real
-- Aria is the second best way to do it(?), but in some cases, it's the only one
 - Divs can be without text, if its styes has no semantic meaning, but some elements that do have it, like H2, cannot, unless they get an aria label on the wrapping semantic element - often a div, span or p
 - Focus should care about dynamic components, if it steals the visual focus, focus should change
 - Be as brief as possible but capture the creator's content when it comes to alternative text
-- [[Usability]] in a [[Accessibility|A11y]] context should be considerate
 - Not all images convey meaning, the alt can be empty
 - An image (like a font icon) wrapped in an element like button might be insufficient to convey meaning, for those, aria-label can be used in the wrapper
 - Any interactive component **must** have text creag(?), alt, or label
