@@ -7,10 +7,10 @@ A course I took about [[Accessibility]] on [[Axe Training]](?)
 - Easy vs difficult is not the same as possible vs impossible
 - With [[time]] offs (like for [[Authentication]]), [[Information Security|Security]] might be the enemy of [[Accessibility|A11y]]
 - "It's impossible to be accessible for everybody" not only due to some extreme cases of accessibility requirements
-- [[Multi-Factor Authentication|2FA]] was invented later to [[W3C]]'s [[A11y]] guidelines, so not much (if any) is said on the topic
+- [[Multi-Factor Authentication|2FA]] was invented later to [[World Wide Web Consortium|W3C]]'s [[A11y]] guidelines, so not much (if any) is said on the topic
 - In some places, lack of [[A11y]] can cause a law suit, and this is a court-mandated thing, it will affect the [[business]] plans because it will be an after thought
 - [[A11y]] tree? -> SPA
-- [[W3C]] "double a" is modern standard
+- [[World Wide Web Consortium|W3C]] "double a" is modern standard
 - [[Axe Browser Extension]]
 - Aria authoring practing guide
 - [[A11y]] has the potential to not only be about catering for people with disabilities
