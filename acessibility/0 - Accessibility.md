@@ -34,4 +34,21 @@ A course I took about [[Accessibility]] on [[Axe Training]](?)
 - Divs can be without text, if its styes has no semantic meaning, but some elements that do have it, like H2, cannot, unless they get an aria label on the wrapping semantic element - often a div, span or p
 - Focus should care about dynamic components, if it steals the visual focus, focus should change
 - Be as brief as possible but capture the creator's content when it comes to alternative text
-- [[Usability]] in a [[A11y]] context should be considerated
+- [[Usability]] in a [[A11y]] context should be considerate
+- Not all images convey meaning, the alt can be empty
+- An image (like a font icon) wrapped in an element like button might be insufficient to convey meaning, for those, aria-label can be used in the wrapper
+- Any interactive component **must** have text creag(?), alt, or label
+- Even tho protected(?) elements work on the browse, for [[A11y]] they are ignored
+- Dynamic placement of images can cause bad contrast
+- TH element have a scope attribute
+- Screen readers sometimes "guess" content e.g. "km" is a kilometer
+- Everything we can interact with have to have an interactable name
+- Sometimes screen readers try to guess the label of inputs
+- Grouping tags (like fieldsets) also need labels
+- Radio buttons need groupings
+- Aria is only used when we need to, so it takes precedence i.e. in case of labels vs `aria-labeledby`
+- `aria-describedby` provides additional info about the form, it can be used for error, complement, or instruction
+- form labels on top, rather than on side can be used on mobile
+- When the screen reader interacts with something, say something
+	- Focus on the error message in a submitted form
+	- `aria-live` for a empty box that will contain an important message
