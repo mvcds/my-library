@@ -6,20 +6,20 @@ A course I took about [[Accessibility]] on [[Axe Training]](?)
 - Screen readers have different modes like "type of tag" and "writing"
 - Easy vs difficult is not the same as possible vs impossible
 - With [[time]] offs (like for [[Authentication]]), [[Information Security|Security]] might be the enemy of [[Accessibility|A11y]]
-- "It's impossible to be accessible for everybody" not only due to some extreme cases of accessibility requirements
-- [[Multi-Factor Authentication|2FA]] was invented later to [[World Wide Web Consortium|W3C]]'s [[A11y]] guidelines, so not much (if any) is said on the topic
-- In some places, lack of [[A11y]] can cause a law suit, and this is a court-mandated thing, it will affect the [[business]] plans because it will be an after thought
-- [[A11y]] tree? -> SPA
+- "It's impossible to be accessible for everybody" not only due to some extreme cases of [[accessibility]] requirements
+- [[Multi-Factor Authentication|2FA]] was invented later to [[World Wide Web Consortium|W3C]]'s [[Accessibility|A11y]] guidelines, so not much (if any) is said on the topic
+- In some places, lack of [[Accessibility|A11y]] can cause a law suit, and this is a court-mandated thing, it will affect the [[business]] plans because it will be an after thought
+- [[Accessibility|A11y]] tree? -> SPA
 - [[World Wide Web Consortium|W3C]] "double a" is modern standard
 - [[Axe Browser Extension]]
 - Aria authoring practing guide
-- [[A11y]] has the potential to not only be about catering for people with disabilities
+- [[Accessibility|A11y]] has the potential to not only be about catering for people with disabilities
 - Automated rules are better with [[heuristic]]
 - Evaluation can be one component at a time
 - Landmark: a heading is a section of text, landmarks are "visual" components. You can't invent them.
-- We should be intentional about [[A11y]] for non-native [[Software|Apps]]
+- We should be intentional about [[Accessibility|A11y]] for non-native [[Software|Apps]]
 - Focus is important, instead of removing it try customising it
-- A pattern to help [[A11y]] is to giving them an one-button process to go to the main content - visually, this can be activates only during tab
+- A pattern to help [[Accessibility|A11y]] is to giving them an one-button process to go to the main content - visually, this can be activates only during tab
 - Try reducing key-strokes
 - Always show the focus
 - Everything should be functional with the keyboard
@@ -34,11 +34,11 @@ A course I took about [[Accessibility]] on [[Axe Training]](?)
 - Divs can be without text, if its styes has no semantic meaning, but some elements that do have it, like H2, cannot, unless they get an aria label on the wrapping semantic element - often a div, span or p
 - Focus should care about dynamic components, if it steals the visual focus, focus should change
 - Be as brief as possible but capture the creator's content when it comes to alternative text
-- [[Usability]] in a [[A11y]] context should be considerate
+- [[Usability]] in a [[Accessibility|A11y]] context should be considerate
 - Not all images convey meaning, the alt can be empty
 - An image (like a font icon) wrapped in an element like button might be insufficient to convey meaning, for those, aria-label can be used in the wrapper
 - Any interactive component **must** have text creag(?), alt, or label
-- Even tho protected(?) elements work on the browse, for [[A11y]] they are ignored
+- Even tho protected(?) elements work on the browse, for [[Accessibility|A11y]] they are ignored
 - Dynamic placement of images can cause bad contrast
 - TH element have a scope attribute
 - Screen readers sometimes "guess" content e.g. "km" is a kilometer

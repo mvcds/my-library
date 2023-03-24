@@ -1,5 +1,5 @@
 ---
-aliases: [Request for Comments, RFC, RFCs]
+aliases: [Request for Comments, RFC, RFCs, Design Doc, Design Docs]
 ---
 
 The act of writing down planned changes, so to have other [[Developer vs Architect|Engineers]] can comment on your key decisions **before** we start working on those changes, like a preemptive [[Code Review]].
@@ -41,4 +41,4 @@ They will evolve according to what a company thinks it matters for them.
 - Security concerns
 - Testing & rollout
 - Analytics
-- Accessibility
+- [[Accessibility]]

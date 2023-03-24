@@ -2,7 +2,7 @@
 aliases: [Design Systems, DS, DSs]
 ---
 
-Documentation of standards, principles, guidelines, visual language, support for [[Acessibility]], support for [[Information]], and/or an [[UI]] library that a company can have to create engaging [[product|products]] by providing consistent [[UX]] across all of its products.
+Documentation of standards, principles, guidelines, visual language, support for [[Accessibility]], support for [[Information]], and/or an [[UI]] library that a company can have to create engaging [[product|products]] by providing consistent [[UX]] across all of its products.
 
 Not only a library. It includes researching (internally), maintaining, and evolving. 
 
