@@ -19,6 +19,7 @@ aliases: [Cross-Functional Requirements, CFR, CFRs, Non-Functional Requirement, 
 - [[Durability]]
 - [[Observability]]
 - [[Auditability]]
+- [[Accessibility]]
 
 Some of those requirements "help" each other. For example, when [[Readability]] is high, it's easier to have modifiability. But on the other hand, readability often clashes with performance[^2].
 
