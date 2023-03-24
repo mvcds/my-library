@@ -1,30 +1,15 @@
-A course I took about [[Accessibility]] on [[Axe Training]](?)
+A course I took about [[Accessibility]] for [[World Wide Web|Web]] development by [[Axe Training]](?), tho they taught us the theory, it felt like most of the trainer's job was selling us the usage of their [[Axe Browser Extension]]
 
-- Some people can only use their [[Computer]] through a keyboard
-- Timeouts or auctions can be hard on some people
-- Some use single-switch devices, together with some automation, normally [[Navigation]] or trying (like a [[Binary Search]])
-- Screen readers have different modes like "type of tag" and "writing"
-- Easy vs difficult is not the same as possible vs impossible
-- With [[time]] offs (like for [[Authentication]]), [[Information Security|Security]] might be the enemy of [[Accessibility|A11y]]
-- "It's impossible to be accessible for everybody" not only due to some extreme cases of [[accessibility]] requirements
-- [[Multi-Factor Authentication|2FA]] was invented later to [[World Wide Web Consortium|W3C]]'s [[Accessibility|A11y]] guidelines, so not much (if any) is said on the topic
-- In some places, lack of [[Accessibility|A11y]] can cause a law suit, and this is a court-mandated thing, it will affect the [[business]] plans because it will be an after thought
 - [[Accessibility|A11y]] tree? -> SPA
 - [[World Wide Web Consortium|W3C]] "double a" is modern standard
-- [[Axe Browser Extension]]
-- Aria authoring practing guide
+- Aria authoring practicing guide
 - [[Accessibility|A11y]] has the potential to not only be about catering for people with disabilities
 - Automated rules are better with [[heuristic]]
 - Evaluation can be one component at a time
-- Landmark: a heading is a section of text, landmarks are "visual" components. You can't invent them.
-- We should be intentional about [[Accessibility|A11y]] for non-native [[Software|Apps]]
 - Focus is important, instead of removing it try customising it
 - A pattern to help [[Accessibility|A11y]] is to giving them an one-button process to go to the main content - visually, this can be activates only during tab
 - Try reducing key-strokes
 - Always show the focus
-- Everything should be functional with the keyboard
-- Tab order should be logical
-- 3rd-party usage does not get you off the hook when it comes to legal claims
 - Semantic structure matter
 - Headings
 - Tables with headers
@@ -41,9 +26,7 @@ A course I took about [[Accessibility]] on [[Axe Training]](?)
 - Even tho protected(?) elements work on the browse, for [[Accessibility|A11y]] they are ignored
 - Dynamic placement of images can cause bad contrast
 - TH element have a scope attribute
-- Screen readers sometimes "guess" content e.g. "km" is a kilometer
 - Everything we can interact with have to have an interactable name
-- Sometimes screen readers try to guess the label of inputs
 - Grouping tags (like fieldsets) also need labels
 - Radio buttons need groupings
 - Aria is only used when we need to, so it takes precedence i.e. in case of labels vs `aria-labeledby`
