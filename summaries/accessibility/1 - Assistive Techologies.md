@@ -7,3 +7,5 @@ Some stuff about [[Assistive technology|Assistive technologies]]
 	- have different modes like "type of tag" and "writing"
 	- sometimes guess content e.g. "km" is a kilometer
 	- they try to guess the label of inputs
+
+#understanding of [[0 - Accessibility]]

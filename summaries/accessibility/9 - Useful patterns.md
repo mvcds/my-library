@@ -8,3 +8,4 @@ To help with [[Accessibility]], there are some patterns we can use:
 
 ![[Semantic Patterns]]
 
+#understanding of [[0 - Accessibility]]

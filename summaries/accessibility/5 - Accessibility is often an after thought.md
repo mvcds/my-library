@@ -5,3 +5,5 @@ And 3rd-party usage does not get you off the hook when it comes to legal claims.
 ---
 
 We should be intentional about [[Accessibility|A11y]] for non-native [[Software|Apps]]
+
+#understanding of [[0 - Accessibility]]
