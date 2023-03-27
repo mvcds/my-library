@@ -1,0 +1,1 @@
+The "course" I took for checking the said [[UX/UI]] [[Process#Noun|approach]] that would make my [[frontend]] [[Code]] more [[Scalability|scalable]] and [[Testing|Testable]]
