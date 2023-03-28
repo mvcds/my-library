@@ -6,7 +6,7 @@ A transaction should be atomic, or all of its commands [[success]] or all of the
 
 # Consistency
 
-After every transaction the [[Database]] should still be consistent
+After every transaction the [[Database]] should still be consistent. Do not mistake with [[CAP Consistency]]
 
 # Isolation
 
