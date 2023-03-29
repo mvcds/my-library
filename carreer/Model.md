@@ -8,6 +8,6 @@ Different angles and desired outcomes will produce different models.
 
 ---
 
-It's an [[Abstraction]] used to design whatever we want to model.[^1]
+It's an [[Abstraction]], or a simplification, used to design whatever we want to model.[^1]
 
 [^1]: [[Models are good]]
