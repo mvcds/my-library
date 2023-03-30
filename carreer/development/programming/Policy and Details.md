@@ -8,4 +8,8 @@ aliases: [Policy, Policies, Business Rule, Business Rules]
 
 ~ [[Robert C. Martin]], [[Clean Architecture]]
 
+---
+
+![[4 - Policy is another name for the strategy pattern]]
+
 [^1]: Check [[Interface]]
