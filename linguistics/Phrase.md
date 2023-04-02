@@ -1,1 +1,5 @@
-A small group of [[Word]]s standing together as a conceptual unit, typically forming a component of a [[Clause]]
+---
+aliases: [Phrases]
+---
+
+A small group of [[Word|Words]] standing together as a conceptual unit, typically forming a component of a [[Clause]]
