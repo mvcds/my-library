@@ -2,7 +2,7 @@
 aliases: [CRC]
 ---
 
-An [[UML]] (like?) technique where you model
+An [[Unified Model Language|UML]] (like?) technique where you model
 
 - Classes[^1]: services/entities
 - Responsibilities: what do a class do?
