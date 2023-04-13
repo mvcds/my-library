@@ -10,7 +10,7 @@ When the [[Policy and Details|Business logic]] is put in the [[UI]]
 | [[4GL]] tools work well                                                         |                                                                           |
 | Handoff is easy, people without context know everything is on the [[UI]]        |                                                                           |
 
---
+---
 
 The author consider it as an [[Design Pattern|anti-pattern]], and the antithesis of [[0 - Domain-Driven Design]]
 
