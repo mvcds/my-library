@@ -1,5 +1,3 @@
-
-
 -   [[Employee]]
 -   [[Entrepreneur]]
 -   [[Empire Builder]]
