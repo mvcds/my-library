@@ -1,3 +1,7 @@
+---
+aliases: [States]
+---
+
 It's a [[Software]] [[Abstraction]] about [[time]]. Giving programs the ability to "remember" [[Information]].
 
 ...
