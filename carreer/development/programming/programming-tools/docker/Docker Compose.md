@@ -3,5 +3,5 @@ Compose is a tool for defining and running multi-container [[Docker]] applicatio
 # Steps
 
 1. Define your [[app]]’s [[environment]] with a [[Dockerfile]] so it can be reproduced anywhere.
-2. Define the [[service]]s that make up your app in [[docker-compose.yml]] so they can be run together in an isolated environment.
+2. Define the [[carreer/development/programming/Service|Service]]s that make up your app in [[docker-compose.yml]] so they can be run together in an isolated environment.
 3. Lastly, run docker-compose up and Compose will start and run your entire app.
