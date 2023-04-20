@@ -4,6 +4,6 @@ We need to handle [[framework|frameworks]] carefully so that they don't interfer
 
 ---
 
-It contrasts [[6 - Services]]
+It contrasts [[6 - Architectural Services]]
 
 #understanding  of [[0 - Domain-Driven Design]]
