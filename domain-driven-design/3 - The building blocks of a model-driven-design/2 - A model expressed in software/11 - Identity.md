@@ -10,4 +10,8 @@ It might not be intrisic to a thing in the world, but we can defined it as a mea
 
 Beware of "technical identities" (like place in memory), as it's not a "domain identity" - the domain part is significant for the domaian and its [[Software|Softwares]]
 
+---
+
+It comes with a possible cost on [[Performance]], so it should only be given when it makes sense
+
 #understanding of [[0 - Domain-Driven Design]]

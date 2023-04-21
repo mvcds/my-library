@@ -1,5 +1,5 @@
 ---
-aka: [Entities, Reference Object, Reference Objects]
+aliases: [Entities, Reference Object, Reference Objects]
 ---
 
 An object defined primarily by its [[11 - Identity]]
