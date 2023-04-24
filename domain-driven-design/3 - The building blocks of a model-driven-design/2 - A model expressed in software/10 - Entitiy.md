@@ -6,7 +6,7 @@ An object defined primarily by its [[11 - Identity]]
 
 ---
 
-Objects defined by their [[Continuity]] and identity rather than by its attribues. Opposes [[0 - Value Object]]
+Objects defined by their [[Continuity]] and identity rather than by its attributes. Opposes [[0 - Value Object]]
 
 ---
 

@@ -2,11 +2,11 @@
 aliases: [Value Objects, VO, VOs]
 ---
 
-Objects without an [[11 - Identity]]. They describe some characteristings of a thing. Opposed to [[10 - Entitiy]].
+Objects without an [[11 - Identity]]. They describe some characteristics of a thing. Opposed to [[10 - Entitiy]].
 
 ---
 
-Not only the absence of identity, they are "descriptiors"
+Not only the absence of identity, they are "descriptors"
 
 ---
 

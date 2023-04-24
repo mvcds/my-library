@@ -8,6 +8,6 @@ In a [[Database]] context, it means we might duplicate data as if it was part of
 
 ---
 
-VOs with bidirectional [[7 - Association|associations]] probably are [[10 - Entitiy|Entities]] because it doesn't make sense to point to a particular VO, as pointing to one is pointing to any VO with equal atttributes
+VOs with bidirectional [[7 - Association|associations]] probably are [[10 - Entitiy|Entities]] because it doesn't make sense to point to a particular VO, as pointing to one is pointing to any VO with equal attributes
 
 #understanding of [[0 - Domain-Driven Design]]

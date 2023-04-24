@@ -8,7 +8,7 @@ Its operations have to be part of the [[3 - Ubiquitous Language]]
 
 ---
 
-They are useful to not leak the domain operation to the application[^1], thus keping the application of being a coordenator of domain-related stuff, keeping a clean architecture
+They are useful to not leak the domain operation to the application[^1], thus keeping the application of being a coordinator of domain-related stuff, keeping a clean architecture
 
 [^1]: [[5 - Layered Architecture]]
 

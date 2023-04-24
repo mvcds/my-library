@@ -1,3 +1,3 @@
-> Some concepts from the [[2 - Domain Model|domain]] aren't a natural fit to [[model]] as [[Object|Objects]]. Forcing the required domain functionality to be the responsability of an [[10 - Entitiy]] or [[14 - Value Object]] either distorts the definition of a model-based object or adds meaningless artificial objects
+> Some concepts from the [[2 - Domain Model|domain]] aren't a natural fit to [[model]] as [[Object|Objects]]. Forcing the required domain functionality to be the responsibility of an [[10 - Entitiy]] or [[14 - Value Object]] either distorts the definition of a model-based object or adds meaningless artificial objects
 
 #quote by [[Eric Evans]] on [[0 - Domain-Driven Design]] about the relation of DDD and [[Object-Oriented Programming|OOP]]
