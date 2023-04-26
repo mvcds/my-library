@@ -1,0 +1,2 @@
+- For the [[Rear Mirror]] it should be about every 20s, before hitting the [[Brake]], or before [[Turning]]
+- For the [[Lateral Mirror|lateral mirrors]], every time before turning
