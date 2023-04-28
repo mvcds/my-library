@@ -1,7 +1,5 @@
 A [[Loopback Address]] that points to "the [[computer]] i am working on".
 
-
-
 ---
 
 The default machine name.
