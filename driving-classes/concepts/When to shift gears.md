@@ -1,1 +1,0 @@
-Around 1K and 2,5K [[rotation per minute|RPM]] is when we need to [[Shift Gears]]
