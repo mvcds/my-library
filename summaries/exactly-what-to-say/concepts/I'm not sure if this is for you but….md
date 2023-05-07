@@ -4,4 +4,4 @@ The "but" cancels the "I'm not sure" part
 
 #concept at [[0 - Exactly what to say]]
 
-[ˆ1]: [[Everyone needs to feel they are the ones making decisions]]
+[ˆ1]: [[Everyone needs to feel they are the ones making decisions]] 
