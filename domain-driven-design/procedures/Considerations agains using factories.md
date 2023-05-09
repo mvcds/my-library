@@ -1,3 +1,5 @@
+#procedure in [[0 - Domain-Driven Design]]
+
 Consider the following to find out when **not** to use [[Factory|Factories]]:
 
 - The class is the concrete [[Type System|Type]] i.e. it is not in a [[Polymorphism|polymorphic]] hierarchy

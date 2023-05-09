@@ -1,3 +1,5 @@
+#procedure in [[0 - Domain-Driven Design]]
+
 How to do good [[Factory]] [[Interface]] [[Design]]
 
 - Atomic operations. Committing to change only when [[Invariant|Invariants]] are correct. When these fail be [[Consistency Principle|Consistent]] on how to handle it (throw exception, return null, etc)

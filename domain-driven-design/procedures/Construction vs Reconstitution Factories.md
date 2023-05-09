@@ -1,3 +1,5 @@
+#procedure in [[0 - Domain-Driven Design]]
+
 Those [[Factory|Factories]] differ in 2 ways
 
 1. Reconstitution does not assign new [[carreer/development/programming/Identity|identity]]
