@@ -12,4 +12,12 @@ Only [[Aggregate Root|Roots]] should access them.
 
 ---
 
-They might return summaries about the queries they perform, alongside the objects they query like for showing the total number of items
+They might return summaries or convenience [[Function|Methods]] about the queries they perform, alongside the objects they query like for showing the total number of items
+
+- [[Abstraction]]: due to [[polimorphism]], some objects can be dealt by the same repo
+- [[Low-Coupling|Decoupling]]: [[Client|Clients]] doesn't need to know about the internal details, so we can change them at will
+- Uncommitted:  tho it's tempting to do it, the client is the one who knows about their [[context]], so they should be responsible for committing
+
+---
+
+[[7 - Architectural Frameworks]] deeply influence how repos are implemented
