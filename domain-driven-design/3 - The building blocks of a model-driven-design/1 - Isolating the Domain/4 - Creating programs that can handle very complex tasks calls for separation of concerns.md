@@ -2,4 +2,4 @@
 
 #quote by [[Eric Evans]] on [[0 - Domain-Driven Design]] about how to [[5 - Layered Architecture|layer an architecture]]
 
-[^1]: [[Single Responsability Principle]]
+[^1]: [[Single Responsibility Principle]]

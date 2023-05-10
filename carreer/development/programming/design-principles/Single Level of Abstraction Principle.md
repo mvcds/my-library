@@ -6,4 +6,4 @@ aliases: [SLAP, SLAP Principle]
 
 ---
 
-Somewhat relates to [[Single Responsability Principle]]
+Somewhat relates to [[Single Responsibility Principle]]
