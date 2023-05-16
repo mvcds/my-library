@@ -1,4 +1,4 @@
-> Useful [[2 - Domain Model]] seldom lie on the surface
+> Useful [[Domain Model]] seldom lie on the surface
 
 When the author started the real version of [[6 - Shipping Example]], he thought that the model would be about tracing the itinerary of cargo.
 

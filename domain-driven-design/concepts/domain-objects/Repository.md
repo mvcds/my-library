@@ -4,7 +4,7 @@ aliases: [Repositories]
 
 #concept in [[0 - Domain-Driven Design]]
 
-This [[Domain Object]] is an [[Computer data storage|in-memory collection]] with [[2 - Domain Model|domain]]-interesting [[Query|querying]] [[Feature|Capabilities]], which will interact with the [[Database|Databases]].
+This [[Domain Object]] is an [[Computer data storage|in-memory collection]] with [[Domain Model|domain]]-interesting [[Query|querying]] [[Feature|Capabilities]], which will interact with the [[Database|Databases]].
 
 They should be used with [[Domain Object|Domain Objects]] that require global access, normally [[domain-driven-design/concepts/domain-objects/Aggregate|Aggregates]], difficult to transverse values, and enumerations
 

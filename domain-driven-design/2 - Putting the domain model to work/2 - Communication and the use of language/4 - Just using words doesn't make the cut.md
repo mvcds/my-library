@@ -1,4 +1,4 @@
-To really take advantage of the [[3 - Ubiquitous Language]], it's not enough to use its [[Word|Words]]. We need to put them in [[Phrase|Phrases]] that explicitly describe [[Complex|relationships]] and interactions of the [[2 - Domain Model|Model]].
+To really take advantage of the [[3 - Ubiquitous Language]], it's not enough to use its [[Word|Words]]. We need to put them in [[Phrase|Phrases]] that explicitly describe [[Complex|relationships]] and interactions of the [[Domain Model|Model]].
 
 Often we need to experiment with different ways to express the same concepts to arrive in something that [[Domain Expert|Domain Experts]] can also understand
 

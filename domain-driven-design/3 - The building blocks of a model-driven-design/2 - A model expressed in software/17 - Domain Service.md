@@ -1,4 +1,4 @@
-Normally actions and/or activities that don't fit elsewhere in our [[2 - Domain Model]]
+Normally actions and/or activities that don't fit elsewhere in our [[Domain Model]]
 
 Their [[Argument|Arguments]] and results should be domain objects
 
