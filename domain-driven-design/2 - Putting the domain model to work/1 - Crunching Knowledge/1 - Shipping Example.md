@@ -1,4 +1,4 @@
-As an illustration on how to [[5 - Make knowledge explicit for everybody]], the author presents an example where he had to [[model]] a shipping [[system]].
+As an illustration on how to [[Making knowledge explicit for everybody]], the author presents an example where he had to [[model]] a shipping [[system]].
 
 Those systems usually allow more bookings than capacity because cargo is not always shipped in the voyage it was supposed to be.
 
@@ -16,7 +16,7 @@ void makeBooking(cargo, voyage) {
 
 Having only two boxes made harder for the experts to "see", and therefore talk about the overbooking.
 
-Then, he changed the diagram, so to include a box between the entities, to represent overbooking as a [[4 - Policy is another name for the strategy pattern|policy]] 
+Then, he changed the diagram, so to include a box between the entities, to represent overbooking as a [[Policy|policy]] 
 
 ```js
 void makeBooking(cargo, voyage) {

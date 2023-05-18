@@ -1,4 +1,4 @@
-To expand on the [[6 - Shipping Example]], the author presents an already mature [[Domain Model]] for simplicity. In reality, the process of creating it would be interactive and take some time.
+To expand on the [[1 - Shipping Example]], the author presents an already mature [[Domain Model]] for simplicity. In reality, the process of creating it would be interactive and take some time.
 
 Doing it like this allows us to focus on how to use the building blocks.
 

@@ -10,6 +10,6 @@ aliases: [Policy, Policies, Business Rule, Business Rules]
 
 ---
 
-![[4 - Policy is another name for the strategy pattern]]
+![[Policy]]
 
 [^1]: Check [[Interface]]

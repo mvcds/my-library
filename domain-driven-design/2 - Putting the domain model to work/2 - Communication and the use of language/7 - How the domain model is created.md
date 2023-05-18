@@ -2,4 +2,4 @@ The [[Domain Model]] will typically derive from the [[Domain Expert|Domain Exper
 
 #understanding  of [[0 - Domain-Driven Design]]
 
-[^1]: Through [[1 - Knowledge Crunching is a team activity|knowledge crunching]] and our [[3 - Navigating business rules|navigation of their business rules]]
+[^1]: Through [[1 - Knowledge Crunching is a team activity|knowledge crunching]] and our [[Navigating business rules|navigation of their business rules]]
