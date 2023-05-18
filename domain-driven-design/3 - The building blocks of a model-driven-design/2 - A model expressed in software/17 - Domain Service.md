@@ -4,7 +4,7 @@ Their [[Argument|Arguments]] and results should be domain objects
 
 ---
 
-Its operations have to be part of the [[3 - Ubiquitous Language]]
+Its operations have to be part of the [[domain-driven-design/concepts/Ubiquitous Language|Ubiquitous Language]]
 
 ---
 

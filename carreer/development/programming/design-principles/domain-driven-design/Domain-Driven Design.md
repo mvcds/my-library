@@ -10,6 +10,6 @@ It's important to notice that a model is not absolute, each aspect of the [[busi
 
 And that infrastructure should support the domain but not necessarelly be part of it (for instance being a [[Service in DDD|service]])
 
-[^1]: Check [[Ubiquitous Language]]
+[^1]: Check [[carreer/development/programming/design-principles/domain-driven-design/Ubiquitous Language|Ubiquitous Language]]
 [^2]: Check [[Software Design > Code Design]]
 [^3]: Check [[Software Design more important than Code Design]]
