@@ -1,4 +1,4 @@
-The fundamental theorem of [[Software]] engineering (FTSE) is a term originated by [[Andrew Koenig]] to describe a remark by [[Butler Lampson]] attributed to the late [[David J. Wheeler]]
+The fundamental theorem of [[Software]] engineering (FTSE) is a [[term]] originated by [[Andrew Koenig]] to describe a remark by [[Butler Lampson]] attributed to the late [[David J. Wheeler]]
 
 > We can solve any problem by introducing an extra level of indirection.
 

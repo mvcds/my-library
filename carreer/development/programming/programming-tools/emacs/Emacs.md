@@ -1,6 +1,6 @@
 Basically a [[Lisp]] Interpreter
 
-The term key binding derives from the fact that Emacs binds keystrokes to commands, which are just Lisp  functions (I’ll use command and [[function]] interchangeably). For example, `C-x b` is bound to the function `switch-to-buffer`. Likewise, `C-x C-s` is bound to `save-file`.
+The [[term]] key binding derives from the fact that Emacs binds keystrokes to commands, which are just Lisp  functions (I’ll use command and [[function]] interchangeably). For example, `C-x b` is bound to the function `switch-to-buffer`. Likewise, `C-x C-s` is bound to `save-file`.
 
 You can also run commands by name, without a specific key binding, using `M-x function-name` (for example, `M-x save-buffer`). `M` stands for _meta_, a key that modern keyboards don’t possess but which is mapped to **alt** on Windows and Linux and **option** on Macs. `M-x runs` the `smex `command, which prompts you for the name of another command to be run.
 

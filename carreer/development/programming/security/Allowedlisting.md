@@ -8,4 +8,4 @@ Allowing known people to access something is more [[Information Security|Secure]
 
 ---
 
-Whitelising is a more common name than [[Allowedlisting]] but due to racism of the opposite term (blacklisitng) we avoid using it.
+Whitelising is a more common name than [[Allowedlisting]] but due to racism of the opposite [[term]] (blacklisitng) we avoid using it.

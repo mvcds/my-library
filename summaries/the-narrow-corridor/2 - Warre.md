@@ -1,4 +1,4 @@
-[[Hobbes]] coined the term "[[Warre]]" to describe that societies tend to be destructive without even realizing.
+[[Hobbes]] coined the [[term]] "[[Warre]]" to describe that societies tend to be destructive without even realizing.
 
 When two people desire the same thing, the outcome is not necessarily and not even probably “warre".
 

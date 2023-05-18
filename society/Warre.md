@@ -2,7 +2,7 @@ A position where a contract _could_ be broken, even if it remains unbroken. �
 
 ---
 
-The term was coined by [[Hobbes]] because it's a similar (or incorrect) spelling of [[War]]
+The [[term]] was coined by [[Hobbes]] because it's a similar (or incorrect) spelling of [[War]]
 
 
 #learn 
