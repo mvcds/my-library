@@ -11,3 +11,9 @@ To do so, they should expose only their [[Aggregate Root|Root]], and let all [[c
 ---
 
 Having aggregates is very helpful in [[Concurrent Programming]]
+
+---
+
+![[Aggregate.jpg]] 
+
+As an example of an [[domain-driven-design/concepts/domain-objects/Aggregate|Aggregate]], we have a Purchased Order with an approved limit where order lines have to be immune to changes on the price of its Items, which means that their price gets copied around.
