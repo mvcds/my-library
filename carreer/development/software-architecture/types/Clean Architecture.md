@@ -1,4 +1,4 @@
-A [[Domain]]-centric [[Layered Architecture|Multilayered]] architecture where the domain is shared between all [[Software|Applications]] of the [[business|company]], and then each [[Software|Application]] extends and/or consumes the domain.
+A [[Domain]]-centric [[carreer/development/software-architecture/types/Layered Architecture|Multilayered]] architecture where the domain is shared between all [[Software|Applications]] of the [[business|company]], and then each [[Software|Application]] extends and/or consumes the domain.
 
 ---
 

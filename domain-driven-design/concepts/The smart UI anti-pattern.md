@@ -1,3 +1,5 @@
+#concept in [[0 - Domain-Driven Design]]
+
 When the [[Policy and Details|Business logic]] is put in the [[UI]]
 
 | Props                                                                       | Cons                                                                      |

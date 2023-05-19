@@ -16,8 +16,8 @@ They might return summaries or convenience [[Function|Methods]] about the querie
 
 - [[Abstraction]]: due to [[polimorphism]], some objects can be dealt by the same repo
 - [[Low-Coupling|Decoupling]]: [[Client|Clients]] doesn't need to know about the internal details, so we can change them at will
-- Uncommitted:  tho it's tempting to do it, the client is the one who knows about their [[context]], so they should be responsible for committing
+- Uncommitted: tho it's tempting to do it, the client is the one who knows about their [[context]], so they should be responsible for committing
 
 ---
 
-[[7 - Architectural Frameworks]] deeply influence how repos are implemented
+[[Architectural Framework|Architectural Frameworks]] deeply influence how repos are implemented

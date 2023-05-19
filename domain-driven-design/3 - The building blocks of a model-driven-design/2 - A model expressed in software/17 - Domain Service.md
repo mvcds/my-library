@@ -10,6 +10,6 @@ Its operations have to be part of the [[domain-driven-design/concepts/Ubiquitous
 
 They are useful to not leak the domain operation to the application[^1], thus keeping the application of being a coordinator of domain-related stuff, keeping a clean architecture
 
-[^1]: [[5 - Layered Architecture]]
+[^1]: [[domain-driven-design/concepts/layered-architecture/Layered Architecture|Layered Architecture]]
 
 #understanding of [[0 - Domain-Driven Design]]
