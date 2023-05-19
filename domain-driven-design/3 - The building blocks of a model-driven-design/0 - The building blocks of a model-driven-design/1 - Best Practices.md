@@ -4,4 +4,4 @@ It starts with creating a division of concern between the software concepts to t
 
 #understanding  of [[0 - Domain-Driven Design]]
 
-[^1]: [[3 - Navigation map of the language of model-driven design]]
+[^1]: [[2 - Navigation map of the language of model-driven design]]
