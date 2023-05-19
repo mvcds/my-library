@@ -1,4 +1,6 @@
-Characteristics of a good [[17 - Domain Service|service]]
+#procedure in [[0 - Domain-Driven Design]]
+
+Characteristics of a good [[Domain Service|service]]
 
 1. Its operation relates to a  [[Domain Model|domain]] concept that is not natural part of something else
 2. Its interface is defined in terms of other domain model's elements

@@ -1,3 +1,9 @@
+---
+aliases: [Domain Services, Service, Services]
+---
+
+#concept in [[0 - Domain-Driven Design]]
+
 Normally actions and/or activities that don't fit elsewhere in our [[Domain Model]]
 
 Their [[Argument|Arguments]] and results should be domain objects

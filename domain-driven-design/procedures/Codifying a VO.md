@@ -1,4 +1,6 @@
-Because [[14 - Value Object|Value Objects]] are just descriptors, they can be [[Immutability|immutable]] - be it by implementation, passing by copy, technology, etc.
+#procedure in [[0 - Domain-Driven Design]]
+
+Because [[Value Object|Value Objects]] are just descriptors, they can be [[Immutability|immutable]] - be it by implementation, passing by copy, technology, etc.
 
 This allows for some optimizations for [[Performance]], such as [[Flyweight]]
 
@@ -8,6 +10,4 @@ In a [[Database]] context, it means we might duplicate data as if it was part of
 
 ---
 
-VOs with bidirectional [[7 - Association|associations]] probably are [[10 - Entitiy|Entities]] because it doesn't make sense to point to a particular VO, as pointing to one is pointing to any VO with equal attributes
-
-#understanding of [[0 - Domain-Driven Design]]
+VOs with bidirectional [[Association|associations]] probably are [[Entitiy|Entities]] because it doesn't make sense to point to a particular VO, as pointing to one is pointing to any VO with equal attributes
