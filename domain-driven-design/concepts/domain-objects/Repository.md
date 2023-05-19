@@ -21,3 +21,4 @@ They might return summaries or convenience [[Function|Methods]] about the querie
 ---
 
 [[Architectural Framework|Architectural Frameworks]] deeply influence how repos are implemented
+
