@@ -1,5 +1,5 @@
 ---
-aliases: [Distributed Computing, Distributed Programming]
+aliases: [Distributed Systems, Distributed Computing, Distributed Programming]
 ---
 
 A [[system]] whose [[component|components]] are located on different [[network|networks]]
