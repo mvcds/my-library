@@ -1,4 +1,4 @@
-A [[Psycology]] book by Dr [[Julie Smith]] to give people the [[tool|tools]] that they need to go through [[life]].
+A [[Psychology]] book by Dr [[Julie Smith]] to give people the [[tool|tools]] that they need to go through [[life]].
 
 As a set of tools, it doesn't solve all problems life throws at you. Each of them has to be trained individually and in its own pace.
 
