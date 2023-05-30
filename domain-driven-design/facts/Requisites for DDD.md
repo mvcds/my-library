@@ -1,4 +1,4 @@
-#fact in [[0 - Domain-Driven Design]]
+#fact in [[1 - Preface]]
 
 - [[Development]] is interactive
 - Developers and [[Domain Expert|Domain Experts]] have a close relationship

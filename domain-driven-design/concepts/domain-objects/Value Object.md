@@ -2,7 +2,7 @@
 aliases: [Value Objects, VO, VOs]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[2 - A model expressed in software]]
 
 Objects without an [[domain-driven-design/concepts/domain-objects/Identity|identitiy]]. They describe some characteristics of a thing. Opposed to [[Entitiy]].
 

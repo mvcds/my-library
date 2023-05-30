@@ -2,7 +2,7 @@
 aliases: [Entities, Reference Object, Reference Objects]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[2 - A model expressed in software]]
 
 An object defined primarily by its [[domain-driven-design/concepts/domain-objects/Identity|Identity]]
 

@@ -2,7 +2,7 @@
 aliases: [Architectural Frameworks, Framework, Frameworks]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[1 - Isolating the Domain]]
 
 Some of the [[infrastructure|infrastructural]] parts of our [[domain-driven-design/concepts/layered-architecture/Layered Architecture|Layered Architecture]] are too much opinionated, or too intrusive
 

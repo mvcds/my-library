@@ -1,4 +1,4 @@
-#fact and #procedure  in [[0 - Domain-Driven Design]]
+#fact and #procedure  in [[2 - A model expressed in software]]
 
 When [[Architectural Framework|Architectural Frameworks]] have a say on the [[Module|Packing]], there are some pitfalls we should avoid
 

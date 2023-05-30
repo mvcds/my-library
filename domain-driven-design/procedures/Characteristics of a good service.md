@@ -1,4 +1,4 @@
-#procedure in [[0 - Domain-Driven Design]]
+#procedure in [[2 - A model expressed in software]]
 
 Characteristics of a good [[Domain Service|service]]
 

@@ -2,7 +2,7 @@
 aliases: [Repositories]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[3 - The life cycle of a domain object]]
 
 This [[Domain Object]] is an [[Computer data storage|in-memory collection]] with [[Domain Model|domain]]-interesting [[Query|querying]] [[Feature|Capabilities]], which will interact with the [[Database|Databases]].
 

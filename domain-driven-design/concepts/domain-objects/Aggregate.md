@@ -2,7 +2,7 @@
 aliases: [Aggregates]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[3 - The life cycle of a domain object]]
 
 An artificial [[Domain Object|object]] that still makes sense for the [[Domain Model]]. Its job is to guarantee the [[consistency]] of all objects within it boundaries, usually through [[Invariant|Invariants]].
 

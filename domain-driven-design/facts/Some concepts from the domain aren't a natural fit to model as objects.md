@@ -1,4 +1,4 @@
-#fact and #procedure in [[0 - Domain-Driven Design]]
+#fact and #procedure in [[2 - A model expressed in software]]
 
 > Some concepts from the [[Domain Model|domain]] aren't a natural fit to [[model]] as [[Object|Objects]]. Forcing the required domain functionality to be the responsibility of an [[Entitiy]] or [[Value Object]] either distorts the definition of a model-based object or adds meaningless artificial objects
 

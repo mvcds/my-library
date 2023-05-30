@@ -1,4 +1,4 @@
-#procedure in [[0 - Domain-Driven Design]]
+#procedure in [[3 - Binding model and implementation]]
 
 [[Analysis]] and [[Design]] can't be separated, because focusing only on analysis will tend to ignore technical details, while focusing only on design will tend to get far from the [[Domain Model|Model]] (from a [[Domain Expert]]'s perspective).
 

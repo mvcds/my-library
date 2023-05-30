@@ -1,4 +1,4 @@
-As an illustration on how to [[Making knowledge explicit for everybody]], the author presents an example where he had to [[model]] a shipping [[system]].
+As an illustration on how to [[Make knowledge explicit for everybody]], the author presents an example where he had to [[model]] a shipping [[system]].
 
 Those systems usually allow more bookings than capacity because cargo is not always shipped in the voyage it was supposed to be.
 
@@ -29,4 +29,4 @@ void makeBooking(cargo, voyage) {
 }
 ```
 
-#understanding  of [[0 - Domain-Driven Design]]
+#example at [[1 - Crunching Knowledge]]

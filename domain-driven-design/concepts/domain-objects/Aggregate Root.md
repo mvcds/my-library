@@ -2,7 +2,7 @@
 aliases: [Aggregate Roots, Root, Roots]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[3 - The life cycle of a domain object]]
 
 The point in a [[domain-driven-design/concepts/domain-objects/Aggregate|Aggregate]] where the external world interacts with the [[Bounded Context]]
 

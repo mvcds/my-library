@@ -2,7 +2,7 @@
 aliases: [Invariants]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[3 - The life cycle of a domain object]]]
 
 A [[consistency]] rule that should be maintained whenever the [[data]] changes.
 

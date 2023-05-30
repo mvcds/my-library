@@ -1,4 +1,4 @@
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[3 - The life cycle of a domain object]]
 
 ![[Domain Object Life Cycle.jpeg]]
  

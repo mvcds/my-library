@@ -1,4 +1,4 @@
-#procedure in [[0 - Domain-Driven Design]]
+#procedure in [[1 - Crunching Knowledge]]
 
 [[Business rules are not free of inconsistencies nor contradictions]], tho [[Domain Expert|Domain Experts]] tend to navigate this by filling the gaps, with common sense and/or their own experience.
 

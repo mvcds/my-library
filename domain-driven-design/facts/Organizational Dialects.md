@@ -1,4 +1,4 @@
-#fact in [[0 - Domain-Driven Design]]
+#fact in [[2 - Communication and the use of language]]
 
 Professionals have [[Jargon|Jargons]] that might be impenetrable for other people, but within an [[business|organization]], the same happens. Each team develops their own [[Dialect]] to talk about the [[Domain Model]].
 

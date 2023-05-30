@@ -4,4 +4,4 @@ The best way to reconcile [[domain-driven-design/procedures/Model-Driven Design|
 
 It starts with creating a division of concern between the software concepts to their domain concepts[^1]
 
-[^1]: [[1 - Navigation map of the language of model-driven design]]
+[^1]: [[Navigation map of the language of model-driven design]]

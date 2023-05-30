@@ -1,4 +1,4 @@
-#procedure in [[0 - Domain-Driven Design]]
+#procedure in [[3 - Binding model and implementation]]
 
 To do the [[Domain Model]] correctly, [[Analysis and Design should have a short feedback loop]].
 

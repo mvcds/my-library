@@ -2,7 +2,7 @@
 aliases: [Ubiquitous Language, Language, Languages]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[2 - Communication and the use of language]]
 
 A common, rich [[Language]] that are used in the [[Domain Model]], so basically just another side of it.
 

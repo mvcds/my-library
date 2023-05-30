@@ -1,4 +1,4 @@
-#procedure in [[0 - Domain-Driven Design]]
+#procedure in [[2 - Communication and the use of language]]
 
 To really take advantage of the [[domain-driven-design/concepts/Ubiquitous Language|Ubiquitous Language]], it's not enough to use its [[Word|Words]]. We need to put them in [[Phrase|Phrases]] that explicitly describe [[Complex|relationships]] and interactions of the [[Domain Model|Model]].
 

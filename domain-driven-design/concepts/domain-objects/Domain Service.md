@@ -2,7 +2,7 @@
 aliases: [Domain Services, Service, Services]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[2 - A model expressed in software]]
 
 Normally actions and/or activities that don't fit elsewhere in our [[Domain Model]]
 

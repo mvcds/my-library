@@ -2,7 +2,7 @@
 aliases: [Factories]
 ---
 
-#concept in [[0 - Domain-Driven Design]]
+#concept in [[3 - The life cycle of a domain object]]
 
 An [[Domain Object|object]] responsible for creating [[Complex]] objects (mostly [[domain-driven-design/concepts/domain-objects/Aggregate|Aggregates]]), thus hiding their internal structure from clients outside the [[Domain Model]].
 
