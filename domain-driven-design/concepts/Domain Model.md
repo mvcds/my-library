@@ -1,5 +1,5 @@
 ---
-aliases: [Domain Models, Model, Models]
+aliases: [Domain Models, Model, Models, Domain, DOmains]
 ---
 
 #concept in [[0 - Putting the domain to work]]
