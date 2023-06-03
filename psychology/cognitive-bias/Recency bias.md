@@ -1,1 +1,1 @@
-A [[Cognitive Bias]] which indicates that we bias towards recent [[maths/probability-theory/Event]]s when making choices
+A [[Cognitive Bias]] which indicates that we bias towards recent [[maths/probability-theory/Event|Events]] when making choices

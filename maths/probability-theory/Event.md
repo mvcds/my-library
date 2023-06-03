@@ -1,5 +1,5 @@
 ---
-aliases: [[Events, Outcome, Outcomes]]
+aliases: [Events, Outcome, Outcomes]
 ---
 
 
