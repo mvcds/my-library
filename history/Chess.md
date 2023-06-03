@@ -1,4 +1,4 @@
-A strategy game invented in India around  the 8th century
+A [[strategy]] game invented in India around  the 8th century
 
 ---
 
