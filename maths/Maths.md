@@ -13,4 +13,4 @@ There's no unified definition
 
 ---
 
-The hot debate whether maths is a science or not is called [[philosofy of mathematics]]
+The hot debate whether maths is a [[Science]] or not is called [[philosofy of mathematics]]
