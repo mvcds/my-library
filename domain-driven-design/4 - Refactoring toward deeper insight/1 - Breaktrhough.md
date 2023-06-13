@@ -3,4 +3,4 @@
 - Constant [[Knowledge Crunching]]
 - Cultivating a robust [[domain-driven-design/concepts/Ubiquitous Language|Ubiquitous Language]]
 
-#understanding in [[0 - Domain-Driven Design]]
+#understanding in [[0 - Refactoring toward deeper insight]]
