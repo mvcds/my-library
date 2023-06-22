@@ -1,5 +1,5 @@
 ---
-aliases: [CDN]
+aliases: [CDN, Edge Server, Edge Servers, Origin Server, Origin Servers]
 ---
 
-A collection of global servers that [[Cache]]s and delivers web content. These servers reduce the [[time]] it takes for your visitors to request a file.
+A collection of global servers (called Edge Servers) that [[Cache|caches]] and delivers static content. These [[Server|Servers]] reduce the [[time]] it takes for your visitors to request a file, improving the [[system]]’s [[performance]] and reducing the [[Load Balancer|load]] on origin servers

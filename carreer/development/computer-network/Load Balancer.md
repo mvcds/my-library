@@ -1,1 +1,5 @@
-A device that distributes work across many resources (usually [[Computer|Computers]]). They are generally used to increase capacity and reliability.
+---
+aliases: [Load Balancers, Load Balancing, LB]
+---
+
+A [[computer|device]] that distributes work across many resources (usually computer). They are generally used to increase [[capacity]] [[reliability]], [[availability]], and [[performance]].
