@@ -12,4 +12,4 @@ Objects defined by their [[Continuity]] and identity rather than by its attribut
 
 ---
 
-An [[Abstraction|abstract]] continuity threading through a [[lifecycle]] and even [[Platforms]].
+An [[carreer/development/programming/Abstraction|abstract]] continuity threading through a [[lifecycle]] and even [[Platforms]].

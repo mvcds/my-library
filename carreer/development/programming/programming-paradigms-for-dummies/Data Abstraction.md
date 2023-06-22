@@ -1,4 +1,4 @@
-A [[data]] [[Abstraction]] is a way to organize the use of [[data structure]]s according to precise rules which guarantee that the [[data structure]]s are used correctly.
+A [[data]] [[carreer/development/programming/Abstraction|Abstraction]] is a way to organize the use of [[data structure]]s according to precise rules which guarantee that the [[data structure]]s are used correctly.
 
 It has an inside, an outside and an [[Interface]] between both.
 

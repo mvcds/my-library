@@ -1,4 +1,4 @@
-A mixin is an [[Abstraction|abstract]] subclass; i.e. a subclass definition that may be applied to different superclasses to create a related family of modified classes.
+A mixin is an [[carreer/development/programming/Abstraction|abstract]] subclass; i.e. a subclass definition that may be applied to different superclasses to create a related family of modified classes.
 
 - mixin definition: The definition of a [[Class]] that may be applied to different superclasses.
 - mixin application: The application of a mixin definition to a specific superclass, producing a new subclass.

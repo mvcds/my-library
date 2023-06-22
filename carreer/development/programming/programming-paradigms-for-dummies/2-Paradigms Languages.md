@@ -1,6 +1,6 @@
-The author claims that some [[Programming Language]]s have multiple paradigm, though they focus on 2. 
+The author claims that some [[Programming Language]]s have multiple paradigm, though they focus on 2.
 
-The first one solves the specific problem that their [[Kernel Language]]'s [[Programming Paradigm]] is best at solving, the second one is complementary, for supporting [[Modularity]] and [[Abstraction]].
+The first one solves the specific problem that their [[Kernel Language]]'s [[Programming Paradigm]] is best at solving, the second one is complementary, for supporting [[Modularity]] and [[carreer/development/programming/Abstraction|Abstraction]].
 
 In this mindset, we can have $2^{n}$ combinations of concepts. Though the number of useful ones is far less than $2^{n}$, it is still way bigger than $n$.
 
@@ -8,5 +8,5 @@ In this mindset, we can have $2^{n}$ combinations of concepts. Though the number
 
 - [[Prolog]]
 - Modeling Languages e.g. Comet
--  Solving libraries e.g. Gecode
--  [[Programming Language|Language]] embedding e.g. SQL
+- Solving libraries e.g. Gecode
+- [[Programming Language|Language]] embedding e.g. SQL

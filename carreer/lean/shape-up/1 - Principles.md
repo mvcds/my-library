@@ -1,4 +1,4 @@
-Talking about what we want to do might happen in an [[Abstraction|abstract]] spectrum
+Talking about what we want to do might happen in an [[carreer/development/programming/Abstraction|abstract]] spectrum
 
 - a [[wireframe]] is too concrete, it hides high details
 - a text is too abstract, the meaning is lost

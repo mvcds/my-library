@@ -2,7 +2,7 @@
 aliases: [Algebra]
 ---
 
-Algebraic structures abstract common patterns shared between a bunch of [[class|classes]] i.e. an [[Either]] instance and a [[Maybe]] instance both implement the same [[abstraction]] (even if they do not implement the same "concrete" [[interface]]).
+Algebraic structures abstract common patterns shared between a bunch of [[class|classes]] i.e. an [[Either]] instance and a [[Maybe]] instance both implement the same [[carreer/development/programming/Abstraction|Abstraction]] (even if they do not implement the same "concrete" [[interface]]).
 
 They are common so that it's possible for us to interchange the classes and achieve some results with that i.e. a `map` could be renamed `try` for a Maybe, but that would make harder to reuse that class.
 

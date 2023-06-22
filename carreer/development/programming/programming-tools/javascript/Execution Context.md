@@ -1,1 +1,1 @@
-In [[Javascript|JS]], an execution [[context]] is an [[Abstraction]] to represent the [[environment]] where [[Code]] is evaluated and executed. Whenever any code is run in JavaScript, it's run inside an execution context.
+In [[Javascript|JS]], an execution [[context]] is an [[carreer/development/programming/Abstraction|Abstraction]] to represent the [[environment]] where [[Code]] is evaluated and executed. Whenever any code is run in JavaScript, it's run inside an execution context.

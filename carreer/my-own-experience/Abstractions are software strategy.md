@@ -1,3 +1,3 @@
-> [[Abstraction|Abstractions]] are [[Software]] [[strategy]]
+> [[carreer/development/programming/Abstraction|Abstractions]] are [[Software]] [[strategy]]
 
 #quote by [[Rich Hickey]] on his [[Hammock-Driven Development]]

@@ -2,7 +2,7 @@
 aliases: [States]
 ---
 
-It's a [[Software]] [[Abstraction]] about [[time]]. Giving programs the ability to "remember" [[Information]].
+It's a [[Software]] [[carreer/development/programming/Abstraction|Abstraction]] about [[time]]. Giving programs the ability to "remember" [[Information]].
 
 ...
 

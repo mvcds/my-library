@@ -6,4 +6,4 @@ An effect can in turn be a cause of, or causal factor for, many other effects, w
 
 ---
 
-Causality is an [[Abstraction]] that indicates how the world progresses
+Causality is an [[carreer/development/programming/Abstraction|Abstraction]] that indicates how the world progresses

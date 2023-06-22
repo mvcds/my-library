@@ -1,6 +1,6 @@
 https://c4model.com/
 
-An "[[Abstraction]]-first" approach to diagramming [[Software Architecture]], where you zoom-in to the next level
+An "[[carreer/development/programming/Abstraction|Abstraction]]-first" approach to diagramming [[Software Architecture]], where you zoom-in to the next level
 
 1. [[System Context Diagram|Context]]
 2. [[Container Diagram|Containers]]

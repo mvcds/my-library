@@ -2,7 +2,7 @@
 aliases: [Concrete]
 ---
 
-Opposes [[Abstraction]]
+Opposes [[carreer/development/programming/Abstraction|Abstraction]]
 
 ---
 

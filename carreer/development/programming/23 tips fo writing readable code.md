@@ -15,7 +15,7 @@ IDK the source
 13. Learn [[Design Pattern]] and when not to use them.
 14. Split your classes to data holders and data manipulators.[^3]
 15. Fix issues at their [[Root Cause|root]]
-16. Hidden trap of [[Abstraction]].
+16. Hidden trap of [[carreer/development/programming/Abstraction|Abstraction]].
 17. Rules of the world are not the rules of your [[Software|application]].
 18. [[Type System|Type]] your variables if you can, even if you don’t have to.
 19. Write tests.[^4]

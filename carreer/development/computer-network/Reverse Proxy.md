@@ -11,7 +11,7 @@ aliases:
   ]
 ---
 
-A [[Proxy]] that doesn't let the [[Client]] to know it is dealing with a proxy i.e. it appears to be the final [[Server]], so it becomes an [[abstraction]] on [[Distributed Access Management Patterns]].
+A [[Proxy]] that doesn't let the [[Client]] to know it is dealing with a proxy i.e. it appears to be the final [[Server]], so it becomes an [[carreer/development/programming/Abstraction|Abstraction]] on [[Distributed Access Management Patterns]].
 
 ---
 

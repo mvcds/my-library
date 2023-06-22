@@ -1,3 +1,3 @@
-> Think of solution then technology to implement it. Think of [[Abstraction]] then [[Code]].
+> Think of solution then technology to implement it. Think of [[carreer/development/programming/Abstraction|Abstraction]] then [[Code]].
 
 #quote
