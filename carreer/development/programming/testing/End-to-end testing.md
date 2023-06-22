@@ -1,0 +1,1 @@
+A kind of [[Testing]] which actually runs all the parts of the [[Software|Application]], from a [[User]] "opening" the app to what happens on the [[Database]] when they indirectly change it, with all things that get triggered bu such change.

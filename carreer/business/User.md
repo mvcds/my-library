@@ -6,7 +6,7 @@ An [[agent]] that uses a [[System]], normally we care about "our users"
 
 ---
 
-A tester is a user that can work with us, or be a final user that is using or system
+A [[Testing|tester]] is a user that can work with us, or be a final user that is using or system
 
 ---
 

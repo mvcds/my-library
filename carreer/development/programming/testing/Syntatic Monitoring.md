@@ -7,3 +7,7 @@ Active approaching to [[testing]] where we run a subset of the application's aut
 This is done because it's hard to test in pre-prod when using [[Microservice Architecture|Microservices]], so [[QA in prod is acceptable]]
 
 The test should have a parameter (or header in case it's an HTTP request) indicating that it should be suppressed from some activities - like user analytic [[behavior]] or 3rd party integration.
+
+---
+
+A subset of [[End-to-end testing]] plus [[Monitoring|Monitor]]
