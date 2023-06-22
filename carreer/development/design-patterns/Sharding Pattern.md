@@ -1,4 +1,4 @@
-You divide [[data]] into multiple partitions, chunk or shards. It is about horizontal scalability.
+You divide [[data]] into multiple partitions, chunk or shards. It is about [[Horizontal vs Vertical|horizontal]] [[scalability]].
 
 A bit like investing with a diversified portfolio.
 
