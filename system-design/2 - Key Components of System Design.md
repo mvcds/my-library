@@ -6,3 +6,7 @@ A [[System Design]] is composed by different amounts of the following [[System|c
 - [[Content Delivery Network|CDN]]
 - [[Message System]]
 - [[Communication Protocol]]
+- [[Cache]]
+- [[Database]]
+- [[Replication Techniques]]
+- [[Distributed Unique ID Generation]]

@@ -1,4 +1,4 @@
-[[System Design]] is based on:
+[[System Design]] is mainly based on:
 - [[Modularization]]
 - [[system-design/concepts/Abstraction|Abstraction]]
 - [[Layering]]
