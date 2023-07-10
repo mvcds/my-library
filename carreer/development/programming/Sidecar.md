@@ -1,1 +1,1 @@
- a [[process]] or a [[Container]] that is deployed and scheduled with each [[Microservice Architecture|service]] sharing the same execution [[context]], host and [[carreer/development/programming/security/identity/Identity|identity]]
+a [[carreer/development/programming/Process|Process]] or a [[Container]] that is deployed and scheduled with each [[Microservice Architecture|service]] sharing the same execution [[context]], host and [[carreer/development/programming/security/identity/Identity|identity]]

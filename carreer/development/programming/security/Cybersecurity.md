@@ -1,4 +1,4 @@
-The body of [[technologhy]], [[Process|Processes]], and practices designed to protect [[network]]s, [[Computer|Computers]], [[Software|Programs]], and [[Data]] from [[Digital Attack|Attack]], damage, or [[Authorization|Unauthorized]] access.
+The body of [[technologhy]], [[carreer/development/programming/Process|Processes]], and practices designed to protect [[network]]s, [[Computer|Computers]], [[Software|Programs]], and [[Data]] from [[Digital Attack|Attack]], damage, or [[Authorization|Unauthorized]] access.
 
 We can have it on digital, and physical level, when it makes sense.
 

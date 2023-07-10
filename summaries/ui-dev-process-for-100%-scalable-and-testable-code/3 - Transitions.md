@@ -1,5 +1,5 @@
 1. Break free of [[framework]] prison
-2. [[System|systematize]] your dev [[Process#Noun|Process]]
+2. [[System|systematize]] your dev [[carreer/development/programming/Process#Noun|Process]]
 	- Black box
 	- Testable [[UI]]
 	- Coherent components

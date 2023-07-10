@@ -1,4 +1,4 @@
-The [[process#Noun]] by which the subject replicates [[behavior]]s, attributes, or other fragments of the surrounding world, especially of other subjects.
+The [[carreer/development/programming/Process#Noun]] by which the subject replicates [[behavior]]s, attributes, or other fragments of the surrounding world, especially of other subjects.
 
 It is considered a self-stabilizing [[defense mechanism]] used when there is a lack of full psychological contact between a child and the adults providing that child's psychological needs.
 

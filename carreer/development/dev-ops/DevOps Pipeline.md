@@ -4,7 +4,7 @@ aliases: [DevOps Pipelines, Pipeline, Pipelines]
 
 ![[devops-pipeline.png]]
 
-An [[Automate Everything|automated]] [[Process#Noun|process]] through which [[Software]] is gets a normalized development-to-production treatment.
+An [[Automate Everything|automated]] [[carreer/development/programming/Process#Noun|process]] through which [[Software]] is gets a normalized development-to-production treatment.
 
 It includes:
 

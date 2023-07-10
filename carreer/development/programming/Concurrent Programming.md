@@ -1,1 +1,1 @@
-A technique in which two or more [[Process|processes]] start, run in an interleaved fashion through [[Context Switching]] and complete in an overlapping [[time]] period by managing access to shared resources e.g. on a single core of CPU
+A technique in which two or more [[carreer/development/programming/Process|processes]] start, run in an interleaved fashion through [[Context Switching]] and complete in an overlapping [[time]] period by managing access to shared resources e.g. on a single core of CPU
