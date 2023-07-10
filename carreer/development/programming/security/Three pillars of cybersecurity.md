@@ -1,5 +1,5 @@
 The 3 pillars of [[Cybersecurity]] are:
 
-- Peple
-- [[carreer/development/programming/Process|Processes]]
+- People
+- [[carreer/development/programming/Process|processes
 - [[Technology]]
