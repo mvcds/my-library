@@ -2,7 +2,7 @@
 aliases: [Semantic monitoring]
 ---
 
-Active approaching to [[testing]] where we run a subset of the application's automated tests against live production on a regular base to simulate a user request for [[availability]], [[performance]] & [[functionality]] with a [[monitoring]] purpose. No [[Test Double]]s allowed.
+Active approaching to [[testing]] where we run a subset of the application's automated tests against live production on a regular base to simulate a user request for [[availability]], [[Performance]] & [[functionality]] with a [[monitoring]] purpose. No [[Test Double]]s allowed.
 
 This is done because it's hard to test in pre-prod when using [[Microservice Architecture|Microservices]], so [[QA in prod is acceptable]]
 

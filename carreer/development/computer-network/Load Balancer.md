@@ -2,7 +2,7 @@
 aliases: [Load Balancers, Load Balancing, LB, Round-Robin]
 ---
 
-A [[computer|device]] that distributes work across many resources (usually computer). They are generally used to increase [[capacity]] [[reliability]], [[availability]], and [[performance]].
+A [[computer|device]] that distributes work across many resources (usually computer). They are generally used to increase [[capacity]] [[reliability]], [[availability]], and [[Performance]].
 
 Common ways:
 

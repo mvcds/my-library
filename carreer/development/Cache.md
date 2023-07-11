@@ -1,4 +1,4 @@
-Allows faster retrieval of [[Data]] for improve [[latency]], [[Server Load]], [[ACID|Consistency]] and [[Network Bandwitch]] by "saving" the data "closer" to the [[User]]
+Allows faster retrieval of [[Data]] for improve [[Latency]], [[Server Load]], [[ACID|Consistency]] and [[Network Bandwitch]] by "saving" the data "closer" to the [[User]]
 
 They can happen in different places:
 - In-memory

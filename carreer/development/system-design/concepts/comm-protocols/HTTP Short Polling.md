@@ -6,4 +6,4 @@ aliases: [Short Polling, Polling, HTTP Polling]
 
 The [[Client]] repeatedly asks for the [[Server]] for updates
 
-While simple to implement, short polling can result in high [[server load]] and increased [[latency]] due to constant polling, especially when updates are infrequent.
+While simple to implement, short polling can result in high [[server load]] and increased [[Latency]] due to constant polling, especially when updates are infrequent.

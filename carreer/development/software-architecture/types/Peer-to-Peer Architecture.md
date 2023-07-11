@@ -16,4 +16,4 @@ But is [[code]] is far from trivial
 
 ---
 
-Decentralisation opens doors for [[security]] issues
+Decentralisation opens doors for [[Security]] issues
