@@ -1,0 +1,5 @@
+- [[System Requirement|Requirement]] Gathering
+- [[Design Pattern|Design Patterns]]
+- Documentation: about [[design]] decisions, assumptions, and rationale to ensure better [[communication]] and [[maintainability]].
+- [[Iterative Design]]: multiple iterations and [[Feedback|Feedbacks]], allowing it to evolve and improve.
+- [[Testing]] and validation
