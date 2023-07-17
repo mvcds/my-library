@@ -1,0 +1,18 @@
+#fact about [[Interviewing for SD|System Design Interview]]
+
+- [[Object-Oriented Programming|OOP]]
+- [[Distributed System|Distributed Systems]]
+	- [[CAP Consistency|Consistency]]
+	- [[Scalability]]
+	- [[Fault Tolerance]]
+	- [[Replication Techniques]]
+	- [[Performance]]
+	- [[Reliability]]
+	- [[Observability]]
+	- [[Security]] and [[Authorization]]/[[Authentication]]
+- [[Database]] [[Design]]
+- [[Software Architecture]]
+- [[Cache|Caching]]
+- [[System]] Integration
+- [[Load Balancer|Load Balancing]]
+- [[Message System]]

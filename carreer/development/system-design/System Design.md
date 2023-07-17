@@ -1,5 +1,5 @@
 ---
-aliases: [System Designs, SD, SDs, System Design Interview, System Design Interviews, SDI, SDIs]
+aliases: [System Designs, SD, SDs]
 urls: [https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1]
 ---
 
