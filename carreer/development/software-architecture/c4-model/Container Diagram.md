@@ -1,3 +1,7 @@
+---
+aliases: [C2, C2 Diagram, C2 Diagrams]
+---
+
 A "container" in this case are the bigger [[Software|Softwares]] interacting internally the ecosystem.
 
 Each is run and deployed separately to execute code and/or store [[Data]].
