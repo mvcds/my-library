@@ -1,1 +1,1 @@
-A strategy in [[Secret Management]] where secrets rotate, having very short lifespans
+A [[strategy]] in [[Secret Management]] where secrets rotate, having very short lifespans

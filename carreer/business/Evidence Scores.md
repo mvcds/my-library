@@ -65,7 +65,7 @@ Check against the results
 
 # Thematic support
 
-- The idea matches your company’s or investor’s vision or strategy
+- The idea matches your company’s or investor’s vision or [[strategy]]
 - The idea is inline with a current industry trend/buzzword.
 - Outside research reports could be interpreted to support the idea.
 - The idea seems to be aligned with macro trends in economy/society

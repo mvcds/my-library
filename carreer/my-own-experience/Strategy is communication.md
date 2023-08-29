@@ -1,3 +1,3 @@
-> [[Strategy]] is [[communication]]
+> [[Strategy]] is [[communication]] [[tool]]
 
 #quote by [[Arlo Borras]]

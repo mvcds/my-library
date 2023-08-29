@@ -2,7 +2,7 @@
 aliases: [Mitigation Strategies, Mitigation, Mitigations]
 ---
 
-The mitigation strategy is [[context|contextual]], it depends on the risk appetite of the [[business]] for each [[Threat]].
+The mitigation [[strategy]] is [[context|contextual]], it depends on the risk appetite of the [[business]] for each [[Threat]].
 
 Some of the strategies are:
 

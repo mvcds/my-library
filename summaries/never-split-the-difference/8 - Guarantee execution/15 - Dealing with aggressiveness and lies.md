@@ -2,7 +2,7 @@ Dealing with aggressiveness and lies come with the [[negotiation|negotiating]] t
 
 Normally paying attention to verbal, paraverbal[^1] and nonverbal [[1 - Negotiation is a process of discovery|revels]] a lot.
 
-"Dodge and wave" is a very good strategy in this cases.
+"Dodge and wave" is a very good [[strategy]] in this cases.
 
 ![[Storytelling incongruences - Not official name]]
 ![[psychology/cognitive-bias/The pinocchio Effect]]
