@@ -1,0 +1,1 @@
+Tho Eve is said to come from Adam's ribs, its name has sources on ancient [[Hebraic]] as "the one that comes from earth", which at the time and place, was a mother figure, which acknowledges the importance of women in history
