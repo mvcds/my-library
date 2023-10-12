@@ -1,4 +1,4 @@
-To maintain the integrity of a [[Database]], all transactions must obey ACID properties
+To maintain the integrity of a [[Database]], all transactions must obey ACID properties, an #acronym  which constrasts [[BASE]]
 
 # Atomicity
 
