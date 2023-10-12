@@ -10,7 +10,7 @@ While real life applicators of algos care about best performance computer scient
   
 ---  
   
-Algos to live by:sorting and search might be antonymons in computer science  
+Algos to live by:sorting and search might be antonymons in computer [[science]]  
   
 ---  
   
@@ -38,7 +38,7 @@ Only applies for single defeat elimination tournaments
   
 ---  
   
-Real-life organisms get better out of their robustness, due to their fault tolerance. Merge sort though bad for science is also error tolerant  
+Real-life organisms get better out of their robustness, due to their fault tolerance. Merge sort though bad for [[science]] is also error tolerant  
   
 ---  
   

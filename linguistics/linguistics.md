@@ -1,4 +1,4 @@
-The Science which studies [[Language]]s.
+The [[Science]] which studies [[Language|Languages]].
 
 Linguistics also deals with the [[social]], [[cultural]], [[historical]], and [[political]] factors that influence [[Language]], through which linguistic and [[Language]]-based [[context]] is often determined. 
 
