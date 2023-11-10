@@ -1,0 +1,22 @@
+- [[OpenAI]]: conversation
+	- Setup API keys, and limit how much money you want to spend to not be suprised
+	- Each message has `role`and `content`, roles
+		- user: the person interacting with the [[Artificial Intelligence]]
+		- system: provides the AI with context and instructions
+		- assistant: the answers from AI
+	- The prompt is the array of messages: `messages`
+	- The AI's network response is also known as completion
+		- The completion is an array of choices
+	- We start by setting the `model` and the `messages`
+	- The `model`property changes how the AI behaves
+		- Tokens are units of text, but according to the `model`they might mean different things
+			- A whole word `friendship`
+			- A single character `f`
+			- Or subwords `friend`, `ship`
+		- Each model has different limits on how much tokens can be exchanged
+		- Each network request/response uses tokens (request + response)
+		- `gpt-3-enconder` package allows to know how much tokens will be used
+- [[Deepgram]]: speech recognition
+- [[Replicate]]: image analysis (MiniGPT)
+- [[LangChain]]: a memory for previous interactions
+- 
