@@ -17,6 +17,16 @@
 		- Each network request/response uses tokens (request + response)
 		- `gpt-3-enconder` package allows to know how much tokens will be used
 - [[Deepgram]]: speech recognition
-- [[Replicate]]: image analysis (MiniGPT)
-- [[LangChain]]: a memory for previous interactions
-- 
+	- `multer` is a package to multiple file types, it needs to use `formData`
+	- Deepgram's `model` allow to configure which AI model will be used
+	- Deepgram's result contains `channels`, which is an array of objects that contain `alteratives`, which is an array of objects that have the `transcript` result
+- [[Replicate]]: allows for using [[Machine Learning]] [[Model]] without having to understand how they work
+	- For the course's image processing, we'll use the MiniGPT model
+	- Their models don't need you to send the context like `system` instructions because it's already setup for this
+- [[LangChain]]: adds memory and chaining capacity to AI projects
+	- It allows us not send the whole list of question/answer to Deepgram
+	- Its simplest model is the `MemoryBuffer`, which stores seequentially
+	- We have to keep track of which index the chain is in, and also increment it everytime we use the chain
+	- During the first usage, we want to configure the chain, but on subsequent uses, we just want to reuse previous configuration
+		- We need to send 3 sequential inputs to LangChain (we expect the first and second input to always be the same i.e. configuring the model that is being remembered as the GhatGPT's `system` message)
+		- The answer for the user is the 3rd one
