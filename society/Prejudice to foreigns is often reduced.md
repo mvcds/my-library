@@ -1,0 +1,1 @@
+Because [[Discrimination intertwines with identity]], when someone does it, they will have more prejudice with their co-citizens than foreigns because [[nationalism]] tends to be part of our [[carreer/development/programming/security/identity/Identity#Noun|Identities]]
