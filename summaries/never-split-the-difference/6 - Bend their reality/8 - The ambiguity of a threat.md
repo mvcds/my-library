@@ -1,4 +1,4 @@
-When people issue threats, they tend to be (sub_consciously ambiguous in order to fully exploit the space of the threat. So look for
+When people issue threats, they tend to be (sub_consciously) [[Ambiguity|ambiguous]] in order to fully exploit the space of the threat. So look for
 
 - What
 - Who

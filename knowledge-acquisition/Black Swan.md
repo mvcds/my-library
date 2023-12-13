@@ -1,5 +1,8 @@
 ---
-aliases: [Unknown-unknown]
+aliases:
+  - Unknown-unknown
+  - Black Swans
+  - Unknown-unknowns
 ---
 
 Things we never imagined would be happen due to its [[statistics|improbability]] or our lack of imagination. This is not the same as saying something go agains odds.
