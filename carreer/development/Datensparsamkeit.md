@@ -1,5 +1,10 @@
 ---
-aliases: [Data Austerity, Data Minimisation, Data Parsimony, Data Frugality]
+aliases:
+  - Data Austerity
+  - Data Minimisation
+  - Data Parsimony
+  - Data Frugality
+  - Data Economy
 source: https://martinfowler.com/bliki/Datensparsamkeit.html
 ---
 
