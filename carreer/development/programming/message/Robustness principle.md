@@ -2,7 +2,7 @@
 aliases: [Postel's law]
 ---
 
-A [[design]] guideline for [[software]] regarding exchange of [[Message]]s that states:
+A [[carreer/development/design/Design|Design]] guideline for [[software]] regarding exchange of [[Message]]s that states:
 
 > Be conservative in what you send, be liberal in what you accept
 

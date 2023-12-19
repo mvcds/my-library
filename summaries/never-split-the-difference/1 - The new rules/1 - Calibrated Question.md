@@ -1,4 +1,4 @@
-An [[Open-Ended Question]] "[[Design|designed]]" to give the other the [[3 - Project an illusion of control|illusion of control]], it focus on "how" and "whats" as the other adverbs might [[Defensive Behavior|backfire]].
+An [[Open-Ended Question]] "[[carreer/development/design/Design|designed]]" to give the other the [[3 - Project an illusion of control|illusion of control]], it focus on "how" and "whats" as the other adverbs might [[Defensive Behavior|backfire]].
  
  They don't have fixed answers so it buys you [[time]] while forcing the other side to find the [[11 - The idea doesn't need to be yours|solution]] to your problems without even realizing it because such questions [[9 - Calibrated questions feel part of the convo|feel part of the convo]].
  

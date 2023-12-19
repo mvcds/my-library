@@ -1,5 +1,5 @@
-#concept  in [[0 - The building blocks of a model-driven-design]] #canvas
+#concept in [[0 - The building blocks of a model-driven-design]] #canvas
 
 ![[Navigation map of the language of model-driven design.jpeg]]
 
-This [[Maps are models|map]] helps isolating the [[Domain Model]] [[Design]] from concepts concerning [[Software]] development, thus sharpening the meaning of individual [[Model|Models]]
+This [[Maps are models|map]] helps isolating the [[Domain Model]] [[carreer/development/design/Design|Design]] from concepts concerning [[Software]] development, thus sharpening the meaning of individual [[Model|Models]]

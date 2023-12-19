@@ -1,4 +1,4 @@
-Once you know where you want the [[negotiation]] to go, [[design]] [[1 - Calibrated Question]] meant for it - do it carefully.
+Once you know where you want the [[negotiation]] to go, [[carreer/development/design/Design|Design]] [[1 - Calibrated Question]] meant for it - do it carefully.
 
 ---
 
