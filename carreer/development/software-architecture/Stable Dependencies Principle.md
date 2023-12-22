@@ -1,5 +1,5 @@
 ---
-alises:
+aliases:
   - SDP
   - Instability
   - Stability

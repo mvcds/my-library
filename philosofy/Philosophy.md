@@ -1,5 +1,5 @@
 ---
-alias: [Philosophical, Philosophies]
+aliases: [Philosophical, Philosophies]
 ---
 
 One of the [[Ways of addressing the fundamental questions]], distinct from the others by its critical, generally systematic approach and its relience on [[Rationality|rational]] arguments.

@@ -1,5 +1,5 @@
 ---
-alises:
+aliases:
   - Mapping
 ---
 #concept in [[1 - How to approach a system design interview]]

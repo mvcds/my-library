@@ -1,5 +1,5 @@
 ---
-alias: [Biases]
+aliases: [Biases]
 ---
 
 A type of [[Standard error|error]] in which certain elements of a [[dataset]] are more heavily weighted and/or represented than others.

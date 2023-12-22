@@ -1,5 +1,5 @@
 ---
-alises: [Digial Attacks, Attack, Attacks]
+aliases: [Digial Attacks, Attack, Attacks]
 ---
 
 When an [[Attacker]] executes a [[Threat]]

@@ -1,5 +1,10 @@
 ---
-aliases: [Interfaces, Protocol, Protocols]
+aliases:
+  - Interfaces
+  - Protocol
+  - Protocols
+  - Contract
+  - Contracts
 ---
 
 The way through which two distinct [[system]]s (and humans are counted as systems) exchange [[Information]]

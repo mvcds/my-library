@@ -1,5 +1,5 @@
 ---
-alias: [Processes]
+aliases: [Processes]
 ---
 
 The actual execution of a [[Software]], run  by at least one [[Thread]]. 

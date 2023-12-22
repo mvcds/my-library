@@ -1,5 +1,5 @@
 ---
-alises:
+aliases:
   - MoSCoW method
   - MoSCoW
   - MoSCoW prioritization

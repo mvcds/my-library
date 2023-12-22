@@ -1,5 +1,5 @@
 ---
-alisases: [A11y]
+aliases: [A11y]
 ---
 
 The [[Cross-Functional Requirement|CFR]] that aims to enable people regardless of their [[Hardware]], [[software]], [[Language]], location, or ability to use a particular [[Technology]]. Disabilities might be fixed or temporary e.g. broken arm.

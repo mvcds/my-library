@@ -1,5 +1,5 @@
 ---
-alises:
+aliases:
   - tag
 ---
 

@@ -1,5 +1,5 @@
 ---
-alises:
+aliases:
   - Git Submodule
   - Git Subtree
 link: https://stackoverflow.com/a/31770147/3178998

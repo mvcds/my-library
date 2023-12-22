@@ -1,5 +1,5 @@
 ---
-alias: [IMSI]
+aliases: [IMSI]
 ---
 
 A number that uniquely identifies every user of a mobile network. 
