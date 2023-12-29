@@ -1,6 +1,6 @@
 #fact in [[2 - 15 fundamental system design concepts]]
 
-1. [[Application Programming Interface|API]]
+1. [[APIs]]
 2. [[Database|Databases]]
 3. [[Scalability|Scaling]]
 4. [[CAP theorem]]

@@ -10,5 +10,5 @@ Commonly:
 
 - [[Hypertext Transfer Protocol|HTTP]]/[[Hypertext Transfer Protocol Secure|HTTPS]]
 - [[WebSocket]]
-- [[gRPC]]
+- [[Remote Procedure Call|RPC]] and/or [[Google Remote Procedure Call|gRPC]]
 - [[GraphQL]]
