@@ -1,8 +1,8 @@
 #fact in [[2 - 15 fundamental system design concepts]]
 
 1. [[APIs]]
-2. [[Database|Databases]]
-3. [[Scalability|Scaling]]
+2. [[Databases]]
+3. [[system-design-interview/facts/technical-concepts/Scaling|Scaling]]
 4. [[CAP theorem]]
 5. Web [[Authentication]] and basic [[Security]]
 6. [[Load Balancer]]
