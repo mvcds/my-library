@@ -1,0 +1,1 @@
+If we want to build [[Distributed System|Distributed Systems]] that are [[Fault Tolerance|Falut Tolerant]] [[System|Systems]], we always want [[CAP Partition Tolerance|Partition Tolerance]]

@@ -3,7 +3,7 @@
 1. [[APIs]]
 2. [[Databases]]
 3. [[system-design-interview/facts/technical-concepts/Scaling|Scaling]]
-4. [[CAP theorem]]
+4. [[carreer/development/software-architecture/cap-theorem/CAP theorem|CAP Theorem|CAP Theorem]]
 5. Web [[Authentication]] and basic [[Security]]
 6. [[Load Balancer]]
 7. [[Cache]]

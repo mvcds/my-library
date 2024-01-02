@@ -1,4 +1,4 @@
-#emtpy (how does it relate to [[CAP theorem]]?)
+#emtpy (how does it relate to [[carreer/development/software-architecture/cap-theorem/CAP theorem|CAP Theorem]]?)
 
 - fast
 - accurate

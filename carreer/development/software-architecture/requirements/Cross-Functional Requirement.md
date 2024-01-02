@@ -26,8 +26,9 @@ Some of those requirements "help" each other. For example, when [[Readability]] 
 ---
 
 Avoid using "non-functional requirement" because the "non" there might raise the following eyebrows[^1]
+
 - It's something that is not required to function
 - It's the opposite of [[Functional Requirement]]
 
 [^1]: https://sarahtaraporewalla.com/agile/design/i-dont-believe-in-nfrs
-[^2]: Similar to the [[CAP theorem]]
+[^2]: Similar to the [[carreer/development/software-architecture/cap-theorem/CAP theorem|CAP Theorem]]
