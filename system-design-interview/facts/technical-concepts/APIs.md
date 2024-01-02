@@ -6,4 +6,5 @@ Let's compare [[Application Programming Interface|APIs]]
 [[Remote Procedure Call|RPC]]
 ![[Remote Procedure Call#Tradeoffs]]
 
+[[GraphQL]]
 ![[GraphQL#Tradeoffs]]

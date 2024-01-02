@@ -1,5 +1,5 @@
-Vertically
+[[Scaling Vertically|Vertical]]
 ![[Scaling Vertically#Tradeoffs]]
 
-Horizontally
+[[Scaling Horizontally|Horizontal]]
 ![[Scaling Horizontally#Tradeoffs]]

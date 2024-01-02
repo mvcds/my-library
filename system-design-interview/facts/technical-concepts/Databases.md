@@ -1,7 +1,7 @@
 Lets compare [[Database|Databases]]
 
-SQL
+[[Structured Query Language|SQL]]
 ![[Structured Query Language#Tradeoffs]]
 
-NoSQL
+[[NoSQL Database|NoSQL]]
 ![[NoSQL Database#Tradeoffs]]
