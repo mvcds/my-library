@@ -1,4 +1,4 @@
-> If you hire according to technical [[skill]]s, you fire be the [[behavior]]
+> If you hire according to technical [[skill|skills]], you fire be the [[behavior]]
 
 [[Aline]] 
 

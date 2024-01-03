@@ -48,7 +48,7 @@ _Compared to logs and metrics..._
 - traces can span system boundaries
 - traces are usually heavily sampled
 
-### APM and Traces
+### [[Application Performance Management|APMs]] and Traces
 
 See hits, errors, latency and investigate performance bottlenecks. Also a good starting point for troubleshooting.
 
