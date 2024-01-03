@@ -11,6 +11,6 @@ The act of getting [[Information]] about the [[system]] [[behavior]]
 - [[Encryption]] keys
 - [[Connection String|Connection Strings]]
 - [[Password|Passwords]]
-- [[carreer/development/programming/security/Session|Session|Session]] identifiers
+- [[carreer/development/programming/security/Session|Session]] identifiers
 - [[Personal Private Information|PPI]]
 - [[Information]] user has opted out of
