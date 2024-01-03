@@ -8,4 +8,4 @@ This has some advantages like:
 
 - [[Information Security|Security]]
 - [[Privacy]]
-- [[Load Balancer|Load Balancing]]
+- [[carreer/development/computer-network/Load Balancer|Load Balancing]]

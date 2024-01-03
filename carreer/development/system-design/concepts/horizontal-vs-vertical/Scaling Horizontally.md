@@ -18,6 +18,6 @@ Good
 
 Bad
 - Costs more [[money]]
-- Required better "coordination" of resources ([[Load Balancer]])
+- Required better "coordination" of resources ([[carreer/development/computer-network/Load Balancer|Load Balancer]])
 - Introduces [[Latency]] and [[communication]] problems
 - More [[Complex]] [[Software Architecture|architecture]]

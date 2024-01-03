@@ -4,8 +4,8 @@ aliases: [Load Balancers, Load Balancing, LB, Round-Robin]
 
 A [[computer|device]] that distributes work across many resources (usually computer). They are generally used to increase [[capacity]] [[reliability]], [[availability]], and [[Performance]].
 
-Common ways:
+# Common ways
 
 - Round-Robin: sequential and cyclical manner
-- Least Connections: priorities less busy [[Server|Servers]]
-- IP hash: hashes the [[Client]] in an [[IP Address]] to keep sending them to the same server ([[session]] [[persistency]])
+- Least Connections (per Response Time): priorities less busy [[Server|Servers]]
+- Hashing: hashes the [[Client]] by an arbitrary key such the [[IP Address]] to keep sending them to the same server ([[session]] [[persistency]])

@@ -1,7 +1,7 @@
 A [[System Design]] is composed by different amounts of the following [[System|components]]
 
 - [[Domain Name System|DNS]]
-- [[Load Balancer|Load Balancing]]
+- [[carreer/development/computer-network/Load Balancer|Load Balancing]]
 - [[Reverse Proxy|API Gateway]]
 - [[Content Delivery Network|CDN]]
 - [[Message System]]

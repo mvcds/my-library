@@ -14,5 +14,5 @@
 - [[Software Architecture]]
 - [[Cache|Caching]]
 - [[System]] Integration
-- [[Load Balancer|Load Balancing]]
+- [[carreer/development/computer-network/Load Balancer|Load Balancing]]
 - [[Message System]]

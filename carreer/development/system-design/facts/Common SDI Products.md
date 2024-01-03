@@ -35,10 +35,10 @@
 9. Chat or Message system
 	1. RT chatting
 10. [[Content Delivery Network|CDN]]
-	1. [[Content Delivery Network|Edge Server]]
-	2. Content
-	3. [[Load Balancer]]
-	4. [[Cache|Caching]]
+    1. [[Content Delivery Network|Edge Server]]
+    2. Content
+    3. [[carreer/development/computer-network/Load Balancer|Load Balancer]]
+    4. [[Cache|Caching]]
 11. Maps
 12. Payment system
 13. Educational system
