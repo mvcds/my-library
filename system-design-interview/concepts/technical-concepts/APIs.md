@@ -1,4 +1,4 @@
-Let's compare [[Application Programming Interface|APIs]]
+#concept about [[Application Programming Interface|APIs]] in [[Technical Concepts for system design interviews]]
 
 [[Representational State Transfer Architecture|REST]]
 ![[Representational State Transfer Architecture#Tradeoffs]]

@@ -1,3 +1,5 @@
+#concept about [[Information Security|Security]]  in [[Technical Concepts for system design interviews]]
+
 - [[Authentication]] is figuring out who you're talking to
 - [[Authorization]] is allowing/refusing access to some [[Asset]]
 - Not storing password as plain text, perform [[4 - Hashing & Salting]]

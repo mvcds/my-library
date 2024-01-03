@@ -1,4 +1,4 @@
-Lets compare [[Database|Databases]]
+#concept about  [[Database|Databases]] in [[Technical Concepts for system design interviews]]
 
 [[Structured Query Language|SQL]]
 ![[Structured Query Language#Tradeoffs]]
