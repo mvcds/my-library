@@ -25,4 +25,4 @@ Typical layers include:
 - Persistence: Code to interact with the [[database]]
 - Data: the database per si
 
-Other layer, like caching, can be added when necessary, as well as merging layers
+Other layer, like [[Cache|Caching]], can be added when necessary, as well as merging layers

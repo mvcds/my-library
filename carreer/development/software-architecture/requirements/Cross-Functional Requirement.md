@@ -1,22 +1,22 @@
 ---
 aliases:
-  [
-    Cross-Functional Requirements,
-    CFR,
-    CFRs,
-    Non-Functional Requirement,
-    Non-Functional Requirements,
-    NFR,
-    NFRs,
-    Software Characteristic,
-    Software Characteristics,
-    Architectural Characteristic,
-    Architectural Characteristics,
-    Software Architecture Characteristic,
-    Software Architecture Characteristics,
-    Quality Attribute,
-    Quality Attributes,
-  ]
+  - Cross-Functional Requirements
+  - CFR
+  - CFRs
+  - Non-Functional Requirement
+  - Non-Functional Requirements
+  - NFR
+  - NFRs
+  - Software Characteristic
+  - Software Characteristics
+  - Architectural Characteristic
+  - Architectural Characteristics
+  - Software Architecture Characteristic
+  - Software Architecture Characteristics
+  - Quality Attribute
+  - Quality Attributes
+  - XFR
+  - XFRs
 ---
 
 [[System Requirement|System Requirements]] that are "technical" in the sense that they do not originally directly from the [[business]]. For instance, here are **some** of the most common CFRs
