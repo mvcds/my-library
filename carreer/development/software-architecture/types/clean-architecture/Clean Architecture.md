@@ -6,9 +6,4 @@ Created by [[Robert C. Martin]], who puts the domain as the most stable part of 
 
 ---
 
-The dependency rule is the most important part of this architecture. It states that:
-
-1. An external layer depends only on its immediate internal layer
-2. All communication is done through [[Interface|Interfaces]] provided by the internal layer, mostly [[Transfer Object|DTOs]]
-
-This can be achieved by the [[Dependency Inversion Principle]]
+The [[Dependency Rule]] is the most important part of it
