@@ -10,5 +10,5 @@
 8. [[Message Queueing]]
 9. [[Indexing]]
 10. [[Failover]]
-11. [[Replication Techniques|Replication]]
+11. [[Replication]]
 12. [[Consistent Hashing]]
