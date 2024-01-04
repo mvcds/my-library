@@ -5,9 +5,7 @@ Using [[Cache|Caches]] allow us to store expensive computations in order to not 
 - 80% of read requests happen in 20% of the [[Computer data storage|Storage]]/[[Memory]]
 
 [[Cache Aside]]
-![[Cache Aside#Pros]]
-![[Cache Aside#Cons]]
+![[Cache Aside#Tradeoffs]]
 
 [[Write-Through]] and [[Write-Back]] share pros and cons
-![[Write-Back#Pros]]
-![[Write-Back#Cons]]
+![[Write-Back#Tradeoffs]]

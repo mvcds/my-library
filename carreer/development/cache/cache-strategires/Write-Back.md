@@ -6,10 +6,11 @@ A write [[Cache Strategy]] that consists in writing [[User]] [[Data]] first on t
 
 Usually it uses [[Queue]]
 
-# Pros
+# Tradeoffs
+Pros
 - (-back) Good for slow writes when [[UX|User Experience]] is a concern[^1]
 
-# Cons
+Cons
 - Prone to [[Cache Overload]]
 - [[Consistency|Inconsistency]] if source goes down when writing
 
