@@ -1,0 +1,1 @@
+A branch of [[Computer Science]] and [[Maths]] that involves breaking down a complex problem into smaller overlapping subproblems and solving each subproblem only once, [[Cache|Caching]] the solutions to subproblems to avoid redundant computations.
