@@ -2,7 +2,7 @@ Something that is common between most [[NoSQL Database]] [[Programming Paradigm|
 
 - B: basically
 - A: available
-- S: have a soft state
-- E: eventually (consistent)
+- S: soft state ([[time]] messes with consistency)
+- E: eventually (consistet)
 
 [^1]: [[carreer/development/software-architecture/cap-theorem/CAP theorem|CAP Theorem]]

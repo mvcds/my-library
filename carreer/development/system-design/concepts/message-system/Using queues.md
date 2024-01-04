@@ -1,0 +1,3 @@
+- Different [[Message System|Queues]] can be used according to the need (by any arbitrary reason)
+- A queue can filter content
+- A queue can select the appropriate subqueues

@@ -20,6 +20,7 @@ Originally, the name "NoSQL" came from a [[Twitter]] hashtag for a conference an
 Good
 - Fast writes (due to [[Log-Structured Merge Tree|LSMT]])
 - Easier to [[Scalability|Scale]]
+
 Bad
 - Slow [[Query]]/reads
 - [[BASE]]
