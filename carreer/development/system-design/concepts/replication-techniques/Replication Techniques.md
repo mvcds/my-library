@@ -2,6 +2,10 @@
 
 Maintaining multiple copies of the same [[data]] across different [[Computer|nodes]] for increased [[reliability]], [[availability]], and [[Fault Tolerance]]
 
+We can classify replication in two dimensions:
+- [[Replication Synchronicity]]
+- [[Replication Leadership]]
+
 # Tradeoffs
 Good
 - Avoids [[Single Point of Failure]]

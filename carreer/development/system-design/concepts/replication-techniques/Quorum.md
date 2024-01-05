@@ -1,0 +1,2 @@
+- Minimum number of acknowledgment (write)
+- [[Consistency|Consistent]] [[Data]] value (read)
