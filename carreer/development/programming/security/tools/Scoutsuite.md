@@ -1,1 +1,1 @@
-[[AWS]] account [[Information Security|Security]]
+[[Amazon Web Services|AWS]] account [[Information Security|Security]]

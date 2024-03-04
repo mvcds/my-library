@@ -4,4 +4,4 @@ How to describe the degree of [[impact]]  when a [[bug]] happens
 - What functionality?
 - How many locations?
 - Etc
-At lest within [[AWS]]
+At lest within [[Amazon Web Services|AWS]]

@@ -1,1 +1,1 @@
-Use to collect and analyze logs from [[aws]] and sensitive servers. Alert on security incident.
+Use to collect and analyse [[Logging|Logs]] from [[Amazon Web Services|AWS]] and sensitive servers. Alert on [[Information Security|Security]] incidents.
