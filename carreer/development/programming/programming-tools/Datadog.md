@@ -1,4 +1,4 @@
-Datadog is a [[Observability]] [[Server|Service]] for cloud-scale [[Software|Applications]], providing [[monitoring]] of servers, [[Database|Databases]], tools, and [[carreer/development/programming/Service|Service]], through a SaaS-based data analytics platform
+Datadog is a [[Observability]] [[Server|Service]] for [[Cloud Computing Service|Cloud]]-scale [[Software|Applications]], providing [[monitoring]] of servers, [[Database|Databases]], tools, and [[carreer/development/programming/Service|Service]], through a SaaS-based data analytics platform
 
 ---
 

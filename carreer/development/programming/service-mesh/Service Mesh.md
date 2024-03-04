@@ -12,6 +12,6 @@ Normally a service mesh is built into an app as an array of network [[Proxy|Prox
 
 The logic governing communication can be coded into each service without a service mesh layer—but as communication gets more [[complex]][^1], a service mesh becomes more valuable.
 
-For cloud-native apps built in a microservices architecture, a service mesh is a way to comprise a large number of discrete services into a functional application.
+For [[Cloud Computing Service|Cloud]]-native apps built in a microservices architecture, a service mesh is a way to comprise a large number of discrete services into a functional application.
 
 [^1]: Check [[Cynefin Framework]]
