@@ -14,4 +14,4 @@ When using an IAM platform, you gonna have 3 capabilities.
 
 ---
 
-It has some overlapping with [[API Gateway]]
+It has some overlapping with [[carreer/development/programming/security/API Gateway]]

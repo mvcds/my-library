@@ -2,7 +2,7 @@
 aliases: [BFF]
 ---
 
-The practice of defining a backend that will be like a [[API Gateway]] where the backend "protects" its clients by aggregating and normalizing everything so its [[Client|Clients]] can handle.
+The practice of defining a backend that will be like a [[carreer/development/programming/security/API Gateway]] where the backend "protects" its clients by aggregating and normalizing everything so its [[Client|Clients]] can handle.
 
 ---
 

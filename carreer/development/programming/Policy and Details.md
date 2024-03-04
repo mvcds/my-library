@@ -10,6 +10,6 @@ aliases: [Policy, Policies, Business Rule, Business Rules]
 
 ---
 
-![[Policy]]
+![[domain-driven-design/concepts/Policy]]
 
 [^1]: Check [[Interface]]

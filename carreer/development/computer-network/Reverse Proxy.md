@@ -13,7 +13,7 @@ aliases:
 
 A [[Proxy]] that doesn't let the [[Client]] to know it is dealing with a proxy i.e. it appears to be the final [[Server]], so it becomes an [[carreer/development/programming/Abstraction|Abstraction]] on [[Distributed Access Management Patterns]].
 
-It can provide many additional features to the [[System]], like [[API Gateway|security]], [[Monitoring]] and [[Cache|caching]]
+It can provide many additional features to the [[System]], like [[carreer/development/programming/security/API Gateway|security]], [[Monitoring]] and [[Cache|caching]]
 
 ---
 
