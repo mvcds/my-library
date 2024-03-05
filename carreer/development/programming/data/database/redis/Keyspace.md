@@ -1,0 +1,1 @@
+The collection of all keys in a [[Redis]] instance. It represents the entire set of keys that can be stored in it, each associated with its corresponding value.
