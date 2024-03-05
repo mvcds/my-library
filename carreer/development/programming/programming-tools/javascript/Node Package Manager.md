@@ -10,7 +10,7 @@ A [[Package Manager|Package Management Tool]] for [[NodeJS]] with the double pur
 
 ---
 
-In the past named using anything that was URL compliant but now it's more restrict, for instance, it only accepts lower-case letters
+In the past named using anything that was [[Uniform Resource Locator|URL]] compliant but now it's more restrict, for instance, it only accepts lower-case letters
 
 ---
 

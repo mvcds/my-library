@@ -4,7 +4,7 @@ aliases: [P2P, P2P Network]
 
 A kind of [[Software Architecture]] where _there is no central [[server]]_ and doesn't require constant connection, due to it, they are cost-effective
 
-Due to it different peers should be able to dynamically discover each other (and we cannot count on fixed URLs or IPs)
+Due to it different peers should be able to dynamically discover each other (and we cannot count on fixed [[Uniform Resource Locator|URL]] or IPs)
 
 When a central server is needed, it is only used to communicate when new peers have joined the network
 

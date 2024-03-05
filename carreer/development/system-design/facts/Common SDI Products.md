@@ -1,6 +1,6 @@
 #fact about [[Interviewing for SD|System Design Interview]]
 
-1. URL shortening service
+1. [[Uniform Resource Locator|URL]] shortening service
 	1. Engine
 	2. Redirector
 2. File storage and sharing

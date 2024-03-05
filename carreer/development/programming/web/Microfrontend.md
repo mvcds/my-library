@@ -48,7 +48,7 @@ Some microfrontend implementations can lead to duplication of dependencies, incr
 
 * Communication should be kept to a minimum
 * When features on micro frontend often also requires backend changes, that's a strong case for a [[Backend for frontends]], owned by the same team.
-* use unit tests to cover your low-level [[business]] logic and rendering logic, and then use functional tests just to validate that the page is assembled correctly. For example, you might load up the fully-integrated application at a particular URL, and assert that the hard-coded title of the relevant micro frontend is present on the page.
+* use unit tests to cover your low-level [[business]] logic and rendering logic, and then use functional tests just to validate that the page is assembled correctly. For example, you might load up the fully-integrated application at a particular [[Uniform Resource Locator|URL]], and assert that the hard-coded title of the relevant micro frontend is present on the page.
 * If there are user journeys that span across micro frontends, then you could use functional testing to cover those, but keep the functional tests focussed on validating the integration of the frontends, and not the internal [[business]] logic of each micro frontend, which should have already been covered by unit tests.
 
 #complement webpack federation(?)\

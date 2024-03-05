@@ -35,7 +35,7 @@ Any full-featured data access layer will have the ability to bind variables and 
 # Protect Data in Transit
 
 - Just use secure protocols like [[Transport Layer Security|TSL]] and enforce it with [[HTTP Strict Transport Security|HSTS]]
-- Do not use sensitive data inside of a URL
+- Do not use sensitive data inside of a [[Uniform Resource Locator|URL]]
 - Protect [[Private Key]]s
 - Set "secure" flag in [[Cookie|Cookies]]
 
