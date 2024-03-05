@@ -1,5 +1,8 @@
 ---
-aliases: [LIFO, Last in; First out]
+aliases:
+  - LIFO
+  - Last in; First out
+  - Stacks
 ---
 
 A [[Data Structure]] where the last element added is the first to be processed. Similar to a stack of plates, or a deck of cards.
