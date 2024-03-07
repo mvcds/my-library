@@ -6,7 +6,7 @@ A kind of [[Software Architecture]]
 
 Composed by many services, each concerning a business activity. A service can be composed by other services.
 
-Normally contracts between services need a formal way of standard, and services rely on a Enterprise Service Bus where normally the application logic happens between services.
+Normally contracts between services need a formal way of standard, and services rely on a Enterprise [[Message Bus|Service Bus]] where normally the application logic happens between services.
 
 ---
 
