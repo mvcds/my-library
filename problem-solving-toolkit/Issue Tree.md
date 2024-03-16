@@ -6,7 +6,7 @@ Issue trees are useful for [[Root Cause Analysis]], as well as to identify its p
 
 # Types
 
-- Diagnostic trees break down a "why" key question, identifying all the possible root causes for the problem.
+- Diagnostic trees break down a "why" key question, identifying all the possible [[Root Cause|root causes]] for the problem.
 - Solution trees break down a "how" key question, identifying all the possible alternatives to fix the problem
 
 # Rules
