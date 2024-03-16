@@ -30,7 +30,7 @@ As search tools get better, the less the need to sort eg emailbox
   
 ---  
   
-"except for the first place (in a competition) all other victories are misdirection" paraphrase by cs Lewis (original name lack) ie "the silver medal is a lie"  
+"except for the first place (in a [[competition]]) all other victories are misdirection" paraphrase by cs Lewis (original name lack) ie "the silver medal is a lie"  
   
 ---  
   

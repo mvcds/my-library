@@ -18,7 +18,7 @@ In summary: inner layers should not depend on outer ones. The name of entities d
 - Use cases: they are a detail, a description of the action that a [[User]] can perform
 - Presenter: a UC **invokes** methods on the presenter because the presenter implements the "output" port
 - Data that cross borders: should be [[Transfer Object|simple structures]] defined to optimize the inner layer e.g. when using [[Function]] to invoke a UC, the data should already be in the format it needs to be i.e. **mapping occurs in the adapter**
-- Parsing external data might be done on the interactor or in the repository. But doing on the interactor will compromise the idea of data crossing the boundaries being as convinient as possible for the inner layer.
+- Parsing external data might be done on the interactor or in the repository. But doing on the interactor will [[compromise]] the idea of data crossing the boundaries being as convinient as possible for the inner layer.
 - [[Flow of data]] is clearly defines
 
 # Misc

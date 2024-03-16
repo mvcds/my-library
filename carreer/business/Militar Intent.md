@@ -11,4 +11,4 @@ The desired outcome of a military operation. It is made out of 8 facets
 - Key Decisions: The key decisions that may have to be made and guide the commander in how to make choices
 - [[Antigoals]]: Undesired outcomes. Antigoals are meaningful when to clarify alternatives action plans and what the resulting outcome might be. Antigoals are described in the same way as End State with the difference in that antigoals describe the unwanted outcome.
 - Constraints:  Other considerations that should be taken into account and can vary from policy to weather and terrain. Constraints belongs to the intent group execution and encompass risk willing, restrictions in conducting operations, allocation of resources, and expectations of force usage.
-- Expressives: A support to better understand the collaboration participants’ capabilities and conduct of operations.
+- Expressives: A support to better understand the [[collaboration]] participants’ capabilities and conduct of operations.

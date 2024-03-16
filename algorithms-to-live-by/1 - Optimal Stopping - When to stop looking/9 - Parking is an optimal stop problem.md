@@ -1,4 +1,4 @@
-And on top of that, parking is an [[Optimal Stopping]] problem where there's competition, that is:
+And on top of that, parking is an [[Optimal Stopping]] problem where there's [[competition]], that is:
 
 - if someone parks on a better spot, you cannot do it
 - and you never know if there's someone parked on the better spot until you go there and check it

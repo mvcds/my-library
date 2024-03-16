@@ -2,7 +2,7 @@
 
 [[Interviewing for SD|SDIs]] are a [[system-design-interview/concepts/Design|Design]] problem, but many developers approach it as if it was a [[Engineering]] problem instead.
 
-[[Success]] requires collaboration with the interviewer by trying stuff until the [[SDIs are about mapping solutions for someone else|mapping]] feels right.  [[There are no correct answers - though there are certainly incorrect ones]].
+[[Success]] requires [[collaboration]] with the interviewer by trying stuff until the [[SDIs are about mapping solutions for someone else|mapping]] feels right.  [[There are no correct answers - though there are certainly incorrect ones]].
 
 [[Do mock interviews]] to prepare yourself by [[Antecipate questions|antecipating questions]], and during them [[Think like a tech lead]] but [[It's your responsibility to leave breadcrumbs for the interviewer to go where you want them to go but they still need to think they got you there|let they think they are guiding you]].  Remember that [[Measure success by how much you get the interviewer to say|The interviewers' goal is to find enough data to hire you]], so don't talk more than needed.
 

@@ -1,4 +1,4 @@
-Embrance regular, thoughtful conflicts[^1] as the basis of effective [[negotiaion]] and life
+Embrance regular, thoughtful [[Conflict|conflicts]][^1] as the basis of effective [[negotiaion]] and life
 
 ---
 

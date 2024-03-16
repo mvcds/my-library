@@ -1,0 +1,7 @@
+
+- [[Communication]]
+- [[Collaboration]]
+- [[Compromise]]
+- Control
+- Civility
+- [[Commitment]]
