@@ -1,6 +1,6 @@
 https://en.wikipedia.org/wiki/SMART_criteria
 
-#acronym for giving criteria to guide in the setting of [[objective]]s or [[Goal]]s. Generally used for [[task]]s
+#acronym for giving criteria to guide in the setting of [[carreer/achieving-goals/Objective|Objectives]] or [[Goal|Goals]]. Generally used for [[Task|Tasks]]
 
  - Specific
  - Measurable

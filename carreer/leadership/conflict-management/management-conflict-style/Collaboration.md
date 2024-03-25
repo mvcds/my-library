@@ -6,5 +6,5 @@ The most effective but most difficult way. It requires [[Trust]] and [[commitmen
 
 - All parties want to investigate alternative solutions together, that they might not necessary have thought on their own
 - [[time|Long-last]] problems
-- With non-comprisable [[Objective|Objectives]] while preserving the relationships
+- With non-comprisable [[carreer/achieving-goals/Objective|Objectives]] while preserving the relationships
 - Different backgrounds and experiences is involved
