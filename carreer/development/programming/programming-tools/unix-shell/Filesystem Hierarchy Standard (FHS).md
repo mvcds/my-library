@@ -1,4 +1,4 @@
-FHS defines the structure of file systems on [[Linux]] and other UNIX-like [[OS]]. However, Linux file systems also contain some directories that aren’t yet defined by the standard.
+FHS defines the structure of [[File System|Filesystems]] on [[Linux]] and other UNIX-like [[OS]]. However, Linux file systems also contain some directories that aren’t yet defined by the standard.
 
 # Directories
 
