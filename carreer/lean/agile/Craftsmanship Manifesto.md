@@ -9,6 +9,12 @@ An "evolution" of the [[Agile Manifest]] because it doesn't necessarily address 
 
 ---
 
+- [[Professionalism]]
+- [[Pragmatism]]
+- [[Pride]]
+
+---
+
 As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:
 
 Not only working software, but also well-crafted software
