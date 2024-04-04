@@ -11,4 +11,14 @@ Practices
 
 ---
 
+A right-to-left [[Pull-System]]
+
+---
+
 The Japanese word “kanban” (no capital K), means “visual board” or a “sign”.
+
+---
+
+It's good for manage and improve work across [[Complex]] systems.
+
+The goal of Kanban is to identify and eliminate [[bottleneck|bottlenecks]] in the work [[my-library/carreer/development/programming/Process#Noun|Process]], and to [[Continous Improvement|continuously improve]] the flow of work by making small, incremental changes. It emphasizes the importance of adapting to changing circumstances and [[customer]] needs, and it encourages [[collaboration]] and transparency within [[team|teams]].
