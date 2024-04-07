@@ -53,7 +53,7 @@ Any full-featured data access layer will have the ability to bind variables and 
 - Re-authenticate for important actions
 - Conceal Whether Users Exist: instead of saying _The user id is unknown_ consider _Incorrect user ID or password_
 - Prevent brute force attacks: use techniques like [[Short Lockout|Short Lockouts]] and [[CAPTCHA]]
-- Don't use default or hard-coded credentials
+- Don't use default or hard-coded [[credential|credentials]]
 
 # Protect user [[carreer/development/programming/web/Session|Sessions]]
 

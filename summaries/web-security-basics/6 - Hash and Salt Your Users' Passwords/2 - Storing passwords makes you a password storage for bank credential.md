@@ -1,6 +1,6 @@
 Even if you have a simple, harmless [[Software|App]], storing passwords introduce a new [[Attack Vector]] because [[User|Users]] tend to re-use passwords.
 
-So if you store passwords on your app, you might end-up being used as a "password storage" for things like bank credentials.
+So if you store passwords on your app, you might end-up being used as a "password storage" for things like bank [[credential|credentials]].
 
 [[3 - Only store passwords if you don't have an option, like for regulatory reasons]]
 
