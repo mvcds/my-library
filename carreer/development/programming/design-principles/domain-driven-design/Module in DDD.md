@@ -2,8 +2,6 @@ https://culttt.com/2014/12/10/modules-domain-driven-design/
 
 In [[Domain-Driven Design]]: container for a specific set of classes of your application which live in a [[Bounded Context]].
 
-The code within a module should present [[High-Cohesion]] and [[Low-Coupling]] between classes of different modules.
-
 Modules present the following characteristics:
 
 - The name of the Module should be derived directly from the [[carreer/development/programming/design-principles/domain-driven-design/Ubiquitous Language|Ubiquitous Language]] and should reflect an important concept from the [[Domain]] rather than just group related objects

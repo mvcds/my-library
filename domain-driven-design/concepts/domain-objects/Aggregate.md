@@ -4,7 +4,7 @@ aliases: [Aggregates]
 
 #concept in [[3 - The life cycle of a domain object]]
 
-An artificial [[Domain Object|object]] that still makes sense for the [[Domain Model]]. Its job is to guarantee the [[consistency]] of all objects within it boundaries, usually through [[Invariant|Invariants]].
+An artificial [[Domain Object|object]] that still makes sense for the [[Domain Model]]. Its job is to guarantee the [[Consistency]] of all objects within it boundaries, usually through [[Invariant|Invariants]].
 
 To do so, they should expose only their [[Aggregate Root|Root]], and let all [[communication]] to its [[Association|transversal associations]] be done by it. Often, this needs to be done though discipline.
 
