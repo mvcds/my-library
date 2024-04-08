@@ -14,3 +14,11 @@ The earlier an architectural decision is made, the more weight it has on impacti
 
 [^1]: It might even be the case that the architecture will mimic the organization's structure
 [^2]: Because not all of them are compatible, you end up having to pick up and prioritize the ones that are most adequate for you, taking into consideration all the software already in place that partially takes in care of some of them e.g. security can be delegated to an internal framework
+
+---
+
+Shared understanding the developers have on the system
+
+---
+
+Technical vision, that should help deliver the system our [[Customer|Customers]] need
