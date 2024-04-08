@@ -9,5 +9,5 @@ A collection of key-bindings and [[function]]s, which come in two flavors (Major
 
 # Minor Modes
 
-- Provide [[functionality]] that’s useful across file types.
+- Provide [[Functionality]] that’s useful across file types.
 - Multiple active at the same time

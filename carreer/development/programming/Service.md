@@ -2,7 +2,7 @@
 
 # What a service is not
 
-- Something with only [[functionality]] is a [[function]]
+- Something with only [[Functionality]] is a [[function]]
 - Something with only [[data]] is an [[entity]]
 
 # What is a service
