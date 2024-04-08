@@ -2,8 +2,3 @@ A #concept  that describes the degree of belonging together the [[Function]]s wi
 
 If they are doing more than it should, then the module does not have cohesion.
 
-There are two types of cohesion:
-
-- Functional
-- Communicational
-
