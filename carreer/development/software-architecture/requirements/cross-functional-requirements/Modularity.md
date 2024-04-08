@@ -9,6 +9,8 @@ aliases:
   - Namespaces
   - Container
   - Containers
+  - Service
+  - Services
 ---
 A [[Cross-Functional Requirement]]
  

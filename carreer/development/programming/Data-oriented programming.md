@@ -18,7 +18,7 @@ And concepts
 - [[Concretion]]
 - [[carreer/development/programming/Identity|Identity]]
 - [[Information]]
-- [[Loose coupling]]
+- [[Low-Coupling|Loose Coupling]]
 - Maybe: a propriety of the [[domain-driven-design/concepts/domain-objects/Aggregate|Aggregate]] not the field
 - Names: **Names** are a fundamental property of information. However, in [[Static Type System|statically-typed]] languages, names compile away. There exist at compile [[time]] but not a run time. At run time, a field cannot be access **dynamically** by its name. In order to access data, we are required to import the definition of the class that contains the data.
 - [[State]]
