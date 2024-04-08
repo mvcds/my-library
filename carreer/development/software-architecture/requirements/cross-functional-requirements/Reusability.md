@@ -1,3 +1,1 @@
- A [[Cross-Functional Requirement]]
- 
- A well-designed [[System]] can be used as the basis for building other software systems, saving [[time]] and [[Asset|Resources]]
+The [[Cross-Functional Requirement|CFR]] that tell us how to [[my-library/carreer/development/design/Design|Design]] a [[System]] well so it can be used as the basis for building other software systems, saving [[time]] and [[Asset|Resources]]

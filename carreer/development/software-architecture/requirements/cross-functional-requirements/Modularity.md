@@ -12,9 +12,7 @@ aliases:
   - Service
   - Services
 ---
-A [[Cross-Functional Requirement]]
- 
-We say that a [[system]] is modular if we can understand and update a [[Component]] without changing the rest of it.
+A [[Cross-Functional Requirement|CFR]] that tell us if we can understand and update a [[System]]'s [[Component]] without changing the rest of it.
 
 Modularity allows us to create smaller systems that are less [[Complex]], more [[Maintainability|maintanable]] and more [[Reusability|reusable]], presenting [[High-Cohesion]] and [[Low-Coupling]] between subparts of differnt modules
 

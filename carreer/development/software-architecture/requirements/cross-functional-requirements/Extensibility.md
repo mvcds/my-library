@@ -1,3 +1,1 @@
-A [[Cross-Functional Requirement]]
-
-A [[System]] that has a [[my-library/carreer/development/design/Design|Design]] that is flexible and extensible makes it easier to add new features to the software system as the needsevolve.
+The [[Cross-Functional Requirement|CFR]] that tell us if a [[System]] has a [[my-library/carreer/development/design/Design|Design]] that is flexible and extensible, making it easier to add new [[Feature|features]] to the software system as the needs evolve.
