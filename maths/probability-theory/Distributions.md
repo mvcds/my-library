@@ -1,2 +1,2 @@
-- Mean: the expected [[Value]]
+- Mean: the expected [[my-library/carreer/development/Value|Value]]
 - Variance: how far a [[Set]] is spread out from their average value (in a distribution graph this is the X axis)

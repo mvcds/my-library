@@ -1,7 +1,7 @@
 ---
 aliases: [Side Effects]
 ---
-Anything our code does **besides** resolving to a value[^1]
+Anything our code does **besides** resolving to a [[my-library/carreer/development/Value|Value]][^1]
 
 Examples
 -   network calls;

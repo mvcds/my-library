@@ -112,7 +112,7 @@ Check against the results
 - You launched 2–4 week longitudinal study and 70%+ of participants kept using the product and were interested to buy or continue using at the end of the test.
 - You’ve built an MVP and had 50+ active users/customers that at willing to use/purchase and are interested.
 - You launched an alpha or beta version to 20+ early tester customers.
-- You’ve ran an A/B test and the experiment group shows the key metrics you outlined, and no decline in other key metrics. All results are statistically significant with p-value of 5% of below.
+- You’ve ran an A/B test and the experiment group shows the key metrics you outlined, and no decline in other key metrics. All results are statistically significant with [[P-Value]] of 5% of below.
 
 # Early launch results
 

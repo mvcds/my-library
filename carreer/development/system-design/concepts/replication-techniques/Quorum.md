@@ -1,2 +1,2 @@
 - Minimum number of acknowledgment (write)
-- [[Consistency|Consistent]] [[Data]] value (read)
+- [[Consistency|Consistent]] [[Data]] [[my-library/carreer/development/Value|Value]] (read)

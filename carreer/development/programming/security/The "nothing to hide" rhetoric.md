@@ -1,4 +1,4 @@
- This rhetoric twists the debates about [[Privacy]] towards a direction which neglects the **social value** of privacy.
+ This rhetoric twists the debates about [[Privacy]] towards a direction which neglects the **social [[my-library/philosofy/Value|Value]]** of privacy.
  
  It should not be weighed as an individual right against the greater social good but instead, viewed as a societal dimension valued in terms of the social role it plays: if safeguard individuals from abuses by those in power.
  

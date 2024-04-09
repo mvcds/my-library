@@ -1,1 +1,1 @@
-A rough [[Number|Numerical]] estimate or approximation of the value of something that is otherwise unknown
+A rough [[Number|Numerical]] estimate or approximation of the [[my-library/philosofy/Value|Value]] of something that is otherwise unknown

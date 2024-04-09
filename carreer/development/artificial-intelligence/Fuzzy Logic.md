@@ -4,7 +4,7 @@ Fuzzy logic allow us to use a more natural language when compared to [[Boolean]]
 
 All fuzzy rule are evaluated in parallel, yielding the strength of its conclusion. 
 
-It may be necessary to defuzzyfi a value, turning it into a crisp number.
+It may be necessary to defuzzyfi a [[my-library/carreer/development/Value|Value]], turning it into a crisp number.
 
 # Steps
 

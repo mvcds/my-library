@@ -1,4 +1,4 @@
-Refers to the increase in a capital asset's value and is considered to be realized when the asset is sold
+Refers to the increase in a capital asset's [[my-library/philosofy/Value|Value]] and is considered to be realized when the asset is sold
 
 `(P - S) - (M + A)`
 

@@ -15,7 +15,7 @@ An "evolution" of the [[Agile Manifest]] because it doesn't necessarily address 
 
 ---
 
-As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:
+As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to [[my-library/philosofy/Value|Value]]:
 
 Not only working software, but also well-crafted software
 Not only responding to change, but also steadily adding value

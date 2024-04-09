@@ -4,7 +4,7 @@ aliases: [CRNG]
 
 [[Programming Language]]s don't have a real way to generate true random values, so this is just a technique to do something close.
 
-All that happens is that you pick a starting value – the seed – and a number to use as the [[generator]].
+All that happens is that you pick a starting [[my-library/carreer/development/Value|Value]] – the seed – and a number to use as the [[generator]].
 
 To get the next random value you multiply the seed by the generator and take the answer mod “a large value” `a(i+1)=K*a(i) MOD P` where K is the generator and a(i+1) is the next random number.
 

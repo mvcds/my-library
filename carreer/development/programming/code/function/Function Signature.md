@@ -2,4 +2,4 @@ Different [[Programming Language]]s have [[Function]] which [[signature]]s are w
 
 - An _optional_ [[Function]] name
 - A list of [[Parameter]] types, in parenthesis. The parameters may optionally be named.
-- The type of the return value.
+- The [[Data Structure|Type]] of the return [[my-library/carreer/development/Value|Value]].

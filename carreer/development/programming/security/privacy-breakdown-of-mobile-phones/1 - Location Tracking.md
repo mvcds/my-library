@@ -7,7 +7,7 @@ There are 4 main ways of getting tracked:
 3. Wi-Fi and Bluetooth Tracking
 4. Location Information Leaks from Apps and Web Browsing
 
-Location tracking is not always about where you are **right now** but also about your historical locations, making easy to extrapolate your values, believes and activities (like personal encounters).
+Location tracking is not always about where you are **right now** but also about your historical locations, making easy to extrapolate your [[my-library/philosofy/Value|Values]], believes and activities (like personal encounters).
 
 # Mobile Signal Tracking from Towers
 

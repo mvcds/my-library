@@ -2,7 +2,7 @@
 aliases: [Restricted Stock Units, RSU, RSUs]
 ---
 
-A kind of [[stock]] which is "restricted" to you because it cannot be freely transferred. As such they also do not have any real value.
+A kind of [[stock]] which is "restricted" to you because it cannot be freely transferred. As such they also do not have any real [[my-library/philosofy/Value|Value]].
 
 They are used by [[business|companies]] as a way to hold employees, as the RSU are converted to real stocks on a [[Vesting|Vesting Date]].
 

@@ -13,4 +13,4 @@ Some common ones
 
 ---
 
-A direct [[Value]], as opposed to a reference to something that contains the real [[Value]]
+A direct [[my-library/carreer/development/Value|Value]], as opposed to a reference to something that contains the real [[my-library/carreer/development/Value|Value]]

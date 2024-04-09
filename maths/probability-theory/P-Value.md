@@ -4,7 +4,7 @@ Researches decide its significance post-factum.
 
 ---
 
-For a [[Model]] to be statistically significant, use a p=value smaller than 0.05
+For a [[Model]] to be statistically significant, use a p=[[my-library/carreer/development/Value|Value]] smaller than 0.05
 
 ---
 

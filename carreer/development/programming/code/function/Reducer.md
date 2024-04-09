@@ -2,7 +2,7 @@
 aliases: [Reducers]
 ---
 
-A [[Function]] that transform multiple inputs into a single input that not necessarily is a single value.
+A [[Function]] that transform multiple inputs into a single input that not necessarily is a single [[my-library/carreer/development/Value|Value]].
 
 ```js
 const reducer = (total, item) => item % 3 ? total + item : total

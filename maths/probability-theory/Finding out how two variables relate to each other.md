@@ -1,4 +1,4 @@
-For this you use the **covariance**formula to obtain a value.
+For this you use the **covariance** formula to obtain a [[my-library/carreer/development/Value|Value]].
 
 We can use **correlation** to intepret the covariance numbers as they might be on completely different scales.
 

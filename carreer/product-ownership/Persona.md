@@ -10,4 +10,4 @@ A way to group similar people in an avatar that can be used during [[carreer/dev
 - This avatar has [[Goals]], needs, skills, and [[behaviour|behaviours]] that change how they interact with the product regardless of the [[Actors and Roles|Role]] they play
 - It's not meant to be accurate nor perfect, it's just a guideloine for us to role-play users when creating products for them
 - They help us identify how different users would use what we do, kind like of [[Demographics]]
-- By using personas we can focus on what brings them value because we can assess their needss
+- By using personas we can focus on what brings them [[my-library/philosofy/Value|Value]] because we can assess their needss

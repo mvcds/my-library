@@ -12,7 +12,7 @@ At the same time it manages to
 
 It's an alternative to stop "organic" teams, and make it deliberately around [[Customer]] outcomes rather than _team function_.
 
-# Value Proposition
+# [[Business Value|Value]] Proposition
 
 - [[4 types of teams|Simplify teams]]
 - Minimize [[cognitive load]]

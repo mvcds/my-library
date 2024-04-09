@@ -9,7 +9,7 @@ It runs the [[Internet]]
 # Quirks
 
 * [[Null]] is an [[Object]]
-* `NaN` is the only value which is never equal to itself
+* `NaN` is the only [[my-library/carreer/development/Value|Value]] which is never equal to itself
 * Semi-column on JS may impact the result
 
 ```js

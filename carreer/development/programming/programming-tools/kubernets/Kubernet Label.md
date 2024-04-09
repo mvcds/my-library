@@ -1,4 +1,4 @@
-In [[Kubernets]] they are are key/value pairs which can be attached to objects at any [[time]]
+In [[Kubernets]] they are are key/[[my-library/carreer/development/Value|Value]] pairs which can be attached to objects at any [[time]]
 
 # Some Usages
 

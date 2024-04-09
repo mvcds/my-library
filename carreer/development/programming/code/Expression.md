@@ -1,4 +1,4 @@
-An expression (immediately) returns its [[Value]].
+An expression (immediately) returns its [[my-library/carreer/development/Value|Value]].
 
 They [[Composition Over Inheritance|compose]] easily.
 

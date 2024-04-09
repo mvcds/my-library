@@ -6,7 +6,7 @@ It's vital to be prepared when dealing with them.
 
 Use [[data]] to drive reason, don't ad-lib, use data comparsions to disagree, focus on facts, warn them early about issues and avoid suprises.
 
-They don't see the personal and business relationships as the same thing, so apologies are often of little value, as well as [[1 - Calibrated Question]]s, or [[Open-Ended Question|close-ended questions]] that forces them to say "yes" or "no".
+They don't see the personal and business relationships as the same thing, so apologies are often of little [[my-library/philosofy/Value|Value]], as well as [[1 - Calibrated Question]]s, or [[Open-Ended Question|close-ended questions]] that forces them to say "yes" or "no".
 
 ---
 
