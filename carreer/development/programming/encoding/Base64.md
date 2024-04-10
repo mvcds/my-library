@@ -14,4 +14,4 @@ As it's possible to see, there might be up to 3 significant inputs
 
 ![[base-64-with-1-significant-input.png]]
 
-[^1]: Groups of 6 bits (6 bits have a maximum of $26^2 = 64$ different binary values)
+[^1]: Groups of 6 bits (6 bits have a maximum of $26^2 = 64$ different binary [[my-library/carreer/development/Value|values]])

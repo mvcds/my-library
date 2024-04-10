@@ -2,7 +2,7 @@
 	1. It seems the opposite from "fixed" arguments from [[Functional Programming]]
 2. Using objects as arguments allows us to destruct, and define defaults
 3. (Vue 3) `useRefHistory` allows `undo`out of the box
-4. `ref(input)` where `input` is already a `ref` just unbox it to have a single `ref`, similarly to `unref` for primitive values which accepts non-refs as input without thrown error
+4. `ref(input)` where `input` is already a `ref` just unbox it to have a single `ref`, similarly to `unref` for primitive [[my-library/carreer/development/Value|values]] which accepts non-refs as input without thrown error
 	1. It is a design choice of not throwing error
 5. Using an argument for option can be used to control the type of the return
 	1. I don't like this because it goes again code [[Cardinality]]

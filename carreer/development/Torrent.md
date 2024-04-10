@@ -1,4 +1,4 @@
-A kind of file that does not contain content, instead, it only contains information about those files, such as their names,folder structure, and sizes obtained via cryptographic hash values for verifying file integrity. In other words, it is a meta file.
+A kind of file that does not contain content, instead, it only contains information about those files, such as their names,folder structure, and sizes obtained via cryptographic hash [[my-library/carreer/development/Value|values]] for verifying file integrity. In other words, it is a meta file.
 
 Normally a torrent is distributed through a [[Peer-to-Peer Architecture|P2P Network]].
 

@@ -7,7 +7,7 @@ IDK the source
 5. Naming is hard, but it's important.
 6. Do not duplicate code.[^1]
 7. Remove dead code, do not leave it commented.
-8. Constant values should be in static constants or enums.
+8. Constant [[my-library/carreer/development/Value|Values]] should be in static constants or enums.
 9. Prefer internal functions over custom solutions.
 10. Use language specific guidelines.
 11. Avoid creating multiple blocks of code nested in one another.

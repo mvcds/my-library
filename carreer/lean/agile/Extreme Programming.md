@@ -16,4 +16,4 @@ Developed by [[Kent Beck]], it introduces several key practices to support the d
 - [[Test-Driven Design]]
 - [[Continous Integration]]
 
-XP also introduces several key values and principles to guide the development process, including a focus on [[Business Value|delivering value]] to customers, adapting to changing requirements, and striving for simplicity and clarity in all aspects of the development process.
+XP also introduces several key [[my-library/philosofy/Value|Values]] and principles to guide the development process, including a focus on [[Business Value|delivering value]] to customers, adapting to changing requirements, and striving for simplicity and clarity in all aspects of the development process.

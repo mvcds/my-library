@@ -4,5 +4,5 @@ aliases: [Measures, Measurement, Measurements]
 
 https://www.klipfolio.com/blog/kpi-metric-measure
 
-Values that can be summed and/or averaged. They are unit-specific
+[[my-library/carreer/development/Value|Values]] that can be summed and/or averaged. They are unit-specific
 

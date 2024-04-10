@@ -11,7 +11,7 @@ The process begins with a set of individuals which is called a [[Population]]. E
 
 An individual is characterized by a set of parameters (variables) known as [[Gene]]s. Genes are joined into a string to form a [[Chromosome]] (solution) - therefore the solution and the chromosome are synonyms 
 
-The set of genes of an individual is represented using a [[string]], in terms of an alphabet. Usually, binary values are used (string of 1s and 0s). We say that we encode the genes in a chromosome.
+The set of genes of an individual is represented using a [[string]], in terms of an alphabet. Usually, binary [[my-library/carreer/development/Value|values]] are used (string of 1s and 0s). We say that we encode the genes in a chromosome.
 
 # [[Fitness Function]]
 

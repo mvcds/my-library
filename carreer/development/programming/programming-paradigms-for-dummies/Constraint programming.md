@@ -1,6 +1,6 @@
 One of the most [[declarative]] [[Programming Paradigm]]s invest what we usually what we expect of [[Programming Language]]s.
 
-The programmer in this case specifies the result and the [[system]] searches for it by assigning "random" values to variables but respecting some constraints on how this assignment is made. 
+The programmer in this case specifies the result and the [[system]] searches for it by assigning "random" [[my-library/carreer/development/Value|values]] to variables but respecting some constraints on how this assignment is made. 
 
 The problem to be solved needs to be expressed as a [[Constraint Satisfaction Problem]].
 

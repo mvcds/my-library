@@ -20,7 +20,7 @@ For a more comprehensive explanation and comparison, I can recommend this chapte
 - Examples are: # of hits or errors, # of orders created, latency, CPU
 - Useful for profiling, monitoring and alerting
 - Metrics don't significantly increase overhead with volume
-- Metrics are billed by the number of distinct metrics / permutations of tag values
+- Metrics are billed by the number of distinct metrics / permutations of tag [[my-library/carreer/development/Value|values]]
 - Metrics show whether there is a problem or where the problem happens, usually not the [[root cause]]
 
 ### Logs

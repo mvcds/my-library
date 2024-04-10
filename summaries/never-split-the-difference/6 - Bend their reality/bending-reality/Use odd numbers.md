@@ -1,4 +1,4 @@
-Odd [[Number|Numbers]] appear like calculated values: very serious and permanent.
+Odd [[Number|Numbers]] appear like calculated [[my-library/philosofy/Value|Values]]: very serious and permanent.
 
 ---
 

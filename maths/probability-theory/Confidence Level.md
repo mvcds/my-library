@@ -12,6 +12,6 @@ It's normal to use 90, 95 (most common) and 99 as a good confidence levels
 
 The higher the confidence, the broader the interval (to accommodate more points, which allow [[Standard error|error]]).
 
-In a bell shape, it mean that half of the values we are not confident is to the right, and the other to the left. This implies that a 100% level is useless, as we're not able to predict anything.
+In a bell shape, it mean that half of the [[my-library/carreer/development/Value|values]] we are not confident is to the right, and the other to the left. This implies that a 100% level is useless, as we're not able to predict anything.
 
 A low (like 5%) is also useless because it narrows down too much.

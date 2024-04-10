@@ -2,7 +2,7 @@ The long Friday was a Icelandic national strike where more than 90% of women did
 
 But in most countries women relationship with work is more [[complicated]].
 
-As seem in [[4 - Gender neutral with urinals]], we do not give woman the work flexibilization that they need, especially when we consider that Financial [[System|Systems]] tend to ignore [[6 - Is woman unpaid work undervalued because we don't see it, or is it invisible because we don't value it?|unpaid work]], and some benefits can only be collected when the values come from the same source.
+As seem in [[4 - Gender neutral with urinals]], we do not give woman the work flexibilization that they need, especially when we consider that Financial [[System|Systems]] tend to ignore [[6 - Is woman unpaid work undervalued because we don't see it, or is it invisible because we don't value it?|unpaid work]], and some benefits can only be collected when the [[my-library/philosofy/Value|Values]] come from the same source.
 
 Women normally have to have multiple income sources to make as much as men, so they get screwed twice: they have less money and many times can't use the same benefits.
 

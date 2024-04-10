@@ -1,4 +1,4 @@
-> To live, man must hold three things as the supreme and ruling values of his life: Reason—Purpose—Self-esteem. 
+> To live, man must hold three things as the supreme and ruling [[my-library/philosofy/Value|Values]] of his life: Reason—Purpose—Self-esteem. 
 >
 > Reason, as his only [[tool]] of [[knowledge]].
 > 

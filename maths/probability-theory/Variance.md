@@ -2,4 +2,4 @@ The dispersion (the distance to the [[Measures of central tendency|mean]]) of th
 
 ---
 
-Negligible values
+Negligible [[my-library/carreer/development/Value|Values]]

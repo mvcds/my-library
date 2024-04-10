@@ -2,4 +2,4 @@
 
 Example: 20% of people owns 80% of the land
 
-(Those values are approximations but they do happen very often IRL)
+(Those [[my-library/carreer/development/Value|values]] are approximations but they do happen very often IRL)

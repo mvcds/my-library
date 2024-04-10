@@ -11,7 +11,7 @@ A library to do [[Machine Learning|ML]].
 Files:
 
 - Placeholder: each iteration fills the placeholders with the correct parameters
-- Variables: preserve their values across generations, used for weights and [[Bias|Biases]]. `global_variables_initializer()` is the function to initialize them
+- Variables: preserve their [[my-library/carreer/development/Value|values]] across generations, used for weights and [[Bias|Biases]]. `global_variables_initializer()` is the function to initialize them
 - Matmul: where math operations happen
 
 ---

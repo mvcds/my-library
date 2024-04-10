@@ -1,6 +1,6 @@
 For [[Client-Side Caching]]
 
-It accepts mixed values for achieving different caching behaviours
+It accepts mixed [[my-library/carreer/development/Value|values]] for achieving different caching behaviours
 
 ```
 Cache-Control:  max-age=3600,
