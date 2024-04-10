@@ -6,7 +6,7 @@ We normally think users try to squeeze the best of our functionalities but in re
 
 A [[strategy]] to tackle that is creating [[User Story|user stories]] that describe what they want to do inside the product but we do not, like breaches to [[Information Security|Security]].
 
-Those stories normally are not added to the backlog but are used to discuss how to improve the product against some [[Persona]]s e.g. hackers, former employees; and then those ideas go to the backlog.
+Those stories normally are not added to the [[backlog]] but are used to discuss how to improve the product against some [[Persona]]s e.g. hackers, former employees; and then those ideas go to the backlog.
 
 ---
 

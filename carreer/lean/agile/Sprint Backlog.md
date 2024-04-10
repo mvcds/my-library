@@ -1,1 +1,0 @@
-Only the development team can change the [[sprint]] [[backlog]] to achieve the [[sprint goal]]

@@ -1,4 +1,4 @@
-An [[Agile]] framework with demarked roles and two [[Backlog|Backlogs]], one representing all possible things we'd like to do (Product Backlog), and another representing to what the team has committed to during the current [[Sprint]] (Sprint Backlog).
+An [[Agile]] framework with demarked roles and two [[Backlog|Backlogs]], one representing all possible things we'd like to do ([[Product Backlog]]), and another representing to what the team has committed to during the current [[Sprint]] ([[Sprint Backlog]]).
 
 The roles are:
 - [[Product Owner]]: responsible to bridge the development team with [[business]]' needs and wants
