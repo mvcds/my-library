@@ -2,8 +2,8 @@
 
 An [[Uber]] tool to automate the removal of [[Feature Toggle|Feature Flags]] from the source code as part of their development [[DevOps Pipeline|Pipeline]]
 
-They believe the [[tool]] will be useful for [[teams]] that meet the following criteria:
+They believe the [[tool]] will be useful for [[team|teams]] that meet the following criteria:
 
--  Uses feature flags extensively
+- Uses feature flags extensively
 - Has specific APIs to control the behavior of feature flags
 - Is implemented in [[Java]], [[Swift]], or [[Objective-C]]

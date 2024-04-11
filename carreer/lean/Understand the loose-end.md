@@ -2,7 +2,7 @@
 
 [[Aline]]
 
-It reduces [[dependency|dependencies]] between teams or people
+It reduces [[dependency|dependencies]] between [[team|teams]] or people
 
 ---
 
