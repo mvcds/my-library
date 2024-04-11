@@ -1,1 +1,1 @@
-A group which experiences the same [[Feature Toggle]]s
+A group which [[experience|experiences]] the same [[Feature Toggle]]s

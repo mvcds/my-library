@@ -4,4 +4,4 @@ It kinds of the "opposite" of an [[Object-Value in DDD]]
 
 ---
 
-The majority of communication between them should be choreographed/[[Publisher-Subscriber Pattern|reactive]] model
+The majority of [[communication]] between them should be choreographed/[[Publisher-Subscriber Pattern|reactive]] model

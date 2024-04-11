@@ -2,4 +2,4 @@
 
 #quote 
 
-Those things are decoupled
+Those things are [[Coupling|decoupled]]
