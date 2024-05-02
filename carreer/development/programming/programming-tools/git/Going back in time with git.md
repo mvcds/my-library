@@ -1,3 +1,7 @@
+---
+aliases:
+  - Time travel in git
+---
 It's easy to go back in [[time]] with [[git]]
 
 ```shell
