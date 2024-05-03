@@ -1,7 +1,7 @@
 ---
 aliases: [Resilience, Robustness, Antifragility]
 ---
-The [[Cross-Functional Requirement|CFR]] that tell us if the [[System]] can withstand [[Success|failures]] and recover gracefully from [[error|errors]], ensuring [[reliability]] and [[availability]].
+The [[Cross-Functional Requirement|CFR]] that tell us if the [[System]] can withstand [[Failure|Failures]] and recover gracefully from [[error|errors]], ensuring [[Reliability]] and [[availability]].
 
 ---
 

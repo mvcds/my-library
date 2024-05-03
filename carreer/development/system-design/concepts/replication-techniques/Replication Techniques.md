@@ -1,6 +1,6 @@
 #concept  in [[2 - Key Components of System Design]]
 
-Maintaining multiple copies of the same [[data]] across different [[Computer|nodes]] for increased [[reliability]], [[availability]], and [[Fault Tolerance]]
+Maintaining multiple copies of the same [[data]] across different [[Computer|nodes]] for increased [[Reliability]], [[availability]], and [[Fault Tolerance]]
 
 We can classify replication in two dimensions:
 - [[Replication Synchronicity]]

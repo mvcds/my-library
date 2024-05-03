@@ -1,6 +1,6 @@
 The [[fallacy|fallacies]] of [[Distributed System|Distributed Computing]] are:
 
-1.  The [[network]] is reliable;
+1.  The [[network]] is [[Reliability|reliable]];
 2. [[Latency]] is zero;
 3. [[Bandwitdth]] is infinite;
 4. The network is [[Information Security|Secure]]
