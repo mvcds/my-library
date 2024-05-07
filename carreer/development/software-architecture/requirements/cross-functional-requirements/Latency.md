@@ -5,4 +5,4 @@ The [[Cross-Functional Requirement|CFR]] that tell about the delay before a tran
 
 ---
 
-#concept in [[1 - Principles of System Design]]
+#concept in [[1 - Principles of System Design]] and [[1 - Reliable, scalable, and maintainable applications]]
