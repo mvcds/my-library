@@ -6,7 +6,7 @@ aliases: [RNN]
 
 RNNs are indicated for sequential processing.
 
-In this [[Neural Network]], a hidden layer is used as a weight for the next, making a kind of "memory" of the past exist
+In this [[Neural Network]], a hidden layer is used as a [[weight]] for the next, making a kind of "memory" of the past exist
 
 Usages
 
