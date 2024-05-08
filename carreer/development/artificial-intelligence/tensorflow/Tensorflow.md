@@ -6,7 +6,7 @@ A library to do [[Machine Learning|ML]].
 
 ![[tensor-flow-files.png]]
 
-(B is an input which is bed to a function, D is the target that we compare to adjust the weights and biases)
+(B is an input which is bed to a function, D is the target that we compare to adjust the [[weight|weights]] and [[Bias|Biases]])
 
 Files:
 

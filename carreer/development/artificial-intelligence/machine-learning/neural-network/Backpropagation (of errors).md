@@ -4,7 +4,7 @@ aliases: [Backpropagation]
 
 ![[backpropagation.png]]
 
-(w and u are weights)
+(w and u are [[Weight|weights]])
 
 An [[Algorithm|Algo]] for [[Neural Network]]s using [[Optimization function|gradient descent]]. 
 

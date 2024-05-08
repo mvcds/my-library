@@ -38,7 +38,7 @@ As per [[ChatGPT]]
     - Insertion/Extract-Min: O(log n)
 8. **Graphs:**
     - Graph Traversal (DFS, BFS): O(V + E), where V is the number of vertices, and E is the number of edges.
-    - Dijkstra's Algorithm: O(V^2) with an adjacency matrix, O(E + V log V) with a min-heap (for non-negative weights)
+    - Dijkstra's Algorithm: O(V^2) with an adjacency matrix, O(E + V log V) with a min-heap (for non-negative [[weight|weights]])
     - Kruskal's Algorithm: O(E log E) or O(E log V)
 9. **Sets:**
     - Set operations (e.g., Union, Intersection): O(n) in the worst case
