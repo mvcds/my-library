@@ -12,7 +12,7 @@ For a 1h interview
    - [[Feature|Features]]? (get their confirmation on which ones you should focus on)
    - [[Cross-Functional Requirement|Cross-Functional Requirements]]? normally [[Scalability]], [[Performance]] and [[Observability]]
    - Bottlenecks?
-   - Estimations? (in order of magnitude)
+   - Estimations? (in [[order of magnitude]])
 2. High-level [[carreer/development/design/Design|Design]] (20'): keep notes on things to discuss later
    - [[Application Programming Interface|APIs]]? (probably [[Representational State Transfer Architecture|RESTfull]])
    - [[Container Diagram|C2 Diagrams]]
