@@ -1,5 +1,8 @@
 ---
-aliases: [States]
+aliases:
+  - States
+  - Stateless
+  - Stateful
 ---
 
 It's a [[Software]] [[carreer/development/programming/Abstraction|Abstraction]] about [[time]]. Giving programs the ability to "remember" [[Information]].
