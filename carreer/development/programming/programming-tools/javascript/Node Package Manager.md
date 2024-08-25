@@ -5,7 +5,7 @@ aliases: [NPM]
 
 A [[Package Manager|Package Management Tool]] for [[NodeJS]] with the double purpose of:
 
-- a [[CLI]] which installs libraries into your [[Code]] and;
+- a [[Command Line Interface|CLI]] which installs libraries into your [[Code]] and;
 - a [[repository manager]] where such libraries are deployed by default
 
 ---
