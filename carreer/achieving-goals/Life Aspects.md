@@ -6,23 +6,23 @@ There are many ways to enlist life aspects, none and all are correct at the same
 
 So i've created a chart like the following
 
-|Group|Aspect|Label|
-|---|---|---|
-|Health|Mind|Health/Mind|
-|Health|Body|Health/Body|
-|Health|Self-Care (Wellbeing)|Health/Self-Care (Wellbeing)|
-|Wealth|Career|Wealth/Career|
-|Wealth|Finance|Wealth/Finance|
-|Relationships|Friendship|Relationships/Friendship|
-|Relationships|Community|Relationships/Community|
-|Relationships|Family|Relationships/Family|
-|Relationships|Romance (Date & Sex)|Relationships/Romance (Date & Sex)|
-|Happiness|Recreation|Happiness/Recreation|
-|Happiness|Serenity|Happiness/Serenity|
-|Happiness|Spirituality (Religion)|Happiness/Spirituality (Religion)|
-|Transversal|Legal|Transversal/Legal|
-|Transversal|Organisational|Transversal/Organisational|
-|Transversal|Household|Transversal/Household|
+| Group         | Aspect                  | Label                              |
+| ------------- | ----------------------- | ---------------------------------- |
+| Health        | Mind                    | Health/Mind                        |
+| Health        | Body                    | Health/Body                        |
+| Health        | Self-Care (Wellbeing)   | Health/Self-Care (Wellbeing)       |
+| Wealth        | Career                  | Wealth/Career                      |
+| Wealth        | Finance                 | Wealth/Finance                     |
+| Relationships | Friendship              | Relationships/Friendship           |
+| Relationships | Community               | Relationships/Community            |
+| Relationships | Family                  | Relationships/Family               |
+| Relationships | Romance (Date & Sex)    | Relationships/Romance (Date & Sex) |
+| Happiness     | Recreation              | Happiness/Recreation               |
+| Happiness     | Serenity                | Happiness/Serenity                 |
+| Happiness     | Spirituality (Religion) | Happiness/Spirituality (Religion)  |
+| Transversal   | Legal                   | Transversal/Legal                  |
+| Transversal   | Organisational          | Transversal/Organisational         |
+| Transversal   | Household               | Transversal/Household              |
 
 # Habit Tier list
 
