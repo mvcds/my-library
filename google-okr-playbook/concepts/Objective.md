@@ -3,6 +3,8 @@ aliases:
   - Objectives
   - What
   - Whats
+  - O
+  - Os
 ---
 #concept in [[2 - Writing effective OKRs]]
 

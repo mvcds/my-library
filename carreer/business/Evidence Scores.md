@@ -2,7 +2,7 @@ https://medium.com/@itamargilad/evidence-based-scoring-a-systematic-way-to-know-
 
 Finding and building the next big idea is the holy grail of any tech company. This score is a way to tell if an idea is any good before making the big investment.
 
-1. We look at what supporting evidence the idea has (e.g. market research, surveys, [[success|successful]] A/B experiment)
+1. We look at what supporting [[evidence]] the idea has (e.g. market research, surveys, [[success|successful]] A/B experiment)
 2. Based on the evidence we give the idea a confidence score (details below) that indicates how sure we are now that this idea is a winner.
 3. If confidence is high we can go ahead with building and launching the idea.
 4. If confidence is not high we can decide to test the idea further (for example run a user study) to produce more evidence, to de-prioritize the idea in favor of other ideas, or to kill it altogether.

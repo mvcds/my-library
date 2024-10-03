@@ -3,6 +3,8 @@ aliases:
   - Key Results
   - How
   - Hows
+  - KR
+  - KRs
 ---
 #concept in [[2 - Writing effective OKRs]]
 
@@ -11,4 +13,4 @@ aliases:
 - Include evidence of completion[^2]
 
 [^1]: Such as the impact of such activities
-[^2]: Evidences must be available, credible, and easily discoverable
+[^2]: [[Evidence|Evidences]] must be available, credible, and easily discoverable

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Score
+  - OKR Score
+---
 #fact in [[google-okr-playbook/1 - Introduction]]
 
 To [[Measure]] how well people performed the [[Objective and Key Result|OKR]]:
