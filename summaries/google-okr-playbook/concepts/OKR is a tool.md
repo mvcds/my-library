@@ -1,7 +1,7 @@
 ---
 aliases: []
 ---
-#concept at [[google-okr-playbook/1 - Introduction]]
+#concept at [[summaries/google-okr-playbook/1 - Introduction]]
 
 An [[Objective and Key Result|OKR]] is just a tool that serves the following purposes:
 

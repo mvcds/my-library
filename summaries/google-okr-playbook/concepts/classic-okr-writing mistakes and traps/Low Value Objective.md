@@ -8,7 +8,7 @@ aliases:
 
 #concept and #procedure  at [[Classic OKR-writing mistakes and traps]]
 
-[[google-okr-playbook/concepts/Objective|Objectives]] that when completed even with a [[Color Grade|Score]] of 1, won't be noticed/cared
+[[summaries/google-okr-playbook/concepts/Objective|Objectives]] that when completed even with a [[Color Grade|Score]] of 1, won't be noticed/cared
 
 ---
 
