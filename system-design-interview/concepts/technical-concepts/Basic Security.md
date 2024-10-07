@@ -2,7 +2,7 @@
 
 - [[Authentication]] is figuring out who you're talking to
 - [[Authorization]] is allowing/refusing access to some [[Asset]]
-- Not storing password as plain text, perform [[4 - Hashing & Salting]]
+- Not storing [[password]] as plain text, perform [[4 - Hashing & Salting]]
 	- [[Hashing]]: making it unreadable
 	- [[Salting]]: making it less predictable (tho salts are not a secret themselves)
 	- [[Rainbow Table]]: look up table for common passwords and their unsalted hashes

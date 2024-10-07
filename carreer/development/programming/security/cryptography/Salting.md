@@ -2,7 +2,7 @@
 aliases: [Salt, Salts]
 ---
 
-Some extra [[data]] that is added to a password before it is [[Hashing|Hashed]] so that two instances of a given password do not have the same hash [[my-library/carreer/development/Value|Value]]
+Some extra [[data]] that is added to a [[password]] before it is [[Hashing|Hashed]] so that two instances of a given password do not have the same hash [[my-library/carreer/development/Value|Value]]
 
 The real benefit here is that it increases the range of possible hashes of a given password beyond the point where it is practical to pre-compute them by making them [[Determinism|Nondeterministic]]
 

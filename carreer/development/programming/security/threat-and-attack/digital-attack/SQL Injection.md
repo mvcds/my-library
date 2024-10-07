@@ -28,7 +28,7 @@ const uPass = getRequestString("userpassword");
 const sql = 'SELECT * FROM Users WHERE Name ="' + uName + '" AND Pass ="' + uPass + '"'
 ```
 
-By simply inserting `" OR ""="`, which also will return `true`, into the user name or password text box
+By simply inserting `" OR ""="`, which also will return `true`, into the user name or [[password]] text box
 
 ```sql
 SELECT * FROM Users WHERE Name ="" or ""="" AND Pass ="" or ""=""

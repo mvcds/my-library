@@ -1,6 +1,6 @@
 In case [[3 - Only store passwords if you don't have an option, like for regulatory reasons|you don't have an option but to store a password]], store its [[Hashing|Hash]] instead, as hashes are practically impossible to revert.
 
-The problem is that if an [[Attacker]] has access to many [[Rainbow Table|Rainbow Tables]], they can reverse engineer all other look up tables from hashes to password.
+The problem is that if an [[Attacker]] has access to many [[Rainbow Table|Rainbow Tables]], they can reverse engineer all other look up tables from hashes to [[password]].
 
 That's why we [[Salting|Salt]] our hashes with dynamic [[my-library/carreer/development/Value|values]].
 
