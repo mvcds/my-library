@@ -2,4 +2,4 @@
 aliases:
   - SES
 ---
-An in/out bound [[email]] [[carreer/development/programming/Service|Service]]
+[[Mail User Agent|MUA]] as a [[carreer/development/programming/Service|Service]]
