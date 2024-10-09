@@ -1,5 +1,8 @@
 ---
 source: https://navdeepyadav.medium.com/31-startup-business-models-you-must-know-with-examples-c0107fa33b17
+aliases:
+  - Business Model
+  - Business Models
 ---
 The #summary of name-sake book about [[business|startups]]
 
@@ -16,3 +19,10 @@ The #summary of name-sake book about [[business|startups]]
 - ![[11 - Data]]
 - ![[12 - Blockchain]]
 - ![[13 - Freeterprise]]
+- ![[14 - Razor Blade]]
+- ![[15 - Direct-To-Consumer]]
+- ![[16 - Private Label]]
+- ![[17 - Franchise]]
+- ![[19 - Octopus]]
+- ![[21 - Transactional]]
+- ![[22 - Peer-to-peer]]
