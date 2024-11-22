@@ -38,7 +38,7 @@ aliases:
 - [[Auditability]]
 - [[Accessibility]]
 
-Some of those requirements "help" each other. For example, when [[Readability]] is high, it's easier to have modifiability. But on the other hand, readability often clashes with performance[^2].
+Some of those requirements "help" each other. For example, when [[Readability]] is high, it's easier to have [[designing-data-intensive-applications/concepts/design-principles/Extensibility|modifiability]]. But on the other hand, readability often clashes with performance[^2].
 
 ---
 

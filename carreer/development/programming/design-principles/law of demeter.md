@@ -1,3 +1,3 @@
 A [[class]] should talk only to its immediate friends 
 
-[[Design Principles]]
+[[carreer/development/programming/design-principles/Design Principles]]
