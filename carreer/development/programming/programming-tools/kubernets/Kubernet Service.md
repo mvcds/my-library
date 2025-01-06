@@ -2,7 +2,7 @@ An [[carreer/development/programming/Abstraction|Abstraction]] which defines a l
 
 The set of `Pods` targeted by a `Service` is usually determined by a `LabelSelector`.
 
-[[Kubernet Label|labels]] are the answer to how `Services` and `Pods` are able to communicate. This is what we mean by loose coupling. By applying labels like for example frontend, backend, release and so on to `Pods`, we are able to refer to `Pods` by their logical name rather than their specifics, i.e IP number.
+[[Kubernet Label|labels]] are the answer to how `Services` and `Pods` are able to communicate. This is what we mean by loose [[coupling]]. By applying labels like for example frontend, backend, release and so on to `Pods`, we are able to refer to `Pods` by their logical name rather than their specifics, i.e IP number.
 
 # Types
 

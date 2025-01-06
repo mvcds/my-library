@@ -12,7 +12,7 @@ A [[system]] that stores [[Message|Messages]] for processing, as a way to [[Low-
 
 # Tradeoffs
 Good
-- Act as a buffer between [[Message Producer|Client]] and [[Message Consumer|Server]], decoupling them
+- Act as a buffer between [[Message Producer|Client]] and [[Message Consumer|Server]], [[Coupling|decoupling]] them
 - Holds a message while the server is busy
 - Multiple [[System|Systems]] can be served
 

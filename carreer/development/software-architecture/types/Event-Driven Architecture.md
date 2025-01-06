@@ -9,7 +9,7 @@ A kind of [[Software Architecture]]
 # Advantages
 
 - Async
-- Loose coupling
+- Loose [[coupling]]
 - Trackable
 - Scalabe (?)
 - Replayable

@@ -2,7 +2,7 @@ Comparing [[Model-View-Controller Architecture|MVC]], [[Model-View-Presenter Arc
 
 # Similarities
 
-Decoupling the view from the model by using an extra component in between allows the application to be more easily tested
+[[Coupling|Decoupling]] the view from the model by using an extra component in between allows the application to be more easily tested
 
 # Differences
 

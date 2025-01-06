@@ -10,7 +10,7 @@ The "namespaces" of a bounded context are known as [[Module in DDD|module]]
 
 The objects in a bounded context are expected to have either
 
-- Communical cohesion
+- Communical [[cohesion]]
 - Functional cohesion
 
 ---
