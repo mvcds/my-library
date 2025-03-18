@@ -4,4 +4,4 @@ According to [[Design Your Life]], [[carreer/development/design/Design|Design]] 
 - You have a desired outcome
 - There are no clear solutions
 
-Designing demands brainstorming, trying crazy solutions, improvisations, and iteractions, until something works. "[[You'll know when you see it]]"
+[[carreer/development/design/Design|Design]] demands brainstorming, trying crazy solutions, improvisations, and iteractions, until something works. "[[You'll know when you see it]]"
