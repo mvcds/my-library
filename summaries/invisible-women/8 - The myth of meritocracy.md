@@ -1,4 +1,4 @@
-Even tech companies fall for the [[2 - Gender Data Gap]]. Instead of basing their hiring and promotions on data, we discriminated based on factors like gender.
+Even tech companies fall for the [[2 - Gender Data Gap]]. Instead of basing their hiring and promotions on data to follow [[meritocracy]], we discriminated based on factors like gender.
 
 Blind hiring and promotion process are possible and should be based on [[Data]].
 

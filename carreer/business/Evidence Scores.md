@@ -6,7 +6,7 @@ Finding and building the next big idea is the holy grail of any tech company. Th
 2. Based on the evidence we give the idea a confidence score (details below) that indicates how sure we are now that this idea is a winner.
 3. If confidence is high we can go ahead with building and launching the idea.
 4. If confidence is not high we can decide to test the idea further (for example run a user study) to produce more evidence, to de-prioritize the idea in favor of other ideas, or to kill it altogether.
-5. Our level of investment in the idea shxzould always stay proportional to our level of confidence in it. That’s right, no more big CEO pet projects that have no supporting [[data]] — ideas have to live and die on their on merit.
+5. Our level of investment in the idea shxzould always stay proportional to our level of confidence in it. That’s right, no more big CEO pet projects that have no supporting [[data]] — ideas have to live and die on their on [[meritocracy|merit]].
 
 # Quick reference table
 
