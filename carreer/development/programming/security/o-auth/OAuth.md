@@ -1,6 +1,6 @@
-This protocol, that focus only on [[Authorization]], has 4 parts
+This [[Communication Protocol|Protocol]], that focus only on [[Authorization]], has 4 parts
 
-- Resource Owner: it is the [[Entity]] capable of granting access to resources
+- [[Asset|Resource]] Owner: it is the [[Entity]] capable of granting access to resources
 - Resource [[Server]]: it hosts the protected resources if the right [[Security Token|Token]] is provided
 - [[Authorization]] Server: a [[Security Token Service|server]] issuing access token to the clients
 - [[Client]]: a [[Software]] requesting access to the resource
