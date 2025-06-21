@@ -1,0 +1,1 @@
+After using [[Model Modes|ask]] to design some strategy, we can finalize by asking it to create [[Metaprompting|a prompt]] with the execution plan, step-by-step

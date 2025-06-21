@@ -1,0 +1,1 @@
+Using [[Large Language Model|AI Models]] to create [[Prompt|Prompts]] for another models
