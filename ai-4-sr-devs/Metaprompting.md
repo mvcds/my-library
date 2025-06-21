@@ -1,1 +1,1 @@
-Using [[Large Language Model|AI Models]] to create [[Prompt|Prompts]] for another models
+Using  [[Artificially Intelligent Agent|Agents]] to create [[Prompt|Prompts]] for another agents

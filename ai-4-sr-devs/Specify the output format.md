@@ -1,0 +1,1 @@
+For [[Save Useful Prompts|saving prompts]] or [[Metaprompting]], it's useful to specify the format the [[Artificially Intelligent Agent|Agent]] should output. Usually [[Markdown]] is a good compromise between beign readable for agents and humans.

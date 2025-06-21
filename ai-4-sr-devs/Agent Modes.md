@@ -1,4 +1,4 @@
-Some [[Large Language Model|AI Models]] have modes that are dedicated to do something, some of the common ones:
+Some [[Artificially Intelligent Agent|Agents]] have "modes" that are dedicated to do something, some of the common ones:
 
 - Ask: used to answer doubts, explore [[Domain Model|Domains]], [[system-design-interview/concepts/Design|Design]] solutions, etc without changes on code
 - Edit: used to perform local changes
