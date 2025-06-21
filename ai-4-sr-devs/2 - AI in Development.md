@@ -1,3 +1,4 @@
+
 > The future of [[code|coding]] is not coding at all
 
 By [[Chris Wanstrat]]
@@ -81,3 +82,84 @@ Type of [[Artificial Intelligence|AI]]
 - Web [[Integrated Development Enviroment|IDE]]: less control
 - AI-Enhanced [[Integrated Development Enviroment|IDE]]: the future
 - Autonomous [[Artificially Intelligent Agent|Agent]]: simulates a [[Developer vs Architect|Developer]]
+
+---
+
+Pillars for the effective usage of [[Artificially Intelligent Agent|Agents]]
+
+- [[Prompt]]
+- Tool (the agent itself)
+- Context
+
+---
+
+Types of [[Artificially Intelligent Agent|Agents]]
+
+- Executor Model: focus on performing tasks
+- Generative Model: focus on creating "ideas"
+
+---
+
+Some patterns for [[Prompt Engineering]]:
+
+- Clarify: allow the [[Artificially Intelligent Agent|Agent]] to ask you questions
+- Aim: set up a goal
+- Specific: be detailed with steps
+- Exemplify: give examples and expected outputs
+- Focus: made it explicit who is the [[15 - Know your audience|audience]]
+
+---
+
+Advanced Techniques
+
+- Select the right type of [[Artificially Intelligent Agent|Agent]]
+- Write in English
+- [[Save Useful Prompts]]
+- [[Metaprompting]]
+- Question and asking: start debating before taking actions
+- Pros and Cons: ask for evaluation and alternatives
+- Chain-of-Thought (COT): step to step rationalziations
+
+---
+
+The 3S Principles to Executor Models
+
+- Simple
+- Specific
+- Short
+---
+
+Tips
+
+- Iterate
+- Split the [[Prompt|Prompts]] into smaller "secctions"
+	- Starts with the plan
+	- Functionality
+- Clarity
+- Visual error? Screenshot it, and feed the [[Artificially Intelligent Agent|Agent]]
+- Ask for reccomendations
+- Ask for suggestions on how to improve work by the end of the session
+
+---
+
+Interesting Tools:
+
+- OpenCommit: automatic commits
+- GitDiagram
+- Pedanticai or Langraph: [[Artificially Intelligent Agent|Agents]]
+- Fathom: meetings
+- Crystalknows: understand someone's linkedin
+- Notebook LM: text to podcast
+- Before Sunst: manage calendart
+- Formless: questionaries
+- Gamma AI: presentations
+- Shortwave or Jace: email management
+
+---
+
+Criteria for using [[Artificially Intelligent Agent|Agents]]
+
+1. Repetitive
+2. Large time
+3. It makes sense
+4. It will be efficient
