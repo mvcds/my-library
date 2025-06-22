@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Technical Backlog
+  - Technical Backlogs
 ---
 The [[Backlog]] managed by the [[Development Team]] to manage things that they want/need to do on a technical level.
 

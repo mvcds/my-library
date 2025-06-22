@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Sprint backlog
+  - Sprint backlogs
 ---
 The [[Backlog]] agreed for a given [[Sprint]].
 
