@@ -1,3 +1,3 @@
-> Is bad [[UX]] a bug in our software?
+> Is bad [[UX]] a [[bug]] in our [[Software]]?
 
 #quote by Chirstiaan van Niekerk
