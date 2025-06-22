@@ -10,6 +10,8 @@ Diagrams as Code (DaC)
 
 For startups or new products, the stages of defining the [[System]] is very different, the focus is on iterate fast to validate [[Hypothesis]]
 
+![Real MVP](./MVP.jpg)
+
 Below, how we can do effective planning
 
 ---
