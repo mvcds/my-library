@@ -1,5 +1,14 @@
 ---
-aliases: [Users, Tester, Testers, Alpha-Tester, Alpha-Testers, Beta-Tester, Beta-Testers]
+aliases:
+  [
+    Users,
+    Tester,
+    Testers,
+    Alpha-Tester,
+    Alpha-Testers,
+    Beta-Tester,
+    Beta-Testers,
+  ]
 ---
 
 An [[agent]] that uses a [[System]], normally we care about "our users"

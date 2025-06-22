@@ -6,4 +6,4 @@ The trick part is that when we are in [[Low mood]] we tend to avoid the things t
 
 But because [[There's a mutual influence between what you think and your mood]], we start having bad thoughts that push us into [[The downward spiral of low mood]]
 
-#understanding  of [[0 - Why nobody has told me this before?]]
+#understanding of [[0 - Why nobody has told me this before?]]

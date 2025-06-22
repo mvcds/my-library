@@ -4,4 +4,4 @@ An improvement over [[Outcome Feedback]] in the sense that it hightlights your m
 
 For example, if we're giving a presentation, and we can see that people react strongly - like booing us - in some areas more than in another, we know that the areas we need to improve
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

@@ -3,6 +3,7 @@ aliases:
   - Time travel in git
   - Time Machine
 ---
+
 It's easy to go back in [[time]] with [[git]]
 
 ```shell

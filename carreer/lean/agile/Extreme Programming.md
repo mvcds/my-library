@@ -2,6 +2,7 @@
 aliases:
   - XP
 ---
+
 ![[extreme-programming.gif]]
 
 An [[Agile|Agile Framework]] for [[Software]] development that emphasizes

@@ -2,11 +2,12 @@
 aliases: [Log, Logs]
 ---
 
-The act of getting [[Information]] about the [[system]] [[behavior]] 
+The act of getting [[Information]] about the [[system]] [[behavior]]
 
 ![[logging.png]]
 
 # Avoid logging
+
 - Source [[Code]]
 - [[Encryption]] keys
 - [[Connection String|Connection Strings]]

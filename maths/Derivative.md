@@ -2,7 +2,7 @@ A derivative is **the rate of change of one quantity with respect to another**.
 
 In terms of [[Function]]s, this is defined by `dy/dx = f(x) = y'`, so the average speed formula is an example of a derivative.
 
-The `'`  after the function signalizes you're dealing with a derivative: `f'(x)`
+The `'` after the function signalizes you're dealing with a derivative: `f'(x)`
 
 Derivatives is commonly used to maximize or minimize a phenomenon e.g. number of sales.
 

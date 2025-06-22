@@ -2,8 +2,8 @@ Thelema is the [[Postulate]] and a name-sake [[Philosofy]] developed by [[Aleist
 
 It is composed by 3 [[linguistics/Statement|Statements]]
 
-> "Do what thou wilt" shall be the whole of the Law. 
+> "Do what thou wilt" shall be the whole of the Law.
 > Love is the law, love under will
 > Every man and every woman is a star
 
-#quote 
+#quote

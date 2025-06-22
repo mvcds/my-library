@@ -8,4 +8,4 @@ It's the "logical" part of the [[Computer]], in contrast to its [[Hardware]].
 
 ---
 
-A virtual kind of [[System]] 
+A virtual kind of [[System]]

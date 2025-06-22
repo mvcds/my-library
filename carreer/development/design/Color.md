@@ -10,6 +10,7 @@
 4. Apply color scheme
 
 # Basic Color Sheme
+
 - White
 - Black
 - Two shades of grey

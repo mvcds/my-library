@@ -17,4 +17,5 @@ Labeling can be a short-cut for intimacy.
 Understanding of [[0 - Never Split The Difference]]
 
 [^1]: The [[2 - Our Drivers|need]] of being understood
+
 [^2]: Which can be due to [[Anger]] or [[Fear]]

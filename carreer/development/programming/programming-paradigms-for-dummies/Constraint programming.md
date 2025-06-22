@@ -1,6 +1,6 @@
 One of the most [[declarative]] [[Programming Paradigm]]s invest what we usually what we expect of [[Programming Language]]s.
 
-The programmer in this case specifies the result and the [[system]] searches for it by assigning "random" [[my-library/carreer/development/Value|values]] to variables but respecting some constraints on how this assignment is made. 
+The programmer in this case specifies the result and the [[system]] searches for it by assigning "random" [[my-library/carreer/development/Value|values]] to variables but respecting some constraints on how this assignment is made.
 
 The problem to be solved needs to be expressed as a [[Constraint Satisfaction Problem]].
 
@@ -21,7 +21,7 @@ The power and flexibility of a constraint programming system depend on the expre
 Very related to [[Declarative Concurrency]] because it applies [[Concurrency]] and [[Determinism]] but differs from it in two ways
 
 - It uses constraints not dataflow variables
--  it has a more flexible control flow: each constraint executes in its own thread, which makes it into a concurrent agent called a [[Propagator]]. This allows the constraints to better prune the search space
+- it has a more flexible control flow: each constraint executes in its own thread, which makes it into a concurrent agent called a [[Propagator]]. This allows the constraints to better prune the search space
 
 # Applications
 

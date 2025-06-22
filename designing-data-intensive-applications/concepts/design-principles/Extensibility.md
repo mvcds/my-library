@@ -5,6 +5,7 @@ aliases:
   - Modifiability
   - Plasticity
 ---
-One of the [[Design Principles of Data-Intensive Applications]] and a [[Cross-Functional Requirement|CFR]] 
+
+One of the [[Design Principles of Data-Intensive Applications]] and a [[Cross-Functional Requirement|CFR]]
 
 The ease to make changes

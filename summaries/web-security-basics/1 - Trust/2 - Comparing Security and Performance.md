@@ -1,4 +1,4 @@
-Business owners normally know that their [[Software|Apps]] need  [[Information Security|Security]] and [[Performance]] but they are not able to recognise when an app is "secure enough".
+Business owners normally know that their [[Software|Apps]] need [[Information Security|Security]] and [[Performance]] but they are not able to recognise when an app is "secure enough".
 
 With performance, the metrics make it pretty clear.
 

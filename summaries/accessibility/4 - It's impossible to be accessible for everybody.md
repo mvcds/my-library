@@ -2,4 +2,4 @@
 
 And not only due to some extreme cases of [[Accessibility]] requirements
 
- #quote by trainer of [[0 - Accessibility]]
+#quote by trainer of [[0 - Accessibility]]

@@ -1,5 +1,5 @@
 ---
-aliases: [Handbrake, Emergency Brake, E-Brake]
+aliases: [Handbrake, Emergency Brake,  E-Brake]
 ---
 
 It slows down part of the [[wheel|wheels]], usually the rear ones, as opposed to the [[Brake]]

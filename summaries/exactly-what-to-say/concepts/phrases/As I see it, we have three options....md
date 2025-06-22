@@ -1,4 +1,4 @@
-This [[Phrase]] gives the listener sensation of control[^1], builds up expectation, and puts the last one in a more favourable space. 
+This [[Phrase]] gives the listener sensation of control[^1], builds up expectation, and puts the last one in a more favourable space.
 
 Finish asking “Which of those will be best for you?”
 

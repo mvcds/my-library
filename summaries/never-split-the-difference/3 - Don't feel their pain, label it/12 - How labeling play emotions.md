@@ -5,4 +5,5 @@
 Understanding of [[0 - Never Split The Difference]]
 
 [^1]: Like [[Anger]], [[Fear]], [[Disgust]] and [[Sadness]]
+
 [^2]: Like [[Enjoyment]]

@@ -10,6 +10,7 @@ When a leader [[node]] fails, promote another one to leader
 Triggering such behaviour requires pinging the health status and use the [[Response Time]] to determine failure
 
 # Trick Cases
+
 - Lost updates for async [[Replication]] when no leader was available
 - The threshold for detecting failure. If the [[System]] is just overloaded, electing a new leader only stress it more
 - Having potentially more than one leader

@@ -1,4 +1,4 @@
-#concept about  [[Message System|Message Queue]] in [[Technical Concepts for system design interviews]]
+#concept about [[Message System|Message Queue]] in [[Technical Concepts for system design interviews]]
 
 ![[Using queues]]
 

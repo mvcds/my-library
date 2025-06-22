@@ -1,4 +1,4 @@
-#concept 
+#concept
 
 We tend to put [[Intelligence Quotient|IQ]] above other forms of intelligence like [[Emotional Quotient|EQ]] and [[Curiosity Quotient|CQ]] when we talk about what makes for top-performers or desirable hires.
 

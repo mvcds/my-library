@@ -6,6 +6,7 @@ setenv FOO value-of-foo
 ```
 
 # [[Fish Shell]]
+
 ```shell
 #~/.config/fish
 function setenv; set -gx $argv; end

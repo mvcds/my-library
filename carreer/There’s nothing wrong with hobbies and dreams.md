@@ -2,4 +2,4 @@
 
 [[The PARA Method]]
 
-#quote 
+#quote

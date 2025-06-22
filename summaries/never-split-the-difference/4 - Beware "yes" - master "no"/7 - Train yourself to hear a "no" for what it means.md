@@ -19,7 +19,9 @@ A "no" is not a [[success|failure]]. [[10 - Tactical Empathy|Strategically]] it 
 Understanding of [[0 - Never Split The Difference]]
 
 [^1]: Due to [[Anger]], [[Fear]], [[Disgust]] or [[Sadness]]
+
 [^2]: Relates to [[Autonomy]]
+
 [^3]: Might be economic, political, social or other ways of capital
 
 #learn

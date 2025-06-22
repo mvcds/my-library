@@ -26,4 +26,4 @@ They devised a device made od scrape metal (to reduce costs) that would absorb t
 
 Understanding of [[0 - Invisible Women]]
 
-[^1]: Check  [[3 - Can snow-clearing be sexist?]] and [[4 - Gender neutral with urinals]]
+[^1]: Check [[3 - Can snow-clearing be sexist?]] and [[4 - Gender neutral with urinals]]

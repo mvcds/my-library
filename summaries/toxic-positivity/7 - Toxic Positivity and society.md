@@ -4,7 +4,7 @@ aliases: [Toxic Positivity can be used as a weapon]
 
 Toxic positivity is also linked with societal issues in the US, like discrimination and inequality.
 
-You might find it challenging to understand at first –  the author certainly did. But as she started researching these issues, she was shocked by just how powerful and pervasive toxic positivity really was. It runs deep, and it contributes to the suffering experienced by marginalized communities every day.
+You might find it challenging to understand at first – the author certainly did. But as she started researching these issues, she was shocked by just how powerful and pervasive toxic positivity really was. It runs deep, and it contributes to the suffering experienced by marginalized communities every day.
 
 Let’s take racial inequality as an example. In positivity culture, people of color are not supposed to be too angry, negative, or abrasive. We’re also expected to celebrate positive stereotypes, like the “strong Black woman.” That might not sound like a bad thing – but maybe we should be questioning why Black women have to be strong in the first place. Why does society expect this?
 

@@ -1,4 +1,4 @@
-#concept 
+#concept
 
 The [[my-library/carreer/development/programming/Process#Noun|Process]] of predicting [[time|how long]] it will take to complete a [[Task]] or [[project]] so to plan and schedule the work that needs to be done, and to allocate [[Asset|Resources]] appropriately.
 

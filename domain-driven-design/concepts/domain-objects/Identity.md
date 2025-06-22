@@ -2,7 +2,7 @@
 aliases: [Identities]
 ---
 
-#concept  in [[2 - A model expressed in software]]
+#concept in [[2 - A model expressed in software]]
 
 A conceptual [[carreer/development/programming/Identity|identity]] has to exist between multiple implementation of objects, stored forms, and real-world actors.
 

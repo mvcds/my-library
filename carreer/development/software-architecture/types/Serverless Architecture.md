@@ -2,6 +2,7 @@
 aliases:
   - Serverless
 ---
+
 A kind of [[Software Architecture]]
 
 Either Backend-as-a-Service or Function-as-a-Service

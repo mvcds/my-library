@@ -1,4 +1,3 @@
-
 - [[Communication]]
 - [[Collaboration]]
 - [[Compromise]]

@@ -4,4 +4,4 @@ The consequence of the Red Queen effect is that the harder a rival tries to get 
 
 ---
 
-The name is based on the anecdote in [[Lewis Carroll]]'s Through the Looking-Glass, where two characters were constantly running yet remaining in the same place relative to each other. 
+The name is based on the anecdote in [[Lewis Carroll]]'s Through the Looking-Glass, where two characters were constantly running yet remaining in the same place relative to each other.

@@ -7,8 +7,8 @@ The placement of malicious [[code]] in [[Structured Query Language|SQL]] stateme
 ## 1=1
 
 ```js
-const txtUserId = getRequestString("UserId");  
-const txtSQL = "SELECT * FROM Users WHERE UserId = " + txtUserId;
+const txtUserId = getRequestString('UserId')
+const txtSQL = 'SELECT * FROM Users WHERE UserId = ' + txtUserId
 ```
 
 If there is nothing to prevent a user from entering "wrong" input, the user can enter some "smart" input like `105 OR 1=1` which will always returns `true`, yielding
@@ -22,10 +22,11 @@ Exposing all columns from all users.
 ## " OR ""="
 
 ```js
-const uName = getRequestString("username");  
-const uPass = getRequestString("userpassword");  
-  
-const sql = 'SELECT * FROM Users WHERE Name ="' + uName + '" AND Pass ="' + uPass + '"'
+const uName = getRequestString('username')
+const uPass = getRequestString('userpassword')
+
+const sql =
+  'SELECT * FROM Users WHERE Name ="' + uName + '" AND Pass ="' + uPass + '"'
 ```
 
 By simply inserting `" OR ""="`, which also will return `true`, into the user name or [[password]] text box
@@ -41,8 +42,8 @@ Which is weird but valid SQL
 Inputing a `;` to allow more than one command
 
 ```js
-const txtUserId = getRequestString("UserId");  
-const txtSQL = "SELECT * FROM Users WHERE UserId = " + txtUserId;
+const txtUserId = getRequestString('UserId')
+const txtSQL = 'SELECT * FROM Users WHERE UserId = ' + txtUserId
 ```
 
 When inputted `105; DROP TABLE Users`

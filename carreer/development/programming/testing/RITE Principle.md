@@ -1,4 +1,4 @@
-An #acronym  for how [[Testing]] should be
+An #acronym for how [[Testing]] should be
 
 - Readable
 - Isolated OR Integrated
@@ -7,4 +7,4 @@ An #acronym  for how [[Testing]] should be
 
 ---
 
-#learn  There's another achonym for RITE regarding tests, it should be a different category of testing tho
+#learn There's another achonym for RITE regarding tests, it should be a different category of testing tho

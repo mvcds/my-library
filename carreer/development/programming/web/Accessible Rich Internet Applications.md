@@ -2,7 +2,7 @@
 aliases: [ARIA]
 ---
 
-A set of roles and attributes that suplement [[HyperText Markup Language|HTML]] to make the [[World Wide Web|Web]] more [[Accessibility|accessible]. 
+A set of roles and attributes that suplement [[HyperText Markup Language|HTML]] to make the [[World Wide Web|Web]] more [[Accessibility|accessible].
 
 Keep in mind that no ARIA is better than bad ARIA because otherwise the page might become misleading.
 

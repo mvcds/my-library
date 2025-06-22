@@ -14,4 +14,4 @@ There are 5 principles
 
 #quote by [[James Womack]] and [[Daniel Jones]]
 
-#double-check 
+#double-check

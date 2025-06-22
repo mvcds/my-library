@@ -14,7 +14,7 @@ On top of this women normally have less free [[time]] than men because of unpaid
 
 ---
 
-Even office policies have often are designed to promote those who work more hours, and can attend to social events - often [[1 - The default male]].  As those things take time that normally women are using with unpaid work, they don't benefit from it.
+Even office policies have often are designed to promote those who work more hours, and can attend to social events - often [[1 - The default male]]. As those things take time that normally women are using with unpaid work, they don't benefit from it.
 
 Even parental leaves are designed around this. Most countries offer fewer time than health authorities recommend (7 to 12 months) and/or paying only a fraction of the wage
 

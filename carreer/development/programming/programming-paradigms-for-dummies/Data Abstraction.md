@@ -18,4 +18,5 @@ The first axis is the presence or not of [[Named State]], the second _bundling_ 
 [[Object-Oriented Programming|OOP]] as it is usually understood is nothing more than [[data]] abstraction with [[Polymorphism]] and [[Inheritance]]
 
 [^1]: check [[Composition Over Inheritance]]
+
 [^2]: check [[Procedural Data Abstraction]] and [[Abstract Data Type]]

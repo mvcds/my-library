@@ -37,7 +37,7 @@ For each "evidence", add the equivalent points
 | High level plans and estimates | 5                |
 | Anecdotal evidence             | 20               |
 | Market data                    | 100              |
-| User/[[Customer]] evidence         | 500              |
+| User/[[Customer]] evidence     | 500              |
 | Test results                   | 2,000            |
 | Early launch results           | 10,000           |
 | Late launch results            | Good Idea Badge! |

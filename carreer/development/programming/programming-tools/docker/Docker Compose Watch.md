@@ -1,4 +1,4 @@
-[[Docker Compose]] can restart/replace files when they change by running  `docker compose watch`  on a compose file that has the `develop` keyword
+[[Docker Compose]] can restart/replace files when they change by running `docker compose watch` on a compose file that has the `develop` keyword
 
 ```yml
 //compose.yml

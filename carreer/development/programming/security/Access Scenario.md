@@ -3,7 +3,6 @@ aliases:
   - Access Scenarios
 ---
 
-
 Take all of those into consideration, especially regarding [[carreer/development/programming/Service|Service]]
 
 - Public vs Confidential [[Client|Clients]]: public clients cannot protect their [[Credential|credentials]], while confidential run in the same [[Trust Domain]]

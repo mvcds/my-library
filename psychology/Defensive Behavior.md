@@ -15,7 +15,7 @@ A kind of [[Behavior]] people use to separate themselves from unpleasant events,
 - [[negotiation|Conflict]] allows for [[12 - We all want to connect|reconnection]] (and more)
 - One way to move past defensive behavior is to acknowledge it[]()
 - Our brains are wired for both connection and defensiveness
--  Withdrawal is not actually a great way to protect ourselves
+- Withdrawal is not actually a great way to protect ourselves
 - We all need to be able to receive criticism
 - Some people are more prone to defensive behavior than others
 - Your childhood history has a lot to do with how you respond to criticism

@@ -1,1 +1,1 @@
- The first internationally released studio album by [[AC DC]] in 76
+The first internationally released studio album by [[AC DC]] in 76

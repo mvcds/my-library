@@ -7,6 +7,7 @@ aliases:
   - merge drivers
   - git merge drivers
 ---
+
 [[git]] allows us to using specific tools for solving merge conflicts, those are called merge drivers, and we can define them in a [[Git Configuration|.gitconfig]] file
 
 ```

@@ -1,3 +1,3 @@
 > “Man has no automatic code of [[survival]]. His particular distinction from all other living species is the necessity to act in the face of alternatives by means of volitional choice. He has no automatic [[knowledge]] of what is good for him or evil, what [[Love is our response to our highest values|value]] his life depends on, what course of action it requires. Are you prattling about an instinct of self-preservation? An [[instinct]] of self-preservation is precisely what man does not possess. An ‘instinct’ is an unerring and automatic form of knowledge. A desire is not an instinct. A desire to live does not give you the knowledge required for living.
 
-#quote  on  [[Altas Shrugged]]
+#quote on [[Altas Shrugged]]

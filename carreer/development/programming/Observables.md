@@ -1,4 +1,4 @@
-#learn 
+#learn
 
 - Lazy
 - Handle multiple [[my-library/carreer/development/Value|values]]

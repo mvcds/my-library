@@ -1,4 +1,4 @@
-#procedure  about [[Exactly what words to say in specific scenarios]]
+#procedure about [[Exactly what words to say in specific scenarios]]
 
 To push back agains the interviewer
 
@@ -8,4 +8,4 @@ To push back agains the interviewer
 
 Example
 
-> 1) Sure 2) [[Collaborative language|We]] can remove the [[Cache]], though the reason why I found it useful was [technical reason]. 3) What would be a good alternative?
+> 1. Sure 2) [[Collaborative language|We]] can remove the [[Cache]], though the reason why I found it useful was [technical reason]. 3) What would be a good alternative?

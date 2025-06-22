@@ -4,10 +4,10 @@ aliases:
   - Instability
   - Stability
 ---
+
 > Depend in the direction of stability
 
-#quote by  [[Robert C. Martin]]
-
+#quote by [[Robert C. Martin]]
 
 $$
 Instability = \frac{dependencies}{dependents + dependencies}

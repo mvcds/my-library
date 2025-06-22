@@ -1,8 +1,8 @@
 Provide an introduction[^1] that includes the following information:
 
--   What the document covers.
--   What prior knowledge you expect readers to have.
--   What the document doesn't cover.
+- What the document covers.
+- What prior knowledge you expect readers to have.
+- What the document doesn't cover.
 
 ---
 

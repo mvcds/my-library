@@ -11,6 +11,6 @@ People will try to act [[Consistency Principle|consistently]] to it, so to not a
 
 ---
 
-Understanding of [[0 - Never Split The Difference]] #learn 
+Understanding of [[0 - Never Split The Difference]] #learn
 
 [^1]: They most likely hold it before you are aware. So you have to [[1 - Negotiation is a process of discovery|dig]] a bit before [[3 - Black Swan|finding them out]].

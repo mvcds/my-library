@@ -2,6 +2,6 @@ In order to increase [[Information Security|Security]], especially in [[Containe
 
 ---
 
-Do not  [[Authorization|give access]] to [[Information]] beyond what's necessary
+Do not [[Authorization|give access]] to [[Information]] beyond what's necessary
 
 [^1]: Like for [[Microservice Architecture]]

@@ -5,4 +5,3 @@ The plan comes from some complaint and immediate needs. The [[Goal]] is put toge
 Its structure allows that the professional and the client work together.
 
 This is a different approach to tradicional [[Psicoanalysis]]
-

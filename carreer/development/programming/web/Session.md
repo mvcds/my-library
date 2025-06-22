@@ -2,7 +2,6 @@
 aliases: [Sessions]
 ---
 
-
 Because the [[HTTP]] protocol does not have a way to relate [[User]] [[data]] across requests due to its [[State|stateless]] nature, it's necessary to do it through some management.
 
 A session can be for [[Authentication|authenticated]] or anonymous users, regardless if their are human or [[Server|Services]]

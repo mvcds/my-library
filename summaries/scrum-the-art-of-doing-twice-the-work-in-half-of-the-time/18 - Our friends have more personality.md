@@ -4,4 +4,4 @@ A fun side effect is that, when asked to described our personal characteristics 
 
 #quote from [[0 - Scrum - The Art of Doing Twice the Work in Half the Time]] about [[Fundamental Attribution Error]]
 
-#learn 
+#learn

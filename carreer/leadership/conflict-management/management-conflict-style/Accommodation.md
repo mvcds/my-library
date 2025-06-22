@@ -9,4 +9,4 @@ One party is willing to forfeit their position
 - The problem is more important to the other party
 - It's more important to safeguard the relationship than argue about the problem
 
-#learn 
+#learn

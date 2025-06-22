@@ -4,4 +4,4 @@ To make them [[Feeling|feel]] generous, after rejecting their [[24 - Extreme Anc
 
 A [[21 - Bending reality]] technique on [[0 - Never Split The Difference]]
 
-[^1]:  The gift becomes a [[27 - Debt of kindness]]
+[^1]: The gift becomes a [[27 - Debt of kindness]]

@@ -2,6 +2,6 @@ In [[Kubernets]] they are are key/[[my-library/carreer/development/Value|Value]]
 
 # Some Usages
 
-* Designate objects for development, test, and production
-* Embed version tags
-* Classify an object using tags
+- Designate objects for development, test, and production
+- Embed version tags
+- Classify an object using tags

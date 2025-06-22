@@ -2,6 +2,7 @@
 aliases:
   - Commited OKRs
 ---
+
 #concept #fact in [[2 - Writing effective OKRs]]
 
 An [[Objective and Key Result|OKR]] that describes essential, [[priority]] work. We're willing to adjust [[Time|Schedule]] and [[Asset|Resources]] to ensure [[Delivery]]

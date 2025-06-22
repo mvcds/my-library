@@ -1,32 +1,32 @@
 - [[OpenAI]]: conversation
-	- Setup API keys, and limit how much money you want to spend to not be suprised
-	- Each message has `role`and `content`, roles
-		- user: the person interacting with the [[Artificial Intelligence]]
-		- system: provides the AI with context and instructions
-		- assistant: the answers from AI
-	- The prompt is the array of messages: `messages`
-	- The AI's network response is also known as completion
-		- The completion is an array of choices
-	- We start by setting the `model` and the `messages`
-	- The `model`property changes how the AI behaves
-		- Tokens are units of text, but according to the `model`they might mean different things
-			- A whole word `friendship`
-			- A single character `f`
-			- Or subwords `friend`, `ship`
-		- Each model has different limits on how much tokens can be exchanged
-		- Each network request/response uses tokens (request + response)
-		- `gpt-3-enconder` package allows to know how much tokens will be used
+  - Setup API keys, and limit how much money you want to spend to not be suprised
+  - Each message has `role`and `content`, roles
+    - user: the person interacting with the [[Artificial Intelligence]]
+    - system: provides the AI with context and instructions
+    - assistant: the answers from AI
+  - The prompt is the array of messages: `messages`
+  - The AI's network response is also known as completion
+    - The completion is an array of choices
+  - We start by setting the `model` and the `messages`
+  - The `model`property changes how the AI behaves
+    - Tokens are units of text, but according to the `model`they might mean different things
+      - A whole word `friendship`
+      - A single character `f`
+      - Or subwords `friend`, `ship`
+    - Each model has different limits on how much tokens can be exchanged
+    - Each network request/response uses tokens (request + response)
+    - `gpt-3-enconder` package allows to know how much tokens will be used
 - [[Deepgram]]: speech recognition
-	- `multer` is a package to multiple file types, it needs to use `formData`
-	- Deepgram's `model` allow to configure which AI model will be used
-	- Deepgram's result contains `channels`, which is an array of objects that contain `alteratives`, which is an array of objects that have the `transcript` result
+  - `multer` is a package to multiple file types, it needs to use `formData`
+  - Deepgram's `model` allow to configure which AI model will be used
+  - Deepgram's result contains `channels`, which is an array of objects that contain `alteratives`, which is an array of objects that have the `transcript` result
 - [[Replicate]]: allows for using [[Machine Learning]] [[Model]] without having to understand how they work
-	- For the course's image processing, we'll use the MiniGPT model
-	- Their models don't need you to send the context like `system` instructions because it's already setup for this
+  - For the course's image processing, we'll use the MiniGPT model
+  - Their models don't need you to send the context like `system` instructions because it's already setup for this
 - [[LangChain]]: adds memory and chaining capacity to AI projects
-	- It allows us not send the whole list of question/answer to Deepgram
-	- Its simplest model is the `MemoryBuffer`, which stores seequentially
-	- We have to keep track of which index the chain is in, and also increment it everytime we use the chain
-	- During the first usage, we want to configure the chain, but on subsequent uses, we just want to reuse previous configuration
-		- We need to send 3 sequential inputs to LangChain (we expect the first and second input to always be the same i.e. configuring the model that is being remembered as the GhatGPT's `system` message)
-		- The answer for the user is the 3rd one
+  - It allows us not send the whole list of question/answer to Deepgram
+  - Its simplest model is the `MemoryBuffer`, which stores seequentially
+  - We have to keep track of which index the chain is in, and also increment it everytime we use the chain
+  - During the first usage, we want to configure the chain, but on subsequent uses, we just want to reuse previous configuration
+    - We need to send 3 sequential inputs to LangChain (we expect the first and second input to always be the same i.e. configuring the model that is being remembered as the GhatGPT's `system` message)
+    - The answer for the user is the 3rd one

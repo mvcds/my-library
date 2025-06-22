@@ -6,6 +6,7 @@ aliases:
   - KR
   - KRs
 ---
+
 #concept in [[2 - Writing effective OKRs]]
 
 - Express [[Measure|measurable]] milestones that if achieved advanced the [[summaries/google-okr-playbook/concepts/Objective|Objective]] in a useful manner
@@ -13,4 +14,5 @@ aliases:
 - Include evidence of completion[^2]
 
 [^1]: Such as the impact of such activities
+
 [^2]: [[Evidence|Evidences]] must be available, credible, and easily discoverable

@@ -12,4 +12,4 @@ Similar to [[Situation-Behavior-Impact|SBI]]
 - [[Behavior|Action]]: Explain exactly what steps you took to address it.
 - Result: Share what outcomes your actions achieved.
 
-#acronym 
+#acronym

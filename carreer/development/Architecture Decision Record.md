@@ -2,7 +2,7 @@
 aliases: [Architecture Decision Records, ADR, ADRs]
 ---
 
-An in-[[Version Control System|VCS]] short document that captures significant [[Software Architecture|Architectural]] decisions. 
+An in-[[Version Control System|VCS]] short document that captures significant [[Software Architecture|Architectural]] decisions.
 
 Its title should start by a number and a concise title for the decision. The number guarantees that ADRs are kept in order.
 

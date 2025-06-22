@@ -16,4 +16,4 @@ Analysts should get closer to source of date (the other), as it allows for faste
 
 A [[3 - Negotiation styles]] on [[0 - Never Split The Difference]]
 
-#double-check 
+#double-check

@@ -8,4 +8,4 @@ The practice of defining a backend that will be like a [[carreer/development/pro
 
 When each frontend client has its on the aligment with a backend owned by the same [[team]].
 
-It relates  it to [[Interface Segregation Principle]].
+It relates it to [[Interface Segregation Principle]].

@@ -1,6 +1,7 @@
 ---
 source: https://www.youtube.com/watch?v=-adHRNYHbm0&list=WL&index=3
 ---
+
 A kind of [[Cognitive Bias]] where we limit ourselves to use/do something only in the way that we traditionally use it
 
 ---

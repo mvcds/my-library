@@ -4,4 +4,5 @@ aliases:
   - Sales Pipeline Stage
   - Sales Pipeline Stages
 ---
-#complement 
+
+#complement

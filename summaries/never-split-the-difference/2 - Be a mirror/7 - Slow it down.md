@@ -4,4 +4,4 @@
 
 Understanding of [[0 - Never Split The Difference]]
 
-#learn 
+#learn

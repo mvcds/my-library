@@ -8,4 +8,4 @@ And inequality (especially in global level) is one of the biggest social problem
 
 ---
 
-#summary  of [[0 - A little story of economics]]
+#summary of [[0 - A little story of economics]]

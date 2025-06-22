@@ -8,6 +8,6 @@ Here are some retrieval techniques
 - [[Questioning Notes]]
 - [[Targeted Test]]
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]
 
 [^1]: Check out [[3 - Metalearning|Metalearning Map]]

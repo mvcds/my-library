@@ -7,4 +7,3 @@ In [[Functional Programming]] it connects to the concept of [[Referential Transp
 One "step" before [[Pluripotence]]
 
 ---
-

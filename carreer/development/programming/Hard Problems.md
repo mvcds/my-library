@@ -20,7 +20,7 @@ https://hackernoon.com/the-two-hard-problems-in-computer-science-2a42ec008eee
 https://martinfowler.com/bliki/TwoHardThings.html
 
 - There are 2 hard problems in computer science: [[Cache]] invalidation, naming things, and off-by-1 errors.
-- There are only two hard problems in [[Distributed System|distributed systems]]:  2. Exactly-once delivery 1. Guaranteed order of [[message]]s 2. Exactly-once delivery
+- There are only two hard problems in [[Distributed System|distributed systems]]: 2. Exactly-once delivery 1. Guaranteed order of [[message]]s 2. Exactly-once delivery
 - there's two hard problems in computer science: we only have one joke and it's not funny.
 
 # Composition

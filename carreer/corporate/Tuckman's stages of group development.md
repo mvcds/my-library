@@ -6,4 +6,4 @@ https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx
 - Performing
 - Adjourning
 
-#complement 
+#complement

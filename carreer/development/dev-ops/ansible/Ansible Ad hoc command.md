@@ -7,6 +7,7 @@ For ad hoc tasks, like [[Ansible Playbook|Playbooks]], use a declarative model, 
 To use a different module, pass `-m` for module name. For example, to use the `ansible.builtin.shell module`
 
 `
+
 ```bash
 ansible raleigh -m ansible.builtin.shell -a 'echo $TERM'
 ```

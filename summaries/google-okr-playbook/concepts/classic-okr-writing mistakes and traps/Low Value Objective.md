@@ -6,7 +6,7 @@ aliases:
   - Low Value Objectives
 ---
 
-#concept and #procedure  at [[Classic OKR-writing mistakes and traps]]
+#concept and #procedure at [[Classic OKR-writing mistakes and traps]]
 
 [[summaries/google-okr-playbook/concepts/Objective|Objectives]] that when completed even with a [[Color Grade|Score]] of 1, won't be noticed/cared
 

@@ -4,4 +4,4 @@ And thought such differences are hard to contemplate, economists are asking thos
 
 ---
 
-#summary  of [[0 - A little story of economics]]
+#summary of [[0 - A little story of economics]]

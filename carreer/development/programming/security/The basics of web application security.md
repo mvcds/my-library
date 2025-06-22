@@ -2,11 +2,9 @@ https://martinfowler.com/articles/web-security-basics.html
 
 Modern [[World Wide Web|Web]] [[Software|development]] has many challenges, and of those [[Information Security|Security]] is both very important and often under-emphasized. While such techniques as [[threat analysis]] are increasingly recognized as essential to any serious development, there are also some basic practices which every developer can and should be doing as a matter of course.
 
-Security and [[Performance]] have a lot in common:
-	- Both are requirements
-	- Both are neglected by stakeholder
+Security and [[Performance]] have a lot in common: - Both are requirements - Both are neglected by stakeholder
 
-The difference between them is that fact that performance is easily mensurable. Often when a non-technical stakeholders, they don't know how to spot if something is secure or not. 
+The difference between them is that fact that performance is easily mensurable. Often when a non-technical stakeholders, they don't know how to spot if something is secure or not.
 
 # [[Trust]]
 
@@ -43,9 +41,9 @@ Any full-featured data access layer will have the ability to bind variables and 
 
 - Never store a password, instead store its [[hash]] from a known and secure hash [[Algorithm]]
 - [[Salt]] before hashing
--  Ideally, make your password storage mechanism configurable so it can evolve
--  Avoid storing passwords for external systems and services
--  Be careful not to set password size limits that are too small, or character set limits that are too narrow
+- Ideally, make your password storage mechanism configurable so it can evolve
+- Avoid storing passwords for external systems and services
+- Be careful not to set password size limits that are too small, or character set limits that are too narrow
 
 # [[Authentication|Authenticate]] users safely
 
@@ -58,7 +56,7 @@ Any full-featured data access layer will have the ability to bind variables and 
 # Protect user [[carreer/development/programming/web/Session|Sessions]]
 
 - Do not expose session identifiers
-- Restrict [[Cookie]] scope by setting `path` ,  `secure` , `domain` and `expires`
+- Restrict [[Cookie]] scope by setting `path` , `secure` , `domain` and `expires`
 - Create a new session for authenticate or change [[Elevation of Privilege|privilege]] level
 - Never create sessions with ids you haven't created yourself
 - Make sure it's possible to log out and terminate existing sessions

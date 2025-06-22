@@ -17,11 +17,11 @@ Firstly, this should be done when the [[Constraint]] is distracting the [[carree
 ```typescript
 bucket.pourIn = (volume: number) => {
   if (this.content + volume > this.capacity) {
-    this.content = this.capacity;
+    this.content = this.capacity
   } else {
-    this.content += volume;
+    this.content += volume
   }
-};
+}
 ```
 
 ## After

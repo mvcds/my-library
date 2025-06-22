@@ -2,4 +2,4 @@
 aliases: [PDA]
 ---
 
-#learn  
+#learn

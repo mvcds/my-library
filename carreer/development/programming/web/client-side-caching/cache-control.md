@@ -9,7 +9,6 @@ Cache-Control:  max-age=3600,
 				must-revalidate
 ```
 
-
 - private: only cached on the client
 - public: shared between [[Proxy|Proxies]]
 - no-store: can't be cached anywhere

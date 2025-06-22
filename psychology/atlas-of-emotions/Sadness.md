@@ -10,4 +10,5 @@ Responses:
 - Withdraw[^1]
 
 [^1]: As in [[Disgust]] and [[Fear]]
+
 [^2]: As in [[Fear]]

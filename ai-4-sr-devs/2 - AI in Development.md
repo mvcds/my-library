@@ -1,4 +1,3 @@
-
 > The future of [[code|coding]] is not coding at all
 
 By [[Chris Wanstrat]]
@@ -19,7 +18,7 @@ An [[Artificially Intelligent Agent|Agent]] works as [[Developer vs Architect|De
 
 Seniors should be able to sell their ideas well
 
-Seniors should be able to do the following towards their prefered  [[Artificially Intelligent Agent|Agent]]
+Seniors should be able to do the following towards their prefered [[Artificially Intelligent Agent|Agent]]
 
 - Delegate
 - Supervise
@@ -71,8 +70,8 @@ Level of [[Artificial Intelligence|AI]] [[Code|coding]] tools (2025)
 
 [QUADRANT OF]
 
- * Production-Ready vs Prototype
- * Non-Technical vs Technical
+- Production-Ready vs Prototype
+- Non-Technical vs Technical
 
 ---
 
@@ -127,14 +126,15 @@ The 3S Principles to Executor Models
 - Simple
 - Specific
 - Short
+
 ---
 
 Tips
 
 - Iterate
 - Split the [[Prompt|Prompts]] into smaller "secctions"
-	- Starts with the plan
-	- Functionality
+  - Starts with the plan
+  - Functionality
 - Clarity
 - Visual error? Screenshot it, and feed the [[Artificially Intelligent Agent|Agent]]
 - Ask for reccomendations

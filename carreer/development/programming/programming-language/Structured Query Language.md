@@ -12,12 +12,15 @@ The scope of SQL includes
 - data access control
 
 # Tradeoffs
- Good
- - Powerful queries out of the box (no custom [[Code]] required)
- - [[ACID]]
- - Faster than [[NoSQL Database|NoSQL]] for reads
+
+Good
+
+- Powerful queries out of the box (no custom [[Code]] required)
+- [[ACID]]
+- Faster than [[NoSQL Database|NoSQL]] for reads
 
 Bad
+
 - Slower than [[NoSQL Database|NoSQL]] for writes (due to [[B-Tree|B-Trees]] as they normally power the db)
 - Higher [[Latency]] in order to achieve [[Consistency Principle|Consistency]]
 - Fixed and universal [[Data Structure|Schema]]

@@ -12,7 +12,7 @@ Its price schema is by [[carreer/development/data-science/Metric|metric]] + [[da
 
 First it’s useful to understand the main categories of data managed in Datadog.
 
-For a more comprehensive explanation and comparison, I can recommend this chapter: [The Three Pillars of Observability](https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html "https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html").
+For a more comprehensive explanation and comparison, I can recommend this chapter: [The Three Pillars of Observability](https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html 'https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html').
 
 ### Metrics
 

@@ -1,6 +1,7 @@
 ---
 ur: https://www.youtube.com/watch?v=gCvpworN7JA
 ---
+
 > [[Science]] is a [[tool]], not a body of [[knowledge]]
 
 #quote by [[Forrest Valkai]] #paraphrased

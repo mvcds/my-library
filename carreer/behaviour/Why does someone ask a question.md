@@ -2,4 +2,4 @@
 
 > They want to leave with more [[Information]] that they initially had
 
-#quote 
+#quote

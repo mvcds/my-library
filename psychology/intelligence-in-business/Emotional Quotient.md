@@ -3,7 +3,8 @@ aliases:
   - Emotional Intelligence
   - EQ
 ---
-#concept 
+
+#concept
 
 The ability to understand, use, and manage one's own [[Emotion|Emotions]] in positive ways.
 

@@ -1,5 +1,6 @@
 ---
-aliases: [M2M Auth, M2M, M2M Authentication, M2M Authorization, M2M User, M2M Users]
+aliases:
+  [M2M Auth, M2M, M2M Authentication, M2M Authorization, M2M User, M2M Users]
 ---
 
 When the [[User]] of an [[Software|Application]] is not human but it still needs to [[Authentication|authenticate]] into our applications, we should provide an alternative flow for [[Security Token|Token]] exchange.

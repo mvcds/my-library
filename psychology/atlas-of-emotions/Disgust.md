@@ -8,4 +8,5 @@ Responses:
 - Withdraw[^1]
 
 [^1]: As in [[Sadness]] and [[Fear]]
+
 [^2]: As in [[Fear]]

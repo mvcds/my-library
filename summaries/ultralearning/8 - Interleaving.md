@@ -4,4 +4,4 @@ For instance, if you're studying a language for 10 h/week, it's better to do fiv
 
 And their content can vary in materials, modes of learning, [[3 - Metalearning|aspect]], or skill set.
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

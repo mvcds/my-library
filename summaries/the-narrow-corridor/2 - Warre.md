@@ -2,7 +2,7 @@
 
 When two people desire the same thing, the outcome is not necessarily and not even probably “warre".
 
-#learn 
+#learn
 
 ---
 

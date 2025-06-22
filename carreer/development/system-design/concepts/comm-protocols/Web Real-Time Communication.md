@@ -6,4 +6,4 @@ aliases: [WebRTC]
 
 Supports [[Peer-to-Peer Architecture|peer-to-peer communication]], low-[[Latency]] and low [[Server Load]]
 
-Widely used in video conferencing, online [[game|gaming]], and other [[Software|Applications]] requiring [[real-time ]] [[Communication Protocol|Communication Protocols]].
+Widely used in video conferencing, online [[game|gaming]], and other [[Software|Applications]] requiring [[real-time]] [[Communication Protocol|Communication Protocols]].

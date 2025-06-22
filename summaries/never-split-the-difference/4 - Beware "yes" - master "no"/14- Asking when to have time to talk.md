@@ -4,8 +4,8 @@
 
 Understanding of [[0 - Never Split The Difference]]
 
-
 [^1]: The person probably will feel like giving you a better time to talk
+
 [^2]: [[1 - Don't push for an "yes"]]
 
 #learn

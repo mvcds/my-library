@@ -16,7 +16,7 @@ void makeBooking(cargo, voyage) {
 
 Having only two boxes made harder for the experts to "see", and therefore talk about the overbooking.
 
-Then, he changed the diagram, so to include a box between the entities, to represent overbooking as a [[domain-driven-design/concepts/Policy|policy]] 
+Then, he changed the diagram, so to include a box between the entities, to represent overbooking as a [[domain-driven-design/concepts/Policy|policy]]
 
 ```js
 void makeBooking(cargo, voyage) {

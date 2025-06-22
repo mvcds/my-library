@@ -4,6 +4,6 @@ The [[team|teams]] have a minute of each cycle to plan (P) how they will assembl
 
 To Deming, "Act" means change the way we work based in real results and real information extracted from the real environment.
 
-#quote from [[0 - Scrum - The Art of Doing Twice the Work in Half the Time]] 
+#quote from [[0 - Scrum - The Art of Doing Twice the Work in Half the Time]]
 
-#learn 
+#learn

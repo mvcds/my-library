@@ -1,6 +1,6 @@
 The [[carreer/development/data-science/Metric|Metrics]] that matter to load a page in the [[World Wide Web|Web]]
 
-- [[Time to First Byte]] 
+- [[Time to First Byte]]
 - [[First Content Paint]]
 - [[Time to Interactive]]
 - [[Total Blocking Time]]

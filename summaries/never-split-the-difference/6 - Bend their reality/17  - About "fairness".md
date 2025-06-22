@@ -1,4 +1,4 @@
-The word "fair" is a messy, [[Emotion|Emotional]] and potentially  [[14 - The reasons for avoiding negotiating|destructive]].
+The word "fair" is a messy, [[Emotion|Emotional]] and potentially [[14 - The reasons for avoiding negotiating|destructive]].
 
 ---
 

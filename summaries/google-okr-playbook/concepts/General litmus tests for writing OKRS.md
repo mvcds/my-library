@@ -1,4 +1,4 @@
-#concept and #procedure  in [[3 - Reading, Interpreting and Acting on OKRs]]
+#concept and #procedure in [[3 - Reading, Interpreting and Acting on OKRs]]
 
 General [[Litmus Test|Litmus Tests]]for writing [[Objective and Key Result|OKRs]]
 
@@ -12,5 +12,7 @@ General [[Litmus Test|Litmus Tests]]for writing [[Objective and Key Result|OKRs]
 - [[Support hierarchical OKRs in each subteam]][^3]
 
 [^1]: [[What matters isn't the launch, but its impact]]
+
 [^2]: It should be possible to give it a [[Color Grade|Score]] based its [[carreer/achieving-goals/Metric|Metric]]
+
 [^3]: [[Hierarchical OKRs]]

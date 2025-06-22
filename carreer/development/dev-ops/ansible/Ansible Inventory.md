@@ -1,8 +1,16 @@
 ---
-aliases: [Inventory, Inventories, Inventory Source, Inventory Sources, Hostfile, Hostfiles]
+aliases:
+  [
+    Inventory,
+    Inventories,
+    Inventory Source,
+    Inventory Sources,
+    Hostfile,
+    Hostfiles,
+  ]
 ---
 
-A list of [[Ansible Managed Node|Managed Nodes]] provided by one or more ‘inventory sources’. Your inventory can specify information specific to each node, like IP address. It is also used for assigning groups, that both allow for node selection in the [[Ansible Play|Play]] and bulk variable assignment. 
+A list of [[Ansible Managed Node|Managed Nodes]] provided by one or more ‘inventory sources’. Your inventory can specify information specific to each node, like IP address. It is also used for assigning groups, that both allow for node selection in the [[Ansible Play|Play]] and bulk variable assignment.
 
 The simplest inventory is a single file with a list of hosts and groups. The default location for this file is `/etc/ansible/hosts`. You can specify a different inventory file at the command line using the `-i <path>` option or in configuration using `inventory`.
 

@@ -2,6 +2,7 @@
 aliases:
   - Apache Kafka
 ---
+
 An [[carreer/development/programming/message/Event|Event]] [[Stream|Streaming]] [[platform]] to:
 
 1. Perform [[Publisher-Subscriber Pattern|Pub/Sub]] over events
@@ -11,4 +12,3 @@ An [[carreer/development/programming/message/Event|Event]] [[Stream|Streaming]] 
 It works over [[TCP]], and aims to be highly [[Scalability|Scalable]] and [[Fault Tolerance|Fault-Tolerant]]
 
 It organizes its events on the form of [[Kafka Topic|Kafka Topics]].
-

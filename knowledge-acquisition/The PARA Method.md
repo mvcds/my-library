@@ -1,6 +1,6 @@
 https://fortelabs.co/blog/para/
 
-# A Universal [[System]]  for Organizing Digital [[Information]]
+# A Universal [[System]] for Organizing Digital [[Information]]
 
 ![[the-para-method-lists.png]]
 
@@ -9,7 +9,7 @@ https://fortelabs.co/blog/para/
 - **[[universal]]**: it can have any kind of [[Information]]
 - **flexible**: can be used in many kinds of projects or activitities
 - **[[simple]]**: minimal management
-- **[[actionable]]**: integrates [[task management ]]and [[project management]] easily
+- **[[actionable]]**: integrates [[task management]]and [[project management]] easily
 - **cross-plataform**: can be used in any [[app]]
 - **[[outcome]]-oriented**: [[Information]] should support delivery of [[work]]
 - **[[modular]]**: different levels of details should be shown or hidden depending on the task at hand
@@ -42,12 +42,12 @@ And if you have a [[Goal]] without a corresponding project, that’s called a �
 
 > I’ve noticed that people tend to use different organizational schemes in every program they use
 
-Each tool might be better for specialized tasks but if you have to tweak your system to fit them, you're forcing your brain too much. 
+Each tool might be better for specialized tasks but if you have to tweak your system to fit them, you're forcing your brain too much.
 
 ### Principles
 
 ![[the-para-method-organization.jpeg]]
 
 - uses the number 4 as a guidepost: as this is the limit of most of our [[cognitive process]]es, , from working memory to object-tracking to rapid enumeration
--  perfectly mirrors your task management and project management systems
--  separates actionable and non-actionable [[Information]]: allows [[Progressive Disclosure]]
+- perfectly mirrors your task management and project management systems
+- separates actionable and non-actionable [[Information]]: allows [[Progressive Disclosure]]

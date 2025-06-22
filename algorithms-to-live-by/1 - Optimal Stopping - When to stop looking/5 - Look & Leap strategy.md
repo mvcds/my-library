@@ -1,4 +1,4 @@
-"Look & Leap" is an [[Algorithm]] that can be used [[strategy|strategically]] for taking the best of the [[2 - The 37% rule]]. 
+"Look & Leap" is an [[Algorithm]] that can be used [[strategy|strategically]] for taking the best of the [[2 - The 37% rule]].
 
 It has two phases, given a limited amount of time, for instance 30 days.
 

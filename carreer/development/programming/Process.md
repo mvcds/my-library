@@ -2,7 +2,7 @@
 aliases: [Processes]
 ---
 
-The actual execution of a [[Software]], run  by at least one [[Thread]]. 
+The actual execution of a [[Software]], run by at least one [[Thread]].
 
 Process can communicate to each other only through specific mechanisms
 

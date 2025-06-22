@@ -3,7 +3,6 @@ aliases:
   - Expression vs Block
 ---
 
-
 An expression (immediately) returns its [[my-library/carreer/development/Value|Value]].
 
 They [[Composition Over Inheritance|compose]] easily.
@@ -15,4 +14,3 @@ They [[Composition Over Inheritance|compose]] easily.
 from https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340
 
 #quote
-

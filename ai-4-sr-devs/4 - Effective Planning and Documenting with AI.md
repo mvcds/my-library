@@ -29,7 +29,7 @@ This first phase focuses on learning what our domain is about
 
 Good place to think about general [[Cross-Functional Requirement|Cross-Functional Requirements]]
 
-----
+---
 
 2 - Defining [[Use Case|Use Cases]]
 
@@ -37,14 +37,13 @@ We rise the level of [[carreer/development/system-design/concepts/Abstraction|Ab
 
 It might be necessary to intervine manually to correct the route
 
-----
+---
 
 3 - Defining and [[system-design-interview/concepts/Design|Designing]] the [[Data]] [[Domain Model|Model]]
 
 Understand the [[Entity|Entities]] that will be relevant to the [[System]], how they relate to each other and which information we need to hold
 
-[[Artificially Intelligent Agent|Agents]] caan be used to define and  [[system-design-interview/concepts/Design|Designing]] the [[Data]] [[Domain Model|Model]] 
-
+[[Artificially Intelligent Agent|Agents]] caan be used to define and [[system-design-interview/concepts/Design|Designing]] the [[Data]] [[Domain Model|Model]]
 
 ---
 
@@ -58,7 +57,7 @@ The [[Artificially Intelligent Agent|Agent]]can help us to [[carreer/development
 
 Throughout all phases, it's essential to save the information collected and decisions taken. Mainly
 
-- [[C4 Model]] 
+- [[C4 Model]]
 - [[Architecture Decision Record|ADR]]
 - [[Product Requirement Document|PRD]]
 
@@ -72,6 +71,7 @@ flowchart LR
     Epic1 --> US1(["User<br>Story"]) & US2(["User<br>Story X"])
     US1 --> Ticket1(["Ticket"]) & Ticket2(["Ticket X"])
 ```
+
 - [[Product Roadmap]]: the highest level is the strategic plan, defining the long-term vision and direction of the product
 - [[Epic]]
 - [[User Story]]
@@ -82,19 +82,19 @@ flowchart LR
 How to create good [[User Story|User Stories]]
 
 1. Focus on the [[User]]
-	1. Write them from their perspective
-	2. Use [[Persona|Personas]]
+   1. Write them from their perspective
+   2. Use [[Persona|Personas]]
 2. Keep it simple and concise
-	1. "How as [X], I want [Y] so that [Z]"
-	2. Avoid technical details
-	3. Small enough for one [[Sprint]]
+   1. "How as [X], I want [Y] so that [Z]"
+   2. Avoid technical details
+   3. Small enough for one [[Sprint]]
 3. Prioritise and Estimate
-	1. A US has value for users and the [[business]]
-	2. Estimate effort on doing them
+   1. A US has value for users and the [[business]]
+   2. Estimate effort on doing them
 4. Encourage collaboration
-	1. The development [[Team]] helps writing them
+   1. The development [[Team]] helps writing them
 5. Include [[Acceptance Criteria]]
-	1. Do not be technical
+   1. Do not be technical
 6. Keep them up to date
 
 ---
@@ -126,8 +126,8 @@ How [[Artificially Intelligent Agent|Agents]] can help with [[Task|Tickets]]
 3. Classify and categorize them
 4. Settting their [[Prioritizing|Priority]], [[Effort]] and [[Continous Learning]]
 5. [[Asset|Resource]] optimisation to balance load the work between people
-	1. Equitative balance
-	2. Contextual balance
+   1. Equitative balance
+   2. Contextual balance
 6. Integrated [[Feedback]]
-	1. Check previous work
-	2. Recommend
+   1. Check previous work
+   2. Recommend

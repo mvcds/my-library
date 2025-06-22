@@ -3,7 +3,6 @@ aliases:
   - Metrics
 ---
 
-
 https://www.klipfolio.com/blog/kpi-metric-measure
 
 One or more [[Measure|Measures]] that makes sense for that [[carreer/achieving-goals/Objective]]

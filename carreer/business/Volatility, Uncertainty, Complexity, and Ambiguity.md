@@ -2,6 +2,7 @@
 aliases:
   - VUCA
 ---
+
 #acronym for [[management|managerial]] challenges and how to overcome them
 
 - [[Volatility]]: the challenge is unexpected/unstable and often we don't know how long it will last. To overcome it, preparedness is key, tho often it's expensive to do it e.g. stockpile toilet paper in case the next pandemic hit

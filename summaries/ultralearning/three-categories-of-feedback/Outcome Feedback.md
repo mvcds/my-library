@@ -4,4 +4,4 @@ It confirms when we reach an [[carreer/achieving-goals/Objective]] without telli
 
 For instance, being applauded by the end of a presentation doesn't add much [[Information]] because people tend to do it even when they didn't like it due to politeness
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

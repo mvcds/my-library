@@ -10,7 +10,7 @@ It allows us to configure [[Loopback Address|Loopback Addresses]] by relating an
 
 ---
 
-One of the uses of this file is to extend the  [[localhost]]
+One of the uses of this file is to extend the [[localhost]]
 
 ```c
 127.0.0.1	localhost local.site.pt local.site.es

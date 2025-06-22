@@ -11,4 +11,4 @@ A [[Goal]] is a [[linguistics/Statement|statement]] that describes precisely wha
 - Concrete: it means that you’re able to see results in the real world. Achieve “[[happiness]]” is not a concrete goal.
 - Specific: you have to define what, when and where you are going to achieve your goal. Your goals should be under your [[Keeping control|control]], like “20 minutes of exercise” instead of “lose 20 pounds.”
 
-#acronym 
+#acronym

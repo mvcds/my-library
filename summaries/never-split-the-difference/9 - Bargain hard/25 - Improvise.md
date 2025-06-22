@@ -4,6 +4,6 @@ You have to be able to improvise, if you feel like you [[Keeping control|Control
 
 ---
 
-Understanding of [[0 - Never Split The Difference]] #learn 
+Understanding of [[0 - Never Split The Difference]] #learn
 
 [^1]: Don't forget that [[24 - You fall to your highest level of preparation]]

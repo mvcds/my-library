@@ -2,6 +2,7 @@
 aliases:
   - values
 ---
+
 Summing 2 + 1 doesn't transform neither the numbers into a 3, they preserve their essence, so they are [[Immutability|immutable]].
 
 While concatenating "2" and "1" might transform the first into something new.

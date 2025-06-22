@@ -4,4 +4,4 @@ Only by asking a lot of [[1 - Calibrated Question|questions]], read nonverbal cl
 
 ---
 
-Understanding of [[0 - Never Split The Difference]] #learn 
+Understanding of [[0 - Never Split The Difference]] #learn

@@ -2,7 +2,7 @@ An electrical engineering prototype that has all of its connections and wirings 
 
 ![[breadboard.jpg]]
 
-You can use it to identify the [[14 - Topology|topology]] 
+You can use it to identify the [[14 - Topology|topology]]
 
 # Components
 

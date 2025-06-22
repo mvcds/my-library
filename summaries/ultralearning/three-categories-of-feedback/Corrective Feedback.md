@@ -4,4 +4,4 @@ An improvement over [[Informational Feedback]] in the sense that it not only tel
 
 For example, if we're giving a presentation, a professional presenter coach might be on the audience to take notes, check the public reactions, and pass notes on what to improve.
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

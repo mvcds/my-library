@@ -17,4 +17,5 @@ It's an [[carreer/development/programming/Abstraction|Abstraction]], or a simpli
 #quote by [[Eric Evans]] on [[0 - Domain-Driven Design]]
 
 [^1]: [[Models are good]]
+
 [^2]: [[Domain]]

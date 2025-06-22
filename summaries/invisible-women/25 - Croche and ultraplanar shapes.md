@@ -1,6 +1,6 @@
 A female associated activity (croche) was vital for discoverign the reality of ultraplanar(?) shapes.
 
-If that girl had not  dared to be in a [[Maths|mathematical]] class, we possibly wouldn't know how they look like[^1] .
+If that girl had not dared to be in a [[Maths|mathematical]] class, we possibly wouldn't know how they look like[^1] .
 
 ---
 

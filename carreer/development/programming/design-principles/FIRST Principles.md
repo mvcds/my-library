@@ -10,4 +10,4 @@ From https://addyosmani.com/first/
 - Small
 - Testable
 
-#acronym 
+#acronym

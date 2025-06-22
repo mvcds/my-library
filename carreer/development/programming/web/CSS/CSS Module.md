@@ -3,9 +3,9 @@ A CSS Module is a [[Cascading Style Sheet|CSS]] file in which all class names an
 CSS Modules compile to [[Interoperable CSS]], thought they are written in normal CSS
 
 ```js
-import styles from "./style.css";
+import styles from './style.css'
 
-element.innerHTML = '<div class="' + styles.className + '">';
+element.innerHTML = '<div class="' + styles.className + '">'
 ```
 
 `:global` switches to global scope for the current selector respective identifier and ` :local` switches back to local scope. Both accept arguments between parenthesis

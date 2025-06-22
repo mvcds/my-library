@@ -12,4 +12,5 @@ In general apply the following rules
 - **Rule of Locality**: as the distance between software elements increases, using weaker forms of connascence
 
 [^1]: [[Module|Modules]]
+
 [^2]: [[Bounded Context|Bounded Contexts]]

@@ -2,4 +2,4 @@ You "[[influence|manipulate]]" the other just to make them articulate [[1 - Cali
 
 ---
 
-Understanding of [[0 - Never Split The Difference]] #learn 
+Understanding of [[0 - Never Split The Difference]] #learn

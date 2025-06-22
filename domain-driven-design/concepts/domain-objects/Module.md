@@ -1,7 +1,8 @@
 ---
 aliases: [Modules, Package, Packages, Namespace, Namespaces]
 ---
-#concept  in [[2 - A model expressed in software]]
+
+#concept in [[2 - A model expressed in software]]
 
 A [[Modularity|Module]] is a meaningful part of the [[Domain Model|model]] that helps reducing [[cognitive load]] by splitting the domain concepts into smaller [[1 - Isolating the Domain|subsystems]] in a way that allows us to:
 

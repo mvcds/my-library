@@ -1,6 +1,7 @@
 ---
 aliases: [ML]
 ---
+
 [[Algorithm|Algorithms]] that learn [[statistics|statistical]] relationships between [[Data]]
 
 ---

@@ -3,7 +3,8 @@ source: https://www.youtube.com/watch?v=gqBqLGJeOCY
 aliases:
   - Sovereignty
 ---
-#concept 
+
+#concept
 
 The video's author explain the national sovereignty as divided in three parts
 

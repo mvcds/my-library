@@ -18,6 +18,6 @@ Langer's work proved that **as long as we could justify a behavior in our brains
 
 > A well-known principle of human behavior says that when we ask someone to do us a favor we will be more successful if we provide a [[reason]]. People simply like to have reasons for what they do
 
-#quote  by Robert Cialdini about the study
+#quote by Robert Cialdini about the study
 
 [^1]: Does it play with [[Framing Effect]]?

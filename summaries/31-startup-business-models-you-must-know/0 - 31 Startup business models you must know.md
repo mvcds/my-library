@@ -4,6 +4,7 @@ aliases:
   - Business Model
   - Business Models
 ---
+
 The #summary of name-sake book about [[business|startups]]
 
 - ![[1 - Freemium]]

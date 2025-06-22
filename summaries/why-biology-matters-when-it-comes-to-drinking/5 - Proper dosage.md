@@ -1,4 +1,4 @@
-As with any drug, most people who drink alcohol want to experience the optimal positive effect with the least amount of side effects. Proper “dosage” is key. 
+As with any drug, most people who drink alcohol want to experience the optimal positive effect with the least amount of side effects. Proper “dosage” is key.
 
 Reaching your buzz slowly and maintaining it will reduce the negative consequences from drinking. Here are some strategies— developed by other students who drink— for optimizing the positive effects of alcohol and avoiding negative consequences:
 

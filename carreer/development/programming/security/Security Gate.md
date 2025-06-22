@@ -1,5 +1,12 @@
 ---
-aliases: [Security Gates, Security Control, Security Controls, Security Check, Security Checks]
+aliases:
+  [
+    Security Gates,
+    Security Control,
+    Security Controls,
+    Security Check,
+    Security Checks,
+  ]
 ---
 
 ![[security-gate.png]]

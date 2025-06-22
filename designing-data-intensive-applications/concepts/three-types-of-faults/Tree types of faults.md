@@ -1,5 +1,5 @@
-#concept in [[1 - Reliable, scalable, and maintainable applications]] 
+#concept in [[1 - Reliable, scalable, and maintainable applications]]
 
-- [[Software Fault]] 
+- [[Software Fault]]
 - [[Hardware Fault]]
-- [[Human Fault]] 
+- [[Human Fault]]

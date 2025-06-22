@@ -1,4 +1,4 @@
-   > We don't put theories into practice, we create theories out of practice   
+> We don't put theories into practice, we create theories out of practice
 
 #quote
 

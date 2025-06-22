@@ -2,4 +2,4 @@ From [[time]] to time, stop what you're doing, review what you did, and verify i
 
 #quote from [[0 - Scrum - The Art of Doing Twice the Work in Half the Time]]
 
-#learn 
+#learn

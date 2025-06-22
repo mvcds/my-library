@@ -4,6 +4,6 @@ To evaluate it, we can do one component at a time.
 
 ---
 
- Automated rules are better with [[heuristic]]
+Automated rules are better with [[heuristic]]
 
 #understanding of [[0 - Accessibility]]

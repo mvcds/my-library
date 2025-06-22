@@ -1,3 +1,3 @@
 > Man’s motive power is his [[moral]].
 
-#quote  on [[Altas Shrugged]]
+#quote on [[Altas Shrugged]]

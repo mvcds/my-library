@@ -1,4 +1,4 @@
-A #summary about [[Existencialism]] by  [[Jennifer Anna Gosetti-Ferencei]]
+A #summary about [[Existencialism]] by [[Jennifer Anna Gosetti-Ferencei]]
 
 ---
 

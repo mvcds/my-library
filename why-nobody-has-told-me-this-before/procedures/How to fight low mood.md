@@ -1,4 +1,4 @@
-#procedure  in [[1 - Understanding low mood]]
+#procedure in [[1 - Understanding low mood]]
 
 When we noticed that the [[Mood is like body temperature|temperature]] is not comfortable, we might take actions like putting the jacket to [[Low mood tends to be more due to unmet needs|meet]] our needs[^1], and it's similar to our [[Low mood|Mood]].
 

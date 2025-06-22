@@ -4,6 +4,7 @@ aliases:
   - URI
   - URIs
 ---
+
 A part of the [[Uniform Resource Locator|URL]] to specify which [[Asset|Resource]] to use.
 
 For example: `http://api.example.com/products`

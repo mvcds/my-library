@@ -6,4 +6,4 @@ Some techniques to help with this:
 - [[Self-Imposed Contraint|Self-Imposed Contraints]]
 - [[Hybridizing]]
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

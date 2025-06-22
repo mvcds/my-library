@@ -5,6 +5,11 @@ It stands for "root em", so a [[Cascading Style Sheet|CSS]] rule using it has it
 Making possible for us to define a single font size for the whole document, and get [[my-library/carreer/development/Value|values]] as percentage of the root
 
 ```css
-html { font-size: 62.5%; } 
-body { font-size: 14px; font-size: 1.4rem; } /* =14px */
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 14px;
+  font-size: 1.4rem;
+} /* =14px */
 ```

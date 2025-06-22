@@ -1,4 +1,4 @@
-> A [[carreer/development/hardware/Transducer|Transducer]] is a [[Function Composition|composable]]  [[High Order Function|higher-order]] [[reducer]]. It takes a reducer as input, and returns another reducer.
+> A [[carreer/development/hardware/Transducer|Transducer]] is a [[Function Composition|composable]] [[High Order Function|higher-order]] [[reducer]]. It takes a reducer as input, and returns another reducer.
 
 #quote by Eric Elliott at https://link.medium.com/zDMKKfLDlX
 

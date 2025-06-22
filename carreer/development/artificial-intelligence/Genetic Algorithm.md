@@ -4,12 +4,13 @@
 
 Five phases are considered in a genetic algorithm.
 
-#  Initial Population
+# Initial Population
+
 ![[genetic-algorithm-population.png]]
 
 The process begins with a set of individuals which is called a [[Population]]. Each individual is a solution to the problem you want to solve.
 
-An individual is characterized by a set of parameters (variables) known as [[Gene]]s. Genes are joined into a string to form a [[Chromosome]] (solution) - therefore the solution and the chromosome are synonyms 
+An individual is characterized by a set of parameters (variables) known as [[Gene]]s. Genes are joined into a string to form a [[Chromosome]] (solution) - therefore the solution and the chromosome are synonyms
 
 The set of genes of an individual is represented using a [[string]], in terms of an alphabet. Usually, binary [[my-library/carreer/development/Value|values]] are used (string of 1s and 0s). We say that we encode the genes in a chromosome.
 
@@ -44,6 +45,6 @@ The algorithm terminates if the population has converged (does not produce offsp
 
 # Comments
 
-- The population has a fixed size. As new generations are formed, individuals with 
-least fitness die, providing space for new offspring.
+- The population has a fixed size. As new generations are formed, individuals with
+  least fitness die, providing space for new offspring.
 - The sequence of phases is repeated to produce individuals in each new generation which are better than the previous generation.

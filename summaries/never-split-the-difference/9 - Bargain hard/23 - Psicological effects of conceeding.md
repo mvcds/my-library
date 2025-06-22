@@ -2,4 +2,4 @@ People giving [[22 - Ackerman Model|conssesions]] often feel they made a better 
 
 ---
 
-Understanding of [[0 - Never Split The Difference]] #learn 
+Understanding of [[0 - Never Split The Difference]] #learn

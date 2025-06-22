@@ -1,5 +1,5 @@
 ---
-url: https://martinfowler.com/articles/web-security-basics.html 
+url: https://martinfowler.com/articles/web-security-basics.html
 ---
 
 A text about [[Information Security|Security]] for [[World Wide Web|Web]] by [[Cade Cairns]] and [[Daniel Somerfield]]

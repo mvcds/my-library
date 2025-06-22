@@ -1,7 +1,7 @@
 > If you hire according to technical [[skill|skills]], you fire be the [[behavior]]
 
-[[Aline]] 
+[[Aline]]
 
 "Se você contrata pelo técnico, você demite pelo comportamental"
 
-#quote 
+#quote

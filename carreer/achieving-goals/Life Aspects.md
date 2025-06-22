@@ -2,7 +2,7 @@ The part or parts of your life which the [[Goal]] improves while or after being 
 
 ![[life-aspects.png]]
 
-There are many ways to enlist life aspects, none and all are correct at the same [[time]]. 
+There are many ways to enlist life aspects, none and all are correct at the same [[time]].
 
 So i've created a chart like the following
 

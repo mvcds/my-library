@@ -3,7 +3,7 @@ When feeling [[12 - Anger in negotiations|anger]], we should remember that he ot
 So we should channel our feelings at the proposal instead of the individual:
 
 - "I don't see how that would ever work"
-- "I'm sorry but that just don't work for me" 
+- "I'm sorry but that just don't work for me"
 
 ---
 

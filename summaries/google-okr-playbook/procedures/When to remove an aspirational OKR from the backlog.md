@@ -4,5 +4,5 @@ As a consequence of the [[By design aspirational OKRs exceed the team's ability 
 
 - Completing them
 - The [[Manager]] moves them to a different [[team]], as it will be able to achieve it more effectively because they have the:
-	- expertise and/or
-	- bandwidth
+  - expertise and/or
+  - bandwidth

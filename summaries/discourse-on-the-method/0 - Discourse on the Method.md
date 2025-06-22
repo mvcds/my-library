@@ -1,5 +1,8 @@
 ---
-aliases: [Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences]
+aliases:
+  [
+    Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences,
+  ]
 ---
 
 A book by [[René Descartes]] where he tries to explains his method of [[Reasoning]]

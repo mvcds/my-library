@@ -2,7 +2,7 @@ It's possible to have "degrees" of true, where 1 is absolutely true, and 0 is ab
 
 Fuzzy logic allow us to use a more natural language when compared to [[Boolean]] logic, for instance, we can classify not in terms of numbers (which humans take longer to read and understand) but words (as tall, weak, fast, etc) which are easier for us to process)
 
-All fuzzy rule are evaluated in parallel, yielding the strength of its conclusion. 
+All fuzzy rule are evaluated in parallel, yielding the strength of its conclusion.
 
 It may be necessary to defuzzyfi a [[my-library/carreer/development/Value|Value]], turning it into a crisp number.
 

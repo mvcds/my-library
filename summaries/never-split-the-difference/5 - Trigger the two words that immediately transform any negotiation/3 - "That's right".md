@@ -8,7 +8,7 @@ It's an desired phrase when comparing with [[6 - "You're right"]].
 
 ---
 
-When you hear those words, the other has [[7 - Influence springs from empathy|opened up ]] to doing business with you.
+When you hear those words, the other has [[7 - Influence springs from empathy|opened up]] to doing business with you.
 
 ---
 

@@ -10,4 +10,4 @@ You should do it with [[9 - A positive frame of mind]].
 
 Understanding of [[0 - Never Split The Difference]]
 
-#learn 
+#learn

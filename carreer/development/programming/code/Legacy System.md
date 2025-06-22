@@ -9,6 +9,7 @@ aliases:
   - Legacy Software
   - Legacy Softwares
 ---
+
 A [[System]] that is no longer supported by providers. Be it because
 
 - it is [[time|old]], so the [[Technology]] around, or its [[purpose]], is outdated
@@ -19,6 +20,6 @@ A [[System]] that is no longer supported by providers. Be it because
 
 > A system without [[Testing|Tests]]
 
-___
+---
 
 > A system that's in [[environment|Production]]

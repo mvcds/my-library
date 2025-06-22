@@ -1,4 +1,4 @@
-#fact #learn 
+#fact #learn
 
 [[Melvin Kranzberg]] has stated 6 laws
 

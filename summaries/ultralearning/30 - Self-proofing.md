@@ -6,4 +6,4 @@ You’re not trying to disprove those practitioners’ work; you’re trying to 
 
 To achieve deep knowledge and [[Intuitive Expertise]], it’s better to work through those ideas for yourself. That way, you’ll [[26 - Become an expert|become one of those experts]]
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

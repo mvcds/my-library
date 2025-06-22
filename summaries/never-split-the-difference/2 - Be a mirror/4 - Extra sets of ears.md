@@ -8,4 +8,4 @@ Understanding of [[0 - Never Split The Difference]]
 
 [^1]: [[Listening is not a passive activity]] and [[We get easily overwhelmed]]
 
-#learn 
+#learn

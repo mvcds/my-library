@@ -2,7 +2,7 @@
 aliases: [Mood]
 ---
 
-#concept  in [[1 - Understanding low mood]]
+#concept in [[1 - Understanding low mood]]
 
 It's not clear if she means "low [[mood]]" or uses it as soft word for [[Depression]]. Even less clear if she's consistent about its usage.
 

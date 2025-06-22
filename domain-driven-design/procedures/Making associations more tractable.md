@@ -2,7 +2,7 @@
 
 There are at least 3 ways to make [[Association|associations]] more tractable, in order to make them more easy to communicate and implement, normally highlighting truly natural bidirectional associations
 
-1. Imposing a transversal direction, to show naturally of the association[^1] 
+1. Imposing a transversal direction, to show naturally of the association[^1]
 2. Adding a qualifier, effectively reducing multiplicity
 3. Eliminating nonessential associations
 

@@ -10,7 +10,7 @@ A better alternative is to check for the permission for a particular action inst
 
 Consider RBAC when:
 
--   Permissions are relatively static
--   Roles in your [[Policy and Details|Policy]] actually map reasonably to roles within your domain, rather than feeling like contrived aggregations of permissions
--   There isn't a terribly large number of permutations of permission, and therefore roles that will have to be maintained
--   You have no compelling reason to use one of the other options.
+- Permissions are relatively static
+- Roles in your [[Policy and Details|Policy]] actually map reasonably to roles within your domain, rather than feeling like contrived aggregations of permissions
+- There isn't a terribly large number of permutations of permission, and therefore roles that will have to be maintained
+- You have no compelling reason to use one of the other options.

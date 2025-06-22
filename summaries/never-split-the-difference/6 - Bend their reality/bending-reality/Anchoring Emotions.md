@@ -5,4 +5,5 @@ You can use an [[23 - Accusation Audit]] to acknowledge their fears[^2], this wo
 A [[21 - Bending reality]] technique on [[0 - Never Split The Difference]]
 
 [^1]: It seems [[Moral|morality]] is not a big concern here
+
 [^2]: In this case, we're [[Anchoring]] [[Fear]]

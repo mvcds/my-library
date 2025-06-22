@@ -10,5 +10,5 @@ It starts with one of the following so the person answering has to expand on the
 2. Who
 3. What
 4. When
-6. Where
+5. Where
 6. Why

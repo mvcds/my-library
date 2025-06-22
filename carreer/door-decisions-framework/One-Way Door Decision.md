@@ -2,7 +2,8 @@
 aliases:
   - One-Way Door
 ---
-#concept 
+
+#concept
 
 A hard-to-revert [[Decision]], with [[time|last-longing]] effects, so needs more conscious [[Feeling|Thought]] about its [[2 - Causes and Consequences|Consequeces]]
 

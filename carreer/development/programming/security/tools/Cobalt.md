@@ -1,2 +1,1 @@
-
-[[penetration test|Pentest ]] as a service platform
+[[penetration test|Pentest]] as a service platform

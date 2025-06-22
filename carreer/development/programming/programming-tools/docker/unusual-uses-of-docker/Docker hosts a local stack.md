@@ -8,7 +8,7 @@ We provide an [[Image]] that contains all the versions of a tooling for the app,
 
 # Using a single source of truth
 
-  We can use [[Docker Compose]] to have the `compose.yml` as a single source of truth for our tooling, then we run`docker compose run --rm <service> <command>`.
+We can use [[Docker Compose]] to have the `compose.yml` as a single source of truth for our tooling, then we run`docker compose run --rm <service> <command>`.
 
 ```yml
 //compose.yml

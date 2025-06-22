@@ -2,4 +2,4 @@
 
 ---
 
-#paraphrased  of [[Whitney Goodman]] in [[0 - Toxic Positivity]]
+#paraphrased of [[Whitney Goodman]] in [[0 - Toxic Positivity]]

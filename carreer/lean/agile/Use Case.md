@@ -16,7 +16,6 @@ It outlines, from a user’s point of view, a system’s [[behavior]] as it resp
 - Main [[success]] scenarios / Basic flow
 - Alternative paths / Alternative Flow
 
-
 ---
 
 It's possible to transform use cases into [[Code]]

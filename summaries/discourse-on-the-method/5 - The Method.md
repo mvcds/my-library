@@ -1,4 +1,4 @@
-Keeping in mind what he has learned of [[Logic]], [[Geometry]], and [[Algebraic structure|Algebra]], he sets down the following rules: 
+Keeping in mind what he has learned of [[Logic]], [[Geometry]], and [[Algebraic structure|Algebra]], he sets down the following rules:
 
 1. To never believe anything unless he can prove it himself;
 2. To reduce every problem to its simplest parts;

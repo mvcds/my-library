@@ -2,6 +2,7 @@
 aliases:
   - AWS Code Pipeline
 ---
+
 In [[Amazon Web Services|AWS]] it serves for [[Continous Delivery]], where:
 
 - pipeline = workflow

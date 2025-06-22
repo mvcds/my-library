@@ -4,4 +4,4 @@ Trying to soften a blow before the criticism usually has the opposite effect bec
 
 Understanding of [[0 - Never Split The Difference]]
 
-#learn 
+#learn

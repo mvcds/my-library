@@ -9,14 +9,16 @@ I found out that for me, RFCs seems to work better when initially it is restrict
 RFCs can be broken down by discipline and/or domain, and normally will yield a [[Architecture Decision Record|ADR]]
 
 # Templates
+
 They will evolve according to what a company thinks it matters for them.
 
 ## Both
--  List of approvers
--  Abstract (what is the project about?)
+
+- List of approvers
+- Abstract (what is the project about?)
 - Status
--  Architecture changes
--  [[Customer]] support considerations
+- Architecture changes
+- [[Customer]] support considerations
 - Documents & References
 - ADR
 - Decision

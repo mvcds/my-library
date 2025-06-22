@@ -4,4 +4,4 @@ Some [[Information]] might seem inocous.
 
 ---
 
-Understanding of [[0 - Never Split The Difference]] #learn 
+Understanding of [[0 - Never Split The Difference]] #learn

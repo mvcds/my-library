@@ -1,3 +1,3 @@
 Technique in [[PHP]] to check connections
 
-#empty 
+#empty

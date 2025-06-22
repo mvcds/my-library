@@ -9,8 +9,11 @@ Responses:
 - Scream/Yell[^1]
 - Withdraw[^4]
 - Worry
- 
+
 [^1]: As in [[Anger]]
+
 [^2]: As in [[Sadness]]
+
 [^3]: As in [[Disgust]]
+
 [^4]: As in [[Disgust]] and [[Sadness]]

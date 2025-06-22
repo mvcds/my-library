@@ -4,4 +4,4 @@ Ultralearners can diversify their skill sets without taking time off work
 
 ![[1 - The most desirable workers have hybridized skill sets]]
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

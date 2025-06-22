@@ -1,6 +1,7 @@
 ---
 source: https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html?utm_source=tldrwebdev
 ---
+
 ![[smurf-principle.png]]
 
 An #acronym for how [[Testing]] should be performed in a way that detaches it from the [[Test Pyramid]]

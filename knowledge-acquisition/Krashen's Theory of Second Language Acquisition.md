@@ -18,7 +18,7 @@ There are learners who use the 'monitor' all the time (over-users); those learne
 
 # Input
 
-The **Input** hypothesis is only concerned with 'acquisition', not 'learning'. The learner improves and progresses when he/she receives second [[Language]] 'input' that is one step beyond his/her current stage of linguistic competence and can understand it, even if (s)he can reproduce it - teachers should aim to give comprehensible Input' 
+The **Input** hypothesis is only concerned with 'acquisition', not 'learning'. The learner improves and progresses when he/she receives second [[Language]] 'input' that is one step beyond his/her current stage of linguistic competence and can understand it, even if (s)he can reproduce it - teachers should aim to give comprehensible Input'
 
 # Natural Order
 
@@ -31,6 +31,7 @@ This order seemed to be independent of the learners' age, L1 background, and con
 the **Affective Filter** hypothesis embodies Krashen's view that a number of 'affective variables' play a facilitative, but non-causal, role in L2 acquisition.
 
 These variables include:
+
 - motivation
 - self-confidence
 - and anxiety

@@ -7,13 +7,13 @@ Plus, factories allow you to name the states possible for your instatiation maki
 ```C#
 class UserFactory {
 	constructor() { ... }
-	
+
 	void FreeUser() { ... }
-	
+
 	void PremiumUser() { ... }
-	
+
 	void DefaultyUser() { ... }
-	
+
 	void ExtremellyDefaultyUser() { ... }
 	...
 	User Build() { ... }

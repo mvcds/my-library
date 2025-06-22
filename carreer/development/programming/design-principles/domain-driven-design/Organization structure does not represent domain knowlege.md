@@ -1,5 +1,5 @@
 > Organization structure does not represent [[domain]] knowledge
 
-#quote 
+#quote
 
 Those things are [[Coupling|decoupled]]

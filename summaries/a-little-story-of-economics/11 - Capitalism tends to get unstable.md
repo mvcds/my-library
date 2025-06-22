@@ -10,6 +10,6 @@ This can be explained by what [[Raimond Minsk]](?) believes to be the consequenc
 
 ---
 
-#summary  of [[0 - A little story of economics]]
+#summary of [[0 - A little story of economics]]
 
 [^1]: [[Negotiaions are not fully rational]]

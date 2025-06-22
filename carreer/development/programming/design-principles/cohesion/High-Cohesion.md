@@ -2,4 +2,4 @@ A desirable quality for a [[Modularity|Module]] is that it presents high-[[Cohes
 
 ---
 
-It often appears together with [[Low-Coupling]] 
+It often appears together with [[Low-Coupling]]

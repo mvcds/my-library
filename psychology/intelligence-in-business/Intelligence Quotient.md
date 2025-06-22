@@ -2,7 +2,8 @@
 aliases:
   - IQ
 ---
-#concept 
+
+#concept
 
 A [[Number]] representing a person's [[Reasoning]] ability
 

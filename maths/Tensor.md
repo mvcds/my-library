@@ -2,13 +2,12 @@ An [[Algebraic structure]] which describes the relationship between algebraic ob
 
 A tensor has ranks
 
-| Rank | Object |
-|-|-|
-| 0 | [[maths/Scalar]] |
-| 1 | [[Vector]] |
-| 2 | n vs n [[Matrix]] |
-| >=3| Tensor |
-
+| Rank | Object            |
+| ---- | ----------------- |
+| 0    | [[maths/Scalar]]  |
+| 1    | [[Vector]]        |
+| 2    | n vs n [[Matrix]] |
+| >=3  | Tensor            |
 
 ---
 

@@ -7,4 +7,5 @@ The question then is how to support complexy[^1] [[environment]]s[^2], and the a
 Understanding about [[Antifragility]]
 
 [^1]: [[1 - What is complexity for science and engineering]] and [[2 - If you don't have ways to control it or measure it, it's probably complex]]
+
 [^2]: In this context it means our [[team|teams]], our market, our requirements, etc

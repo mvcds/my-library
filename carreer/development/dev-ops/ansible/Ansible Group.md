@@ -9,6 +9,7 @@ Even if you do not define any groups in your [[Ansible Inventory|Inventory]] fil
 You can create parent/child relationships among groups. Parent groups are also known as nested groups or groups of groups.
 
 Child groups have a couple of properties to note:
--   Any host that is member of a child group is automatically a member of the parent group.
--   Groups can have multiple parents and children, but not circular relationships.
--   Hosts can also be in multiple groups, but there will only be **one** instance of a host at runtime. Ansible merges the data from the multiple groups.
+
+- Any host that is member of a child group is automatically a member of the parent group.
+- Groups can have multiple parents and children, but not circular relationships.
+- Hosts can also be in multiple groups, but there will only be **one** instance of a host at runtime. Ansible merges the data from the multiple groups.

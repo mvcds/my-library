@@ -1,4 +1,4 @@
-A #mneumonic to help remembering the following possible ways[^1] an attacker can try compromising the [[System]] 
+A #mneumonic to help remembering the following possible ways[^1] an attacker can try compromising the [[System]]
 
 - [[Spoofing]]
 - [[Tampering]]

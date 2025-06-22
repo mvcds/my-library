@@ -12,6 +12,6 @@ Good for [[Unstructured Data]] because it optimizes for:
 - namespaces spanning multiple physical instances
 - data replication and distribution
 
-----
+---
 
 Services like Facebook, Dropbox and Spottily use this kind of storage for photos/videos, file synchronization and songs, respectively.

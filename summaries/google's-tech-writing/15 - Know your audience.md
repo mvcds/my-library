@@ -10,10 +10,10 @@ Note that your audience must sometimes master tasks in a certain order
 
 ---
 
--   Who is your target audience?
--   What is your target audience's [[goal]]? Why are they reading this document?
--   What do your readers already know _before_ they read your document?
--   What should your readers know or be able to do _after_ they read your document?
+- Who is your target audience?
+- What is your target audience's [[goal]]? Why are they reading this document?
+- What do your readers already know _before_ they read your document?
+- What should your readers know or be able to do _after_ they read your document?
 
 ---
 

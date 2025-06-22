@@ -4,5 +4,5 @@ A lightweight [[Text Editor]]
 
 You can trigger it from a [[Unix Shell]] by following one of the tutorial below
 
-* https://gist.github.com/adrianorsouza/df4759b0583dcd112da4
-* https://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal
+- https://gist.github.com/adrianorsouza/df4759b0583dcd112da4
+- https://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal

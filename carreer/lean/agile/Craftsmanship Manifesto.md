@@ -3,6 +3,7 @@ aliases:
   - Craftsmanship
   - Software Craftsmanship
 ---
+
 An "evolution" of the [[Agile Manifest]] because it doesn't necessarily address [[Quality]].
 
  It emphasises the importance of technical excellence, attention to detail, and ongoing learning and improvement in the practice of [[Software]] development.

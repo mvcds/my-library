@@ -2,4 +2,4 @@ When [[13 - Immersive Learning]] is not possible e.g. flying Boeings on the firs
 
 If you can’t spend three months in Germany, for example, try a Skype tutorial with a German speaker.
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

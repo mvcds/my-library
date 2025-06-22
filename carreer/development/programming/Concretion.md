@@ -1,6 +1,7 @@
 ---
 aliases: [Concrete]
 ---
+
 Opposes [[carreer/development/programming/Abstraction|Abstraction]]
 
 ---

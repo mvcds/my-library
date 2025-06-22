@@ -7,6 +7,7 @@ aliases:
   - Agents
   - Artificially Intelligent Agents
 ---
+
 A [[Software|Program]] that performs taks, take decions and can be autonomoys on its [[environment]], powered by [[Artificially Intelligent Agent|AI]], usually [[Large Language Model|LLMs]]
 
 ---

@@ -8,7 +8,7 @@ Currently [[Developer vs Architect|Developers]] are but translators from natural
 
 ---
 
-[[Developer vs Architect|Developers]] define vision, juniors can do that with  [[Artificially Intelligent Agent|Agents]]
+[[Developer vs Architect|Developers]] define vision, juniors can do that with [[Artificially Intelligent Agent|Agents]]
 
 ---
 

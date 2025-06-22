@@ -2,7 +2,7 @@ Even though they are often arbitrary and hardly have "deadly" consequences, [[4 
 
 They case pressure and anxieties due to its possible consequences: we can [[Loss Aversion|lose]] something in the future.
 
-When facing a deadline, we get  reactive and, due to it, [[5 - Negotiations are not fully rational|we make poor choices]], despite if the deadline is real/imaginary and/or external/self-imposed.
+When facing a deadline, we get reactive and, due to it, [[5 - Negotiations are not fully rational|we make poor choices]], despite if the deadline is real/imaginary and/or external/self-imposed.
 
 ---
 

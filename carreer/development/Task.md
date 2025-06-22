@@ -6,7 +6,8 @@ aliases:
   - Working Ticket
   - Working Tickets
 ---
-#concept 
+
+#concept
 
 An actionable thing to do that
 

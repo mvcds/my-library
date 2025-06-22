@@ -1,4 +1,4 @@
-A #concept  that indicates when two pieces of [[Code]] must change together for the [[software]] to keep working [[correctness|correctly]], for the sake of [[Maintainability]]. It can be [[Static Connascence|Static]] or  [[Dynamic Connascence|Dynamic]].
+A #concept that indicates when two pieces of [[Code]] must change together for the [[software]] to keep working [[correctness|correctly]], for the sake of [[Maintainability]]. It can be [[Static Connascence|Static]] or [[Dynamic Connascence|Dynamic]].
 
 - **Degree of explicitness**: the more explicit a connascence form is, the weaker it is. It has to do with size of imnpact.
 - **Locality**: connascence across encapsulation boundaries is much worse than connascence between elements inside the same encapsulation boundary. As the distance between software elements increases, the forms of connascence should be weaker.

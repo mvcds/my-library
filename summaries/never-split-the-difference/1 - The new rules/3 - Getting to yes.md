@@ -9,6 +9,6 @@ The things to remember[^1]
 
 Understanding of [[0 - Never Split The Difference]]
 
-#learn 
+#learn
 
 [^1]: [[1 - Don't push for an "yes"]]

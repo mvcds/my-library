@@ -15,5 +15,7 @@
 - Line[^3]
 
 [^1]: [[Probability]]
+
 [^2]: [[Discrete Function]] ?
+
 [^3]: [[Continuous Function]]co

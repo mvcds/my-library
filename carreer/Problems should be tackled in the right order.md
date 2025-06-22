@@ -2,7 +2,7 @@ First, use descriptive diagnostic analytics to clean and analyze [[data]] so you
 
 Ex. A company looking to improve the profitability of a marketing campaign will use descriptive analytics to conclude that a lower price leads to move sales.
 
-Next, use predictive analytics to build a  [[Machine Learning|Machine learnign model]] that will use historical data sets to predict future data points.
+Next, use predictive analytics to build a [[Machine Learning|Machine learnign model]] that will use historical data sets to predict future data points.
 
 Ex. Ideas for new marketing campaigns are validated by estimating their sales performance.
 

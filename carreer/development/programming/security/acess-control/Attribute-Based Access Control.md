@@ -10,7 +10,7 @@ The most common standarized means of expressing ABAC policy is [[XACML]]. Which 
 
 Consider ABAC when:
 
--   Permissions are highly dynamic and simply changing user roles is going to be a significant maintenance headache
--   The profile attributes on which permissions depend are already maintained for other purposes, such as managing an employee's HR profile
--   Access control is sufficiently sensitive that control flows need to vary based on temporal attributes such as whether it's during the normal working hours of your employees
--   You wish to have centralised policy with very fine-grained permissions, managed independently of your application code.
+- Permissions are highly dynamic and simply changing user roles is going to be a significant maintenance headache
+- The profile attributes on which permissions depend are already maintained for other purposes, such as managing an employee's HR profile
+- Access control is sufficiently sensitive that control flows need to vary based on temporal attributes such as whether it's during the normal working hours of your employees
+- You wish to have centralised policy with very fine-grained permissions, managed independently of your application code.

@@ -6,7 +6,7 @@ A [[Browser]] [[Feature]] that replaces the [[Hypertext Transfer Protocol|HTTP]]
 
 Enabling it is as simple as sending a header in a response:
 
-`Strict-Transport-Security: max-age=15768000` 
+`Strict-Transport-Security: max-age=15768000`
 
 In the example above, we've set it for six months specified in seconds.
 

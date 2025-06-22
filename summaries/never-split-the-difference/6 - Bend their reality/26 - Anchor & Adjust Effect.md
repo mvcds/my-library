@@ -2,4 +2,4 @@ A form of [[Anchoring Bias|Anchor & Adjust Effect]] where our tendency is to thi
 
 ---
 
-Understanding of [[0 - Never Split The Difference]] (though I couldn't find information to support  it)
+Understanding of [[0 - Never Split The Difference]] (though I couldn't find information to support it)

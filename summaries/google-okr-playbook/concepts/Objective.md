@@ -6,6 +6,7 @@ aliases:
   - O
   - Os
 ---
+
 #concept in [[2 - Writing effective OKRs]]
 
 - Express [[Goal]] and [[Militar Intent|Intents]]

@@ -4,4 +4,5 @@ aliases:
   - S3
   - Amazon S3
 ---
-[[Amazon Web Services|AWS]]'s [[Object storage]] 
+
+[[Amazon Web Services|AWS]]'s [[Object storage]]

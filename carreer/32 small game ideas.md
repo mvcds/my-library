@@ -24,9 +24,9 @@
 24. Cursor is light: Darkness on the screen, lit only by the light moving toward the cursor, will you be able to avoid the terrors lurking nearby?
 25. Preventing inevitable doom: There is an incoming danger that rises every few seconds and you have to defend yourself either by dodging, raising the shield, or making some quick decisions.
 26. Billard: Hit the ball with a stick to push other balls inside the holes. You could put your own twist here by making different balls have different effects on the table when they are hit or go down the holes. Maybe table could have a unique shape, or holes could be constantly moving if you would want to increase difficulty.
-27.  Take care of a monster or animal: This one is probably more of a mobile game idea. Make the player take care of an animal by feeding, bathing or playing with it and see how it grows.
-28.  Ball control: Instead of trying to escape from the ball, you control the ball trying to hit as many things as possible.
-29.  Collector: Try to collect all items on the screen before either time runs out or something bad gets you.
-30.  Nostalgic old times: One of the first games I have ever played on a PC was riding a bike on platforms trying to catch them apples. It didn't make sense and it didn't had to. The game that is in my mind from the old NES console times even 20 years later was Kunio Kun series. I like them more than all the FIFA's I have ever played. Do you have an old game that is stuck in your mind and you could be inspired by today?
-31.  Cats: Cats are awesome, they are great at breaking stuff, chasing strings, licking themselves and apparently flying through space leaving rainbows in their path.
-32.  Education: You can make a simple game about garbage segregation, sickness risks, physics, chemistry, psychology, game development, color theory or any other knowledge that you consider interesting or worth having.
+27. Take care of a monster or animal: This one is probably more of a mobile game idea. Make the player take care of an animal by feeding, bathing or playing with it and see how it grows.
+28. Ball control: Instead of trying to escape from the ball, you control the ball trying to hit as many things as possible.
+29. Collector: Try to collect all items on the screen before either time runs out or something bad gets you.
+30. Nostalgic old times: One of the first games I have ever played on a PC was riding a bike on platforms trying to catch them apples. It didn't make sense and it didn't had to. The game that is in my mind from the old NES console times even 20 years later was Kunio Kun series. I like them more than all the FIFA's I have ever played. Do you have an old game that is stuck in your mind and you could be inspired by today?
+31. Cats: Cats are awesome, they are great at breaking stuff, chasing strings, licking themselves and apparently flying through space leaving rainbows in their path.
+32. Education: You can make a simple game about garbage segregation, sickness risks, physics, chemistry, psychology, game development, color theory or any other knowledge that you consider interesting or worth having.

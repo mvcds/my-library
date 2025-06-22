@@ -1,9 +1,11 @@
 ---
 url: https://habr.com/ru/company/mobileup/blog/335382
 ---
+
 Highlights of this article about misconceptions about [[Clean Architecture]]
 
 # [[Tier vs Layer|Layers]]
+
 - [[Entity|Entities]] encapsulate the logic of the [[business]][^1], that is, everything that does not depend on a specific [[Software|Application]], but will be common to many. But if you have a separate app that is not tailored for any business, then they will be business objects containing the most general and high-level rules
 - [[Use Case|Use Cases]] ([[Interactors]]): application logi
 - [[Interface]] Adapters: link the use cases to the outside world. This include [[Model-View-Presenter Architecture|MVP Presenters]], as well as Gateways AKA Repositories.
@@ -22,6 +24,7 @@ In summary: inner layers should not depend on outer ones. The name of entities d
 - [[Flow of data]] is clearly defines
 
 # Misc
+
 - Interactor: another name for UC. Some people say that interactors are a collection of UCs but that might lead to confusion
 - Repository: mediates between the domain and data mapping layer using a collection-like interface for accessing [[Domain Object|Domain Objects]]
 - Gateway: another name for Repository. Essentially a kind of [[Façade Pattern|Façade]] where we hide a complex [[Application Programming Interface|API]] behind simple methods

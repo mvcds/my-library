@@ -6,10 +6,10 @@ Most people feel drunk at .10 BAC. Your reaction [[time]] is delayed and your mu
 
 If two equally-weighted people drink the same in the same time, their BAC, and thus their drunkness, might be different because of several factors, like:
 
-- Differences in [[Body Water Composition]] make male-bodied  dilute the alcohol more
+- Differences in [[Body Water Composition]] make male-bodied dilute the alcohol more
 - Male-bodied people have more of the enzyme that metabolises alcohol
 - Hormonal changes in female-bodied affect alcohol digestion
-- [[16 - Technology in a men's world|Body size matters]], and male-bodied have larger skeletal  frames and muscles, which contributes for alcohol dilution
+- [[16 - Technology in a men's world|Body size matters]], and male-bodied have larger skeletal frames and muscles, which contributes for alcohol dilution
 
 ---
 

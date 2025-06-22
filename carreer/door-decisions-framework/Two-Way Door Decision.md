@@ -2,7 +2,8 @@
 aliases:
   - Two-Way Door
 ---
-#concept 
+
+#concept
 
 A easy-to-revert [[Decision]], which encourages agility and [[31 - Experimentation]]
 

@@ -1,4 +1,4 @@
-Boid is a simulated flock composed by units 
+Boid is a simulated flock composed by units
 
 # Rules
 

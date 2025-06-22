@@ -2,7 +2,7 @@
 aliases: [Mathematics, Mathematical]
 ---
 
-The studies of 
+The studies of
 
 - Quantities ([[Number]] theory)
 - Structure ([[Algebraic structure|algebra]])

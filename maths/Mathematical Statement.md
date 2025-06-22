@@ -1,5 +1,12 @@
 ---
-aliases: [Mathematical Statements,Statement,Statements,Logical Statement,Logical Statements]
+aliases:
+  [
+    Mathematical Statements,
+    Statement,
+    Statements,
+    Logical Statement,
+    Logical Statements,
+  ]
 ---
 
 A [[linguistics/Statement|linguistic statement]] that can either be [[Boolean|true or false]]

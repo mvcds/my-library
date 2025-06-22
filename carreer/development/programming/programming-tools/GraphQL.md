@@ -5,9 +5,11 @@ Under the hood it still runs as a [[Representational State Transfer Architecture
 # Tradeoffs
 
 Good
+
 - [[User]] facing
 
 Bad
+
 - Upfront work
 - Less friendly for external users
 - Hard to auto-generate docs(?)

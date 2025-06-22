@@ -2,6 +2,7 @@
 aliases:
   - IDD
 ---
+
 #concept in [[0 - Introducing Interaction-Driven Design]]
 
 An interactive approach to [[Software Design]] that [[Model|models]] its [[behavior]] accoriding to the external usage of the [[System]] while maintaining a cohesive internal representation of [[business]] components

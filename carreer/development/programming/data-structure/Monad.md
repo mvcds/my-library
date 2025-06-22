@@ -1,8 +1,8 @@
 Monads are generic datatypes respecting a certain [[interface]] that encodes a given degree of “expressive power” of this datatype. There are many definitions of this [[Interface]], and they are all equivalent. The crucial aspect of a monad is that it can be:
 
-* created
-* transformed
-* flattened
+- created
+- transformed
+- flattened
 
 The monad must be transformable, meaning that if we have an instance of a monad and a function that can process its input, then we want be able to transform the content of the monad and directly re-encapsulate it inside a new instance of a new monad. This is commonly known as **map**.
 

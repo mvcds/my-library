@@ -25,5 +25,7 @@ IDK the source
 23. Documentation.
 
 [^1]: Check [[Don't repeat yourself|DRY Principle]]
+
 [^3]: Resembles [[Command Query Responsibility Segregation|CQRS]]?
+
 [^4]: My favorite way is [[Test-Driven Design|TDD]]

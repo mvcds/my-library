@@ -7,6 +7,7 @@ We should start by learning how to [[knowledge|learn]] a subject rather than abs
 This give you an [[Optimal Stopping|optimal]] learning [[strategy]], and the recommended [[time]] is using about 10% of the time for metalearning.
 
 # Mapping
+
 The metalearning map is a breakdown of the subject into three categories, which come in different proportions, according to the subject:
 
 - [[Concept|Concepts]]
@@ -17,4 +18,4 @@ Each of this categories requires different [[tatic|tatics]], like learning a spo
 
 With a map in mind, we can start [[4 - Benchmarking]]
 
-#summary  of [[0 - Ultralearning]]
+#summary of [[0 - Ultralearning]]

@@ -1,4 +1,4 @@
-Given that an [[16 - "Why" stinks of accusaion]],  you should use this world carefully.
+Given that an [[16 - "Why" stinks of accusaion]], you should use this world carefully.
 
 Prefer "what cause you to do it?" over "why did you do it?" when [[15 - Designing calibrated questions]] and normal [[negotiation|converstation]].
 

@@ -1,3 +1,3 @@
 > All work is an act of [[philosophy]].
 
-#quote  on  [[Altas Shrugged]]
+#quote on [[Altas Shrugged]]

@@ -11,7 +11,7 @@ Between aggregates and machines there's a space that [[Computer]] science seeks 
 
 ![[computer-science.png]]
 
-That is, 
+That is,
 
 > [[Computer]] science is about making the [[Complex|complexity]] of the worlds a bit more understandable
 

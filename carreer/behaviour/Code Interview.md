@@ -16,54 +16,54 @@ As per [[ChatGPT]]
 # Data Structures
 
 1. **Arrays:**
-    - Access: O(1)
-    - Search: O(n)
-    - Insertion/Deletion (at the end): O(1) if dynamic, O(n) if resizing is required
+   - Access: O(1)
+   - Search: O(n)
+   - Insertion/Deletion (at the end): O(1) if dynamic, O(n) if resizing is required
 2. **Linked Lists:**
-    - Access: O(n)
-    - Search: O(n)
-    - Insertion/Deletion (at the beginning): O(1)
+   - Access: O(n)
+   - Search: O(n)
+   - Insertion/Deletion (at the beginning): O(1)
 3. **Stacks:**
-    - Push/Pop: O(1)
+   - Push/Pop: O(1)
 4. **Queues:**
-    - Enqueue/Dequeue: O(1)
+   - Enqueue/Dequeue: O(1)
 5. **Hash Tables:**
-    - Insertion/Retrieval (average): O(1)
-    - Worst-case (with collisions): O(n)
+   - Insertion/Retrieval (average): O(1)
+   - Worst-case (with collisions): O(n)
 6. **Trees:**
-    - Binary Search Tree (BST) operations (average): O(log n)
-    - In a balanced tree, e.g., AVL or Red-Black: O(log n)
-    - In an unbalanced tree: O(n)
+   - Binary Search Tree (BST) operations (average): O(log n)
+   - In a balanced tree, e.g., AVL or Red-Black: O(log n)
+   - In an unbalanced tree: O(n)
 7. **Heaps:**
-    - Insertion/Extract-Min: O(log n)
+   - Insertion/Extract-Min: O(log n)
 8. **Graphs:**
-    - Graph Traversal (DFS, BFS): O(V + E), where V is the number of vertices, and E is the number of edges.
-    - Dijkstra's Algorithm: O(V^2) with an adjacency matrix, O(E + V log V) with a min-heap (for non-negative [[weight|weights]])
-    - Kruskal's Algorithm: O(E log E) or O(E log V)
+   - Graph Traversal (DFS, BFS): O(V + E), where V is the number of vertices, and E is the number of edges.
+   - Dijkstra's Algorithm: O(V^2) with an adjacency matrix, O(E + V log V) with a min-heap (for non-negative [[weight|weights]])
+   - Kruskal's Algorithm: O(E log E) or O(E log V)
 9. **Sets:**
-    - Set operations (e.g., Union, Intersection): O(n) in the worst case
+   - Set operations (e.g., Union, Intersection): O(n) in the worst case
 10. **Trie:**
     - Insertion/Search: O(k), where k is the length of the key
 
-# **Algorithms
+# \*\*Algorithms
 
 - **Searching Algorithms:**
-    - Linear Search: O(n)
-    - Binary Search: O(log n)
+  - Linear Search: O(n)
+  - Binary Search: O(log n)
 - **Sorting Algorithms:**
-    - Quick Sort: O(n log n) on average, worst-case O(n^2)
-    - Merge Sort: O(n log n)
-    - Bubble Sort: O(n^2)
-    - Insertion Sort: O(n^2)
+  - Quick Sort: O(n log n) on average, worst-case O(n^2)
+  - Merge Sort: O(n log n)
+  - Bubble Sort: O(n^2)
+  - Insertion Sort: O(n^2)
 - **Graph Algorithms:**
-    - Depth-First Search (DFS): O(V + E)
-    - Breadth-First Search (BFS): O(V + E)
-    - Dijkstra's Algorithm: O(V^2) or O(E + V log V)
-    - Kruskal's Algorithm: O(E log E) or O(E log V)
+  - Depth-First Search (DFS): O(V + E)
+  - Breadth-First Search (BFS): O(V + E)
+  - Dijkstra's Algorithm: O(V^2) or O(E + V log V)
+  - Kruskal's Algorithm: O(E log E) or O(E log V)
 - **Dynamic Programming:**
-    - It varies depending on the problem. Commonly O(n^2) or better.
+  - It varies depending on the problem. Commonly O(n^2) or better.
 - **Greedy Algorithms:**
-    - It varies depending on the problem.
+  - It varies depending on the problem.
 - **Divide and Conquer:**
-    - Finding the maximum subarray (Kadane's Algorithm): O(n)
-    - Fast Fourier Transform (FFT): O(n log n)[[]()]()
+  - Finding the maximum subarray (Kadane's Algorithm): O(n)
+  - Fast Fourier Transform (FFT): O(n log n)[[]()]()

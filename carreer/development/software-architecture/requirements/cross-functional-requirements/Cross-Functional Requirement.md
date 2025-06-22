@@ -48,4 +48,5 @@ Avoid using "non-functional requirement" because the "non" there might raise the
 - It's the opposite of [[Functional Requirement]]
 
 [^1]: https://sarahtaraporewalla.com/agile/design/i-dont-believe-in-nfrs
+
 [^2]: Similar to the [[carreer/development/software-architecture/cap-theorem/CAP theorem|CAP Theorem]]

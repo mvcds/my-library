@@ -4,7 +4,7 @@ Never do:
 
 ```ts
 if (!isValid(sessionId)) {
-    session = createSession(sessionId);
+  session = createSession(sessionId)
 }
 ```
 

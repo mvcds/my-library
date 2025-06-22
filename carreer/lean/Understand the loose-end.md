@@ -8,4 +8,4 @@ It reduces [[dependency|dependencies]] between [[team|teams]] or people
 
 That reminded me a lot of [[17 - Risks and Rabbit holes]]
 
-#quote 
+#quote
