@@ -60,4 +60,74 @@ Throughout all phases, it's essential to save the information collected and deci
 
 - [[C4 Model]] 
 - [[Architecture Decision Record|ADR]]
+- [[Product Requirement Document|PRD]]
 
+---
+
+[[Product Management]]
+
+```mermaid
+flowchart LR
+    PR(["Product<br>Roadmap"]) --> Epic1(["Epic"]) & Epic2(["Epic X"])
+    Epic1 --> US1(["User<br>Story"]) & US2(["User<br>Story X"])
+    US1 --> Ticket1(["Ticket"]) & Ticket2(["Ticket X"])
+```
+- [[Product Roadmap]]: the highest level is the strategic plan, defining the long-term vision and direction of the product
+- [[Epic]]
+- [[User Story]]
+- Work Ticket: concrete actions to complete USs
+
+---
+
+How to create good [[User Story|User Stories]]
+
+1. Focus on the [[User]]
+	1. Write them from their perspective
+	2. Use [[Persona|Personas]]
+2. Keep it simple and concise
+	1. "How as [X], I want [Y] so that [Z]"
+	2. Avoid technical details
+	3. Small enough for one [[Sprint]]
+3. Prioritise and Estimate
+	1. A US has value for users and the [[business]]
+	2. Estimate effort on doing them
+4. Encourage collaboration
+	1. The development [[Team]] helps writing them
+5. Include [[Acceptance Criteria]]
+	1. Do not be technical
+6. Keep them up to date
+
+---
+
+How [[Artificially Intelligent Agent|Agents]]can help with [[User Story|User Stories]]
+
+1. Identify them from the [[Product Requirement Document|PRD]]
+2. Create them
+3. Evaluation: they are pretty good at identifying inconsistencies, gaps o requirement conflicts
+4. Revision: clarity can be improved
+5. Priotization
+
+---
+
+How [[Artificially Intelligent Agent|Agents]] can help with [[Backlog]]
+
+1. Priotization
+2. Creating [[User Story|User Stories]]
+3. [[Bug]] detection
+4. Impact simulation
+5. [[Feedback]] integration
+
+---
+
+How [[Artificially Intelligent Agent|Agents]] can help with [[Task|Tickets]]
+
+1. Gather [[System Requirement|Requirement]] from [[Product Requirement Document|PRD]] or [[User Story|User Stories]]
+2. Generate clear [[Acceptance Criteria]]
+3. Classify and categorize them
+4. Settting their [[Prioritizing|Priority]], [[Effort]] and [[Continous Learning]]
+5. [[Asset|Resource]] optimisation to balance load the work between people
+	1. Equitative balance
+	2. Contextual balance
+6. Integrated [[Feedback]]
+	1. Check previous work
+	2. Recommend
