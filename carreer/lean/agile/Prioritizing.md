@@ -5,7 +5,7 @@ aliases:
 ---
 #concept #procedure 
 
-The process of sorting the [[Backlog]] items, accounting for:
+The [[my-library/carreer/development/programming/Process#Noun|Process]] of sorting the [[Backlog]] items, accounting for:
 
 - [[Business Value]]
 - Urgency
