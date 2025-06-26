@@ -8,7 +8,7 @@
 6. [[system-design-interview/concepts/technical-concepts/Load Balancer|Load Balancer]]
 7. [[Caching]]
 8. [[Message Queueing]]
-9. [[Indexing]]
+9. [[system-design-interview/concepts/technical-concepts/Indexing]]
 10. [[Failover]]
 11. [[Replication]]
 12. [[Consistent Hashing]]

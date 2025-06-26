@@ -133,3 +133,20 @@ How [[Artificially Intelligent Agent|Agents]] can help with [[Task|Tickets]]
 6. Integrated [[Feedback]]
    1. Check previous work
    2. Recommend
+
+---
+
+Concepts to have in mind for [[Software|Softwares]] [[Development]] [[Task|Tickets]]
+
+- [[Artificially Intelligent Agent|Agents]] for development
+- Multiple [[Actors and Roles|Roles]] with agents
+- Ticket granularity
+- [[Acceptance Criteria]]
+- Planning and [[Prioritization]][^1]
+- Identify items: keeping reference thought iterations
+
+[^1]: [[Product Backlog]]
+
+---
+
+You can ask the [[Artificially Intelligent Agent|Agent]] to execute [[Sudolang]]
