@@ -3,7 +3,7 @@ aliases:
   - Risks
 ---
 
-The opposite of [[3 kinds of knowledge|Knowledge]]
+The opposite of [[Knowledge]]
 
 ---
 
