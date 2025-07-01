@@ -32,9 +32,34 @@ Mains [[Risk|Risks]] when using [[Artificially Intelligent Agent|Agents]], we sh
 
 Main concerns about [[Risk]]
 
-- Exposing the [[Code|Codebase]] to third prties
+- Exposing the [[Code|Codebase]] to third parties
 - Leakage of [[Credential|credentials]]
 - [[Conformity]] risks: violating author's rights
 - [[Shadow LLMs]]: unnoficial or unallowed tools that will be used within an [[Business|Organization]]
 - Malicious Code
 - [[Hallucination]]
+
+---
+
+Best [[Security]] practice working with [[Large Language Model|LLMs]]
+
+- De-identification: removing [[Personal Private Information|PPI]] during [[fine tuning]] or [[training]]
+- Use fictional [[carreer/development/Value|values]]: if [[training]] requires sensible information
+	- Less risk or leaking real [[Information]]
+	- Better [[Quality]] of [[Data]]
+	- Remove [[culture|cultural]] [[Bias]]
+- Execute [[Large Language Model|LLM]] locally
+
+---
+
+Executing [[Large Language Model|LLMs]] locally
+
+- [[Cost]] is reduced
+- No [[Internet]] required
+- Totally private
+
+---
+
+Mini [[Model|Models]]
+
+A [[Large Language Model|LLM]] model made for a niche allows for optimising functionality using a smaller size, due to the high specialization
