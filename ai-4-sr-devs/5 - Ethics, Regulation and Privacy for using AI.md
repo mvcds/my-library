@@ -63,3 +63,7 @@ Executing [[Large Language Model|LLMs]] locally
 Mini [[Model|Models]]
 
 A [[Large Language Model|LLM]] model made for a niche allows for optimising functionality using a smaller size, due to the high specialization
+
+---
+
+Always go back to the basics, mainly including [[Use Case|Use Cases]] that involve [[Artificially Intelligent Agent|Agents]] failing
