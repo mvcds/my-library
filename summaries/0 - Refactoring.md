@@ -1,0 +1,1 @@
+#book by [[Kent Beck]] and [[Margin Fowler]] about improving the [[Software Design|design]] of existing [[Code]] while keeping it [[behavior|behaving]] exactly as it was to the "external world"
