@@ -1,6 +1,7 @@
 ---
 url: https://www.youtube.com/watch?v=3VnXyHPmbY0
 ---
+#procedure 
 
 [[Body Recomposition]] can be achieved using the following tips
 

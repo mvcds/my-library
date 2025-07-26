@@ -1,8 +1,8 @@
 According to [9 tips to build muscles while losing fat](https://www.youtube.com/watch?v=3VnXyHPmbY0), [[Protein]] is the main [[Macronutrient|macro]] for drive the intake
 
-$$ Protein = Pounds _ 0,73g $$
-$$ Round Off = Total Daily Calories - (Protein _ 4)$$
+$$ Protein = Pounds * 0,73g $$
+$$ Round Off = Total Daily Calories - (Protein * 4)$$
 The amount of [[Fat]] and [[Carbohydrate|Carbs]] is flexible but a good start is splitting the "Round Off" (calories) equally
 
-$$ Fats = {{RoundOff _ 0,5} \over 9} $$
-$$ Carbs = {{RoundOff _ 0,5} \over 4} $$
+$$ Fats = {{RoundOff * 0,5} \over 9} $$
+$$ Carbs = {{RoundOff * 0,5} \over 4} $$
