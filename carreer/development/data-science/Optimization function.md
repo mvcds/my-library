@@ -4,7 +4,7 @@
 
 [[Algorithm|Algos]] that try to find the minimum [[Loss Function|loss]] or maximum [[success]] using [[Maths]].
 
-It uses the [[Learning rate]] to vary the [[bias|weights]] and biases
+It uses the [[Learning rate]] to vary the [[carreer/development/artificial-intelligence/Bias|weights]] and biases
 
 Types
 

@@ -23,7 +23,7 @@ Mains [[Risk|Risks]] when using [[Artificially Intelligent Agent|Agents]], we sh
 - [[Privacy]]
 	- [[Business|Enterprise]] [[Domain Model|Models]] have this baked in
 	- Anonymising [[Personal Private Information|PPI]]
-- [[Bias|Biases]]
+- [[carreer/development/artificial-intelligence/Bias|Biases]]
 	- Enrich it with examples
 	- Review [[training]]
 	- [[Human in-the loop]]
@@ -47,7 +47,7 @@ Best [[Security]] practice working with [[Large Language Model|LLMs]]
 - Use fictional [[carreer/development/Value|values]]: if [[training]] requires sensible information
 	- Less risk or leaking real [[Information]]
 	- Better [[Quality]] of [[Data]]
-	- Remove [[culture|cultural]] [[Bias]]
+	- Remove [[culture|cultural]] [[carreer/development/artificial-intelligence/Bias|Bias]]
 - Execute [[Large Language Model|LLM]] locally
 
 ---

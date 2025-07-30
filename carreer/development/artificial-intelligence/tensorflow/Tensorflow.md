@@ -6,12 +6,12 @@ A library to do [[Machine Learning|ML]].
 
 ![[tensor-flow-files.png]]
 
-(B is an input which is bed to a function, D is the target that we compare to adjust the [[weight|weights]] and [[Bias|Biases]])
+(B is an input which is bed to a function, D is the target that we compare to adjust the [[weight|weights]] and [[carreer/development/artificial-intelligence/Bias|Biases]])
 
 Files:
 
 - Placeholder: each iteration fills the placeholders with the correct parameters
-- Variables: preserve their [[my-library/carreer/development/Value|values]] across generations, used for weights and [[Bias|Biases]]. `global_variables_initializer()` is the function to initialize them
+- Variables: preserve their [[my-library/carreer/development/Value|values]] across generations, used for weights and [[carreer/development/artificial-intelligence/Bias|Biases]]. `global_variables_initializer()` is the function to initialize them
 - Matmul: where math operations happen
 
 ---

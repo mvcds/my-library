@@ -4,7 +4,7 @@ In [[Maths]] terms, estimator are [[Function]]s that take some parameters (what 
 
 Properties
 
-- [[Bias]]: the expected value must be equal to the population parameter to it to be considered unbiased
+- [[carreer/development/artificial-intelligence/Bias|Bias]]: the expected value must be equal to the population parameter to it to be considered unbiased
 - Efficiency: the less [[Variance]] the more efficient an estimator is
 
 ---
