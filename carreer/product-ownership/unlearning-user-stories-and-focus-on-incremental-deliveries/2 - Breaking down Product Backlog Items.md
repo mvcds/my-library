@@ -49,6 +49,8 @@ Possible solutions for the problems above include but are not limited to:[^1]
 - Static vs Dynamic
 - Hard-coded vs Real Data
 - 0 vs 1 vs many
+- Pagination
+- Filtering
 
 Part of [[0 - Unlearning user stories and focus on incremental deliveries]]
 
