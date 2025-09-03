@@ -1,4 +1,4 @@
-> Write [[Testing|Tests]]. Not too many. Mostly integration.
+> Write [[Testing|Tests]]. Not too many. Mostly [[Integration Testing|Integration]].
 
 #quote by [[Guillermo Rauch]] at https://twitter.com/rauchg/status/807626710350839808
 

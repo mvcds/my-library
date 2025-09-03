@@ -19,7 +19,7 @@ Normally a test has a description as a way to identify what the test is supposed
 
 There are many, and they often overlap somewhat
 
-- Integration
+- [[Integration Testing|Integration]]
 - Functional
 - Unit
 - [[Syntatic Monitoring]]
