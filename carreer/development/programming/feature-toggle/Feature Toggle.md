@@ -1,7 +1,13 @@
 ---
-aliases: [Feature Toggles, Feature Flag, Feature Flags, Feature Bit, Feature Bits, Feature Flipper, , Feature Flippers]
+aliases:
+  - Feature Toggles
+  - Feature Flag
+  - Feature Flags
+  - Feature Bit
+  - Feature Bits
+  - Feature Flipper
+  - Feature Flippers
 ---
-
 An externally-controlled [[my-library/carreer/development/Value|Value]] at [[runtime]], usually used in conditions, and as such a way to change how the [[Software]] behaves (its [[Feature]]s) without changing the [[Code]] - heavily linked with [[Open-Closed Principle]]
 
 ---
