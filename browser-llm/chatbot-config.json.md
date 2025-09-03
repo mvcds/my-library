@@ -1,0 +1,1 @@
+The configuration that decides how to present our [[Large Language Model|LLM]] on the [[Browser]] 

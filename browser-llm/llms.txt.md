@@ -1,0 +1,1 @@
+A file that defines the content of the [[Large Language Model|LLMs]] to be integrated into [[Browser|Browsers]] that support it
