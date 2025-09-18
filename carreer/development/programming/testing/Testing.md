@@ -25,3 +25,4 @@ There are many, and they often overlap somewhat
 - [[Syntatic Monitoring]]
 - [[Contract Test]]
 - [[Interactive App Security Testing|IAST]]
+- [[Mutation Test]]
