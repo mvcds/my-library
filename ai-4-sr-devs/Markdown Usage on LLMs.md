@@ -1,0 +1,1 @@
+An [[Large Language Model|LLM]] does not know how to "focus", [[Markdown]] helps to focus
