@@ -188,7 +188,8 @@ Challenges in [[Complex]] [[environment|environments]]
 
 ---
 
-[[Module|Modularize]] is crutial
+[[Module|Modularize]] is crucial
 
 ---
 
+It's important to beware that [[Artificially Intelligent Agent|AI]] can use [[Cost|expensive]] or inefficient [[Asset|Assets]], it's always better to specificy 
