@@ -11,3 +11,12 @@ Some tools available for it include
 - [[CloudFormation]]
 - [[Heat]]
 - [[Terraform]]
+
+# Benefits
+
+- [[Reproducibility]] and consistency
+- Version Controlled
+- [[Automatization]] and [[Scalability]]
+- Implicit documentation
+- Ease of spinning an [[environment]] up
+- Reduced [[Human Fault|Human Fault]]
