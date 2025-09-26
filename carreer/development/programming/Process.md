@@ -8,6 +8,10 @@ Process can communicate to each other only through specific mechanisms
 
 ---
 
+An [[carreer/development/system-design/concepts/Abstraction|Abstraction]] over the commands of a software that represents an instance of a program executed by the [[Computer]]
+
+---
+
 # Noun
 
 1. a series of actions that you take in order to achieve a result
