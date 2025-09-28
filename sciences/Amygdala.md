@@ -1,1 +1,1 @@
-The integrative center for [[emotions]], emotional [[behavior]], and [[motivation]]
+The integrative center for [[Emotion|Emotions]], emotional [[behaviour]], and [[motivation]]
