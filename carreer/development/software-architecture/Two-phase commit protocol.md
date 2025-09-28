@@ -16,7 +16,7 @@ Usually to achieve [[CAP Consistency|Consistency]] in the [[System]]
 If all participants voted "yes"
 
 - The coordinator sends a commit message to the participants
-- Each participant commits, releasing the [[resource|resources]] it was holding, and the sends an acknowledge message to the coordinator
+- Each participant commits, releasing the [[Resource|resources]] it was holding, and the sends an acknowledge message to the coordinator
 - The coordinator waits for all confirmations to complete the transaction
 
 If there is at least one "no"
