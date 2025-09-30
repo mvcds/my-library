@@ -28,3 +28,18 @@ Some [[Prompt|Prompting]] tips for [[Security]]
 	- "According to [[Open Web Application Security Project|OWASP]] top 10, what are the main vulnerabilities of this code? Give me concrete examples to justify it, and propose solutions to each of them"
 - Find and solve concrete [[designing-data-intensive-applications/concepts/three-types-of-faults/Failure|Bugs]]
 	- "How to solve this?"
+
+---
+
+For now [[Artificially Intelligent Agent|AI]] still not very good to find [[Attack Vector|attack vectors]
+
+---
+
+Opportunities for [[Security]]-based [[Artificially Intelligent Agent|AI]]
+
+1. [[Threat]] intelligence
+2. [[penetration test]]
+3. Security operations
+4. [[4 - Malwares|Malrware]] analisis
+5. Incident Response
+6. Generate Reports
