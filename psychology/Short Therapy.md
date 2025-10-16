@@ -1,4 +1,4 @@
-A kind of [[Psychology|psicological]] treatment that has delimted focus and time.
+A kind of [[Psychology|psicological]] treatment that has delimited focus and time.
 
 The plan comes from some complaint and immediate needs. The [[Goal]] is put together with the patient after some analysis of the situation.
 
