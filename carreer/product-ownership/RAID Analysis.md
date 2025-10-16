@@ -2,7 +2,7 @@
 aliases: [RAID, RAIDs]
 ---
 
-A [[project]] [[planning]] technique for identifying key project Risks (R), Assumptions (A), Issues (I), and Dependencies (D) #acronym
+A [[project]] [[planning]] technique for identifying key project [[Risk|Risks]] (R), Assumptions (A), Issues (I), and Dependencies (D) #acronym
 
 RAID analysis focuses on four key areas:
 
