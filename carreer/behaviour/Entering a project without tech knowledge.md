@@ -4,5 +4,5 @@
 - Be proactive for next person (self-document, automation, etc)
 - Give examples
 - Put business case into perspective
-- Explore learning path and help [[team]] to understand leverage knowledge
+- Explore learning path and help [[team]] to understand leverage [[knowledge]]
 - [[carreer/development/programming/design-principles/domain-driven-design/Ubiquitous Language|Ubiquitous Language]]-like
