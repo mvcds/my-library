@@ -43,3 +43,17 @@ Opportunities for [[Security]]-based [[Artificially Intelligent Agent|AI]]
 4. [[4 - Malwares|Malrware]] analisis
 5. Incident Response
 6. Generate Reports
+
+---
+
+Configuring [[Terraform]] might be difficult because of not knowing the providers, or forgetting to specify the [[Version]]
+
+---
+
+[[Terraform]] headhaches
+
+- Providers
+- Credentials
+- Connections
+- Query
+- Alerts
