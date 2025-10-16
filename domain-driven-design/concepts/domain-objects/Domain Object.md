@@ -10,7 +10,7 @@ aliases: [Domain Objects]
 - [[domain-driven-design/concepts/domain-objects/Aggregate|Aggregates]] and their [[Aggregate Root|Roots]]
 - [[Factory|Factories]]
 - [[domain-driven-design/concepts/domain-objects/Repository|Repositories]]
-- [[domain-driven-design/concepts/domain-objects/Process|processes
+- [[domain-driven-design/concepts/domain-objects/Process|processes]]
 - [[Domain Service|Services]]
 - [[Module|Modules]]
 - [[Constraint]]
