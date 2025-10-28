@@ -63,3 +63,24 @@ Why some people resist [[Artificially Intelligent Agent|AI]]
 
 ---
 
+Use cases
+
+- [[documentation]] and analysis
+- [[Prototype]] and consulting
+- [[Software]] development
+- [[Testing|Test]] and QA
+- Automation and [[DevOps]]
+
+---
+
+Effects on quality ?????
+
+---
+
+Recommendations
+
+- Clear guidelines and recommendations
+- Capacitating
+- Broader implementation
+- Smarter automatization
+- Control and trust
