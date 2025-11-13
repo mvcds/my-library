@@ -1,4 +1,4 @@
-One of the most common [[Tree types of faults]]
+One of the most common [[Three types of faults]]
 
 [[Human|Humans]] are not [[Reliability|reliable]] even when they have good intentions.[^1]
 

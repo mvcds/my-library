@@ -3,7 +3,7 @@ aliases:
   - Software Faults
 ---
 
-One of the snakiest of the [[Tree types of faults]].
+One of the snakiest of the [[Three types of faults]].
 
 They can compound and cascade, that is, a [[carreer/development/programming/Service|Service]] becoming unresponsive triggers a [[designing-data-intensive-applications/concepts/three-types-of-faults/Failure]] somewhere else.
 
