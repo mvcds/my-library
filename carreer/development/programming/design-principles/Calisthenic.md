@@ -4,7 +4,7 @@ https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
 
 # Steps
 
-- Only One Level Of Indentation Per [[Function|Metdhod]]
+- Only One Level Of Indentation Per [[Function|Method]]
 - Don't use the ELSE keyword
 - Wrap All [[Primitive]]s And [[String]s]
 - First [[Class]] Collections
