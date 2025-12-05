@@ -1,4 +1,4 @@
-Advantages of active voide:
+Advantages of active voice:
 
 - Most readers mentally convert passive voice to active voice. Why subject your readers to extra processing time? By sticking to active voice, readers can skip the preprocessor stage and go straight to compilation.
 - Passive voice obfuscates your ideas, turning [[sentences]] on their head. Passive voice reports action indirectly.
