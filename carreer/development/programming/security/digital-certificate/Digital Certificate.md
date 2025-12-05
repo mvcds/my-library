@@ -9,3 +9,5 @@ It contains
 - A [[Public Key]]
 - The [[Certificate Authority]] identification
 - The entity identification
+
+Used within the [[Public Key Infrastructure|PKI]]
