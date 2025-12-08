@@ -1,0 +1,1 @@
+A social [[science]] that studies production, distribution, and consumption of [[Good|Goods]] and [[Architectural Service|Services]]
