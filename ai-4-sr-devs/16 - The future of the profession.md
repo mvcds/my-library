@@ -84,3 +84,15 @@ Recommendations
 - Broader implementation
 - Smarter automatization
 - Control and trust
+
+Improvements on [[Productivity]] using [[Artificially Intelligent Agent|AI]]
+
+- Juniors: 21% to 40%
+- Senior: 7% to 16%
+
+---
+
+Impacts of [[Artificially Intelligent Agent|AI]]
+
+- [[Efficiency]]: reduce [[Loss Function|Costs]] or improve [[carreer/development/programming/Process|Processes]]
+- Find new [[revenue stream|revenue streams]]
