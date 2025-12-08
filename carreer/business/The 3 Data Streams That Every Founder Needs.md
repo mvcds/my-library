@@ -6,4 +6,4 @@ The 3 [[Data]] [[Stream|Streams]] that [[Founder|founders]] need are the followi
 
 - First-hand [[knowledge]]
 - A “bird’s-eye” view
-- The view from the eyes of [[customers]] and [[business|competitors]]
+- The view from the eyes of [[customers]] and [[Business|competitors]]

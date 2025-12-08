@@ -29,7 +29,7 @@ Outsourcing/consultants will be affected by [[Artificially Intelligent Agent|AI]
 
 Key skills for [[Developer vs Architect|Engineers]]
 
-- [[Domain Model|Domain]]/[[business]] Expert: [[leadership]] / [[product]] engineer
+- [[Domain Model|Domain]]/[[Business]] Expert: [[leadership]] / [[product]] engineer
 - [[Artificially Intelligent Agent|AI]] Expert: delegate low-[[Business Value|Value]] [[Gist Task|Tasks]] to AI
 
 ---

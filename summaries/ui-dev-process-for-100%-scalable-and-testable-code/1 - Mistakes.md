@@ -1,4 +1,4 @@
-1. Not separate [[framework]] from [[business]] concerns
+1. Not separate [[framework]] from [[Business]] concerns
 2. Not having 100% component and [[Test Parity]]
 3. Not having a [[Scalability|scalable]] test-suite
 4. Thinking/[[Code|coding]] framework-first, instead of [[Software Architecture|Architecture]]-first

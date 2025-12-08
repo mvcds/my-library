@@ -1,6 +1,6 @@
 #concept in [[0 - 31 Startup business models you must know]]
 
-Provides way for other [[business|companies]] to deploy [[blockchain|blockchains]]
+Provides way for other [[Business|companies]] to deploy [[blockchain|blockchains]]
 
 - [[Token Economy]]
 - [[Blockchain as a Service]]

@@ -3,7 +3,7 @@ aliases:
   - Kanban Cadences, Cadence, Cadences
 ---
 
-[[Kanban]] Cadences are special [[business|organizational]] meetings focused on effective bi-directional [[communication]].
+[[Kanban]] Cadences are special [[Business|organizational]] meetings focused on effective bi-directional [[communication]].
 
 ![[kanban-cadence.jpg]]
 

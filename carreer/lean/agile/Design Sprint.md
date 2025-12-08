@@ -1,4 +1,4 @@
-The Design Sprint is a five-day process for answering critical [[business]] questions through [[carreer/development/design/Design|Design]], prototyping, and [[testing]] ideas with [[Customer|customers]].
+The Design Sprint is a five-day process for answering critical [[Business]] questions through [[carreer/development/design/Design|Design]], prototyping, and [[testing]] ideas with [[Customer|customers]].
 
 # Try
 

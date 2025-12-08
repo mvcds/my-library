@@ -1,4 +1,4 @@
-The first step of a [[Threat Model]] is to prioritize the threats/risk against your [[business]]
+The first step of a [[Threat Model]] is to prioritize the threats/risk against your [[Business]]
 
 During this step, it's useful to keep in mind:
 

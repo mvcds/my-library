@@ -14,6 +14,6 @@ It benefits both [[Developer vs Architect|Developers]] and [[Visual Designers]].
 
 ---
 
-A way of [[System Thinking]] to solve [[Scalability]] in the [[carreer/development/design/Design|Design]] of a [[business|company]].
+A way of [[System Thinking]] to solve [[Scalability]] in the [[carreer/development/design/Design|Design]] of a [[Business|company]].
 
 [^1]: A kind of [[Plataform Team]]?

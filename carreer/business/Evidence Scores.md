@@ -84,7 +84,7 @@ Check against the results
 - Back-of-the-envelope calculations (e.g. funnel numbers) show good potential
 - Engineering and UX feel the idea is feasible
 - Effort estimates from the [[team]] converge into a reasonable project timeframe
-- A draft [[business]] model/plan suggests it has good chances of being viable.
+- A draft [[Business]] model/plan suggests it has good chances of being viable.
 
 # Anecdotal evidence
 

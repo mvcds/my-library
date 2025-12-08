@@ -2,7 +2,7 @@
 aliases: [Team Topologies]
 ---
 
-[[Team]] [[topology]] is an approach to organizing [[business]] and [[Technology]] teams for fast flow, providing a practical, step-by‑step, adaptive model for organizational [[carreer/development/design/Design|Design]] and team interaction.
+[[Team]] [[topology]] is an approach to organizing [[Business]] and [[Technology]] teams for fast flow, providing a practical, step-by‑step, adaptive model for organizational [[carreer/development/design/Design|Design]] and team interaction.
 
 At the same time it manages to
 

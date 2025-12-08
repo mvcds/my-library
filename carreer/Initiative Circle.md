@@ -5,7 +5,7 @@ url:
   - https://www.codurance.com/publications/practices/2016/05/13/initiative-circles
 ---
 
-A way to organize [[tactic|tactical]] and [[strategy|strategical]] initiatives in an independent fashion within a [[business|company]].
+A way to organize [[tactic|tactical]] and [[strategy|strategical]] initiatives in an independent fashion within a [[Business|company]].
 
 Prerequisites
 

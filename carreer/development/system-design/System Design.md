@@ -8,4 +8,4 @@ urls:
 
 #concept
 
-The [[carreer/development/design/Design|Design]] of how components in a [[System]] connect to make [[Data]] flow from one way to another in order to solve a [[business]] problem as a [[product]]
+The [[carreer/development/design/Design|Design]] of how components in a [[System]] connect to make [[Data]] flow from one way to another in order to solve a [[Business]] problem as a [[product]]

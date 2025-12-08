@@ -19,7 +19,7 @@ aliases:
   - XFRs
 ---
 
-[[System Requirement|System Requirements]] that are "technical" in the sense that they do not originally directly from the [[business]]. For instance, here are **some** of the most common CFRs
+[[System Requirement|System Requirements]] that are "technical" in the sense that they do not originally directly from the [[Business]]. For instance, here are **some** of the most common CFRs
 
 - [[Performance]]
 - [[Availability]]

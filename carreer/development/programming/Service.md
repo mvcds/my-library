@@ -7,7 +7,7 @@
 
 # What is a service
 
-- The technical authority for a specific [[business]] capability.
+- The technical authority for a specific [[Business]] capability.
 - It is similar to [[Domain-Driven Design]] "[[Bounded Contexts]]", as it has data plus [[Policy and Details|business rules]].
 - Everything must be within 1 and only in 1 service.
 - Services are logical whereas [[system]]s are physical.

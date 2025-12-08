@@ -6,7 +6,7 @@ Highlights of this article about misconceptions about [[Clean Architecture]]
 
 # [[Tier vs Layer|Layers]]
 
-- [[Entity|Entities]] encapsulate the logic of the [[business]][^1], that is, everything that does not depend on a specific [[Software|Application]], but will be common to many. But if you have a separate app that is not tailored for any business, then they will be business objects containing the most general and high-level rules
+- [[Entity|Entities]] encapsulate the logic of the [[Business]][^1], that is, everything that does not depend on a specific [[Software|Application]], but will be common to many. But if you have a separate app that is not tailored for any business, then they will be business objects containing the most general and high-level rules
 - [[Use Case|Use Cases]] ([[Interactors]]): application logi
 - [[Interface]] Adapters: link the use cases to the outside world. This include [[Model-View-Presenter Architecture|MVP Presenters]], as well as Gateways AKA Repositories.
 - [[Architectural Framework|Frameworks]]: the outmost layer, here lies the rest: [[User Interface|UI]], [[Database]], [[Hypertext Transfer Protocol|HTTP]] client, etc

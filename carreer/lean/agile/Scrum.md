@@ -2,7 +2,7 @@ An [[Agile]] framework with demarked roles and two [[Backlog|Backlogs]], one rep
 
 The roles are:
 
-- [[Product Owner]]: responsible to bridge the development team with [[business]]' needs and wants
+- [[Product Owner]]: responsible to bridge the development team with [[Business]]' needs and wants
 - [[Scrum Master]]: responsible to make sure everyone is doing their proper version of scrum
 - [[Development Team]]: the [[Software]] workforce
 

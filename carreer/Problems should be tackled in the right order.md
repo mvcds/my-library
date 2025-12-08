@@ -1,4 +1,4 @@
-First, use descriptive diagnostic analytics to clean and analyze [[data]] so you can summarize the data using reports, dashboards, and visualizations. With descriptive summaries, you can see how different variables relate to the [[carreer/development/data-science/Metric|Metrics]] you need to impact to solve the [[business]] problem. The conclusions can validate [[Hypothesis]], spot anomalous [[behavior]], and verify that you have the data you need.
+First, use descriptive diagnostic analytics to clean and analyze [[data]] so you can summarize the data using reports, dashboards, and visualizations. With descriptive summaries, you can see how different variables relate to the [[carreer/development/data-science/Metric|Metrics]] you need to impact to solve the [[Business]] problem. The conclusions can validate [[Hypothesis]], spot anomalous [[behavior]], and verify that you have the data you need.
 
 Ex. A company looking to improve the profitability of a marketing campaign will use descriptive analytics to conclude that a lower price leads to move sales.
 

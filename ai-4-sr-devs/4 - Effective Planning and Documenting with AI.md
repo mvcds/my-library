@@ -91,7 +91,7 @@ How to create good [[User Story|User Stories]]
    2. Avoid technical details
    3. Small enough for one [[Sprint]]
 3. Prioritise and Estimate
-   1. A US has value for users and the [[business]]
+   1. A US has value for users and the [[Business]]
    2. Estimate effort on doing them
 4. Encourage collaboration
    1. The development [[Team]] helps writing them

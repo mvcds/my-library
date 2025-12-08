@@ -12,4 +12,4 @@ It has been used as a way of exploring and developing effective action in [[comp
 
 ---
 
-A set of principles to help [[business]] [[Scalability|scale]] more efficiently by approaching problems through the entire system they fit into.
+A set of principles to help [[Business]] [[Scalability|scale]] more efficiently by approaching problems through the entire system they fit into.
