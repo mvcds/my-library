@@ -1,0 +1,1 @@
+A [[binary]] installation in [[Homebrew]], useful for [[GUI]] applications

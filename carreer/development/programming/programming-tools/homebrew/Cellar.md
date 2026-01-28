@@ -1,0 +1,1 @@
+The directory where [[Homebrew]] installs [[Software|Softwares]], each as a subdirectory

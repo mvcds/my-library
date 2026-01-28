@@ -1,0 +1,1 @@
+The [[binary]] packages installed through [[Homebrew]]

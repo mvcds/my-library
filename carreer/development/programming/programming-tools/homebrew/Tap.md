@@ -1,0 +1,1 @@
+A [[Homebrew]]'s [[repository manager]]. Taps allowing 3rd-parties to extend the default's homebrew repository

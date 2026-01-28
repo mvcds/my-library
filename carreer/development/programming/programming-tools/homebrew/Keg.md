@@ -1,0 +1,1 @@
+The installation destination directory of a [[carreer/development/programming/programming-tools/homebrew/Formula]]'s [[Version]]
