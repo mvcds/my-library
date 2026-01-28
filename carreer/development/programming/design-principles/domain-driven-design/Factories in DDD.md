@@ -1,4 +1,4 @@
-In [[Domain-Driven Design]] factories allow developers to separate [[Business]] logic from [[Object]] instatiation and/or reconstruction by enforcing [[Invariant in DDD|invariants]] into the process.
+In [[Domain-Driven Design]] factories allow developers to separate [[Business]] logic from [[Object]] instantiation and/or reconstruction by enforcing [[Invariant in DDD|invariants]] into the process.
 
 Though it's also possible to do so through constructors, it is not always convenient as instantiating is a single step.
 
