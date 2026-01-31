@@ -1,1 +1,1 @@
-Emotional bond with your listeners
+[[Emotion|Emotional]] bond with your listeners
