@@ -1,4 +1,4 @@
-For [[Amazon]], the most valuable [[User|client]] are the ones that already made alots of purchases, therefore those users have lots of [[Data]]. That's why amazon optimized their services for P999 (99,9%) [[Reliability]]
+For [[Amazon]], the most valuable [[User|client]] are the ones that already made many purchases, therefore those users have lots of [[Data]]. That's why amazon optimized their services for P999 (99,9%) [[Reliability]]
 
 [[optimization|Optimizing]] further was too expensive and didn't compensate.
 

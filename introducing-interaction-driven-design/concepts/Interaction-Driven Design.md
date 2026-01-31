@@ -5,7 +5,7 @@ aliases:
 
 #concept in [[0 - Introducing Interaction-Driven Design]]
 
-An interactive approach to [[Software Design]] that [[Model|models]] its [[behavior]] accoriding to the external usage of the [[System]] while maintaining a cohesive internal representation of [[business]] components
+An interactive approach to [[Software Design]] that [[Model|models]] its [[behavior]] according to the external usage of the [[System]] while maintaining a cohesive internal representation of [[business]] components
 
 It was inspired by [[Responsability-Driven Design]], [[0 - Domain-Driven Design|DDD]], [[Behaviour-Driven Development|BDD]] and more
 
