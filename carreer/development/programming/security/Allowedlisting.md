@@ -1,5 +1,8 @@
 ---
-aliases: [[Whitelisting, forbiddenlisting, Blacklisting]]
+aliases:
+  - Whitelisting
+  - Forbiddenlisting
+  - Blacklisting
 ---
 
 An allowedlisting tells which [[User]]s are [[Authorization|authorized]] to access some resource. Whereas a forbiddenlisting is its opposite.
