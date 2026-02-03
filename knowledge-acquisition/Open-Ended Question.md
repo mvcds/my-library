@@ -2,7 +2,7 @@
 aliases: [Open-Ended Questions, The 5Ws, The 6Ws]
 ---
 
-A question that cannot be simply answered by "yes" or "no".
+A [[Knowledge|question]] that cannot be simply answered by "yes" or "no".
 
 It starts with one of the following so the person answering has to expand on the _explanation_
 
