@@ -1,3 +1,7 @@
+---
+aliases:
+  - The core Idea
+---
 The backbone of a [[marketing]] campaign.
 
 You don't need to repeat it all the [[time]] (for the public), but everything you build needs to be around this idea.
