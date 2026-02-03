@@ -1,6 +1,11 @@
 ---
-aliases: [Monolithic Application, Monolith]
+aliases:
+  - Monolithic Application
+  - Monolith
+  - Monorepo
+  - Monorepos
 ---
+#concept 
 
 A kind of [[Software Architecture]] where you are actually just going with the flow, without thinking how you're arranging the components.
 
@@ -15,5 +20,9 @@ This architecture does not allow us to mix technologies and often make harder fo
 ---
 
 This is not a synonymous for a bad application!
+
+---
+
+More often than not a monolith is delivered as a monorepo
 
 [ˆ1]: Often its components run over the same [[carreer/development/programming/Process|Process]]
