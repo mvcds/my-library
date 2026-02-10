@@ -1,5 +1,8 @@
 ---
-aliases: [Goals]
+aliases:
+  - Goals
+  - Outcome
+  - Outcomes
 ---
 
 An [[carreer/development/programming/Abstraction|abstract]] idea that you want to achieve. Such achievement seldom happens by chance, so you have to take some active steps towards it.
