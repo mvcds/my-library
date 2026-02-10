@@ -1,6 +1,6 @@
 #procedure in [[2 - Making implicit concepts explicit]]
 
-Firstly, this should be done when the [[Constraint]] is distracting the [[carreer/development/design/Design|Design]] of the host [[Domain Object|object]]
+Firstly, this should be done when the [[domain-driven-design/concepts/domain-objects/Constraint]] is distracting the [[carreer/development/design/Design|Design]] of the host [[Domain Object|object]]
 
 1. Does it require [[Data]] that does not fit the object otherwise?
 2. Are there related/duplicated/[[Inheritance|inheritance]] rules?
