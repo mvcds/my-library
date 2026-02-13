@@ -1,8 +1,12 @@
 ---
-aliases: [Programming Languages, Language, Languages]
+aliases:
+  - Programming Languages
+  - Language
+  - Languages
 ---
+#concept 
 
-A way for humans to interact with [[Computer]]s
+A way for humans to interact with [[Computer|Computers]]
 
 It's heavily influenced by [[Linguistics]], so we get terms like [[Syntax]] and [[Semantics]]
 

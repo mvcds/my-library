@@ -1,6 +1,7 @@
 ---
 aliases: [PDCA]
 ---
+#concept 
 
 - Plan
   - Define [[Goal]]
