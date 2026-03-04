@@ -1,6 +1,6 @@
-When mobiles begin to operate, secutiry was not a design concern.
+When mobiles begin to operate, [[Information Security|Security]] was not a [[system-design-interview/concepts/Design|Design]] concern.
 
-Later, when it became, different providers start placing some protocols to prevent people spying on calls and/or texts but as the governments were not very interested in enforcing high-end encription, those laws were vague and full of breeches.
+Later, when it became, different providers start placing some protocols to prevent people spying on calls and/or texts but as the governments were not very interested in enforcing high-end [[Encryption]], those [[law|laws]] were vague and full of breeches.
 
 For instance, nothing makes providers need to update their protocols regularly or even turn them on.
 
