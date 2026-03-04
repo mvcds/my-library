@@ -1,3 +1,9 @@
+---
+aliases:
+  - Culture of Conspiracy
+  - Conspiracy Theories
+  - Culture of Conspiracies
+---
 The [[theory]] that some [[social]], [[economics]] or [[political]] conspiracy is taking place.
 
 With so many out there, the chances are that you probably believe in one of them, but most likely you wouldn't call yourself a "theorist" on it because **you believe it**.
