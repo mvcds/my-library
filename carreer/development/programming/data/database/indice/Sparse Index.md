@@ -11,4 +11,6 @@ A kind of [[Index]] that automatically excludes missing or `null` fields
 |2|NULL|
 |3|[b@test.com](mailto:b@test.com)|
 |4|NULL|
-If the index is on the `email`, selecting would only get us user 1 and 3 because they have [[carreer/development/Value|Value]] on that field
+If the index is on the `email`, selecting would only get us the [[Record|Records]] 1 and 3 because they have [[carreer/development/Value|Value]] on that field
+
+Opposes [[Dense Index]]

@@ -2,18 +2,10 @@
 aliases:
   - Indexes
   - Indice
+  - Indexing
 ---
-#concept 
+#concept in [[Technical Concepts for system design interviews]]
 
 In a [[Database]], this is a [[Data Structure]] that allows for faster lookups, usually implemented through a [[B-Tree]]
 
-They speed up
-- select
-- where
-- order by
-- join
-
-At the expense of slowing down
-- insert
-- update
-- delete
+They speed up queries but slow down mutations
