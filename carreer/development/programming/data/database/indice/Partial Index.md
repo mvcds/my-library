@@ -1,0 +1,1 @@
+A kind of [[Index]] that is build on a conditional, making it more flexible that a [[Sparse Index]]

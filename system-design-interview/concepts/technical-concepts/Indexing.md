@@ -6,7 +6,7 @@ aliases:
 
 #concept in [[Technical Concepts for system design interviews]]
 
-Mapping [[Data]] for faster retrieval, usually using a [[B-Tree]]
+Creating an [[Index]]
 
 # Types
 
