@@ -1,6 +1,6 @@
 http://www.sk.com.br/sk-krash.html
 
-It has 5 different hypotheses
+It has 5 different [[Hypothesis]]
 
 # Acquisition
 
