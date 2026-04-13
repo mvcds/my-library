@@ -1,4 +1,4 @@
-Normally just a roaster to be left alone. Similar to the [[9 - Train yourself to hear a "yes" for what it means|conterfeit "yest"]].
+Normally just a roaster to be left alone. Similar to the [[9 - Train yourself to hear a "yes" for what it means|conterfeit "yes"]].
 
 It indicates [[11 - The idea doesn't need to be yours|the other does not own the conclusion]] so they'll not do anything about it.
 
