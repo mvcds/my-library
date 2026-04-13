@@ -1,4 +1,4 @@
-> But to [[think]] is an act of [[choice]]
+> But to [[Feeling|thinking]] is an act of [[choice]]
 
 #quote on [[Altas Shrugged]] #learn
 
