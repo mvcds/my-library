@@ -1,1 +1,1 @@
-It's like a master, or another level of training for the [[Large Language Model|LLM]]
+It's like a master degree, or another level of training for the [[Large Language Model|LLM]]
