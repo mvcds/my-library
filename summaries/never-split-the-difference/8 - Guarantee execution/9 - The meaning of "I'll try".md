@@ -1,4 +1,4 @@
-> "I'll try" roughly translates to "I'm planning to fail"
+> "I'll try" roughly translates to "I'm planning to [[Success|fail]]"
 
 ---
 
