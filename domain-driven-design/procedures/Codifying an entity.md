@@ -2,4 +2,4 @@
 
 The most basic responsibility of an [[Entitiy]] is to establish [[Continuity]] so its [[behavior]] is clear and [[Predicability|Predictable]].
 
-For that, keep entities without much attributes and behaviours, only adding essential behaviours and the necessary attributes to perform them
+For that, keep entities without much attributes and behaviours, only adding essential behaviors and the necessary attributes to perform them
