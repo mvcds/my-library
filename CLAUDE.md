@@ -33,6 +33,38 @@ Body content using [[Wiki Links]] to cross-reference other notes.
 - Body uses `[[Note Title]]` or `[[Note Title|display text]]` for internal links
 - Transclusion (`![[note]]`) embeds another note inline
 
+Tags appear on the first line after the closing `---`, before the body except if indicated otherwise. A note may carry more than one tag.
+
+| Tag            | Meaning                                                                     |
+| -------------- | --------------------------------------------------------------------------- |
+| `#concept`     | Defines an idea or term                                                     |
+| `#fact`        | States a factual claim, usually sourced from a book or resource             |
+| `#procedure`   | Describes a method or process (often paired with `#concept`)                |
+| `#tool`        | A practical instrument or technique                                         |
+| `#quote`       | A direct quote attributed to a person or source; placed **after** the quote |
+| `#paraphrased` | Like `#quote` but the wording is not verbatim; it might follow `#quote`     |
+
+Example:
+
+```markdown
+---
+aliases: [Spaced Repetition System]
+---
+#concept #procedure
+
+Body content...
+```
+
+Quote example:
+
+```markdown
+---
+---
+> The map is not the territory."
+
+#quote by [[Alfred Korzybski]]
+```
+
 ## Commit conventions
 
 Commits use a type prefix that describes what kind of knowledge was added:
