@@ -1,6 +1,7 @@
 ---
 aliases: [Open-Ended Questions, The 5Ws, The 6Ws]
 ---
+#concept #procedure 
 
 A question that cannot be simply answered by "yes" or "no".
 
