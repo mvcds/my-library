@@ -71,13 +71,13 @@ Quote example:
 
 Commits use a type prefix that describes what kind of knowledge was added:
 
-| Prefix       | Meaning                                       |
-| ------------ | --------------------------------------------- |
-| `concept:`   | New idea or definition added                  |
-| `link:`      | Connection between existing notes established |
-| `alias:`     | Alternative name added to a note              |
-| `quote:`     | Quote or paraphrase captured                  |
-| `reference:` | External reference or source linked           |
-| `fix:`       | Typo or factual correction                    |
+| Prefix       | Meaning                                                               |
+| ------------ | --------------------------------------------------------------------- |
+| `concept:`   | New idea or definition added                                          |
+| `link:`      | Connection between existing notes established                         |
+| `alias:`     | Alternative name added to a note                                      |
+| `quote:`     | Quote or paraphrase captured                                          |
+| `reference:` | External reference or source linked, with `source` on the frontmatter |
+| `fix:`       | Typo or factual correction                                            |
 
 Example: `concept: goodhart's law`, `link: loss aversion`, `alias: time`
