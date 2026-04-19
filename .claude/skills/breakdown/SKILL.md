@@ -1,12 +1,12 @@
 ---
-name: process-chapter
-description: Process a raw notes file (typically one book chapter) into structured Obsidian notes. Use when the user runs /process-chapter with a file path, asks to "break down", "process", "structure", or "distill" a raw chapter file, or wants to split a large raw note into individual concept files following the vault's conventions.
+name: breakdown
+description: Process a raw file (typically a book chapter) into structured Obsidian notes. Use when the user runs /breakdown with a file path, asks to "break down", "process", "structure", or "distill" a raw file, or wants to split a large raw file into individual files following the vault's conventions for summaries.
 argument-hint: <path/to/raw-notes.md>
 ---
 
-# process-chapter
+# breakdown
 
-Transforms a raw chapter file into structured Obsidian notes following the vault's conventions: sections/chapters use `N - Title Case.md` naming, granular notes land in root-level `concepts/`, `facts/`, `procedures/`, or `quotes/` folders, and chapter files stay compact (≤3 paragraphs).
+Transforms a raw file into structured Obsidian notes following the vault's summary conventions: sections/chapters use `N - Title Case.md` naming, granular notes land in root-level `concepts/`, `facts/`, `procedures/`, or `quotes/` folders, and chapter files stay compact (≤3 paragraphs).
 
 ## Vault structure
 
