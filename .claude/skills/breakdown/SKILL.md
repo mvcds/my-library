@@ -64,7 +64,7 @@ Go through the raw content. For each distinct idea:
    - Facts: full descriptive phrase (`The basic distinctions between entities and value objects.md`)
    - Quotes: the quote text itself
 
-### Step 4 — Show the draft plan and wait for approval
+### Step 4 — Show the draft plan and wait for structural approval
 
 Present **two tables** before writing anything:
 
@@ -85,11 +85,19 @@ Present **two tables** before writing anything:
 | quotes/     | Quote text.md                   | #quote            | Attribution               |
 ```
 
-Wait for the user to approve, rename, merge, or drop entries. Do not write any files until you receive explicit approval.
+Wait for the user to approve, rename, merge, or drop entries. This is a **structural approval** — file names, tags, and plan shape. Individual file content will be reviewed one at a time in Steps 5 and 6. Do not write any files until you receive explicit approval.
 
-### Step 5 — Write the section/chapter files
+### Step 5 — Write the section/chapter files (per-file loop)
 
-Those files are meand to be read at a glance by humans
+Those files are meant to be read at a glance by humans.
+
+For **each** section/chapter file, before writing:
+
+1. Show the full proposed content as a fenced markdown block
+2. Wait for the user's response — one of three outcomes:
+   - **Approve** → write the file
+   - **"Already exists as [[X]]"** → the file might be refering to an existing file without adding proper wiki-links; add `proposed name → X` to the substitution map; apply the map to this and subsequent files drafts in this batch, if file does not exists, ask user if they want to create or just wrap the work as wiki-link, so they might create the file later.
+   - **Broaden / redirect** (user gives new direction) → revise the draft accordingly, show again, wait for approval
 
 **Section `0-` file** (only when creating a new section):
 ```markdown
@@ -98,15 +106,21 @@ Brief 1–2 sentence overview of what this section is about, using [[wiki-links]
 #understanding of [[0 - Book Title]]
 ```
 
-**Chapter file** (≤3 paragraphs — compact reading-comprehension note):
+**Chapter file** (≤2 paragraphs — compact reading-comprehension note):
 ```markdown
 Body using [[wiki-links]] heavily. May include transclusion (![[note]]) for related ideas.
-Keep it tight, this is a pointer into the concept/fact graph, not a retelling.
+Keep it tight, this is a pointer into the granular notes, not a retelling.
 
 #understanding of [[0 - Section Name]]
 ```
 
-### Step 6 — Write the granular notes
+### Step 6 — Write the granular notes (per-file loop)
+
+For **each** approved granular entry, before writing, apply the same loop as Step 5:
+
+1. Draft the full content, applying any substitutions from the map (replace `[[proposed name]]` with `[[existing note]]` throughout)
+2. Show the draft in a fenced block
+3. Wait → approve / already-exists / broaden
 
 For each approved entry, write to the appropriate root-level folder.
 
