@@ -35,6 +35,9 @@ Read the raw file. Identify:
 - Book title, author, and root folder (e.g. `domain-driven-design/`)
 - Whether this is a new **section** or a **chapter inside an existing section**
 - The position number for naming
+- If the body headers like `---` markers (outside frontmatter) to indicate text division, treat them as **sub-chapter separators** and scope this run to the **first sub-chapter only**
+
+When sub-chapter separators are present, ignore content after the first separator for Steps 2-6 in this run so review pacing stays incremental.
 
 ### Step 2 — Confirm output location
 
@@ -153,7 +156,13 @@ Rules for all files:
 - You can reference files being created in the same batch by their proposed names
 - You can reference other, already existing links, especially if they are **broadly-known topics** that are being treated on the book
 
-### Step 7 — Report
+### Step 7 — Trim processed raw content
+
+After all approved files are written, update the raw input file by removing only the processed portion from this run:
+- If sub-chapter separators are present, remove everything up to including its separator, keeping the separator and remaining text for the next run.
+- Never remove unprocessed text.
+
+### Step 8 — Report
 
 After all files are written, output:
 - List of files created with their paths
