@@ -1,8 +1,8 @@
-For this you use the **covariance** formula to obtain a [[my-library/carreer/development/Value|Value]].
+For this you use the **[[Covariance]]** formula to obtain a [[my-library/carreer/development/Value|Value]].
 
-We can use **correlation** to intepret the covariance numbers as they might be on completely different scales.
+We can use **[[Event correlation|Correlation]]** to intepret the covariance numbers as they might be on completely different scales.
 
-It's also important to understand the **causality**[^1] i.e. the direction of the influence.
+It's also important to understand the **[[Causality]]**[^1] i.e. the direction of the influence.
 
 A common practice is to disregard correlations smaller than `0.2`:
 
