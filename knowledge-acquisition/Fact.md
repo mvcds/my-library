@@ -2,7 +2,7 @@
 aliases: [Facts, Proof, Proofs]
 ---
 
-A thing that is known or proved to be true
+A thing that is [[Knowledge|known]] or proved to be true
 
 ---
 
