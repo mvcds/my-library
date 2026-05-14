@@ -6,7 +6,7 @@ A thing that is [[Knowledge|known]] or proved to be true
 
 ---
 
-[[Information]] used as evidence or as part of a report or news article
+[[Information]] used as [[Evidence]] or as part of a report or news article
 
 ---
 
