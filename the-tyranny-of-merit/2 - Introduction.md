@@ -1,9 +1,13 @@
-[[Money for public university admission]] is something that can overcome [[Meritocracy|Merit]] in the USA, when it comes to be entering a elite university.
+[[The elite university admissions arms race]] exists because the [[Quality Gap|Educational Gap]] is a huge determinant in [[Success]] in a [[Meritocracy|meritocratic]] [[society]].
 
-The [[Door Analogy]] helps us to understand how that works.
+And as such, [[Borrowed Luster of Merit|parents do anything in their power to make sure their kids enter elite universities]] even using [[Money for public university admission]] in an [[legal|illegal]] way[^1].
 
-![[Money hovers the frontdoor as much as the side or backdoor]]
+The fact that [[Money]] can be used for such important thing, shows us that [[Measures of merit are hard to disentangle from economic advantage]]. But it does not feel like this due to the [[Invisible Support Network]], [[Globalization weakened mutual dependence on local economies|less dependency on local economy]], and [[Hubris of Meritocratic Success]].
 
-The fact that [[Money]] can be used [[legal|legally]] to something so important shows us that [[Measures of merit are hard to disentangle from economic advantage]].
+The price we pay is a blown to [[Civic Sensibility|Civic Sense]], [[Meritocratic Anxiety]] and [[Individualization of Failure]]. Is this price worth it?
+
+For deciding that, we need to [[Debates about meritocracy are really about how winners treat losers|debate]]
 
 #understanding of [[0 - The tyranny of merit - what's become of common good?]]
+
+[^1]: See [[Door Analogy]]
