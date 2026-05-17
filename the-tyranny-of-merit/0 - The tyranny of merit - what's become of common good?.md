@@ -1,0 +1,1 @@
+A #book by [[Michael J. Sandel]] that talks about how [[Meritocracy]] is a unachievable ideal which is wrongly used as a [[Synonym]] of [[Competence]], and how this affects the [[Common Good]]
