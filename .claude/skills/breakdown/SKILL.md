@@ -6,7 +6,7 @@ argument-hint: <path/to/raw-notes.md>
 
 # breakdown
 
-Transforms a raw file into structured Obsidian notes following the vault's summary conventions: sections/chapters use `N - Title Case.md` naming, granular notes land in root-level `concepts/`, `facts/`, `procedures/`, or `quotes/` folders, and chapter files stay compact (≤3 paragraphs).
+Transforms a raw file into structured Obsidian notes following the vault's summary conventions: sections/chapters use `N - Title Case.md` naming, granular notes land in `<book-root>/concepts/`, `<book-root>/facts/`, `<book-root>/procedures/`, or `<book-root>/quotes/` (not at vault root), and chapter files stay compact (≤3 paragraphs).
 
 ## Vault structure
 
@@ -59,8 +59,9 @@ Go through the raw content. For each distinct idea:
    - `#procedure` — method or process to follow
    - `#tool` — practical instrument or technique
    - `#quote` / `#paraphrased` — direct or paraphrased quote
-3. Determine the **destination folder** by highest-precedence tag:
-   `#concept` → `concepts/` > `#fact` → `facts/` > `#procedure` → `procedures/` > `#quote` → `quotes/`
+3. Determine the **destination folder** under the book root by highest-precedence tag:
+   `#concept` → `<book-root>/concepts/` > `#fact` → `<book-root>/facts/` > `#procedure` → `<book-root>/procedures/` > `#quote` → `<book-root>/quotes/`
+   (e.g. `summaries/the-tyranny-of-merit/concepts/` — never at vault root)
 4. Flag **broadly-known topics** — mark `[spin]`; these must capture the source's specific angle, not a generic definition
 5. Propose a filename:
    - Concepts/procedures: Title Case (`Ubiquitous Language.md`)
@@ -125,7 +126,7 @@ For **each** approved granular entry, before writing, apply the same loop as Ste
 2. Show the draft in a fenced block
 3. Wait → approve / already-exists / broaden
 
-For each approved entry, write to the appropriate root-level folder.
+For each approved entry, write to the matching folder under the book root (e.g. `summaries/<book-name>/concepts/`).
 
 Example
 
@@ -176,6 +177,7 @@ After all files are written, output:
 - Quote files: the quote text as filename
 - Frontmatter: excluded if empty; blank line before body/tags when present
 - Tags: first line after `---` (or first line of file if no frontmatter)
+- Granular note folders (`concepts/`, `facts/`, `procedures/`, `quotes/`) live under `<book-root>/`, not at vault root
 - Folder precedence when multiple tags: concept > fact > procedure > quote
 - Broadly-known topics: always capture the source's unique spin, never a generic definition
 - Chapter files: ≤3 paragraphs — compact, link-heavy, not comprehensive

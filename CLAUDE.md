@@ -83,3 +83,7 @@ Commits use a type prefix that describes what kind of knowledge was added:
 | `fix:`          | Typo or factual correction                                            |
 
 Example: `concept: goodhart's law`, `link: loss aversion`, `alias: time`
+
+# Skills
+
+`/breakdown`: a workflow for the systematic breakdown of a content
