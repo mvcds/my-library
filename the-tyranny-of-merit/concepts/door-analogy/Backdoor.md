@@ -1,0 +1,1 @@
+In the [[Door Analogy]], this is the door forced through [[legal|illegality]] such as [[money|bribery]], fraud, and faked credentials.
