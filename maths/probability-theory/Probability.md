@@ -1,5 +1,11 @@
 ---
-aliases: [Probabilities]
+aliases:
+  - Probabilities
+  - Luck
+  - Chance
+  - Chances
+  - Odd
+  - Odds
 ---
 
 The likelihood of an [[maths/probability-theory/Event|event]] to happen.
