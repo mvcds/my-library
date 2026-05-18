@@ -1,4 +1,4 @@
-[[The elite university admissions arms race]] exists because being a [[Winners and Losers|winner]] [[Quality Gap|Educational Gap]] is a huge determinant in [[Success]] in a [[Meritocracy|meritocratic]] [[society]].
+[[The elite university admissions arms race]] exists because [[Being a winner on the educational gap is a huge determinant success in a meritocratic society]]
 
 And as such, [[Borrowed Luster of Merit|parents do anything in their power to make sure their kids enter elite universities]] even using [[Money for public university admission]] in an [[legal|illegal]] way[^1].
 
