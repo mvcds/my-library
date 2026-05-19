@@ -1,5 +1,6 @@
 ---
-aliases: [Individualized Failure]
+aliases:
+  - Individualized Failure
 ---
 
 #concept in [[2 - Introduction]]
