@@ -2,4 +2,4 @@
 
 > Family is a white people invention to get free labour
 
-#paraphrased [[Abigail Thorn]] in Women, Money, and the Nation
+#paraphrased [[Abigail Thorn]] in [[Gender Identity|Women]], [[Money]], and the [[Government|Nation]]
