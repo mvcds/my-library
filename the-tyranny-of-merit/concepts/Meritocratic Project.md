@@ -1,3 +1,3 @@
 #concept in [[3 - Winners and Losers]]
 
-The mainstream parties' forty-year political project of defining [[3 - Winners and Losers|winners and losers]] by [[Meritocracy|merit]]. Paired with [[Technocracy brackets moral arguments out of politics|technocracy]], it reframes who deserves what in [[society]] as the verdict of a fair contest, which makes the [[Hubris of Meritocratic Success|winners feel entitled]] and [[Individualization of Failure|blames]] the losers.
+The mainstream parties' forty-year political project of defining [[Winner|winners and losers]] by [[Meritocracy|merit]]. Paired with [[Technocracy brackets moral arguments out of politics|technocracy]], it reframes who deserves what in [[society]] as the verdict of a fair contest, which makes the [[Hubris of Meritocratic Success|winners feel entitled]] and [[Individualization of Failure|blames]] the losers.
