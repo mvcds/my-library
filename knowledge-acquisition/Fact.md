@@ -10,4 +10,4 @@ A thing that is [[Knowledge|known]] or proved to be true
 
 ---
 
-In [[law]], the truth about [[maths/probability-theory/Event|events]] as opposed to interpretation.
+In [[sciences/Law]], the truth about [[maths/probability-theory/Event|events]] as opposed to interpretation.
