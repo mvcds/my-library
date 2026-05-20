@@ -1,5 +1,6 @@
+#fact
+
 - [[Philosophy]]
-- Mysticism
-- [[Myth]]
+- [[Mysticism]]
 - [[Religion]]
 - [[Science]](?)
