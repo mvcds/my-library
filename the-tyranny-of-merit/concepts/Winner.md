@@ -1,10 +1,9 @@
 ---
 aliases: [Loser, Winners, Losers]
 ---
-
 #concept in [[1 - Prologue]][^1]
 
-A person sorted by [[Meritocracy]] into the [[Success|top or bottom]] of an arbitrary contest[^2] framed as [[Fairness|Fair]].
+A person [[8 - The Sorting Machine|sorted]] by [[Meritocracy]] into the [[Success|top or bottom]] of an arbitrary contest[^2] framed as [[Fairness|Fair]].
 
 The category collapses outcome into [[Moral|moral]] desert: [[Hubris of Meritocratic Success|winners feel entitled]] to what they got, and losers face the [[Individualization of Failure|individualized verdict]] that the loss is theirs alone.
 
