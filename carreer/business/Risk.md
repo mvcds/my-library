@@ -9,8 +9,8 @@ The opposite of [[Knowledge]]
 
 Some of the existing risks
 
-- Business
-- Social
+- [[Business]]
+- [[Society|Social]]
 - [[Technology|Tech]]
 - [[Cost]]
 - [[Time]]
