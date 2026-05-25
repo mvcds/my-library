@@ -1,4 +1,4 @@
-In the Shu state, you know all the rules and ways and you repeat them, as if they were steps on a choreography, so that your body can assimilate them. You don't divert.
+In the [[Shu ha ri|Shu]] state, you know all the rules and ways and you repeat them, as if they were steps on a choreography, so that your body can assimilate them. You don't divert.
 
 In the Ha state, once you have mastered all the ways, you can innovate, add a new step to the choreography.
 
