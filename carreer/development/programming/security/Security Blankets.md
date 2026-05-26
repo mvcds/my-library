@@ -12,7 +12,7 @@ When doing [[Information Security|Security]]
 - Don't trust [[Input]]
 - Secure by default
 - You can't secure what you don't understand
-- Keep secrets secr3ete
+- Keep [[Password|Secrets]] secrete
 - Security must be usable
 - Stay up to date
 - Use existing security solutions
