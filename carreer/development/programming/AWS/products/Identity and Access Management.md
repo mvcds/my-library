@@ -4,4 +4,4 @@ aliases:
   - IAM
 ---
 
-For long-term [[Amazon Web Services|AWS]] access, works by setting [[carreer/development/programming/AWS/Policy|Policies]] for each [[User]] or [[Group]]
+For long-term [[Amazon Web Services|AWS]] access, works by setting [[carreer/development/programming/AWS/Policy|Policies]] for each [[User]] or [[carreer/development/programming/AWS/Group|Group]]
