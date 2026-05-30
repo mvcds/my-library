@@ -5,4 +5,4 @@
 - Give examples
 - Put business case into perspective
 - Explore learning path and help [[team]] to understand leverage [[knowledge]]
-- [[carreer/development/programming/design-principles/domain-driven-design/Ubiquitous Language|Ubiquitous Language]]-like
+- [[domain-driven-design/concepts/Ubiquitous Language|Ubiquitous Language]]-like

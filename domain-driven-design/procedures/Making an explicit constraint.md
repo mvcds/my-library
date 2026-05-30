@@ -4,7 +4,7 @@ Firstly, this should be done when the [[domain-driven-design/concepts/domain-obj
 
 1. Does it require [[Data]] that does not fit the object otherwise?
 2. Are there related/duplicated/[[Inheritance|inheritance]] rules?
-3. [[carreer/development/programming/design-principles/domain-driven-design/Ubiquitous Language|Conversations]] revolve around constraint but these are hidden in [[Code]]
+3. [[domain-driven-design/concepts/Ubiquitous Language|Conversations]] revolve around constraint but these are hidden in [[Code]]
 
 # Steps
 

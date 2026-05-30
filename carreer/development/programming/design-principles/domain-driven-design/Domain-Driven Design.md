@@ -10,7 +10,7 @@ It's important to notice that a model is not absolute, each aspect of the [[Busi
 
 And that infrastructure should support the domain but not necessarelly be part of it (for instance being a [[Service in DDD|service]])
 
-[^1]: Check [[carreer/development/programming/design-principles/domain-driven-design/Ubiquitous Language|Ubiquitous Language]]
+[^1]: Check [[domain-driven-design/concepts/Ubiquitous Language|Ubiquitous Language]]
 
 [^2]: Check [[Software Design > Code Design]]
 
