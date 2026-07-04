@@ -2,7 +2,7 @@ One of the most common [[Three types of faults]]
 
 [[Human|Humans]] are not [[Reliability|reliable]] even when they have good intentions.[^1]
 
-Most of human faults have to do with misconfigurations. And they are [[Coupling|Decoupled]] from the [[Time]] and place from the [[designing-data-intensive-applications/concepts/three-types-of-faults/Failure|Failures]] they case, making it hard to see them but when we're training or managing.
+Most of human faults have to do with misconfigurations. And they are [[Coupling|Decoupled]] from the [[Time]] and place from the [[designing-data-intensive-applications/concepts/three-types-of-faults/Failure|Failures]] they cause, making it hard to see them but when we're training or managing.
 
 That's one of the reasons why having similarly configured [[environment|environments]] is important (sandboxes).
 
